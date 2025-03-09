@@ -38,5 +38,4 @@ mindmap
       Vite.js["Vite.js"]
       TailwindCSS["TailwindCSS"]
       Figma["Figma"]
-      AdobeXD["Adobe XD"]
 ```
