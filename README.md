@@ -25,6 +25,7 @@ mindmap
     Database
       PostgreSQL["🐘 PostgreSQL"]
       MSSQL["MS SQL"]
+      SQLite["SQLite"]
     DevOps
       GitHubActions["GitHub Actions"]
       Azure["Azure"]
