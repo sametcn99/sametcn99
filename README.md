@@ -1,10 +1,5 @@
 # Hello World!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sametcn99&show_icons=true&theme=dark)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sametcn99&theme=dark&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ```mermaid
 mindmap
   root((Tech Stack))
@@ -40,3 +35,7 @@ mindmap
       TailwindCSS["TailwindCSS"]
       Figma["Figma"]
 ```
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sametcn99&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sametcn99&theme=dark&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
