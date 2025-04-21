@@ -1,1 +1,1 @@
-[https://sametcc.me](https://sametcc.me)
+[sametcc.me](https://sametcc.me)
