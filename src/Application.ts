@@ -38,24 +38,28 @@ export class Application {
 
 	public async generate(): Promise<void> {
 		// 1. Fetch all data in parallel
-		const [recentPosts, reposData, eventsData, userProfile] = await Promise.all(
-			[
-				this.feedService.fetch(),
-				this.githubProvider.fetchRepositories(),
-				this.githubProvider.fetchEvents(),
-				this.githubProvider.fetchProfile(),
-			],
+		const recentPostsPromise = this.feedService.fetch();
+		const reposDataPromise = this.githubProvider.fetchRepositories();
+		const eventsDataPromise = this.githubProvider.fetchEvents();
+		const userProfilePromise = this.githubProvider.fetchProfile();
+
+		const userStatsPromise = this.githubProvider.fetchUserStats(
+			reposDataPromise,
+			userProfilePromise,
 		);
+
+		const [recentPosts, reposData, eventsData, userProfile, userStats] =
+			await Promise.all([
+				recentPostsPromise,
+				reposDataPromise,
+				eventsDataPromise,
+				userProfilePromise,
+				userStatsPromise,
+			]);
 
 		if (!userProfile) {
 			throw new Error("Failed to fetch user profile");
 		}
-
-		// User stats depends on repos data
-		const userStats = await this.githubProvider.fetchUserStats(
-			reposData,
-			userProfile,
-		);
 
 		// 2. Save data to JSON
 		console.log("Saving data to JSON...");

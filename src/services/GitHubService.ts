@@ -116,8 +116,8 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
-		private readonly reposData: Repository[],
-		private readonly userProfile: UserProfile,
+		private readonly reposDataPromise: Promise<Repository[]>,
+		private readonly userProfilePromise: Promise<UserProfile | null>,
 	) {}
 
 	async fetch(): Promise<UserStats> {
@@ -137,17 +137,8 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 			accountAge: "",
 		};
 
-		// User Profile Data
-		this.processUserProfile(stats);
-
-		// Stars from repos
-		stats.totalStars = this.reposData.reduce(
-			(acc, repo) => acc + (repo.stargazers_count || 0),
-			0,
-		);
-
-		// PRs, Issues, Commits, Contributions, Merged PRs, Reviewed PRs
-		await Promise.all([
+		// Start independent fetches immediately
+		const independentFetches = Promise.all([
 			this.fetchPRs(stats, username),
 			this.fetchIssues(stats, username),
 			this.fetchCommits(stats, username),
@@ -156,11 +147,30 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 			this.fetchReviewedPRs(stats, username),
 		]);
 
+		const [reposData, userProfile] = await Promise.all([
+			this.reposDataPromise,
+			this.userProfilePromise,
+		]);
+
+		if (!userProfile) {
+			throw new Error("Failed to fetch user profile for stats");
+		}
+
+		// User Profile Data
+		this.processUserProfile(stats, userProfile);
+
+		// Stars from repos
+		stats.totalStars = reposData.reduce(
+			(acc, repo) => acc + (repo.stargazers_count || 0),
+			0,
+		);
+
+		await independentFetches;
+
 		return stats;
 	}
 
-	private processUserProfile(stats: UserStats): void {
-		const userProfile = this.userProfile;
+	private processUserProfile(stats: UserStats, userProfile: UserProfile): void {
 		stats.totalRepos = userProfile.public_repos;
 		stats.totalGists = userProfile.public_gists;
 
@@ -299,8 +309,8 @@ export class GitHubDataProvider {
 	}
 
 	async fetchUserStats(
-		reposData: Repository[],
-		userProfile: UserProfile,
+		reposData: Promise<Repository[]>,
+		userProfile: Promise<UserProfile | null>,
 	): Promise<UserStats> {
 		const fetcher = new UserStatsFetcher(
 			this.service,

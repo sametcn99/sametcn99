@@ -58,7 +58,7 @@ jobs:
           FORCE="${{ github.event.inputs.force_update }}"
           
           # Check for changes (ignoring timestamp in README and data.json) or force update
-          if [ "$FORCE" != "true" ] && git diff -I "Last updated:" --quiet README.md && git diff -I "\"generatedAt\":" --quiet data.json; then
+          if [ "$FORCE" != "true" ] && git diff -I "Last updated:" --quiet README.md && git diff -I "\"generatedAt\":" -I "\"totalCommits\":" --quiet data.json; then
             echo "No significant changes to commit"
           else
             git add README.md data.json
