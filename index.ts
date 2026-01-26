@@ -15,6 +15,9 @@ type Feed = {
 type Repository =
 	RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
 
+type GitHubEvent =
+	RestEndpointMethodTypes["activity"]["listPublicEventsForUser"]["response"]["data"][number];
+
 class Application {
 	private readonly FEED_URL = "https://sametcc.me/feed.json";
 	private readonly TARGET_USERNAME = "sametcn99";
@@ -72,6 +75,146 @@ class Application {
 				const dateStr = date ? ` *(${date})*` : "";
 				content += `- [**${item.title}**](${item.url})${dateStr}<br />${summary}${this.addNewLine()}${this.addNewLine()}`;
 			}
+		}
+		return content;
+	}
+
+	private generateActivitySection(events: GitHubEvent[]): string {
+		let content = "";
+		if (events.length > 0) {
+			content += `## Latest Activity${this.addNewLine()}${this.addNewLine()}`;
+
+			// Filter out PushEvents (commits)
+			const filteredEvents = events.filter(event => event.type !== "PushEvent");
+
+			const recentEvents = filteredEvents.slice(0, 10);
+			const olderEvents = filteredEvents.slice(10);
+
+			// Helper function to format activity
+			const formatActivity = (event: GitHubEvent): string => {
+				const date = event.created_at
+					? new Date(event.created_at).toLocaleDateString("en-US", {
+							year: "numeric",
+							month: "short",
+							day: "numeric",
+							hour: "2-digit",
+							minute: "2-digit",
+						})
+					: "";
+
+				const repoName = event.repo.name;
+				const repoUrl = `https://github.com/${repoName}`;
+				let activity = "";
+
+				switch (event.type) {
+
+					case "CreateEvent":
+						if (event.payload && "ref_type" in event.payload) {
+							const refType = (event.payload as { ref_type?: string }).ref_type;
+							const ref = (event.payload as { ref?: string }).ref;
+							if (refType === "repository") {
+								activity = `Created repository [${repoName}](${repoUrl})`;
+							} else if (refType === "branch") {
+								activity = `Created branch \`${ref}\` in [${repoName}](${repoUrl})`;
+							} else if (refType === "tag") {
+								activity = `Created tag \`${ref}\` in [${repoName}](${repoUrl})`;
+							}
+						}
+						break;
+					case "DeleteEvent":
+						if (event.payload && "ref_type" in event.payload) {
+							const refType = (event.payload as { ref_type?: string }).ref_type;
+							const ref = (event.payload as { ref?: string }).ref;
+							activity = `Deleted ${refType} \`${ref}\` in [${repoName}](${repoUrl})`;
+						}
+						break;
+					case "IssuesEvent":
+						if (event.payload && "action" in event.payload && "issue" in event.payload) {
+							const action = (event.payload as { action?: string }).action;
+							const issue = (event.payload as { issue?: { number?: number; title?: string; html_url?: string } }).issue;
+							activity = `${action?.charAt(0).toUpperCase()}${action?.slice(1)} issue [#${issue?.number}](${issue?.html_url}) in [${repoName}](${repoUrl})`;
+						}
+						break;
+					case "IssueCommentEvent":
+						if (event.payload && "issue" in event.payload) {
+							const issue = (event.payload as { issue?: { number?: number; html_url?: string } }).issue;
+							activity = `Commented on issue [#${issue?.number}](${issue?.html_url}) in [${repoName}](${repoUrl})`;
+						}
+						break;
+					case "PullRequestEvent":
+						if (event.payload && "action" in event.payload && "pull_request" in event.payload) {
+							const action = (event.payload as { action?: string }).action;
+							const pr = (event.payload as { pull_request?: { number?: number; title?: string; html_url?: string } }).pull_request;
+							activity = `${action?.charAt(0).toUpperCase()}${action?.slice(1)} pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
+						}
+						break;
+					case "PullRequestReviewEvent":
+						if (event.payload && "pull_request" in event.payload) {
+							const pr = (event.payload as { pull_request?: { number?: number; html_url?: string } }).pull_request;
+							activity = `Reviewed pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
+						}
+						break;
+					case "PullRequestReviewCommentEvent":
+						if (event.payload && "pull_request" in event.payload) {
+							const pr = (event.payload as { pull_request?: { number?: number; html_url?: string } }).pull_request;
+							activity = `Commented on pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
+						}
+						break;
+					case "WatchEvent":
+						activity = `Starred [${repoName}](${repoUrl})`;
+						break;
+					case "ForkEvent":
+						if (event.payload && "forkee" in event.payload) {
+							const forkee = (event.payload as { forkee?: { full_name?: string; html_url?: string } }).forkee;
+							activity = `Forked [${repoName}](${repoUrl}) to [${forkee?.full_name}](${forkee?.html_url})`;
+						}
+						break;
+					case "ReleaseEvent":
+						if (event.payload && "release" in event.payload) {
+							const release = (event.payload as { release?: { tag_name?: string; html_url?: string } }).release;
+							activity = `Published release [${release?.tag_name}](${release?.html_url}) in [${repoName}](${repoUrl})`;
+						}
+						break;
+					case "MemberEvent":
+						if (event.payload && "action" in event.payload && "member" in event.payload) {
+							const member = (event.payload as { member?: { login?: string } }).member;
+							activity = `Added @${member?.login} as collaborator to [${repoName}](${repoUrl})`;
+						}
+						break;
+					default:
+						activity = `${event.type.replace("Event", "")} in [${repoName}](${repoUrl})`;
+				}
+
+				if (activity) {
+					return `- **${activity}** *(${date})*`;
+				}
+				return "";
+			};
+
+			// Display recent 10 activities
+			for (const event of recentEvents) {
+				const formattedActivity = formatActivity(event);
+				if (formattedActivity) {
+					content += `${formattedActivity}${this.addNewLine()}`;
+				}
+			}
+
+			// Display older activities in collapsible section
+			if (olderEvents.length > 0) {
+				content += `${this.addNewLine()}<details>${this.addNewLine()}`;
+				content += `<summary>Show ${olderEvents.length} more activities...</summary>${this.addNewLine()}${this.addNewLine()}`;
+				
+				for (const event of olderEvents) {
+					const formattedActivity = formatActivity(event);
+					if (formattedActivity) {
+						content += `${formattedActivity}${this.addNewLine()}`;
+					}
+				}
+				
+				content += `${this.addNewLine()}</details>${this.addNewLine()}`;
+			}
+
+			content += this.addNewLine();
 		}
 		return content;
 	}
@@ -252,6 +395,7 @@ class Application {
 		let content = "";
 		content += `#### Table of Contents${this.addNewLine()}${this.addNewLine()}`;
 		content += `- [Latest Content](#latest-content)${this.addNewLine()}`;
+		content += `- [Latest Activity](#latest-activity)${this.addNewLine()}`;
 		content += `- [Statistics](#statistics)${this.addNewLine()}`;
 		content += `  - [Languages](#languages)${this.addNewLine()}`;
 		content += `  - [Repositories Created per Year](#repositories-created-per-year)${this.addNewLine()}`;
@@ -307,10 +451,41 @@ class Application {
 		return reposData;
 	}
 
+	private async fetchEvents(): Promise<GitHubEvent[]> {
+		console.log(`Fetching events for ${this.TARGET_USERNAME}...`);
+		let eventsData: GitHubEvent[] = [];
+		try {
+			// GitHub API returns max 300 events (last 90 days), fetch all 3 pages
+			for (let page = 1; page <= 3; page++) {
+				try {
+					const { data } = await this.octokit.rest.activity.listPublicEventsForUser({
+						username: this.TARGET_USERNAME,
+						per_page: 100,
+						page: page,
+					});
+					if (data.length > 0) {
+						eventsData = [...eventsData, ...data];
+					} else {
+						// No more events available
+						break;
+					}
+				} catch (error) {
+					console.error(`Error fetching page ${page}:`, error);
+					break;
+				}
+			}
+			console.log(`Total events fetched: ${eventsData.length}`);
+		} catch (error) {
+			console.error("Error fetching events:", error);
+		}
+		return eventsData;
+	}
+
 	public async generate() {
 		// 1. Fetch Data
 		const recentPosts = await this.fetchFeed();
 		const reposData = await this.fetchRepos();
+		const eventsData = await this.fetchEvents();
 
 		// 2. Generate Markdown
 		console.log("Generating README.md...");
@@ -322,6 +497,9 @@ class Application {
 
 		// Website Section
 		content += this.generateWebsiteSection(recentPosts);
+
+		// Activity Section
+		content += this.generateActivitySection(eventsData);
 
 		// Statistics Section
 		content += this.generateStatisticsSection(reposData);
