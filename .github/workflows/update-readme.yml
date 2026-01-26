@@ -5,6 +5,12 @@ on:
     branches:
       - main
   workflow_dispatch:
+    inputs:
+      force_update:
+        description: 'Force update'
+        required: false
+        default: false
+        type: boolean
   schedule:
     - cron: "0 0,12 * * *"
 
@@ -49,8 +55,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Check for changes ignoring the "Last updated" line
-          if git diff -I "Last updated:" --quiet README.md; then
+          FORCE="${{ github.event.inputs.force_update }}"
+          
+          # Check for changes (ignoring timestamp in README and data.json) or force update
+          if [ "$FORCE" != "true" ] && git diff -I "Last updated:" --quiet README.md && git diff -I "\"generatedAt\":" --quiet data.json; then
             echo "No significant changes to commit"
           else
             git add README.md data.json

@@ -38,12 +38,14 @@ export class Application {
 
 	public async generate(): Promise<void> {
 		// 1. Fetch all data in parallel
-		const [recentPosts, reposData, eventsData, userProfile] = await Promise.all([
-			this.feedService.fetch(),
-			this.githubProvider.fetchRepositories(),
-			this.githubProvider.fetchEvents(),
-			this.githubProvider.fetchProfile(),
-		]);
+		const [recentPosts, reposData, eventsData, userProfile] = await Promise.all(
+			[
+				this.feedService.fetch(),
+				this.githubProvider.fetchRepositories(),
+				this.githubProvider.fetchEvents(),
+				this.githubProvider.fetchProfile(),
+			],
+		);
 
 		if (!userProfile) {
 			throw new Error("Failed to fetch user profile");
