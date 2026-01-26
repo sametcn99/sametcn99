@@ -253,6 +253,9 @@ class Application {
 		content += `#### Table of Contents${this.addNewLine()}${this.addNewLine()}`;
 		content += `- [Latest Content](#latest-content)${this.addNewLine()}`;
 		content += `- [Statistics](#statistics)${this.addNewLine()}`;
+		content += `  - [Languages](#languages)${this.addNewLine()}`;
+		content += `  - [Repositories Created per Year](#repositories-created-per-year)${this.addNewLine()}`;
+		content += `  - [Repository Distribution](#repository-distribution)${this.addNewLine()}`;
 		content += `- [Repositories](#repositories)${this.addNewLine()}`;
 		content += `  - [Active Repositories](#active-repositories)${this.addNewLine()}`;
 		content += `  - [Forked Repositories](#forked-repositories)${this.addNewLine()}`;
