@@ -84,8 +84,8 @@ class Application {
 		if (events.length > 0) {
 			content += `## Latest Activity${this.addNewLine()}${this.addNewLine()}`;
 
-			// Filter out PushEvents (commits)
-			const filteredEvents = events.filter(event => event.type !== "PushEvent");
+			// Filter out PushEvents (commits) and skip events with null type
+			const filteredEvents = events.filter(event => event.type && event.type !== "PushEvent");
 
 			const recentEvents = filteredEvents.slice(0, 10);
 			const olderEvents = filteredEvents.slice(10);
@@ -106,7 +106,9 @@ class Application {
 				const repoUrl = `https://github.com/${repoName}`;
 				let activity = "";
 
-				switch (event.type) {
+				const eventType = event.type ?? "";
+
+				switch (eventType) {
 
 					case "CreateEvent":
 						if (event.payload && "ref_type" in event.payload) {
@@ -182,7 +184,7 @@ class Application {
 						}
 						break;
 					default:
-						activity = `${event.type.replace("Event", "")} in [${repoName}](${repoUrl})`;
+						activity = `${eventType.replace("Event", "")} in [${repoName}](${repoUrl})`;
 				}
 
 				if (activity) {
