@@ -90,11 +90,34 @@ export class EventFetcher implements IDataFetcher<GitHubEvent[]> {
 	}
 }
 
+export class ProfileFetcher implements IDataFetcher<UserProfile | null> {
+	constructor(
+		private readonly service: GitHubService,
+		private readonly octokit: Octokit,
+	) {}
+
+	async fetch(): Promise<UserProfile | null> {
+		const username = this.service.getUsername();
+		console.log(`Fetching profile for ${username}...`);
+
+		try {
+			const { data } = await this.octokit.rest.users.getByUsername({
+				username,
+			});
+			return data;
+		} catch (error) {
+			console.error("Error fetching user profile:", error);
+			return null;
+		}
+	}
+}
+
 export class UserStatsFetcher implements IDataFetcher<UserStats> {
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
 		private readonly reposData: Repository[],
+		private readonly userProfile: UserProfile,
 	) {}
 
 	async fetch(): Promise<UserStats> {
@@ -115,7 +138,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		};
 
 		// User Profile Data
-		await this.fetchUserProfile(stats, username);
+		this.processUserProfile(stats);
 
 		// Stars from repos
 		stats.totalStars = this.reposData.reduce(
@@ -136,25 +159,16 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		return stats;
 	}
 
-	private async fetchUserProfile(
-		stats: UserStats,
-		username: string,
-	): Promise<void> {
-		try {
-			const { data: userProfile } = await this.octokit.rest.users.getByUsername(
-				{ username },
-			);
-			stats.totalRepos = userProfile.public_repos;
-			stats.totalGists = userProfile.public_gists;
+	private processUserProfile(stats: UserStats): void {
+		const userProfile = this.userProfile;
+		stats.totalRepos = userProfile.public_repos;
+		stats.totalGists = userProfile.public_gists;
 
-			const createdAt = new Date(userProfile.created_at);
-			const now = new Date();
-			const diffTime = Math.abs(now.getTime() - createdAt.getTime());
-			const years = Math.floor(diffTime / (1000 * 60 * 60 * 24 * 365));
-			stats.accountAge = `${years} years`;
-		} catch (error) {
-			console.error("Error fetching user profile:", error);
-		}
+		const createdAt = new Date(userProfile.created_at);
+		const now = new Date();
+		const diffTime = Math.abs(now.getTime() - createdAt.getTime());
+		const years = Math.floor(diffTime / (1000 * 60 * 60 * 24 * 365));
+		stats.accountAge = `${years} years`;
 	}
 
 	private async fetchPRs(stats: UserStats, username: string): Promise<void> {
@@ -279,8 +293,21 @@ export class GitHubDataProvider {
 		return fetcher.fetch();
 	}
 
-	async fetchUserStats(reposData: Repository[]): Promise<UserStats> {
-		const fetcher = new UserStatsFetcher(this.service, this.octokit, reposData);
+	async fetchProfile(): Promise<UserProfile | null> {
+		const fetcher = new ProfileFetcher(this.service, this.octokit);
+		return fetcher.fetch();
+	}
+
+	async fetchUserStats(
+		reposData: Repository[],
+		userProfile: UserProfile,
+	): Promise<UserStats> {
+		const fetcher = new UserStatsFetcher(
+			this.service,
+			this.octokit,
+			reposData,
+			userProfile,
+		);
 		return fetcher.fetch();
 	}
 }

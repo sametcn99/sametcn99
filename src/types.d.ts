@@ -32,6 +32,9 @@ declare global {
 	type GitHubEvent =
 		RestEndpointMethodTypes["activity"]["listPublicEventsForUser"]["response"]["data"][number];
 
+	type UserProfile =
+		RestEndpointMethodTypes["users"]["getByUsername"]["response"]["data"];
+
 	interface ISectionGenerator {
 		generate(): string;
 	}
@@ -39,4 +42,13 @@ declare global {
 	interface IDataFetcher<T> {
 		fetch(): Promise<T>;
 	}
+
+	type ProfileData = {
+		generatedAt: string;
+		userStats: UserStats;
+		userProfile: UserProfile;
+		recentPosts: FeedItem[];
+		repositories: Repository[];
+		events: GitHubEvent[];
+	};
 }

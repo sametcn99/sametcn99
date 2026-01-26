@@ -14,6 +14,7 @@ interface ApplicationConfig {
 	feedUrl: string;
 	username: string;
 	outputPath: string;
+	dataPath: string;
 }
 
 export class Application {
@@ -28,6 +29,7 @@ export class Application {
 			feedUrl: config?.feedUrl ?? "https://sametcc.me/feed.json",
 			username: config?.username ?? "sametcn99",
 			outputPath: config?.outputPath ?? "README.md",
+			dataPath: config?.dataPath ?? "data.json",
 		};
 
 		this.githubProvider = new GitHubDataProvider(this.config.username, token);
@@ -36,16 +38,37 @@ export class Application {
 
 	public async generate(): Promise<void> {
 		// 1. Fetch all data in parallel
-		const [recentPosts, reposData, eventsData] = await Promise.all([
+		const [recentPosts, reposData, eventsData, userProfile] = await Promise.all([
 			this.feedService.fetch(),
 			this.githubProvider.fetchRepositories(),
 			this.githubProvider.fetchEvents(),
+			this.githubProvider.fetchProfile(),
 		]);
 
-		// User stats depends on repos data
-		const userStats = await this.githubProvider.fetchUserStats(reposData);
+		if (!userProfile) {
+			throw new Error("Failed to fetch user profile");
+		}
 
-		// 2. Build section generators
+		// User stats depends on repos data
+		const userStats = await this.githubProvider.fetchUserStats(
+			reposData,
+			userProfile,
+		);
+
+		// 2. Save data to JSON
+		console.log("Saving data to JSON...");
+		const data: ProfileData = {
+			generatedAt: new Date().toISOString(),
+			userStats,
+			userProfile,
+			recentPosts,
+			repositories: reposData,
+			events: eventsData,
+		};
+		await Bun.write(this.config.dataPath, JSON.stringify(data, null, 2));
+		console.log(`${this.config.dataPath} updated successfully!`);
+
+		// 3. Build section generators
 		const generators: ISectionGenerator[] = [
 			new TOCGenerator(),
 			new WebsiteSectionGenerator(recentPosts),
@@ -56,11 +79,11 @@ export class Application {
 			new FooterGenerator(),
 		];
 
-		// 3. Generate content
+		// 4. Generate content
 		console.log("Generating README.md...");
 		const content = generators.map((gen) => gen.generate()).join("");
 
-		// 4. Write output
+		// 5. Write output
 		await Bun.write(this.config.outputPath, content);
 		console.log(`${this.config.outputPath} updated successfully!`);
 	}
