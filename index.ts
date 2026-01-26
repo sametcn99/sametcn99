@@ -12,6 +12,19 @@ type Feed = {
 	items: FeedItem[];
 };
 
+type UserStats = {
+	totalStars: number;
+	totalCommits: number;
+	totalPRs: number;
+	totalIssues: number;
+	contributedTo: number;
+	totalRepos: number;
+	totalGists: number;
+	mergedPRs: number;
+	reviewedPRs: number;
+	accountAge: string;
+};
+
 type Repository =
 	RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
 
@@ -286,9 +299,28 @@ class Application {
 		return content;
 	}
 
-	private generateStatisticsSection(reposData: Repository[]): string {
+	private generateStatisticsSection(
+		reposData: Repository[],
+		stats: UserStats,
+	): string {
 		let content = "";
 		content += `## Statistics${this.addNewLine()}${this.addNewLine()}`;
+
+		// 0. GitHub Stats Table
+		content += `### GitHub Stats${this.addNewLine()}${this.addNewLine()}`;
+		content += `| Metric | Count |${this.addNewLine()}`;
+		content += `| :--- | :--- |${this.addNewLine()}`;
+		content += `| Total Repositories | ${stats.totalRepos} |${this.addNewLine()}`;
+		content += `| Total Gists | ${stats.totalGists} |${this.addNewLine()}`;
+		content += `| Total Stars Earned | ${stats.totalStars} |${this.addNewLine()}`;
+		content += `| Total Commits (Last Year) | ${stats.totalCommits} |${this.addNewLine()}`;
+		content += `| Total PRs | ${stats.totalPRs} |${this.addNewLine()}`;
+		content += `| Merged PRs | ${stats.mergedPRs} |${this.addNewLine()}`;
+		content += `| Reviewed PRs | ${stats.reviewedPRs} |${this.addNewLine()}`;
+		content += `| Total Issues | ${stats.totalIssues} |${this.addNewLine()}`;
+		content += `| Contributed to (Last Year) | ${stats.contributedTo} |${this.addNewLine()}`;
+		content += `| Account Age | ${stats.accountAge} |${this.addNewLine()}`;
+		content += this.addNewLine();
 
 		const nonForked = reposData.filter((r) => !r.fork);
 
@@ -464,6 +496,7 @@ class Application {
 		content += `- [Latest Content](#latest-content)${this.addNewLine()}`;
 		content += `- [Latest Activity](#latest-activity)${this.addNewLine()}`;
 		content += `- [Statistics](#statistics)${this.addNewLine()}`;
+		content += `  - [GitHub Stats](#github-stats)${this.addNewLine()}`;
 		content += `  - [Languages](#languages)${this.addNewLine()}`;
 		content += `  - [Repositories Created per Year](#repositories-created-per-year)${this.addNewLine()}`;
 		content += `  - [Repository Distribution](#repository-distribution)${this.addNewLine()}`;
@@ -474,6 +507,145 @@ class Application {
 		content += `- [Contact](#contact)${this.addNewLine()}`;
 		content += this.addNewLine();
 		return content;
+	}
+
+	private async fetchUserStats(reposData: Repository[]): Promise<UserStats> {
+		console.log(`Fetching user stats for ${this.TARGET_USERNAME}...`);
+		let totalStars = 0;
+		let totalCommits = 0;
+		let totalPRs = 0;
+		let totalIssues = 0;
+		let contributedTo = 0;
+		let totalRepos = 0;
+		let totalGists = 0;
+		let mergedPRs = 0;
+		let reviewedPRs = 0;
+		let accountAge = "";
+
+		// 0. User Profile Data
+		try {
+			const { data: userProfile } = await this.octokit.rest.users.getByUsername(
+				{
+					username: this.TARGET_USERNAME,
+				},
+			);
+			totalRepos = userProfile.public_repos;
+			totalGists = userProfile.public_gists;
+
+			const createdAt = new Date(userProfile.created_at);
+			const now = new Date();
+			const diffTime = Math.abs(now.getTime() - createdAt.getTime());
+			const years = Math.floor(diffTime / (1000 * 60 * 60 * 24 * 365));
+			accountAge = `${years} years`;
+		} catch (error) {
+			console.error("Error fetching user profile:", error);
+		}
+
+		// 1. Stars
+		totalStars = reposData.reduce(
+			(acc, repo) => acc + (repo.stargazers_count || 0),
+			0,
+		);
+
+		// 2. PRs
+		try {
+			const { data: prs } =
+				await this.octokit.rest.search.issuesAndPullRequests({
+					q: `author:${this.TARGET_USERNAME} type:pr`,
+				});
+			totalPRs = prs.total_count;
+		} catch (error) {
+			console.error("Error fetching PRs stats:", error);
+		}
+
+		// 3. Issues
+		try {
+			const { data: issues } =
+				await this.octokit.rest.search.issuesAndPullRequests({
+					q: `author:${this.TARGET_USERNAME} type:issue`,
+				});
+			totalIssues = issues.total_count;
+		} catch (error) {
+			console.error("Error fetching Issues stats:", error);
+		}
+
+		// 4. Commits (Last Year)
+		try {
+			const oneYearAgo = new Date();
+			oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+			const dateStr = oneYearAgo.toISOString().split("T")[0];
+
+			// Using explicit request for search/commits as it might be preview-only or typed differently
+			const { data: commits } = await this.octokit.request(
+				"GET /search/commits",
+				{
+					q: `author:${this.TARGET_USERNAME} committer-date:>${dateStr}`,
+					mediaType: {
+						previews: ["cloak"],
+					},
+				},
+			);
+			totalCommits = commits.total_count;
+		} catch (error) {
+			console.error("Error fetching Commits stats:", error);
+		}
+
+		// 5. Contributed To (Last Year)
+		try {
+			const oneYearAgo = new Date();
+			oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+			const dateStr = oneYearAgo.toISOString().split("T")[0];
+
+			const { data: contribPrs } =
+				await this.octokit.rest.search.issuesAndPullRequests({
+					q: `author:${this.TARGET_USERNAME} type:pr -user:${this.TARGET_USERNAME} created:>${dateStr}`,
+					per_page: 100,
+				});
+
+			const uniqueRepos = new Set(
+				contribPrs.items
+					.map((item) => item.repository_url)
+					.filter((url) => url),
+			);
+			contributedTo = uniqueRepos.size;
+		} catch (error) {
+			console.error("Error fetching Contribution stats:", error);
+		}
+
+		// 6. Merged PRs
+		try {
+			const { data: mergedData } =
+				await this.octokit.rest.search.issuesAndPullRequests({
+					q: `author:${this.TARGET_USERNAME} is:pr is:merged`,
+				});
+			mergedPRs = mergedData.total_count;
+		} catch (error) {
+			console.error("Error fetching Merged PRs stats:", error);
+		}
+
+		// 7. Reviewed PRs
+		try {
+			const { data: reviewedData } =
+				await this.octokit.rest.search.issuesAndPullRequests({
+					q: `reviewer:${this.TARGET_USERNAME} is:pr`,
+				});
+			reviewedPRs = reviewedData.total_count;
+		} catch (error) {
+			console.error("Error fetching Reviewed PRs stats:", error);
+		}
+
+		return {
+			totalStars,
+			totalCommits,
+			totalPRs,
+			totalIssues,
+			contributedTo,
+			totalRepos,
+			totalGists,
+			mergedPRs,
+			reviewedPRs,
+			accountAge,
+		};
 	}
 
 	private async fetchFeed(): Promise<FeedItem[]> {
@@ -554,6 +726,7 @@ class Application {
 		const recentPosts = await this.fetchFeed();
 		const reposData = await this.fetchRepos();
 		const eventsData = await this.fetchEvents();
+		const userStats = await this.fetchUserStats(reposData);
 
 		// 2. Generate Markdown
 		console.log("Generating README.md...");
@@ -570,7 +743,7 @@ class Application {
 		content += this.generateActivitySection(eventsData);
 
 		// Statistics Section
-		content += this.generateStatisticsSection(reposData);
+		content += this.generateStatisticsSection(reposData, userStats);
 
 		// Repos Section
 		content += this.generateReposSection(reposData);
