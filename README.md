@@ -3,6 +3,7 @@
 - [Latest Content](#latest-content)
 - [Latest Activity](#latest-activity)
 - [Statistics](#statistics)
+  - [GitHub Stats](#github-stats)
   - [Languages](#languages)
   - [Repositories Created per Year](#repositories-created-per-year)
   - [Repository Distribution](#repository-distribution)
@@ -126,6 +127,21 @@
 
 ## Statistics
 
+### GitHub Stats
+
+| Metric | Count |
+| :--- | :--- |
+| Total Repositories | 57 |
+| Total Gists | 53 |
+| Total Stars Earned | 179 |
+| Total Commits (Last Year) | 735 |
+| Total PRs | 18 |
+| Merged PRs | 15 |
+| Reviewed PRs | 0 |
+| Total Issues | 9 |
+| Contributed to (Last Year) | 5 |
+| Account Age | 6 years |
+
 ### Languages
 
 ```mermaid
@@ -190,7 +206,7 @@ pie showData
 | [dotfiles](https://sametcc.me/repo/dotfiles) ★1 - Shell | No description provided. | 10/16/2025<br />10/16/2025 |
 | [sql-query-safety-checker](https://sametcc.me/repo/sql-query-safety-checker) ★1 - TypeScript | A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution. | 06/11/2025<br />06/19/2025 |
 | [ResumeBuilderMAUI](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C# | I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed. | 06/04/2024<br />06/11/2024 |
-| [sametcn99](https://sametcc.me/repo/sametcn99) - TypeScript | No description provided. | 01/25/2026<br />01/26/2026 |
+| [sametcn99](https://sametcc.me/repo/sametcn99) - TypeScript | automated profile readme | 01/25/2026<br />01/26/2026 |
 | [golter-web](https://sametcc.me/repo/golter-web) - TypeScript | golter landing page | 01/17/2026<br />01/18/2026 |
 | [golter](https://sametcc.me/repo/golter) - Go | Terminal-based file converter built with Go | 01/16/2026<br />01/18/2026 |
 | [orhan-elektronik](https://sametcc.me/repo/orhan-elektronik) - TypeScript | No description provided. | 01/01/2025<br />01/04/2026 |
@@ -246,4 +262,4 @@ pie showData
 ---
 
 Auto-generated<br />
-Last updated: Mon, 26 Jan 2026 01:57:49 GMT
+Last updated: Mon, 26 Jan 2026 02:17:08 GMT
