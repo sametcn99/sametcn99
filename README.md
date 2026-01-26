@@ -2,6 +2,9 @@
 
 - [Latest Content](#latest-content)
 - [Statistics](#statistics)
+  - [Languages](#languages)
+  - [Repositories Created per Year](#repositories-created-per-year)
+  - [Repository Distribution](#repository-distribution)
 - [Repositories](#repositories)
   - [Active Repositories](#active-repositories)
   - [Forked Repositories](#forked-repositories)
@@ -152,4 +155,4 @@ pie showData
 ---
 
 Auto-generated<br />
-Last updated: Mon, 26 Jan 2026 01:16:27 GMT
+Last updated: Mon, 26 Jan 2026 01:19:02 GMT
