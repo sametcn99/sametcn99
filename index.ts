@@ -58,13 +58,15 @@ class Application {
 		let content = "";
 		if (recentPosts.length > 0) {
 			content += `## Latest Content${this.addNewLine()}${this.addNewLine()}`;
-			for (const item of recentPosts) {
-				// Clean up summary if it's too long or has newlines
+
+			const topPosts = recentPosts.slice(0, 10);
+			const olderPosts = recentPosts.slice(10);
+
+			const formatPost = (item: FeedItem): string => {
 				const summary = item.summary
 					? item.summary.replace(/\n/g, " ").slice(0, 100) +
 						(item.summary.length > 100 ? "..." : "")
 					: "";
-				// Format date if available
 				const date = item.date_published
 					? new Date(item.date_published).toLocaleDateString("en-US", {
 							year: "numeric",
@@ -73,7 +75,22 @@ class Application {
 						})
 					: "";
 				const dateStr = date ? ` *(${date})*` : "";
-				content += `- [**${item.title}**](${item.url})${dateStr}<br />${summary}${this.addNewLine()}${this.addNewLine()}`;
+				return `- [**${item.title}**](${item.url})${dateStr}<br />${summary}`;
+			};
+
+			for (const item of topPosts) {
+				content += `${formatPost(item)}${this.addNewLine()}${this.addNewLine()}`;
+			}
+
+			if (olderPosts.length > 0) {
+				content += `<details>${this.addNewLine()}`;
+				content += `<summary>Show ${olderPosts.length} more posts...</summary>${this.addNewLine()}${this.addNewLine()}`;
+
+				for (const item of olderPosts) {
+					content += `${formatPost(item)}${this.addNewLine()}${this.addNewLine()}`;
+				}
+
+				content += `</details>${this.addNewLine()}${this.addNewLine()}`;
 			}
 		}
 		return content;
@@ -468,7 +485,7 @@ class Application {
 				throw new Error(`Failed to fetch feed: ${feedRes.statusText}`);
 			}
 			const feed = (await feedRes.json()) as Feed;
-			recentPosts = feed.items.slice(0, 10);
+			recentPosts = feed.items;
 		} catch (error) {
 			console.error("Error fetching feed:", error);
 		}
