@@ -85,7 +85,9 @@ class Application {
 			content += `## Latest Activity${this.addNewLine()}${this.addNewLine()}`;
 
 			// Filter out PushEvents (commits) and skip events with null type
-			const filteredEvents = events.filter(event => event.type && event.type !== "PushEvent");
+			const filteredEvents = events.filter(
+				(event) => event.type && event.type !== "PushEvent",
+			);
 
 			const recentEvents = filteredEvents.slice(0, 10);
 			const olderEvents = filteredEvents.slice(10);
@@ -97,8 +99,6 @@ class Application {
 							year: "numeric",
 							month: "short",
 							day: "numeric",
-							hour: "2-digit",
-							minute: "2-digit",
 						})
 					: "";
 
@@ -109,7 +109,6 @@ class Application {
 				const eventType = event.type ?? "";
 
 				switch (eventType) {
-
 					case "CreateEvent":
 						if (event.payload && "ref_type" in event.payload) {
 							const refType = (event.payload as { ref_type?: string }).ref_type;
@@ -131,34 +130,70 @@ class Application {
 						}
 						break;
 					case "IssuesEvent":
-						if (event.payload && "action" in event.payload && "issue" in event.payload) {
+						if (
+							event.payload &&
+							"action" in event.payload &&
+							"issue" in event.payload
+						) {
 							const action = (event.payload as { action?: string }).action;
-							const issue = (event.payload as { issue?: { number?: number; title?: string; html_url?: string } }).issue;
+							const issue = (
+								event.payload as {
+									issue?: {
+										number?: number;
+										title?: string;
+										html_url?: string;
+									};
+								}
+							).issue;
 							activity = `${action?.charAt(0).toUpperCase()}${action?.slice(1)} issue [#${issue?.number}](${issue?.html_url}) in [${repoName}](${repoUrl})`;
 						}
 						break;
 					case "IssueCommentEvent":
 						if (event.payload && "issue" in event.payload) {
-							const issue = (event.payload as { issue?: { number?: number; html_url?: string } }).issue;
+							const issue = (
+								event.payload as {
+									issue?: { number?: number; html_url?: string };
+								}
+							).issue;
 							activity = `Commented on issue [#${issue?.number}](${issue?.html_url}) in [${repoName}](${repoUrl})`;
 						}
 						break;
 					case "PullRequestEvent":
-						if (event.payload && "action" in event.payload && "pull_request" in event.payload) {
+						if (
+							event.payload &&
+							"action" in event.payload &&
+							"pull_request" in event.payload
+						) {
 							const action = (event.payload as { action?: string }).action;
-							const pr = (event.payload as { pull_request?: { number?: number; title?: string; html_url?: string } }).pull_request;
+							const pr = (
+								event.payload as {
+									pull_request?: {
+										number?: number;
+										title?: string;
+										html_url?: string;
+									};
+								}
+							).pull_request;
 							activity = `${action?.charAt(0).toUpperCase()}${action?.slice(1)} pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
 						}
 						break;
 					case "PullRequestReviewEvent":
 						if (event.payload && "pull_request" in event.payload) {
-							const pr = (event.payload as { pull_request?: { number?: number; html_url?: string } }).pull_request;
+							const pr = (
+								event.payload as {
+									pull_request?: { number?: number; html_url?: string };
+								}
+							).pull_request;
 							activity = `Reviewed pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
 						}
 						break;
 					case "PullRequestReviewCommentEvent":
 						if (event.payload && "pull_request" in event.payload) {
-							const pr = (event.payload as { pull_request?: { number?: number; html_url?: string } }).pull_request;
+							const pr = (
+								event.payload as {
+									pull_request?: { number?: number; html_url?: string };
+								}
+							).pull_request;
 							activity = `Commented on pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
 						}
 						break;
@@ -167,19 +202,32 @@ class Application {
 						break;
 					case "ForkEvent":
 						if (event.payload && "forkee" in event.payload) {
-							const forkee = (event.payload as { forkee?: { full_name?: string; html_url?: string } }).forkee;
+							const forkee = (
+								event.payload as {
+									forkee?: { full_name?: string; html_url?: string };
+								}
+							).forkee;
 							activity = `Forked [${repoName}](${repoUrl}) to [${forkee?.full_name}](${forkee?.html_url})`;
 						}
 						break;
 					case "ReleaseEvent":
 						if (event.payload && "release" in event.payload) {
-							const release = (event.payload as { release?: { tag_name?: string; html_url?: string } }).release;
+							const release = (
+								event.payload as {
+									release?: { tag_name?: string; html_url?: string };
+								}
+							).release;
 							activity = `Published release [${release?.tag_name}](${release?.html_url}) in [${repoName}](${repoUrl})`;
 						}
 						break;
 					case "MemberEvent":
-						if (event.payload && "action" in event.payload && "member" in event.payload) {
-							const member = (event.payload as { member?: { login?: string } }).member;
+						if (
+							event.payload &&
+							"action" in event.payload &&
+							"member" in event.payload
+						) {
+							const member = (event.payload as { member?: { login?: string } })
+								.member;
 							activity = `Added @${member?.login} as collaborator to [${repoName}](${repoUrl})`;
 						}
 						break;
@@ -205,14 +253,14 @@ class Application {
 			if (olderEvents.length > 0) {
 				content += `${this.addNewLine()}<details>${this.addNewLine()}`;
 				content += `<summary>Show ${olderEvents.length} more activities...</summary>${this.addNewLine()}${this.addNewLine()}`;
-				
+
 				for (const event of olderEvents) {
 					const formattedActivity = formatActivity(event);
 					if (formattedActivity) {
 						content += `${formattedActivity}${this.addNewLine()}`;
 					}
 				}
-				
+
 				content += `${this.addNewLine()}</details>${this.addNewLine()}`;
 			}
 
@@ -460,11 +508,12 @@ class Application {
 			// GitHub API returns max 300 events (last 90 days), fetch all 3 pages
 			for (let page = 1; page <= 3; page++) {
 				try {
-					const { data } = await this.octokit.rest.activity.listPublicEventsForUser({
-						username: this.TARGET_USERNAME,
-						per_page: 100,
-						page: page,
-					});
+					const { data } =
+						await this.octokit.rest.activity.listPublicEventsForUser({
+							username: this.TARGET_USERNAME,
+							per_page: 100,
+							page: page,
+						});
 					if (data.length > 0) {
 						eventsData = [...eventsData, ...data];
 					} else {
