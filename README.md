@@ -68,6 +68,7 @@
 
 ## Latest Activity
 
+- **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** *(Sep 7, 2023)*
 - **Starred [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills)** *(Jan 26, 2026)*
 - **Created branch `main` in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** *(Jan 26, 2026)*
 - **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** *(Jan 25, 2026)*
@@ -77,11 +78,11 @@
 - **Starred [barats/resizem](https://github.com/barats/resizem)** *(Jan 22, 2026)*
 - **Starred [wailsapp/wails](https://github.com/wailsapp/wails)** *(Jan 22, 2026)*
 - **Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** *(Jan 22, 2026)*
-- **Starred [sametirkoren/pharmacy-scraper](https://github.com/sametirkoren/pharmacy-scraper)** *(Jan 20, 2026)*
 
 <details>
-<summary>Show 41 more activities...</summary>
+<summary>Show 43 more activities...</summary>
 
+- **Starred [sametirkoren/pharmacy-scraper](https://github.com/sametirkoren/pharmacy-scraper)** *(Jan 20, 2026)*
 - **Starred [sametirkoren/pharmacy-on-duty](https://github.com/sametirkoren/pharmacy-on-duty)** *(Jan 20, 2026)*
 - **Starred [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm)** *(Jan 18, 2026)*
 - **Published release [0.1.3](https://github.com/sametcn99/golter/releases/tag/0.1.3) in [sametcn99/golter](https://github.com/sametcn99/golter)** *(Jan 18, 2026)*
@@ -99,6 +100,7 @@
 - **Assigned issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** *(Jan 13, 2026)*
 - **Labeled issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** *(Jan 13, 2026)*
 - **Commented on issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** *(Jan 13, 2026)*
+- **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** *(Sep 7, 2023)*
 - **Published release [1.0.12](https://github.com/sametcn99/env-protector/releases/tag/1.0.12) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** *(Jan 12, 2026)*
 - **Deleted tag `1.0.11` in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** *(Jan 12, 2026)*
 - **Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** *(Jan 11, 2026)*
@@ -132,12 +134,12 @@
 
 | Metric | Count |
 | :--- | :--- |
-| Total Repositories | 57 |
+| Total Repositories | 58 |
 | Total Gists | 53 |
 | Total Stars Earned | 179 |
-| Total Commits (Last Year) | 700+ |
-| Total PRs | 18 |
-| Merged PRs | 15 |
+| Total Commits (Last Year) | 1000+ |
+| Total PRs | 19 |
+| Merged PRs | 16 |
 | Reviewed PRs | 0 |
 | Total Issues | 9 |
 | Contributed to (Last Year) | 5 |
@@ -155,6 +157,7 @@ pie showData
     "Vue" : 1
     "PowerShell" : 1
     "Shell" : 1
+    "MDX" : 1
     "Go" : 1
     "Python" : 1
 ```
@@ -166,7 +169,7 @@ xychart-beta
     title Repositories per Year
     x-axis [2022, 2023, 2024, 2025, 2026]
     y-axis "Count" 0 --> 22
-    bar [1, 10, 21, 18, 4]
+    bar [1, 11, 21, 18, 4]
 ```
 
 ### Repository Distribution
@@ -174,7 +177,7 @@ xychart-beta
 ```mermaid
 pie showData
     title Repository Status
-    "Active" : 28
+    "Active" : 29
     "Forked" : 3
     "Archived" : 26
 ```
@@ -207,6 +210,7 @@ pie showData
 | [dotfiles](https://sametcc.me/repo/dotfiles) ★1 - Shell | No description provided. | 10/16/2025<br />10/16/2025 |
 | [sql-query-safety-checker](https://sametcc.me/repo/sql-query-safety-checker) ★1 - TypeScript | A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution. | 06/11/2025<br />06/19/2025 |
 | [ResumeBuilderMAUI](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C# | I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed. | 06/04/2024<br />06/11/2024 |
+| [personal-website](https://sametcc.me/repo/personal-website) - MDX | No description provided. | 09/07/2023<br />01/26/2026 |
 | [sametcn99](https://sametcc.me/repo/sametcn99) - TypeScript | automated profile readme | 01/25/2026<br />01/26/2026 |
 | [golter-web](https://sametcc.me/repo/golter-web) - TypeScript | golter landing page | 01/17/2026<br />01/18/2026 |
 | [golter](https://sametcc.me/repo/golter) - Go | Terminal-based file converter built with Go | 01/16/2026<br />01/18/2026 |
@@ -264,4 +268,4 @@ pie showData
 ---
 
 Auto-generated<br />
-Last updated: Mon, 26 Jan 2026 18:35:20 GMT
+Last updated: Mon, 26 Jan 2026 18:58:08 GMT
