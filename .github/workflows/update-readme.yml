@@ -52,6 +52,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "docs: update profile readme [skip ci]"
+            git commit -m "update profile readme [skip ci]"
             git push
           fi

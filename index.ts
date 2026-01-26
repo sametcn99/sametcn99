@@ -156,6 +156,16 @@ class Application {
 		if (reposData.length > 0) {
 			content += `${this.addNewLine()}## Repositories${this.addNewLine()}${this.addNewLine()}`;
 
+			// Helper to format dates US style (MM/DD/YYYY)
+			const formatDate = (dateStr: string | null | undefined) => {
+				if (!dateStr) return "-";
+				const date = new Date(dateStr);
+				return `${(date.getUTCMonth() + 1).toString().padStart(2, "0")}/${date
+					.getUTCDate()
+					.toString()
+					.padStart(2, "0")}/${date.getUTCFullYear()}`;
+			};
+
 			// Filter repos into categories
 			const activeRepos = reposData.filter((r) => !r.fork && !r.archived);
 			const forkedRepos = reposData.filter((r) => r.fork && !r.archived);
@@ -164,8 +174,8 @@ class Application {
 			// Active Repositories
 			if (activeRepos.length > 0) {
 				content += `### Active Repositories${this.addNewLine()}${this.addNewLine()}`;
-				content += `| Repository | Description | Topics |${this.addNewLine()}`;
-				content += `|------------|-------------|--------|${this.addNewLine()}`;
+				content += `| Repository | Description | Created / Last Commit |${this.addNewLine()}`;
+				content += `|------------|-------------|-----------------------|${this.addNewLine()}`;
 
 				for (const repo of activeRepos) {
 					const stars = repo.stargazers_count
@@ -177,11 +187,8 @@ class Application {
 						/\|/g,
 						"\\|",
 					);
-					const topics =
-						repo.topics && repo.topics.length > 0
-							? repo.topics.map((t: string) => `\`${t}\``).join(" ")
-							: "-";
-					content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
+					const dates = `${formatDate(repo.created_at)}<br />${formatDate(repo.pushed_at)}`;
+					content += `| ${name} | ${desc} | ${dates} |${this.addNewLine()}`;
 				}
 				content += this.addNewLine();
 			}
@@ -189,8 +196,8 @@ class Application {
 			// Forked Repositories
 			if (forkedRepos.length > 0) {
 				content += `### Forked Repositories${this.addNewLine()}${this.addNewLine()}`;
-				content += `| Repository | Description | Topics |${this.addNewLine()}`;
-				content += `|------------|-------------|--------|${this.addNewLine()}`;
+				content += `| Repository | Description | Created / Last Commit |${this.addNewLine()}`;
+				content += `|------------|-------------|-----------------------|${this.addNewLine()}`;
 
 				for (const repo of forkedRepos) {
 					const stars = repo.stargazers_count
@@ -202,11 +209,8 @@ class Application {
 						/\|/g,
 						"\\|",
 					);
-					const topics =
-						repo.topics && repo.topics.length > 0
-							? repo.topics.map((t: string) => `\`${t}\``).join(" ")
-							: "-";
-					content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
+					const dates = `${formatDate(repo.created_at)}<br />${formatDate(repo.pushed_at)}`;
+					content += `| ${name} | ${desc} | ${dates} |${this.addNewLine()}`;
 				}
 				content += this.addNewLine();
 			}
@@ -214,8 +218,8 @@ class Application {
 			// Archived Repositories
 			if (archivedRepos.length > 0) {
 				content += `### Archived Repositories${this.addNewLine()}${this.addNewLine()}`;
-				content += `| Repository | Description | Topics |${this.addNewLine()}`;
-				content += `|------------|-------------|--------|${this.addNewLine()}`;
+				content += `| Repository | Description | Created / Last Commit |${this.addNewLine()}`;
+				content += `|------------|-------------|-----------------------|${this.addNewLine()}`;
 
 				for (const repo of archivedRepos) {
 					const stars = repo.stargazers_count
@@ -227,11 +231,8 @@ class Application {
 						/\|/g,
 						"\\|",
 					);
-					const topics =
-						repo.topics && repo.topics.length > 0
-							? repo.topics.map((t: string) => `\`${t}\``).join(" ")
-							: "-";
-					content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
+					const dates = `${formatDate(repo.created_at)}<br />${formatDate(repo.pushed_at)}`;
+					content += `| ${name} | ${desc} | ${dates} |${this.addNewLine()}`;
 				}
 			}
 		}
