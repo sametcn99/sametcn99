@@ -313,7 +313,8 @@ class Application {
 		content += `| Total Repositories | ${stats.totalRepos} |${this.addNewLine()}`;
 		content += `| Total Gists | ${stats.totalGists} |${this.addNewLine()}`;
 		content += `| Total Stars Earned | ${stats.totalStars} |${this.addNewLine()}`;
-		content += `| Total Commits (Last Year) | ${stats.totalCommits} |${this.addNewLine()}`;
+		const commitDisplay = `${Math.floor(stats.totalCommits / 100) * 100}+`;
+		content += `| Total Commits (Last Year) | ${commitDisplay} |${this.addNewLine()}`;
 		content += `| Total PRs | ${stats.totalPRs} |${this.addNewLine()}`;
 		content += `| Merged PRs | ${stats.mergedPRs} |${this.addNewLine()}`;
 		content += `| Reviewed PRs | ${stats.reviewedPRs} |${this.addNewLine()}`;
