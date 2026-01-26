@@ -15,54 +15,54 @@
 
 ## Latest Content
 
-- [**Golter**](https://sametcc.me/project/golter) *(Jan 17, 2026)*<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of image...
+- [**Golter**](https://sametcc.me/project/golter) *(Jan 17, 2026)*<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
 
 - [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) *(Dec 25, 2025)*<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database. 
 
-- [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) *(Dec 24, 2025)*<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migr...
+- [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) *(Dec 24, 2025)*<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility. 
 
 - [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) *(Dec 23, 2025)*<br />A Python script to download all media from public Instagram profiles without login.
 
-- [**Tracing Edgar Allan Poe's Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) *(Dec 17, 2025)*<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe's literary universe to t...
+- [**Tracing Edgar Allan Poe's Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) *(Dec 17, 2025)*<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe's literary universe to the nightmarish town of Silent Hill.
 
 - [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) *(Oct 15, 2025)*<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
 
-- [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) *(Oct 15, 2025)*<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. ...
+- [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) *(Oct 15, 2025)*<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers' open-source contributions with a sleek interface and robust performance.
 
-- [**Mermaid Live Editor & Viewer**](https://sametcc.me/project/mermaid-viewer) *(Apr 23, 2025)*<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, ed...
+- [**Mermaid Live Editor & Viewer**](https://sametcc.me/project/mermaid-viewer) *(Apr 23, 2025)*<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
 
-- [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) *(Mar 15, 2025)*<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations ...
+- [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) *(Mar 15, 2025)*<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
 
-- [**Env Protector**](https://sametcc.me/project/env-protector) *(Sep 14, 2024)*<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive ...
+- [**Env Protector**](https://sametcc.me/project/env-protector) *(Sep 14, 2024)*<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive data, providing confirmation prompts before opening, and allowing users to manage environment variables without exposing their contents.
 
 <details>
 <summary>Show 13 more posts...</summary>
 
-- [**Using JSON Schema in VS Code**](https://sametcc.me/gist/using-json-schema-in-vscode) *(Aug 25, 2024)*<br />Step-by-step guide to implementing JSON Schema validation in VS Code for automatic error detection a...
+- [**Using JSON Schema in VS Code**](https://sametcc.me/gist/using-json-schema-in-vscode) *(Aug 25, 2024)*<br />Step-by-step guide to implementing JSON Schema validation in VS Code for automatic error detection and IntelliSense support.
 
-- [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) *(Aug 25, 2024)*<br />Comprehensive guide to Docker commands for containerization, image management, and container orchest...
+- [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) *(Aug 25, 2024)*<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
 
-- [**TypeScript Types and Utility Types**](https://sametcc.me/gist/typescript-types) *(Aug 25, 2024)*<br />Complete guide to TypeScript's built-in utility types, advanced type transformations, and custom typ...
+- [**TypeScript Types and Utility Types**](https://sametcc.me/gist/typescript-types) *(Aug 25, 2024)*<br />Complete guide to TypeScript's built-in utility types, advanced type transformations, and custom type definitions for robust type safety.
 
-- [**Using Glob Patterns in TypeScript Projects**](https://sametcc.me/gist/typescript-glob-patterns) *(Aug 25, 2024)*<br />Comprehensive guide to glob patterns in TypeScript with detailed character explanations, examples, a...
+- [**Using Glob Patterns in TypeScript Projects**](https://sametcc.me/gist/typescript-glob-patterns) *(Aug 25, 2024)*<br />Comprehensive guide to glob patterns in TypeScript with detailed character explanations, examples, and practical applications for file matching.
 
-- [**Product Requirements Document**](https://sametcc.me/gist/product-requirement-doc-guide) *(Aug 25, 2024)*<br />Complete guide to writing effective Product Requirements Documents (PRDs) with templates, best pract...
+- [**Product Requirements Document**](https://sametcc.me/gist/product-requirement-doc-guide) *(Aug 25, 2024)*<br />Complete guide to writing effective Product Requirements Documents (PRDs) with templates, best practices, and real-world examples for software development.
 
-- [**React Component Lifecycle**](https://sametcc.me/gist/react-component-lifecycle) *(Aug 25, 2024)*<br />Deep dive into React component lifecycle methods, hooks, and modern patterns for managing component ...
+- [**React Component Lifecycle**](https://sametcc.me/gist/react-component-lifecycle) *(Aug 25, 2024)*<br />Deep dive into React component lifecycle methods, hooks, and modern patterns for managing component state and side effects in React applications.
 
-- [**A Comprehensive Guide to Creating and Using Tasks in Visual Studio Code**](https://sametcc.me/gist/using-tasks-in-vscode) *(Aug 25, 2024)*<br />Complete guide to VS Code tasks configuration including custom tasks, automation, debugging, and int...
+- [**A Comprehensive Guide to Creating and Using Tasks in Visual Studio Code**](https://sametcc.me/gist/using-tasks-in-vscode) *(Aug 25, 2024)*<br />Complete guide to VS Code tasks configuration including custom tasks, automation, debugging, and integration with build systems.
 
-- [**Git Hooks: A Comprehensive Guide**](https://sametcc.me/gist/git-hooks-guide) *(Aug 25, 2024)*<br />Complete guide to Git hooks implementation, best practices, and advanced automation techniques for c...
+- [**Git Hooks: A Comprehensive Guide**](https://sametcc.me/gist/git-hooks-guide) *(Aug 25, 2024)*<br />Complete guide to Git hooks implementation, best practices, and advanced automation techniques for client-side and server-side workflows.
 
-- [**Script Gists**](https://sametcc.me/gist/scripts-gist) *(Aug 25, 2024)*<br />Collection of useful development scripts including Prettier setup, Git utilities, and automation too...
+- [**Script Gists**](https://sametcc.me/gist/scripts-gist) *(Aug 25, 2024)*<br />Collection of useful development scripts including Prettier setup, Git utilities, and automation tools for modern development workflows.
 
-- [**Running Scripts in Linux**](https://sametcc.me/gist/running-scripts-in-linux) *(Aug 25, 2024)*<br />Essential guide to running scripts in Linux including permissions, execution methods, and best pract...
+- [**Running Scripts in Linux**](https://sametcc.me/gist/running-scripts-in-linux) *(Aug 25, 2024)*<br />Essential guide to running scripts in Linux including permissions, execution methods, and best practices for shell scripting.
 
-- [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) *(Aug 25, 2024)*<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and ad...
+- [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) *(Aug 25, 2024)*<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
 
-- [**Electron Widgets**](https://sametcc.me/project/electron-widgets) *(Mar 25, 2024)*<br />A desktop application built with Electron.js and Node.js that allows users to create and manage cust...
+- [**Electron Widgets**](https://sametcc.me/project/electron-widgets) *(Mar 25, 2024)*<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
 
-- [**Resume Builder**](https://sametcc.me/project/resume-builder) *(Jan 12, 2023)*<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and e...
+- [**Resume Builder**](https://sametcc.me/project/resume-builder) *(Jan 12, 2023)*<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
 
 </details>
 
@@ -263,4 +263,4 @@ pie showData
 ---
 
 Auto-generated<br />
-Last updated: Mon, 26 Jan 2026 15:17:19 GMT
+Last updated: Mon, 26 Jan 2026 15:28:28 GMT
