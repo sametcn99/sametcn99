@@ -48,10 +48,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
+          
+          # Check for changes ignoring the "Last updated" line
+          if git diff -I "Last updated:" --quiet README.md; then
+            echo "No significant changes to commit"
           else
+            git add README.md
             git commit -m "update profile readme [skip ci]"
             git push
           fi
