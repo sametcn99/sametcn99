@@ -1,228 +1,345 @@
-import { Octokit } from "@octokit/rest";
+import { Octokit, type RestEndpointMethodTypes } from "@octokit/rest";
 
 type FeedItem = {
-    id: string;
-    url: string;
-    title: string;
-    summary: string;
-    date_published?: string;
-}
+	id: string;
+	url: string;
+	title: string;
+	summary: string;
+	date_published?: string;
+};
 
 type Feed = {
-    items: FeedItem[];
-}
+	items: FeedItem[];
+};
+
+type Repository =
+	RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
 
 class Application {
-    private readonly FEED_URL = "https://sametcc.me/feed.json";
-    private readonly TARGET_USERNAME = "sametcn99";
-    private octokit: Octokit;
+	private readonly FEED_URL = "https://sametcc.me/feed.json";
+	private readonly TARGET_USERNAME = "sametcn99";
+	private octokit: Octokit;
 
-    constructor() {
-        const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
-        if (!token) {
-            console.warn("No GITHUB_TOKEN or GH_TOKEN found. API limits might be restricted and private repos won't be visible.");
-        }
+	constructor() {
+		const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+		if (!token) {
+			console.warn(
+				"No GITHUB_TOKEN or GH_TOKEN found. API limits might be restricted and private repos won't be visible.",
+			);
+		}
 
-        this.octokit = new Octokit({
-            auth: token,
-        });
-    }
+		this.octokit = new Octokit({
+			auth: token,
+		});
+	}
 
-    private addNewLine(): string {
-        return "\n";
-    }
+	private addNewLine(): string {
+		return "\n";
+	}
 
-    private addDivider(): string {
-        return "\n---\n";
-    }
+	private addDivider(): string {
+		return "\n---\n";
+	}
 
-    private generateContactSection(): string {
-        let content = "";
-        content += `## Contact${this.addNewLine()}${this.addNewLine()}`;
-        content += `- [Website](https://sametcc.me)${this.addNewLine()}`;
-        content += `- [LinkedIn](https://sametcc.me/link/linkedin)${this.addNewLine()}`;
-        content += `- [Telegram](https://sametcc.me/link/telegram)${this.addNewLine()}`;
-        content += `- [Mail](https://sametcc.me/link/mail)${this.addNewLine()}`;
-        return content;
-    }
+	private generateContactSection(): string {
+		let content = "";
+		content += `## Contact${this.addNewLine()}${this.addNewLine()}`;
+		content += `- [Website](https://sametcc.me)${this.addNewLine()}`;
+		content += `- [LinkedIn](https://sametcc.me/link/linkedin)${this.addNewLine()}`;
+		content += `- [Telegram](https://sametcc.me/link/telegram)${this.addNewLine()}`;
+		content += `- [Mail](https://sametcc.me/link/mail)${this.addNewLine()}`;
+		return content;
+	}
 
-    private generateWebsiteSection(recentPosts: FeedItem[]): string {
-        let content = "";
-        if (recentPosts.length > 0) {
-            content += `## Latest Content${this.addNewLine()}${this.addNewLine()}`;
-            for (const item of recentPosts) {
-                // Clean up summary if it's too long or has newlines
-                const summary = item.summary ? item.summary.replace(/\n/g, " ").slice(0, 100) + (item.summary.length > 100 ? "..." : "") : "";
-                // Format date if available
-                const date = item.date_published ? new Date(item.date_published).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) : "";
-                const dateStr = date ? ` *(${date})*` : "";
-                content += `- [**${item.title}**](${item.url})${dateStr}<br />${summary}${this.addNewLine()}${this.addNewLine()}`;
-            }
-        }
-        return content;
-    }
+	private generateWebsiteSection(recentPosts: FeedItem[]): string {
+		let content = "";
+		if (recentPosts.length > 0) {
+			content += `## Latest Content${this.addNewLine()}${this.addNewLine()}`;
+			for (const item of recentPosts) {
+				// Clean up summary if it's too long or has newlines
+				const summary = item.summary
+					? item.summary.replace(/\n/g, " ").slice(0, 100) +
+						(item.summary.length > 100 ? "..." : "")
+					: "";
+				// Format date if available
+				const date = item.date_published
+					? new Date(item.date_published).toLocaleDateString("en-US", {
+							year: "numeric",
+							month: "short",
+							day: "numeric",
+						})
+					: "";
+				const dateStr = date ? ` *(${date})*` : "";
+				content += `- [**${item.title}**](${item.url})${dateStr}<br />${summary}${this.addNewLine()}${this.addNewLine()}`;
+			}
+		}
+		return content;
+	}
 
-    private generateReposSection(reposData: any[]): string {
-        let content = "";
-        if (reposData.length > 0) {
-            content += `${this.addNewLine()}## Repositories${this.addNewLine()}${this.addNewLine()}`;
+	private generateStatisticsSection(reposData: Repository[]): string {
+		let content = "";
+		content += `## Statistics${this.addNewLine()}${this.addNewLine()}`;
 
-            // Filter repos into categories
-            const activeRepos = reposData.filter(r => !r.fork && !r.archived);
-            const forkedRepos = reposData.filter(r => r.fork && !r.archived);
-            const archivedRepos = reposData.filter(r => r.archived);
+		const nonForked = reposData.filter((r) => !r.fork);
 
-            // Active Repositories
-            if (activeRepos.length > 0) {
-                content += `### Active Repositories${this.addNewLine()}${this.addNewLine()}`;
-                content += `| Repository | Description | Topics |${this.addNewLine()}`;
-                content += `|------------|-------------|--------|${this.addNewLine()}`;
+		// 1. Language Distribution
+		const languageCounts: Record<string, number> = {};
+		nonForked.forEach((repo) => {
+			if (repo.language) {
+				languageCounts[repo.language] =
+					(languageCounts[repo.language] || 0) + 1;
+			}
+		});
 
-                for (const repo of activeRepos) {
-                    const stars = repo.stargazers_count ? ` ★${repo.stargazers_count}` : "";
-                    const lang = repo.language ? ` - ${repo.language}` : "";
-                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
-                    const desc = (repo.description || "No description provided.").replace(/\|/g, "\\|");
-                    const topics = repo.topics && repo.topics.length > 0 ? repo.topics.map((t: string) => `\`${t}\``).join(" ") : "-";
-                    content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
-                }
-                content += this.addNewLine();
-            }
+		const sortedLanguages = Object.entries(languageCounts).sort(
+			([, a], [, b]) => b - a,
+		);
 
-            // Forked Repositories
-            if (forkedRepos.length > 0) {
-                content += `### Forked Repositories${this.addNewLine()}${this.addNewLine()}`;
-                content += `| Repository | Description | Topics |${this.addNewLine()}`;
-                content += `|------------|-------------|--------|${this.addNewLine()}`;
+		if (sortedLanguages.length > 0) {
+			content += `### Languages${this.addNewLine()}${this.addNewLine()}`;
+			content += `\`\`\`mermaid${this.addNewLine()}`;
+			content += `pie showData${this.addNewLine()}`;
+			content += `    title Top Languages (by Repo Count)${this.addNewLine()}`;
+			sortedLanguages.forEach(([lang, count]) => {
+				content += `    "${lang}" : ${count}${this.addNewLine()}`;
+			});
+			content += `\`\`\`${this.addNewLine()}${this.addNewLine()}`;
+		}
 
-                for (const repo of forkedRepos) {
-                    const stars = repo.stargazers_count ? ` ★${repo.stargazers_count}` : "";
-                    const lang = repo.language ? ` - ${repo.language}` : "";
-                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
-                    const desc = (repo.description || "No description provided.").replace(/\|/g, "\\|");
-                    const topics = repo.topics && repo.topics.length > 0 ? repo.topics.map((t: string) => `\`${t}\``).join(" ") : "-";
-                    content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
-                }
-                content += this.addNewLine();
-            }
+		// 2. Repositories by Year
+		const yearCounts: Record<string, number> = {};
+		nonForked.forEach((repo) => {
+			if (repo.created_at) {
+				const year = new Date(repo.created_at).getFullYear();
+				yearCounts[year] = (yearCounts[year] || 0) + 1;
+			}
+		});
 
-            // Archived Repositories
-            if (archivedRepos.length > 0) {
-                content += `### Archived Repositories${this.addNewLine()}${this.addNewLine()}`;
-                content += `| Repository | Description | Topics |${this.addNewLine()}`;
-                content += `|------------|-------------|--------|${this.addNewLine()}`;
+		const sortedYears = Object.entries(yearCounts).sort(
+			([a], [b]) => parseInt(a, 10) - parseInt(b, 10),
+		);
 
-                for (const repo of archivedRepos) {
-                    const stars = repo.stargazers_count ? ` ★${repo.stargazers_count}` : "";
-                    const lang = repo.language ? ` - ${repo.language}` : "";
-                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
-                    const desc = (repo.description || "No description provided.").replace(/\|/g, "\\|");
-                    const topics = repo.topics && repo.topics.length > 0 ? repo.topics.map((t: string) => `\`${t}\``).join(" ") : "-";
-                    content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
-                }
-            }
-        }
-        content += this.addNewLine();
-        return content;
-    }
+		if (sortedYears.length > 0) {
+			const years = sortedYears.map(([y]) => y);
+			const counts = sortedYears.map(([, c]) => c);
+			const maxCount = Math.max(...counts);
 
-    private generateFooter(): string {
-        let content = "";
-        content += this.addDivider();
-        content += `${this.addNewLine()}Auto-generated<br />${this.addNewLine()}`;
-        content += `Last updated: ${new Date().toUTCString()}${this.addNewLine()}`;
-        return content;
-    }
+			content += `### Repositories Created per Year${this.addNewLine()}${this.addNewLine()}`;
+			content += `\`\`\`mermaid${this.addNewLine()}`;
+			content += `xychart-beta${this.addNewLine()}`;
+			content += `    title Repositories per Year${this.addNewLine()}`;
+			content += `    x-axis [${years.join(", ")}]${this.addNewLine()}`;
+			content += `    y-axis "Count" 0 --> ${maxCount + 1}${this.addNewLine()}`;
+			content += `    bar [${counts.join(", ")}]${this.addNewLine()}`;
+			content += `\`\`\`${this.addNewLine()}${this.addNewLine()}`;
+		}
 
-    private generateTOC(): string {
-        let content = "";
-        content += `#### Table of Contents${this.addNewLine()}${this.addNewLine()}`;
-        content += `- [Latest Content](#latest-content)${this.addNewLine()}`;
-        content += `- [Repositories](#repositories)${this.addNewLine()}`;
-        content += `  - [Active Repositories](#active-repositories)${this.addNewLine()}`;
-        content += `  - [Forked Repositories](#forked-repositories)${this.addNewLine()}`;
-        content += `  - [Archived Repositories](#archived-repositories)${this.addNewLine()}`;
-        content += `- [Contact](#contact)${this.addNewLine()}`;
-        content += this.addNewLine();
-        return content;
-    }
+		// 3. Repository Distribution (Active vs Forked vs Archived)
+		const active = reposData.filter((r) => !r.fork && !r.archived).length;
+		const forked = reposData.filter((r) => r.fork && !r.archived).length;
+		const archived = reposData.filter((r) => r.archived).length;
 
-    private async fetchFeed(): Promise<FeedItem[]> {
-        console.log(`Fetching feed from ${this.FEED_URL}...`);
-        let recentPosts: FeedItem[] = [];
-        try {
-            const feedRes = await fetch(this.FEED_URL);
-            if (!feedRes.ok) {
-                throw new Error(`Failed to fetch feed: ${feedRes.statusText}`);
-            }
-            const feed = (await feedRes.json()) as Feed;
-            recentPosts = feed.items.slice(0, 10);
-        } catch (error) {
-            console.error("Error fetching feed:", error);
-        }
-        return recentPosts;
-    }
+		content += `### Repository Distribution${this.addNewLine()}${this.addNewLine()}`;
+		content += `\`\`\`mermaid${this.addNewLine()}`;
+		content += `pie showData${this.addNewLine()}`;
+		content += `    title Repository Status${this.addNewLine()}`;
+		content += `    "Active" : ${active}${this.addNewLine()}`;
+		content += `    "Forked" : ${forked}${this.addNewLine()}`;
+		content += `    "Archived" : ${archived}${this.addNewLine()}`;
+		content += `\`\`\`${this.addNewLine()}`;
 
-    private async fetchRepos(): Promise<any[]> {
-        console.log(`Fetching repositories for ${this.TARGET_USERNAME}...`);
-        let reposData: any[] = [];
-        try {
-            const { data } = await this.octokit.rest.repos.listForUser({
-                username: this.TARGET_USERNAME,
-                per_page: 100,
-                type: "owner",
-            });
+		return content;
+	}
 
-            reposData = data.sort((a, b) => {
-                const starsA = a.stargazers_count ?? 0;
-                const starsB = b.stargazers_count ?? 0;
-                if (starsB !== starsA) {
-                    return starsB - starsA;
-                }
-                const dateA = a.updated_at ? new Date(a.updated_at).getTime() : 0;
-                const dateB = b.updated_at ? new Date(b.updated_at).getTime() : 0;
-                return dateB - dateA;
-            });
-        } catch (error) {
-            console.error("Error fetching repositories:", error);
-        }
-        return reposData;
-    }
+	private generateReposSection(reposData: Repository[]): string {
+		let content = "";
+		if (reposData.length > 0) {
+			content += `${this.addNewLine()}## Repositories${this.addNewLine()}${this.addNewLine()}`;
 
-    public async generate() {
-        // 1. Fetch Data
-        const recentPosts = await this.fetchFeed();
-        const reposData = await this.fetchRepos();
+			// Filter repos into categories
+			const activeRepos = reposData.filter((r) => !r.fork && !r.archived);
+			const forkedRepos = reposData.filter((r) => r.fork && !r.archived);
+			const archivedRepos = reposData.filter((r) => r.archived);
 
-        // 2. Generate Markdown
-        console.log("Generating README.md...");
+			// Active Repositories
+			if (activeRepos.length > 0) {
+				content += `### Active Repositories${this.addNewLine()}${this.addNewLine()}`;
+				content += `| Repository | Description | Topics |${this.addNewLine()}`;
+				content += `|------------|-------------|--------|${this.addNewLine()}`;
 
-        let content = "";
+				for (const repo of activeRepos) {
+					const stars = repo.stargazers_count
+						? ` ★${repo.stargazers_count}`
+						: "";
+					const lang = repo.language ? ` - ${repo.language}` : "";
+					const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
+					const desc = (repo.description || "No description provided.").replace(
+						/\|/g,
+						"\\|",
+					);
+					const topics =
+						repo.topics && repo.topics.length > 0
+							? repo.topics.map((t: string) => `\`${t}\``).join(" ")
+							: "-";
+					content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
+				}
+				content += this.addNewLine();
+			}
 
-        // TOC Section
-        content += this.generateTOC();
+			// Forked Repositories
+			if (forkedRepos.length > 0) {
+				content += `### Forked Repositories${this.addNewLine()}${this.addNewLine()}`;
+				content += `| Repository | Description | Topics |${this.addNewLine()}`;
+				content += `|------------|-------------|--------|${this.addNewLine()}`;
 
-        // Website Section
-        content += this.generateWebsiteSection(recentPosts);
+				for (const repo of forkedRepos) {
+					const stars = repo.stargazers_count
+						? ` ★${repo.stargazers_count}`
+						: "";
+					const lang = repo.language ? ` - ${repo.language}` : "";
+					const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
+					const desc = (repo.description || "No description provided.").replace(
+						/\|/g,
+						"\\|",
+					);
+					const topics =
+						repo.topics && repo.topics.length > 0
+							? repo.topics.map((t: string) => `\`${t}\``).join(" ")
+							: "-";
+					content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
+				}
+				content += this.addNewLine();
+			}
 
-        // Repos Section
-        content += this.generateReposSection(reposData);
+			// Archived Repositories
+			if (archivedRepos.length > 0) {
+				content += `### Archived Repositories${this.addNewLine()}${this.addNewLine()}`;
+				content += `| Repository | Description | Topics |${this.addNewLine()}`;
+				content += `|------------|-------------|--------|${this.addNewLine()}`;
 
-        // Contact Section
-        content += this.generateContactSection();
+				for (const repo of archivedRepos) {
+					const stars = repo.stargazers_count
+						? ` ★${repo.stargazers_count}`
+						: "";
+					const lang = repo.language ? ` - ${repo.language}` : "";
+					const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
+					const desc = (repo.description || "No description provided.").replace(
+						/\|/g,
+						"\\|",
+					);
+					const topics =
+						repo.topics && repo.topics.length > 0
+							? repo.topics.map((t: string) => `\`${t}\``).join(" ")
+							: "-";
+					content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
+				}
+			}
+		}
+		content += this.addNewLine();
+		return content;
+	}
 
-        // Footer
-        content += this.generateFooter();
+	private generateFooter(): string {
+		let content = "";
+		content += this.addDivider();
+		content += `${this.addNewLine()}Auto-generated<br />${this.addNewLine()}`;
+		content += `Last updated: ${new Date().toUTCString()}${this.addNewLine()}`;
+		return content;
+	}
 
-        const outputPath = "README.md";
-        await Bun.write(outputPath, content);
-        console.log(`${outputPath} updated successfully!`);
-    }
+	private generateTOC(): string {
+		let content = "";
+		content += `#### Table of Contents${this.addNewLine()}${this.addNewLine()}`;
+		content += `- [Latest Content](#latest-content)${this.addNewLine()}`;
+		content += `- [Statistics](#statistics)${this.addNewLine()}`;
+		content += `- [Repositories](#repositories)${this.addNewLine()}`;
+		content += `  - [Active Repositories](#active-repositories)${this.addNewLine()}`;
+		content += `  - [Forked Repositories](#forked-repositories)${this.addNewLine()}`;
+		content += `  - [Archived Repositories](#archived-repositories)${this.addNewLine()}`;
+		content += `- [Contact](#contact)${this.addNewLine()}`;
+		content += this.addNewLine();
+		return content;
+	}
+
+	private async fetchFeed(): Promise<FeedItem[]> {
+		console.log(`Fetching feed from ${this.FEED_URL}...`);
+		let recentPosts: FeedItem[] = [];
+		try {
+			const feedRes = await fetch(this.FEED_URL);
+			if (!feedRes.ok) {
+				throw new Error(`Failed to fetch feed: ${feedRes.statusText}`);
+			}
+			const feed = (await feedRes.json()) as Feed;
+			recentPosts = feed.items.slice(0, 10);
+		} catch (error) {
+			console.error("Error fetching feed:", error);
+		}
+		return recentPosts;
+	}
+
+	private async fetchRepos(): Promise<Repository[]> {
+		console.log(`Fetching repositories for ${this.TARGET_USERNAME}...`);
+		let reposData: Repository[] = [];
+		try {
+			const { data } = await this.octokit.rest.repos.listForUser({
+				username: this.TARGET_USERNAME,
+				per_page: 100,
+				type: "owner",
+			});
+
+			reposData = data.sort((a, b) => {
+				const starsA = a.stargazers_count ?? 0;
+				const starsB = b.stargazers_count ?? 0;
+				if (starsB !== starsA) {
+					return starsB - starsA;
+				}
+				const dateA = a.updated_at ? new Date(a.updated_at).getTime() : 0;
+				const dateB = b.updated_at ? new Date(b.updated_at).getTime() : 0;
+				return dateB - dateA;
+			});
+		} catch (error) {
+			console.error("Error fetching repositories:", error);
+		}
+		return reposData;
+	}
+
+	public async generate() {
+		// 1. Fetch Data
+		const recentPosts = await this.fetchFeed();
+		const reposData = await this.fetchRepos();
+
+		// 2. Generate Markdown
+		console.log("Generating README.md...");
+
+		let content = "";
+
+		// TOC Section
+		content += this.generateTOC();
+
+		// Website Section
+		content += this.generateWebsiteSection(recentPosts);
+
+		// Statistics Section
+		content += this.generateStatisticsSection(reposData);
+
+		// Repos Section
+		content += this.generateReposSection(reposData);
+
+		// Contact Section
+		content += this.generateContactSection();
+
+		// Footer
+		content += this.generateFooter();
+
+		const outputPath = "README.md";
+		await Bun.write(outputPath, content);
+		console.log(`${outputPath} updated successfully!`);
+	}
 }
 
 // Run execution
 const app = new Application();
 app.generate().catch((err) => {
-    console.error("Fatal error:", err);
-    process.exit(1);
+	console.error("Fatal error:", err);
+	process.exit(1);
 });
