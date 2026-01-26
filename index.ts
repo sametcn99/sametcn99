@@ -41,13 +41,17 @@ class Application {
 		return "\n---\n";
 	}
 
+	private makeExternalLink(label: string, url: string): string {
+		return `<a href="${url}" target="_blank" rel="noopener noreferrer">${label}</a>`;
+	}
+
 	private generateContactSection(): string {
 		let content = "";
 		content += `## Contact${this.addNewLine()}${this.addNewLine()}`;
-		content += `- [Website](https://sametcc.me)${this.addNewLine()}`;
-		content += `- [LinkedIn](https://sametcc.me/link/linkedin)${this.addNewLine()}`;
-		content += `- [Telegram](https://sametcc.me/link/telegram)${this.addNewLine()}`;
-		content += `- [Mail](https://sametcc.me/link/mail)${this.addNewLine()}`;
+		content += `- ${this.makeExternalLink("Website", "https://sametcc.me")}${this.addNewLine()}`;
+		content += `- ${this.makeExternalLink("LinkedIn", "https://sametcc.me/link/linkedin")}${this.addNewLine()}`;
+		content += `- ${this.makeExternalLink("Telegram", "https://sametcc.me/link/telegram")}${this.addNewLine()}`;
+		content += `- ${this.makeExternalLink("Mail", "https://sametcc.me/link/mail")}${this.addNewLine()}`;
 		return content;
 	}
 
@@ -70,7 +74,7 @@ class Application {
 						})
 					: "";
 				const dateStr = date ? ` *(${date})*` : "";
-				content += `- [**${item.title}**](${item.url})${dateStr}<br />${summary}${this.addNewLine()}${this.addNewLine()}`;
+				content += `- ${this.makeExternalLink(`<strong>${item.title}</strong>`, item.url)}${dateStr}<br />${summary}${this.addNewLine()}${this.addNewLine()}`;
 			}
 		}
 		return content;
@@ -182,7 +186,7 @@ class Application {
 						? ` ★${repo.stargazers_count}`
 						: "";
 					const lang = repo.language ? ` - ${repo.language}` : "";
-					const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
+					const name = `${this.makeExternalLink(repo.name, `https://sametcc.me/repo/${repo.name}`)}${stars}${lang}`;
 					const desc = (repo.description || "No description provided.").replace(
 						/\|/g,
 						"\\|",
@@ -204,7 +208,7 @@ class Application {
 						? ` ★${repo.stargazers_count}`
 						: "";
 					const lang = repo.language ? ` - ${repo.language}` : "";
-					const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
+					const name = `${this.makeExternalLink(repo.name, `https://sametcc.me/repo/${repo.name}`)}${stars}${lang}`;
 					const desc = (repo.description || "No description provided.").replace(
 						/\|/g,
 						"\\|",
@@ -226,7 +230,7 @@ class Application {
 						? ` ★${repo.stargazers_count}`
 						: "";
 					const lang = repo.language ? ` - ${repo.language}` : "";
-					const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
+					const name = `${this.makeExternalLink(repo.name, `https://sametcc.me/repo/${repo.name}`)}${stars}${lang}`;
 					const desc = (repo.description || "No description provided.").replace(
 						/\|/g,
 						"\\|",
