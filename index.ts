@@ -56,7 +56,7 @@ class Application {
                 // Format date if available
                 const date = item.date_published ? new Date(item.date_published).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) : "";
                 const dateStr = date ? ` *(${date})*` : "";
-                content += `- [**${item.title}**](${item.url})${dateStr} - ${summary}${this.addNewLine()}`;
+                content += `- [**${item.title}**](${item.url})${dateStr}<br />${summary}${this.addNewLine()}${this.addNewLine()}`;
             }
         }
         return content;
@@ -75,15 +75,16 @@ class Application {
             // Active Repositories
             if (activeRepos.length > 0) {
                 content += `### Active Repositories${this.addNewLine()}${this.addNewLine()}`;
-                content += `| Repository | Description | Language | Topics |${this.addNewLine()}`;
-                content += `|------------|-------------|----------|--------|${this.addNewLine()}`;
+                content += `| Repository | Description | Topics |${this.addNewLine()}`;
+                content += `|------------|-------------|--------|${this.addNewLine()}`;
 
                 for (const repo of activeRepos) {
-                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})`;
+                    const stars = repo.stargazers_count ? ` ★${repo.stargazers_count}` : "";
+                    const lang = repo.language ? ` - ${repo.language}` : "";
+                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
                     const desc = (repo.description || "No description provided.").replace(/\|/g, "\\|");
-                    const lang = repo.language || "-";
                     const topics = repo.topics && repo.topics.length > 0 ? repo.topics.map((t: string) => `\`${t}\``).join(" ") : "-";
-                    content += `| ${name} | ${desc} | ${lang} | ${topics} |${this.addNewLine()}`;
+                    content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
                 }
                 content += this.addNewLine();
             }
@@ -91,15 +92,16 @@ class Application {
             // Forked Repositories
             if (forkedRepos.length > 0) {
                 content += `### Forked Repositories${this.addNewLine()}${this.addNewLine()}`;
-                content += `| Repository | Description | Language | Topics |${this.addNewLine()}`;
-                content += `|------------|-------------|----------|--------|${this.addNewLine()}`;
+                content += `| Repository | Description | Topics |${this.addNewLine()}`;
+                content += `|------------|-------------|--------|${this.addNewLine()}`;
 
                 for (const repo of forkedRepos) {
-                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})`;
+                    const stars = repo.stargazers_count ? ` ★${repo.stargazers_count}` : "";
+                    const lang = repo.language ? ` - ${repo.language}` : "";
+                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
                     const desc = (repo.description || "No description provided.").replace(/\|/g, "\\|");
-                    const lang = repo.language || "-";
                     const topics = repo.topics && repo.topics.length > 0 ? repo.topics.map((t: string) => `\`${t}\``).join(" ") : "-";
-                    content += `| ${name} | ${desc} | ${lang} | ${topics} |${this.addNewLine()}`;
+                    content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
                 }
                 content += this.addNewLine();
             }
@@ -107,15 +109,16 @@ class Application {
             // Archived Repositories
             if (archivedRepos.length > 0) {
                 content += `### Archived Repositories${this.addNewLine()}${this.addNewLine()}`;
-                content += `| Repository | Description | Language | Topics |${this.addNewLine()}`;
-                content += `|------------|-------------|----------|--------|${this.addNewLine()}`;
+                content += `| Repository | Description | Topics |${this.addNewLine()}`;
+                content += `|------------|-------------|--------|${this.addNewLine()}`;
 
                 for (const repo of archivedRepos) {
-                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})`;
+                    const stars = repo.stargazers_count ? ` ★${repo.stargazers_count}` : "";
+                    const lang = repo.language ? ` - ${repo.language}` : "";
+                    const name = `[${repo.name}](https://sametcc.me/repo/${repo.name})${stars}${lang}`;
                     const desc = (repo.description || "No description provided.").replace(/\|/g, "\\|");
-                    const lang = repo.language || "-";
                     const topics = repo.topics && repo.topics.length > 0 ? repo.topics.map((t: string) => `\`${t}\``).join(" ") : "-";
-                    content += `| ${name} | ${desc} | ${lang} | ${topics} |${this.addNewLine()}`;
+                    content += `| ${name} | ${desc} | ${topics} |${this.addNewLine()}`;
                 }
             }
         }
@@ -126,10 +129,21 @@ class Application {
     private generateFooter(): string {
         let content = "";
         content += this.addDivider();
-        content += this.addNewLine();
-        content += `Auto-generated`;
-        content += this.addNewLine();
+        content += `${this.addNewLine()}Auto-generated<br />${this.addNewLine()}`;
         content += `Last updated: ${new Date().toUTCString()}${this.addNewLine()}`;
+        return content;
+    }
+
+    private generateTOC(): string {
+        let content = "";
+        content += `#### Table of Contents${this.addNewLine()}${this.addNewLine()}`;
+        content += `- [Latest Content](#latest-content)${this.addNewLine()}`;
+        content += `- [Repositories](#repositories)${this.addNewLine()}`;
+        content += `  - [Active Repositories](#active-repositories)${this.addNewLine()}`;
+        content += `  - [Forked Repositories](#forked-repositories)${this.addNewLine()}`;
+        content += `  - [Archived Repositories](#archived-repositories)${this.addNewLine()}`;
+        content += `- [Contact](#contact)${this.addNewLine()}`;
+        content += this.addNewLine();
         return content;
     }
 
@@ -184,6 +198,9 @@ class Application {
         console.log("Generating README.md...");
 
         let content = "";
+
+        // TOC Section
+        content += this.generateTOC();
 
         // Website Section
         content += this.generateWebsiteSection(recentPosts);
