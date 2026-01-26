@@ -31,9 +31,7 @@ export class WebsiteSectionGenerator implements ISectionGenerator {
 	}
 
 	private formatPost(item: FeedItem): string {
-		const summary = item.summary
-			? MarkdownUtils.truncateText(item.summary, 100)
-			: "";
+		const summary = item.summary;
 		const date = item.date_published
 			? MarkdownUtils.formatDateLong(item.date_published)
 			: "";
