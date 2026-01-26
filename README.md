@@ -1,6 +1,7 @@
 #### Table of Contents
 
 - [Latest Content](#latest-content)
+- [Statistics](#statistics)
 - [Repositories](#repositories)
   - [Active Repositories](#active-repositories)
   - [Forked Repositories](#forked-repositories)
@@ -29,6 +30,43 @@
 
 - [**Env Protector**](https://sametcc.me/project/env-protector) *(Sep 14, 2024)*<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive ...
 
+## Statistics
+
+### Languages
+
+```mermaid
+pie showData
+    title Top Languages (by Repo Count)
+    "TypeScript" : 34
+    "C#" : 6
+    "JavaScript" : 5
+    "HTML" : 4
+    "Vue" : 1
+    "PowerShell" : 1
+    "Shell" : 1
+    "Go" : 1
+    "Python" : 1
+```
+
+### Repositories Created per Year
+
+```mermaid
+xychart-beta
+    title Repositories per Year
+    x-axis [2022, 2023, 2024, 2025, 2026]
+    y-axis "Count" 0 --> 22
+    bar [1, 10, 21, 18, 4]
+```
+
+### Repository Distribution
+
+```mermaid
+pie showData
+    title Repository Status
+    "Active" : 28
+    "Forked" : 3
+    "Archived" : 26
+```
 
 ## Repositories
 
@@ -114,4 +152,4 @@
 ---
 
 Auto-generated<br />
-Last updated: Mon, 26 Jan 2026 00:23:55 GMT
+Last updated: Mon, 26 Jan 2026 00:52:45 GMT
