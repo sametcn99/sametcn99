@@ -210,8 +210,8 @@ pie showData
 | [dotfiles](https://sametcc.me/repo/dotfiles) ★1 - Shell | No description provided. | 10/16/2025<br />10/16/2025 |
 | [sql-query-safety-checker](https://sametcc.me/repo/sql-query-safety-checker) ★1 - TypeScript | A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution. | 06/11/2025<br />06/19/2025 |
 | [ResumeBuilderMAUI](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C# | I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed. | 06/04/2024<br />06/11/2024 |
-| [personal-website](https://sametcc.me/repo/personal-website) - MDX | No description provided. | 09/07/2023<br />01/26/2026 |
 | [sametcn99](https://sametcc.me/repo/sametcn99) - TypeScript | automated profile readme | 01/25/2026<br />01/26/2026 |
+| [personal-website](https://sametcc.me/repo/personal-website) - MDX | No description provided. | 09/07/2023<br />01/26/2026 |
 | [golter-web](https://sametcc.me/repo/golter-web) - TypeScript | golter landing page | 01/17/2026<br />01/18/2026 |
 | [golter](https://sametcc.me/repo/golter) - Go | Terminal-based file converter built with Go | 01/16/2026<br />01/18/2026 |
 | [orhan-elektronik](https://sametcc.me/repo/orhan-elektronik) - TypeScript | No description provided. | 01/01/2025<br />01/04/2026 |
@@ -268,4 +268,4 @@ pie showData
 ---
 
 Auto-generated<br />
-Last updated: Mon, 26 Jan 2026 18:58:08 GMT
+Last updated: Tue, 27 Jan 2026 00:19:20 GMT
