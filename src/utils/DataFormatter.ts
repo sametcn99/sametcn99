@@ -1,48 +1,24 @@
-import { MarkdownUtils } from "../utils/MarkdownUtils";
+import { MarkdownUtils } from "./MarkdownUtils";
 
-export class ActivitySectionGenerator implements ISectionGenerator {
-	constructor(private readonly events: GitHubEvent[]) {}
+export interface FormattedPost {
+	title: string;
+	url: string;
+	summary: string;
+	dateStr: string;
+}
 
-	generate(): string {
-		if (this.events.length === 0) return "";
+export interface FormattedRepo {
+	name: string;
+	html_url: string;
+	stargazers_count?: number;
+	language?: string | null;
+	description: string;
+	dateStr: string;
+}
 
-		let content = "";
-		content += `## Latest Activity${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
-		content += `This section tracks my recent interactions across GitHub, including pushes, pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
-
-		const filteredEvents = this.events.filter(
-			(event) => event.type && event.type !== "PushEvent",
-		);
-
-		const recentEvents = filteredEvents.slice(0, 10);
-		const olderEvents = filteredEvents.slice(10);
-
-		for (const event of recentEvents) {
-			const formattedActivity = this.formatActivity(event);
-			if (formattedActivity) {
-				content += `${formattedActivity}${MarkdownUtils.newLine()}`;
-			}
-		}
-
-		if (olderEvents.length > 0) {
-			content += `${MarkdownUtils.newLine()}<details>${MarkdownUtils.newLine()}`;
-			content += `<summary>Show ${olderEvents.length} more activities...</summary>${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
-
-			for (const event of olderEvents) {
-				const formattedActivity = this.formatActivity(event);
-				if (formattedActivity) {
-					content += `${formattedActivity}${MarkdownUtils.newLine()}`;
-				}
-			}
-
-			content += `${MarkdownUtils.newLine()}</details>${MarkdownUtils.newLine()}`;
-		}
-
-		content += MarkdownUtils.newLine();
-		return content;
-	}
-
-	private formatActivity(event: GitHubEvent): string {
+// biome-ignore lint/complexity/noStaticOnlyClass: utility class
+export class DataFormatter {
+	static formatActivity(event: GitHubEvent): string | null {
 		const date = event.created_at
 			? MarkdownUtils.formatDateLong(event.created_at)
 			: "";
@@ -53,49 +29,171 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 
 		switch (eventType) {
 			case "CreateEvent":
-				activity = this.formatCreateEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatCreateEvent(event, repoName, repoUrl);
 				break;
 			case "DeleteEvent":
-				activity = this.formatDeleteEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatDeleteEvent(event, repoName, repoUrl);
 				break;
 			case "IssuesEvent":
-				activity = this.formatIssuesEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatIssuesEvent(event, repoName, repoUrl);
 				break;
 			case "IssueCommentEvent":
-				activity = this.formatIssueCommentEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatIssueCommentEvent(
+					event,
+					repoName,
+					repoUrl,
+				);
 				break;
 			case "PullRequestEvent":
-				activity = this.formatPullRequestEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatPullRequestEvent(
+					event,
+					repoName,
+					repoUrl,
+				);
 				break;
 			case "PullRequestReviewEvent":
-				activity = this.formatPRReviewEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatPRReviewEvent(event, repoName, repoUrl);
 				break;
 			case "PullRequestReviewCommentEvent":
-				activity = this.formatPRReviewCommentEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatPRReviewCommentEvent(
+					event,
+					repoName,
+					repoUrl,
+				);
 				break;
 			case "WatchEvent":
 				activity = `Starred [${repoName}](${repoUrl})`;
 				break;
 			case "ForkEvent":
-				activity = this.formatForkEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatForkEvent(event, repoName, repoUrl);
 				break;
 			case "ReleaseEvent":
-				activity = this.formatReleaseEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatReleaseEvent(event, repoName, repoUrl);
 				break;
 			case "MemberEvent":
-				activity = this.formatMemberEvent(event, repoName, repoUrl);
+				activity = DataFormatter.formatMemberEvent(event, repoName, repoUrl);
 				break;
 			default:
 				activity = `${eventType.replace("Event", "")} in [${repoName}](${repoUrl})`;
 		}
 
 		if (activity) {
-			return `- **${activity}** *(${date})*`;
+			return `**${activity}** *(${date})*`;
 		}
-		return "";
+		return null;
 	}
 
-	private formatCreateEvent(
+	static formatRepo(repo: Repository): FormattedRepo {
+		const created = repo.created_at
+			? MarkdownUtils.formatDateLong(repo.created_at)
+			: "";
+		const updated = repo.pushed_at
+			? MarkdownUtils.formatDateLong(repo.pushed_at)
+			: "";
+
+		let dateStr = "";
+		if (created && updated) {
+			dateStr = `Created: ${created} • Updated: ${updated}`;
+		} else if (updated) {
+			dateStr = `Updated: ${updated}`;
+		}
+
+		return {
+			name: repo.name,
+			html_url: `https://sametcc.me/repo/${repo.name}`,
+			stargazers_count: repo.stargazers_count,
+			language: repo.language,
+			description: repo.description || "No description provided.",
+			dateStr,
+		};
+	}
+
+	static prepareRepoData(repos: Repository[]): {
+		recentlyUpdated: FormattedRepo[];
+		active: {
+			visible: FormattedRepo[];
+			hidden: FormattedRepo[];
+			length: number;
+		};
+		forked: {
+			visible: FormattedRepo[];
+			hidden: FormattedRepo[];
+			length: number;
+		};
+		archived: {
+			visible: FormattedRepo[];
+			hidden: FormattedRepo[];
+			length: number;
+		};
+	} {
+		// 1. Recently Updated (Top 5, owned, sorted by push date)
+		const recentlyUpdatedRaw = repos
+			.filter((r) => !r.fork)
+			.sort((a, b) => {
+				const dateA = new Date(a.pushed_at || 0).getTime();
+				const dateB = new Date(b.pushed_at || 0).getTime();
+				return dateB - dateA;
+			})
+			.slice(0, 5);
+
+		// Other groups sorted by stars
+		const sortedByStars = [...repos].sort(
+			(a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0),
+		);
+
+		const activeRaw = sortedByStars.filter((r) => !r.fork && !r.archived);
+		const forkedRaw = sortedByStars.filter((r) => r.fork && !r.archived);
+		const archivedRaw = sortedByStars.filter((r) => r.archived);
+
+		const splitGroup = (groupRepos: Repository[], limit: number) => {
+			const visible = groupRepos
+				.slice(0, limit)
+				.map((r) => DataFormatter.formatRepo(r));
+			const hidden = groupRepos
+				.slice(limit)
+				.map((r) => DataFormatter.formatRepo(r));
+			return {
+				visible,
+				hidden,
+				length: groupRepos.length,
+			};
+		};
+
+		return {
+			recentlyUpdated: recentlyUpdatedRaw.map((r) =>
+				DataFormatter.formatRepo(r),
+			),
+			active: splitGroup(activeRaw, 10),
+			forked: splitGroup(forkedRaw, 10),
+			archived: splitGroup(archivedRaw, 10),
+		};
+	}
+
+	static preparePostsData(posts: FeedItem[]): {
+		recent: FormattedPost[];
+		older: FormattedPost[];
+	} {
+		const format = (item: FeedItem): FormattedPost => {
+			const date = item.date_published
+				? MarkdownUtils.formatDateLong(item.date_published)
+				: "";
+			const dateStr = date ? ` *(${date})*` : "";
+
+			return {
+				title: item.title,
+				url: item.url,
+				summary: item.summary,
+				dateStr,
+			};
+		};
+
+		const recent = posts.slice(0, 10).map(format);
+		const older = posts.slice(10).map(format);
+
+		return { recent, older };
+	}
+
+	private static formatCreateEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -116,7 +214,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatDeleteEvent(
+	private static formatDeleteEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -129,7 +227,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatIssuesEvent(
+	private static formatIssuesEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -148,7 +246,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatIssueCommentEvent(
+	private static formatIssueCommentEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -162,7 +260,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatPullRequestEvent(
+	private static formatPullRequestEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -183,7 +281,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatPRReviewEvent(
+	private static formatPRReviewEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -199,7 +297,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatPRReviewCommentEvent(
+	private static formatPRReviewCommentEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -215,7 +313,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatForkEvent(
+	private static formatForkEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -229,7 +327,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatReleaseEvent(
+	private static formatReleaseEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,
@@ -243,7 +341,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 		return "";
 	}
 
-	private formatMemberEvent(
+	private static formatMemberEvent(
 		event: GitHubEvent,
 		repoName: string,
 		repoUrl: string,

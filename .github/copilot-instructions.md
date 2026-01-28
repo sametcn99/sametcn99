@@ -12,6 +12,7 @@ These instructions help an AI coding assistant become productive in this reposit
 ## Project Purpose
 
 This repository generates an automated GitHub profile `README.md` for the configured user. The application:
+
 - Fetches the user's public GitHub profile, repositories, and recent events via `@octokit/rest`.
 - Pulls latest blog/gist posts from a JSON feed (default `https://sametcc.me/feed.json`).
 - Aggregates data into `data.json` then renders Markdown sections using `ISectionGenerator` implementations under `src/generators/`.

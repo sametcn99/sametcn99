@@ -38,10 +38,6 @@ declare global {
 	type WorkflowRun =
 		RestEndpointMethodTypes["actions"]["listWorkflowRuns"]["response"]["data"]["workflow_runs"][number];
 
-	interface ISectionGenerator {
-		generate(): string;
-	}
-
 	interface IDataFetcher<T> {
 		fetch(): Promise<T>;
 	}

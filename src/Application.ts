@@ -1,21 +1,12 @@
-import {
-	ActivitySectionGenerator,
-	ContactGenerator,
-	FooterGenerator,
-	ReposSectionGenerator,
-	StatisticsSectionGenerator,
-	TOCGenerator,
-	WebsiteSectionGenerator,
-	WorkflowSectionGenerator,
-} from "./generators";
+import Handlebars from "handlebars";
 import { FeedService } from "./services/FeedService";
 import { GitHubDataProvider } from "./services/GitHubService";
+import { DataFormatter } from "./utils/DataFormatter";
 
 interface ApplicationConfig {
 	feedUrl: string;
 	username: string;
 	outputPath: string;
-	dataPath: string;
 }
 
 export class Application {
@@ -30,7 +21,6 @@ export class Application {
 			feedUrl: config?.feedUrl ?? "https://sametcc.me/feed.json",
 			username: config?.username ?? "sametcn99",
 			outputPath: config?.outputPath ?? "README.md",
-			dataPath: config?.dataPath ?? "data.json",
 		};
 
 		this.githubProvider = new GitHubDataProvider(this.config.username, token);
@@ -70,37 +60,49 @@ export class Application {
 			throw new Error("Failed to fetch user profile");
 		}
 
-		// 2. Save data to JSON
-		console.log("Saving data to JSON...");
-		const data: ProfileData = {
-			generatedAt: new Date().toISOString(),
-			userStats,
-			userProfile,
-			recentPosts,
-			repositories: reposData,
-			events: eventsData,
-			workflow: workflowData,
+		// 2. Load template
+		const templateSource = await Bun.file("src/templates/README.hbs.md").text();
+
+		// 3. Compile template
+		const template = Handlebars.compile(templateSource);
+
+		// 4. Prepare context data
+		const formattedActivity = eventsData
+			.filter((event) => event.type !== "PushEvent")
+			.map((event) => DataFormatter.formatActivity(event))
+			.filter((activity): activity is string => activity !== null);
+
+		const activity = {
+			recent: formattedActivity.slice(0, 10),
+			older: formattedActivity.slice(10),
 		};
-		await Bun.write(this.config.dataPath, JSON.stringify(data, null, 2));
-		console.log(`${this.config.dataPath} updated successfully!`);
 
-		// 3. Build section generators
-		const generators: ISectionGenerator[] = [
-			new TOCGenerator(),
-			new WebsiteSectionGenerator(recentPosts),
-			new ActivitySectionGenerator(eventsData),
-			new StatisticsSectionGenerator(reposData, userStats),
-			new ReposSectionGenerator(reposData),
-			new ContactGenerator(),
-			new WorkflowSectionGenerator(workflowData),
-			new FooterGenerator(),
-		];
+		const workflow = workflowData
+			? {
+					name: workflowData.name,
+					id: workflowData.id,
+					html_url: workflowData.html_url,
+					event: workflowData.event,
+					date: workflowData.run_started_at
+						? new Date(workflowData.run_started_at).toUTCString()
+						: "Unknown",
+				}
+			: null;
 
-		// 4. Generate content
+		const context = {
+			posts: DataFormatter.preparePostsData(recentPosts),
+			activity,
+			stats: userStats,
+			repos: DataFormatter.prepareRepoData(reposData),
+			workflow,
+			generatedAt: new Date().toUTCString(),
+		};
+
+		// 5. Render
+		const content = template(context);
+
+		// 6. Write README.md
 		console.log("Generating README.md...");
-		const content = generators.map((gen) => gen.generate()).join("");
-
-		// 5. Write output
 		await Bun.write(this.config.outputPath, content);
 		console.log(`${this.config.outputPath} updated successfully!`);
 	}
