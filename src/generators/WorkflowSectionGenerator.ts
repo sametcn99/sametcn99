@@ -19,7 +19,7 @@ export class WorkflowSectionGenerator implements ISectionGenerator {
 		content += `- **Run Number:** ${this.workflowRun.run_number}${MarkdownUtils.newLine()}`;
 		content += `- **Run ID:** [${this.workflowRun.id}](${this.workflowRun.html_url})${MarkdownUtils.newLine()}`;
 		content += `- **Trigger Event:** ${this.workflowRun.event}${MarkdownUtils.newLine()}`;
-		content += `- **Run Started:** ${startTime} (GMT)${MarkdownUtils.newLine()}`;
+		content += `- **Run Started:** ${startTime}${MarkdownUtils.newLine()}`;
 		return content;
 	}
 }
