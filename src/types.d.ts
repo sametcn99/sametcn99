@@ -35,6 +35,9 @@ declare global {
 	type UserProfile =
 		RestEndpointMethodTypes["users"]["getByUsername"]["response"]["data"];
 
+	type WorkflowRun =
+		RestEndpointMethodTypes["actions"]["listWorkflowRuns"]["response"]["data"]["workflow_runs"][number];
+
 	interface ISectionGenerator {
 		generate(): string;
 	}
@@ -50,5 +53,6 @@ declare global {
 		recentPosts: FeedItem[];
 		repositories: Repository[];
 		events: GitHubEvent[];
+		workflow: WorkflowRun | null;
 	};
 }

@@ -6,6 +6,7 @@ import {
 	StatisticsSectionGenerator,
 	TOCGenerator,
 	WebsiteSectionGenerator,
+	WorkflowSectionGenerator,
 } from "./generators";
 import { FeedService } from "./services/FeedService";
 import { GitHubDataProvider } from "./services/GitHubService";
@@ -42,20 +43,28 @@ export class Application {
 		const reposDataPromise = this.githubProvider.fetchRepositories();
 		const eventsDataPromise = this.githubProvider.fetchEvents();
 		const userProfilePromise = this.githubProvider.fetchProfile();
+		const workflowPromise = this.githubProvider.fetchWorkflow();
 
 		const userStatsPromise = this.githubProvider.fetchUserStats(
 			reposDataPromise,
 			userProfilePromise,
 		);
 
-		const [recentPosts, reposData, eventsData, userProfile, userStats] =
-			await Promise.all([
-				recentPostsPromise,
-				reposDataPromise,
-				eventsDataPromise,
-				userProfilePromise,
-				userStatsPromise,
-			]);
+		const [
+			recentPosts,
+			reposData,
+			eventsData,
+			userProfile,
+			workflowData,
+			userStats,
+		] = await Promise.all([
+			recentPostsPromise,
+			reposDataPromise,
+			eventsDataPromise,
+			userProfilePromise,
+			workflowPromise,
+			userStatsPromise,
+		]);
 
 		if (!userProfile) {
 			throw new Error("Failed to fetch user profile");
@@ -70,6 +79,7 @@ export class Application {
 			recentPosts,
 			repositories: reposData,
 			events: eventsData,
+			workflow: workflowData,
 		};
 		await Bun.write(this.config.dataPath, JSON.stringify(data, null, 2));
 		console.log(`${this.config.dataPath} updated successfully!`);
@@ -82,6 +92,7 @@ export class Application {
 			new StatisticsSectionGenerator(reposData, userStats),
 			new ReposSectionGenerator(reposData),
 			new ContactGenerator(),
+			new WorkflowSectionGenerator(workflowData),
 			new FooterGenerator(),
 		];
 

@@ -8,14 +8,13 @@ export class TOCGenerator implements ISectionGenerator {
 		content += `- [Latest Activity](#latest-activity)${MarkdownUtils.newLine()}`;
 		content += `- [Statistics](#statistics)${MarkdownUtils.newLine()}`;
 		content += `  - [GitHub Stats](#github-stats)${MarkdownUtils.newLine()}`;
-		content += `  - [Languages](#languages)${MarkdownUtils.newLine()}`;
-		content += `  - [Repositories Created per Year](#repositories-created-per-year)${MarkdownUtils.newLine()}`;
-		content += `  - [Repository Distribution](#repository-distribution)${MarkdownUtils.newLine()}`;
 		content += `- [Repositories](#repositories)${MarkdownUtils.newLine()}`;
+		content += `  - [Recently Updated](#recently-updated)${MarkdownUtils.newLine()}`;
 		content += `  - [Active Repositories](#active-repositories)${MarkdownUtils.newLine()}`;
 		content += `  - [Forked Repositories](#forked-repositories)${MarkdownUtils.newLine()}`;
 		content += `  - [Archived Repositories](#archived-repositories)${MarkdownUtils.newLine()}`;
 		content += `- [Contact](#contact)${MarkdownUtils.newLine()}`;
+		content += `- [For Nerds](#for-nerds)${MarkdownUtils.newLine()}`;
 		content += MarkdownUtils.newLine();
 		return content;
 	}
