@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"start": "bun run index.ts",
+		"start": "bun run src/index.ts",
 		"format": "bunx biome format --write && bunx prettier --write README.md",
 		"lint": "bunx biome lint --write",
 		"check": "bunx biome check --write && bunx prettier --write README.md"

@@ -1,54 +1,37 @@
-import type { RestEndpointMethodTypes } from "@octokit/rest";
+/** biome-ignore-all lint/correctness/noUnusedVariables: . */
+type FeedItem = {
+	id: string;
+	url: string;
+	title: string;
+	summary: string;
+	date_published?: string;
+};
 
-declare global {
-	type FeedItem = {
-		id: string;
-		url: string;
-		title: string;
-		summary: string;
-		date_published?: string;
-	};
+type UserStats = {
+	totalStars: number;
+	totalCommits: number | string;
+	totalPRs: number;
+	totalIssues: number;
+	contributedTo: number;
+	totalRepos: number;
+	totalGists: number;
+	mergedPRs: number;
+	reviewedPRs: number;
+	accountAge: string;
+};
 
-	type Feed = {
-		items: FeedItem[];
-	};
+type Repository =
+	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
 
-	type UserStats = {
-		totalStars: number;
-		totalCommits: number;
-		totalPRs: number;
-		totalIssues: number;
-		contributedTo: number;
-		totalRepos: number;
-		totalGists: number;
-		mergedPRs: number;
-		reviewedPRs: number;
-		accountAge: string;
-	};
+type GitHubEvent =
+	import("@octokit/rest").RestEndpointMethodTypes["activity"]["listPublicEventsForUser"]["response"]["data"][number];
 
-	type Repository =
-		RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
+type UserProfile =
+	import("@octokit/rest").RestEndpointMethodTypes["users"]["getByUsername"]["response"]["data"];
 
-	type GitHubEvent =
-		RestEndpointMethodTypes["activity"]["listPublicEventsForUser"]["response"]["data"][number];
+type WorkflowRun =
+	import("@octokit/rest").RestEndpointMethodTypes["actions"]["listWorkflowRuns"]["response"]["data"]["workflow_runs"][number];
 
-	type UserProfile =
-		RestEndpointMethodTypes["users"]["getByUsername"]["response"]["data"];
-
-	type WorkflowRun =
-		RestEndpointMethodTypes["actions"]["listWorkflowRuns"]["response"]["data"]["workflow_runs"][number];
-
-	interface IDataFetcher<T> {
-		fetch(): Promise<T>;
-	}
-
-	type ProfileData = {
-		generatedAt: string;
-		userStats: UserStats;
-		userProfile: UserProfile;
-		recentPosts: FeedItem[];
-		repositories: Repository[];
-		events: GitHubEvent[];
-		workflow: WorkflowRun | null;
-	};
+interface IDataFetcher<T> {
+	fetch(): Promise<T>;
 }

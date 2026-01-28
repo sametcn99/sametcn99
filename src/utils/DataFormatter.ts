@@ -1,4 +1,4 @@
-import { MarkdownUtils } from "./MarkdownUtils";
+import { formatDateLong } from "./MarkdownUtils";
 
 export interface FormattedPost {
 	title: string;
@@ -19,9 +19,7 @@ export interface FormattedRepo {
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
 export class DataFormatter {
 	static formatActivity(event: GitHubEvent): string | null {
-		const date = event.created_at
-			? MarkdownUtils.formatDateLong(event.created_at)
-			: "";
+		const date = event.created_at ? formatDateLong(event.created_at) : "";
 		const repoName = event.repo.name;
 		const repoUrl = `https://github.com/${repoName}`;
 		let activity = "";
@@ -84,12 +82,8 @@ export class DataFormatter {
 	}
 
 	static formatRepo(repo: Repository): FormattedRepo {
-		const created = repo.created_at
-			? MarkdownUtils.formatDateLong(repo.created_at)
-			: "";
-		const updated = repo.pushed_at
-			? MarkdownUtils.formatDateLong(repo.pushed_at)
-			: "";
+		const created = repo.created_at ? formatDateLong(repo.created_at) : "";
+		const updated = repo.pushed_at ? formatDateLong(repo.pushed_at) : "";
 
 		let dateStr = "";
 		if (created && updated) {
@@ -175,7 +169,7 @@ export class DataFormatter {
 	} {
 		const format = (item: FeedItem): FormattedPost => {
 			const date = item.date_published
-				? MarkdownUtils.formatDateLong(item.date_published)
+				? formatDateLong(item.date_published)
 				: "";
 			const dateStr = date ? ` *(${date})*` : "";
 

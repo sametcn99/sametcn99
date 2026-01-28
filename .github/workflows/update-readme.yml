@@ -46,7 +46,7 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Generate README
-        run: bun run index.ts
+        run: bun run start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

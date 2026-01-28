@@ -1,6 +1,6 @@
 import { Octokit } from "@octokit/rest";
 
-export class GitHubService {
+class GitHubService {
 	private readonly username: string;
 
 	constructor(username: string, token?: string) {
@@ -18,7 +18,7 @@ export class GitHubService {
 	}
 }
 
-export class RepositoryFetcher implements IDataFetcher<Repository[]> {
+class RepositoryFetcher implements IDataFetcher<Repository[]> {
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
@@ -52,7 +52,7 @@ export class RepositoryFetcher implements IDataFetcher<Repository[]> {
 	}
 }
 
-export class EventFetcher implements IDataFetcher<GitHubEvent[]> {
+class EventFetcher implements IDataFetcher<GitHubEvent[]> {
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
@@ -90,7 +90,7 @@ export class EventFetcher implements IDataFetcher<GitHubEvent[]> {
 	}
 }
 
-export class ProfileFetcher implements IDataFetcher<UserProfile | null> {
+class ProfileFetcher implements IDataFetcher<UserProfile | null> {
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
@@ -112,7 +112,7 @@ export class ProfileFetcher implements IDataFetcher<UserProfile | null> {
 	}
 }
 
-export class UserStatsFetcher implements IDataFetcher<UserStats> {
+class UserStatsFetcher implements IDataFetcher<UserStats> {
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
@@ -221,7 +221,9 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 					mediaType: { previews: ["cloak"] },
 				},
 			);
-			stats.totalCommits = commits.total_count;
+			const count = commits.total_count;
+			stats.totalCommits =
+				count >= 100 ? `${Math.floor(count / 100) * 100}+` : count;
 		} catch (error) {
 			console.error("Error fetching Commits stats:", error);
 		}
@@ -284,7 +286,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 	}
 }
 
-export class WorkflowFetcher implements IDataFetcher<WorkflowRun | null> {
+class WorkflowFetcher implements IDataFetcher<WorkflowRun | null> {
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
