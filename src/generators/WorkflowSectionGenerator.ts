@@ -14,14 +14,14 @@ export class WorkflowSectionGenerator implements ISectionGenerator {
 
 		const startTime = this.workflowRun.run_started_at
 			? new Date(this.workflowRun.run_started_at).toLocaleString("en-US", {
-					timeZone: "UTC",
+					timeZone: "GMT",
 				})
 			: "Unknown";
 		content += `- **Workflow Name:** ${this.workflowRun.name}${MarkdownUtils.newLine()}`;
 		content += `- **Run Number:** ${this.workflowRun.run_number}${MarkdownUtils.newLine()}`;
 		content += `- **Run ID:** [${this.workflowRun.id}](${this.workflowRun.html_url})${MarkdownUtils.newLine()}`;
 		content += `- **Trigger Event:** ${this.workflowRun.event}${MarkdownUtils.newLine()}`;
-		content += `- **Run Started:** ${startTime} (UTC)${MarkdownUtils.newLine()}`;
+		content += `- **Run Started:** ${startTime} (GMT)${MarkdownUtils.newLine()}`;
 		return content;
 	}
 }
