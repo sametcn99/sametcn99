@@ -1,5 +1,5 @@
 {
-	"generatedAt": "2026-01-28T00:44:38.021Z",
+	"generatedAt": "2026-01-28T00:47:27.374Z",
 	"userStats": {
 		"totalStars": 180,
 		"totalCommits": 1077,
@@ -6117,8 +6117,8 @@
 			"releases_url": "https://api.github.com/repos/sametcn99/sametcn99/releases{/id}",
 			"deployments_url": "https://api.github.com/repos/sametcn99/sametcn99/deployments",
 			"created_at": "2026-01-25T23:24:46Z",
-			"updated_at": "2026-01-28T00:43:06Z",
-			"pushed_at": "2026-01-28T00:43:02Z",
+			"updated_at": "2026-01-28T00:47:20Z",
+			"pushed_at": "2026-01-28T00:47:16Z",
 			"git_url": "git://github.com/sametcn99/sametcn99.git",
 			"ssh_url": "git@github.com:sametcn99/sametcn99.git",
 			"clone_url": "https://github.com/sametcn99/sametcn99.git",
@@ -15951,25 +15951,25 @@
 		}
 	],
 	"workflow": {
-		"id": 21420198185,
+		"id": 21420270571,
 		"name": "Update Profile README",
-		"node_id": "WFR_kwLORBLW2c8AAAAE_L5JKQ",
+		"node_id": "WFR_kwLORBLW2c8AAAAE_L9j6w",
 		"head_branch": "main",
-		"head_sha": "874d9b3996ae4468e6cf0a2c0f5c1cf7af6d0f20",
+		"head_sha": "b0b1656538e3bf5fc406c7686e3f75a5b99c88ff",
 		"path": ".github/workflows/update-readme.yml",
-		"display_title": "Update Profile README",
-		"run_number": 30,
-		"event": "workflow_dispatch",
+		"display_title": "fix: Update schema path in biome.json and enhance workflow section ou…",
+		"run_number": 31,
+		"event": "push",
 		"status": "in_progress",
 		"conclusion": null,
 		"workflow_id": 226945218,
-		"check_suite_id": 55618513008,
-		"check_suite_node_id": "CS_kwDORBLW2c8AAAAM8x8ocA",
-		"url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420198185",
-		"html_url": "https://github.com/sametcn99/sametcn99/actions/runs/21420198185",
+		"check_suite_id": 55618712349,
+		"check_suite_node_id": "CS_kwDORBLW2c8AAAAM8yIzHQ",
+		"url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420270571",
+		"html_url": "https://github.com/sametcn99/sametcn99/actions/runs/21420270571",
 		"pull_requests": [],
-		"created_at": "2026-01-28T00:44:25Z",
-		"updated_at": "2026-01-28T00:44:30Z",
+		"created_at": "2026-01-28T00:47:18Z",
+		"updated_at": "2026-01-28T00:47:22Z",
 		"actor": {
 			"login": "sametcn99",
 			"id": 57061347,
@@ -15993,7 +15993,7 @@
 		},
 		"run_attempt": 1,
 		"referenced_workflows": [],
-		"run_started_at": "2026-01-28T00:44:25Z",
+		"run_started_at": "2026-01-28T00:47:18Z",
 		"triggering_actor": {
 			"login": "sametcn99",
 			"id": 57061347,
@@ -16015,26 +16015,26 @@
 			"user_view_type": "public",
 			"site_admin": false
 		},
-		"jobs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420198185/jobs",
-		"logs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420198185/logs",
-		"check_suite_url": "https://api.github.com/repos/sametcn99/sametcn99/check-suites/55618513008",
-		"artifacts_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420198185/artifacts",
-		"cancel_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420198185/cancel",
-		"rerun_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420198185/rerun",
+		"jobs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420270571/jobs",
+		"logs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420270571/logs",
+		"check_suite_url": "https://api.github.com/repos/sametcn99/sametcn99/check-suites/55618712349",
+		"artifacts_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420270571/artifacts",
+		"cancel_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420270571/cancel",
+		"rerun_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21420270571/rerun",
 		"previous_attempt_url": null,
 		"workflow_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/workflows/226945218",
 		"head_commit": {
-			"id": "874d9b3996ae4468e6cf0a2c0f5c1cf7af6d0f20",
-			"tree_id": "be01a37534a8fcf7af64756912c34dd74fde4507",
-			"message": "update profile readme & data [skip ci]",
-			"timestamp": "2026-01-28T00:43:01Z",
+			"id": "b0b1656538e3bf5fc406c7686e3f75a5b99c88ff",
+			"tree_id": "9552e1ac22a3a8b40cf1dfc517cb133986eca82e",
+			"message": "fix: Update schema path in biome.json and enhance workflow section output",
+			"timestamp": "2026-01-28T00:47:15Z",
 			"author": {
-				"name": "github-actions[bot]",
-				"email": "github-actions[bot]@users.noreply.github.com"
+				"name": "sametcn99",
+				"email": "sametcn99@gmail.com"
 			},
 			"committer": {
-				"name": "github-actions[bot]",
-				"email": "github-actions[bot]@users.noreply.github.com"
+				"name": "sametcn99",
+				"email": "sametcn99@gmail.com"
 			}
 		},
 		"repository": {
