@@ -88,23 +88,23 @@ This section tracks my recent interactions across GitHub, including pushes, pull
 <details>
 <summary>Show 47 more activities...</summary>
 
-- **Starred [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
+- **Starred [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 24, 2026)_
 
-- **Starred [barats/resizem](https://github.com/barats/resizem)** _(Jan 23, 2026)_
+- **Starred [barats/resizem](https://github.com/barats/resizem)** _(Jan 22, 2026)_
 
-- **Starred [wailsapp/wails](https://github.com/wailsapp/wails)** _(Jan 23, 2026)_
+- **Starred [wailsapp/wails](https://github.com/wailsapp/wails)** _(Jan 22, 2026)_
 
 - **Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** _(Jan 22, 2026)_
 
-- **Starred [sametirkoren/pharmacy-scraper](https://github.com/sametirkoren/pharmacy-scraper)** _(Jan 21, 2026)_
+- **Starred [sametirkoren/pharmacy-scraper](https://github.com/sametirkoren/pharmacy-scraper)** _(Jan 20, 2026)_
 
-- **Starred [sametirkoren/pharmacy-on-duty](https://github.com/sametirkoren/pharmacy-on-duty)** _(Jan 21, 2026)_
+- **Starred [sametirkoren/pharmacy-on-duty](https://github.com/sametirkoren/pharmacy-on-duty)** _(Jan 20, 2026)_
 
-- **Starred [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm)** _(Jan 19, 2026)_
+- **Starred [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm)** _(Jan 18, 2026)_
 
 - **Published release [0.1.3](https://github.com/sametcn99/golter/releases/tag/0.1.3) in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 18, 2026)_
 
-- **Published release [0.1.2](https://github.com/sametcn99/golter/releases/tag/0.1.2) in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 18, 2026)_
+- **Published release [0.1.2](https://github.com/sametcn99/golter/releases/tag/0.1.2) in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 17, 2026)_
 
 - **Published release [0.1.1](https://github.com/sametcn99/golter/releases/tag/0.1.1) in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 17, 2026)_
 
@@ -112,11 +112,11 @@ This section tracks my recent interactions across GitHub, including pushes, pull
 
 - **Published release [0.1.0](https://github.com/sametcn99/golter/releases/tag/0.1.0) in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 17, 2026)_
 
-- **Created branch &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 17, 2026)_
+- **Created branch &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 16, 2026)_
 
-- **Starred [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)** _(Jan 16, 2026)_
+- **Starred [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)** _(Jan 15, 2026)_
 
-- **Starred [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github)** _(Jan 15, 2026)_
+- **Starred [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github)** _(Jan 14, 2026)_
 
 - **Starred [coollabsio/fonts](https://github.com/coollabsio/fonts)** _(Jan 14, 2026)_
 
@@ -191,7 +191,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                  | Value   |
 | :---------------------- | :------ |
 | **Total Stars Earned:** | 180     |
-| **Total Commits:**      | 1085    |
+| **Total Commits:**      | 1086    |
 | **Total PRs:**          | 19      |
 | **Total Issues:**       | 9       |
 | **Contributed To:**     | 5       |
@@ -209,15 +209,15 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 26, 2026 • Updated: Jan 28, 2026_<br />automated profile readme
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />automated profile readme
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
 
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 25, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 24, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 - [**golter-web**](https://sametcc.me/repo/golter-web) - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
-- [**golter**](https://sametcc.me/repo/golter) - Go<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
+- [**golter**](https://sametcc.me/repo/golter) - Go<br />_Created: Jan 16, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
 
 ### Active Repositories
 
@@ -231,17 +231,17 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**nextui-blog-template**](https://sametcc.me/repo/nextui-blog-template) ★12 - TypeScript<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 25, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 24, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
-- [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 - TypeScript<br />_Created: Nov 5, 2023 • Updated: Oct 21, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
+- [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 - TypeScript<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 - TypeScript<br />_Created: May 16, 2024 • Updated: Nov 4, 2025_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
-- [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 - TypeScript<br />_Created: Aug 27, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+- [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 - TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 
-- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 - HTML<br />_Created: Jun 27, 2024 • Updated: Jan 14, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 - HTML<br />_Created: Jun 26, 2024 • Updated: Jan 14, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 
-- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 - TypeScript<br />_Created: Jul 15, 2025 • Updated: Jan 10, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
+- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 - TypeScript<br />_Created: Jul 14, 2025 • Updated: Jan 10, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 
 <details>
 <summary>Show 19 more repositories...</summary>
@@ -258,29 +258,29 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 - TypeScript<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />No description provided.
 
-- [**xls-to-gantt**](https://sametcc.me/repo/xls-to-gantt) ★1 - TypeScript<br />_Created: Apr 22, 2025 • Updated: Dec 17, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
+- [**xls-to-gantt**](https://sametcc.me/repo/xls-to-gantt) ★1 - TypeScript<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
 
 - [**sametcn99.github.io**](https://sametcc.me/repo/sametcn99.github.io) ★1 - HTML<br />_Created: Jan 6, 2024 • Updated: Oct 25, 2025_<br />redirect to personal website
 
-- [**fullstack-template**](https://sametcc.me/repo/fullstack-template) ★1 - TypeScript<br />_Created: Sep 6, 2025 • Updated: Sep 7, 2025_<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
+- [**fullstack-template**](https://sametcc.me/repo/fullstack-template) ★1 - TypeScript<br />_Created: Sep 6, 2025 • Updated: Sep 6, 2025_<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
 
-- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - Shell<br />_Created: Oct 17, 2025 • Updated: Oct 17, 2025_<br />No description provided.
+- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - Shell<br />_Created: Oct 16, 2025 • Updated: Oct 16, 2025_<br />No description provided.
 
 - [**sql-query-safety-checker**](https://sametcc.me/repo/sql-query-safety-checker) ★1 - TypeScript<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 26, 2026 • Updated: Jan 28, 2026_<br />automated profile readme
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />automated profile readme
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
 
 - [**golter-web**](https://sametcc.me/repo/golter-web) - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
-- [**golter**](https://sametcc.me/repo/golter) - Go<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
+- [**golter**](https://sametcc.me/repo/golter) - Go<br />_Created: Jan 16, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
 
-- [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) - TypeScript<br />_Created: Jan 1, 2025 • Updated: Jan 5, 2026_<br />No description provided.
+- [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) - TypeScript<br />_Created: Jan 1, 2025 • Updated: Jan 4, 2026_<br />No description provided.
 
-- [**instaloader-api**](https://sametcc.me/repo/instaloader-api) - Python<br />_Created: Jan 4, 2026 • Updated: Jan 7, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
+- [**instaloader-api**](https://sametcc.me/repo/instaloader-api) - Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) - HTML<br />_Created: Dec 23, 2025 • Updated: Dec 24, 2025_<br />No description provided.
 
@@ -300,15 +300,15 @@ Repositories I have forked to contribute to, study, or customize. This list refl
 
 Older projects that are no longer actively maintained but kept for reference and historical context. Feel free to browse them for code snippets or to see my past work.
 
-- [**ResumeBuilder**](https://sametcc.me/repo/ResumeBuilder) ★14 - C#<br />_Created: Dec 9, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
+- [**ResumeBuilder**](https://sametcc.me/repo/ResumeBuilder) ★14 - C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
 
-- [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 - TypeScript<br />_Created: Oct 29, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
+- [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 - TypeScript<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 
-- [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 - TypeScript<br />_Created: Nov 23, 2023 • Updated: Oct 15, 2025_<br />moved: https://github.com/sametcn99/GPVBlazor
+- [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 - TypeScript<br />_Created: Nov 23, 2023 • Updated: Oct 14, 2025_<br />moved: https://github.com/sametcn99/GPVBlazor
 
 - [**nextjs-cookie-based-auth**](https://sametcc.me/repo/nextjs-cookie-based-auth) ★4 - TypeScript<br />_Created: Oct 30, 2023 • Updated: Sep 18, 2024_<br />This project has been created to learn how to implement JSON Web Token (JWT) and cookie-based authentication for only an administrator (admin) using Next.js.
 
-- [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 - TypeScript<br />_Created: Oct 28, 2023 • Updated: Dec 14, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
+- [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 - TypeScript<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 
 - [**code-nest-web**](https://sametcc.me/repo/code-nest-web) ★2 - TypeScript<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
 
@@ -318,20 +318,20 @@ Older projects that are no longer actively maintained but kept for reference and
 
 - [**MarkdownFileRenamer**](https://sametcc.me/repo/MarkdownFileRenamer) ★2 - C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
 
-- [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 - C#<br />_Created: Sep 19, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
+- [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 - C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 
 <details>
 <summary>Show 16 more repositories...</summary>
 
-- [**altinsaray-ds**](https://sametcc.me/repo/altinsaray-ds) ★1 - TypeScript<br />_Created: May 18, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
+- [**altinsaray-ds**](https://sametcc.me/repo/altinsaray-ds) ★1 - TypeScript<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
 
-- [**NLayerCourse**](https://sametcc.me/repo/NLayerCourse) ★1 - C#<br />_Created: Sep 28, 2024 • Updated: Oct 5, 2024_<br />learning progress repo
+- [**NLayerCourse**](https://sametcc.me/repo/NLayerCourse) ★1 - C#<br />_Created: Sep 27, 2024 • Updated: Oct 5, 2024_<br />learning progress repo
 
 - [**highcharts-v4-demo-test**](https://sametcc.me/repo/highcharts-v4-demo-test) ★1 - TypeScript<br />_Created: Jun 24, 2025 • Updated: Jun 25, 2025_<br />No description provided.
 
 - [**animated-search-bar**](https://sametcc.me/repo/animated-search-bar) ★1 - TypeScript<br />_Created: Dec 29, 2023 • Updated: May 10, 2024_<br />two simple component to add animation to input
 
-- [**DotNetChartJS**](https://sametcc.me/repo/DotNetChartJS) ★1 - HTML<br />_Created: Jul 10, 2024 • Updated: Aug 12, 2024_<br />This project is initiated to test the integration of Chart.js within a .NET Blazor Web Application.
+- [**DotNetChartJS**](https://sametcc.me/repo/DotNetChartJS) ★1 - HTML<br />_Created: Jul 9, 2024 • Updated: Aug 12, 2024_<br />This project is initiated to test the integration of Chart.js within a .NET Blazor Web Application.
 
 - [**mern-stack**](https://sametcc.me/repo/mern-stack) ★1 - TypeScript<br />_Created: Sep 4, 2024 • Updated: Sep 12, 2024_<br />This project is a learning progress project aimed at mastering the MERN stack (MongoDB, Express, React, Node.js).
 
@@ -341,7 +341,7 @@ Older projects that are no longer actively maintained but kept for reference and
 
 - [**dev-manager**](https://sametcc.me/repo/dev-manager) ★1 - TypeScript<br />_Created: Mar 23, 2025 • Updated: Apr 4, 2025_<br />A comprehensive Visual Studio Code extension that streamlines package management across multiple Node.js projects.
 
-- [**mermaid-editor**](https://sametcc.me/repo/mermaid-editor) ★1 - JavaScript<br />_Created: Feb 16, 2025 • Updated: Feb 17, 2025_<br />No description provided.
+- [**mermaid-editor**](https://sametcc.me/repo/mermaid-editor) ★1 - JavaScript<br />_Created: Feb 16, 2025 • Updated: Feb 16, 2025_<br />No description provided.
 
 - [**SnipDocs**](https://sametcc.me/repo/SnipDocs) ★1 - TypeScript<br />_Created: May 21, 2025 • Updated: May 25, 2025_<br />Instantly access clean, context-aware documentation snippets for your favorite programming languages and frameworks without leaving your code.
 
@@ -370,15 +370,15 @@ Feel free to reach out to me through any of the channels listed below. Whether f
 
 <details>
 <summary>
-Last updated: Wed, 28 Jan 2026 19:32:23 GMT
+Last updated: Wed, 28 Jan 2026 19:44:21 GMT
 </summary>
 
 This `README.md` is auto-generated by a script specified in the `src` directory of this repository.
 The script fetches data from GitHub's API, retrieves the latest blog posts from my website's RSS/JSON feed, and generates this markdown file.
 
 - **Workflow Name:** `Update Profile README`
-- **Run ID:** `[21447549540](https://github.com/sametcn99/sametcn99/actions/runs/21447549540)`
+- **Run ID:** `[21453001907](https://github.com/sametcn99/sametcn99/actions/runs/21453001907)`
 - **Trigger:** `push`
-- **Happened:** `Wed, 28 Jan 2026 16:56:36 GMT`
+- **Happened:** `Wed, 28 Jan 2026 19:44:11 GMT`
 
 </details>
