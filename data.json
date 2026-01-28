@@ -1,5 +1,5 @@
 {
-	"generatedAt": "2026-01-28T12:08:05.664Z",
+	"generatedAt": "2026-01-28T16:56:48.174Z",
 	"userStats": {
 		"totalStars": 180,
 		"totalCommits": 1084,
@@ -6117,14 +6117,14 @@
 			"releases_url": "https://api.github.com/repos/sametcn99/sametcn99/releases{/id}",
 			"deployments_url": "https://api.github.com/repos/sametcn99/sametcn99/deployments",
 			"created_at": "2026-01-25T23:24:46Z",
-			"updated_at": "2026-01-28T02:23:04Z",
-			"pushed_at": "2026-01-28T02:23:01Z",
+			"updated_at": "2026-01-28T16:56:37Z",
+			"pushed_at": "2026-01-28T16:56:33Z",
 			"git_url": "git://github.com/sametcn99/sametcn99.git",
 			"ssh_url": "git@github.com:sametcn99/sametcn99.git",
 			"clone_url": "https://github.com/sametcn99/sametcn99.git",
 			"svn_url": "https://github.com/sametcn99/sametcn99",
 			"homepage": "https://sametcc.me/readme",
-			"size": 343,
+			"size": 344,
 			"stargazers_count": 0,
 			"watchers_count": 0,
 			"language": "TypeScript",
@@ -7052,6 +7052,32 @@
 		}
 	],
 	"events": [
+		{
+			"id": "7910847900",
+			"type": "PushEvent",
+			"actor": {
+				"id": 57061347,
+				"login": "sametcn99",
+				"display_login": "sametcn99",
+				"gravatar_id": "",
+				"url": "https://api.github.com/users/sametcn99",
+				"avatar_url": "https://avatars.githubusercontent.com/u/57061347?"
+			},
+			"repo": {
+				"id": 1142085337,
+				"name": "sametcn99/sametcn99",
+				"url": "https://api.github.com/repos/sametcn99/sametcn99"
+			},
+			"payload": {
+				"repository_id": 1142085337,
+				"push_id": 30205626655,
+				"ref": "refs/heads/main",
+				"head": "f85d5c1413725266cf9d8be43ca1c5a3c23ae29b",
+				"before": "a4568841514a4fb9f891ffff21f3fbc113b00061"
+			},
+			"public": true,
+			"created_at": "2026-01-28T16:56:33Z"
+		},
 		{
 			"id": "7886868392",
 			"type": "PushEvent",
@@ -16133,25 +16159,25 @@
 		}
 	],
 	"workflow": {
-		"id": 21437593277,
+		"id": 21447549540,
 		"name": "Update Profile README",
-		"node_id": "WFR_kwLORBLW2c8AAAAE_ce2vQ",
+		"node_id": "WFR_kwLORBLW2c8AAAAE_l-iZA",
 		"head_branch": "main",
-		"head_sha": "e03a759819b11324ad127acb302b418ee24b89b6",
+		"head_sha": "f85d5c1413725266cf9d8be43ca1c5a3c23ae29b",
 		"path": ".github/workflows/update-readme.yml",
-		"display_title": "Update Profile README",
-		"run_number": 37,
-		"event": "schedule",
+		"display_title": "fix: Simplify commit logic in update-readme workflow by removing unne…",
+		"run_number": 38,
+		"event": "push",
 		"status": "in_progress",
 		"conclusion": null,
 		"workflow_id": 226945218,
-		"check_suite_id": 55669004645,
-		"check_suite_node_id": "CS_kwDORBLW2c8AAAAM9iGZZQ",
-		"url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21437593277",
-		"html_url": "https://github.com/sametcn99/sametcn99/actions/runs/21437593277",
+		"check_suite_id": 55699696981,
+		"check_suite_node_id": "CS_kwDORBLW2c8AAAAM9_XtVQ",
+		"url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21447549540",
+		"html_url": "https://github.com/sametcn99/sametcn99/actions/runs/21447549540",
 		"pull_requests": [],
-		"created_at": "2026-01-28T12:07:53Z",
-		"updated_at": "2026-01-28T12:07:57Z",
+		"created_at": "2026-01-28T16:56:36Z",
+		"updated_at": "2026-01-28T16:56:41Z",
 		"actor": {
 			"login": "sametcn99",
 			"id": 57061347,
@@ -16175,7 +16201,7 @@
 		},
 		"run_attempt": 1,
 		"referenced_workflows": [],
-		"run_started_at": "2026-01-28T12:07:53Z",
+		"run_started_at": "2026-01-28T16:56:36Z",
 		"triggering_actor": {
 			"login": "sametcn99",
 			"id": 57061347,
@@ -16197,26 +16223,26 @@
 			"user_view_type": "public",
 			"site_admin": false
 		},
-		"jobs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21437593277/jobs",
-		"logs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21437593277/logs",
-		"check_suite_url": "https://api.github.com/repos/sametcn99/sametcn99/check-suites/55669004645",
-		"artifacts_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21437593277/artifacts",
-		"cancel_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21437593277/cancel",
-		"rerun_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21437593277/rerun",
+		"jobs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21447549540/jobs",
+		"logs_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21447549540/logs",
+		"check_suite_url": "https://api.github.com/repos/sametcn99/sametcn99/check-suites/55699696981",
+		"artifacts_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21447549540/artifacts",
+		"cancel_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21447549540/cancel",
+		"rerun_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/runs/21447549540/rerun",
 		"previous_attempt_url": null,
 		"workflow_url": "https://api.github.com/repos/sametcn99/sametcn99/actions/workflows/226945218",
 		"head_commit": {
-			"id": "e03a759819b11324ad127acb302b418ee24b89b6",
-			"tree_id": "a92e7f6b11c737cdf9a87e184484227aeb38fc22",
-			"message": "update profile readme & data [skip ci]",
-			"timestamp": "2026-01-28T02:23:00Z",
+			"id": "f85d5c1413725266cf9d8be43ca1c5a3c23ae29b",
+			"tree_id": "90b31ddee565cb6cdc593bf926231afbcbf3df03",
+			"message": "fix: Simplify commit logic in update-readme workflow by removing unnecessary checks",
+			"timestamp": "2026-01-28T16:56:32Z",
 			"author": {
-				"name": "github-actions[bot]",
-				"email": "github-actions[bot]@users.noreply.github.com"
+				"name": "sametcn99",
+				"email": "sametcn99@gmail.com"
 			},
 			"committer": {
-				"name": "github-actions[bot]",
-				"email": "github-actions[bot]@users.noreply.github.com"
+				"name": "sametcn99",
+				"email": "sametcn99@gmail.com"
 			}
 		},
 		"repository": {
