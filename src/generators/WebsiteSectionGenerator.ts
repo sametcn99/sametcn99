@@ -8,6 +8,7 @@ export class WebsiteSectionGenerator implements ISectionGenerator {
 
 		let content = "";
 		content += `## Latest Content${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		content += `Stay updated with my latest blog posts, tutorials, and other content published on my personal website. Here you'll find thoughts on technology, development guides, and project showcases.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
 
 		const topPosts = this.posts.slice(0, 10);
 		const olderPosts = this.posts.slice(10);

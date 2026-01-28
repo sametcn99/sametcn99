@@ -8,6 +8,7 @@ export class ReposSectionGenerator implements ISectionGenerator {
 
 		let content = "";
 		content += `${MarkdownUtils.newLine()}## Repositories${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		content += `Explore a comprehensive list of my code repositories, categorized by their status and type. This includes projects I've recently updated, those I maintain actively, as well as forks and archived exploratory work.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
 
 		// 1. Recently Updated (Top 5, owned, sorted by push date)
 		const recentRepos = this.repos
@@ -49,6 +50,16 @@ export class ReposSectionGenerator implements ISectionGenerator {
 
 		let content = "";
 		content += `### ${title}${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+
+		if (title === "Recently Updated") {
+			content += `These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		} else if (title === "Active Repositories") {
+			content += `A collection of my primary projects that are currently maintained and under active development. These repositories represent my core open-source contributions and personal tools.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		} else if (title === "Forked Repositories") {
+			content += `Repositories I have forked to contribute to, study, or customize. This list reflects my involvement in the broader open-source ecosystem and tools I find interesting.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		} else if (title === "Archived Repositories") {
+			content += `Older projects that are no longer actively maintained but kept for reference and historical context. Feel free to browse them for code snippets or to see my past work.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		}
 
 		const showCount = collapse ? 10 : repos.length;
 		const visibleRepos = repos.slice(0, showCount);

@@ -8,6 +8,7 @@ export class ActivitySectionGenerator implements ISectionGenerator {
 
 		let content = "";
 		content += `## Latest Activity${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		content += `This section tracks my recent interactions across GitHub, including pushes, pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
 
 		const filteredEvents = this.events.filter(
 			(event) => event.type && event.type !== "PushEvent",

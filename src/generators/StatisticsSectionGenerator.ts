@@ -9,6 +9,7 @@ export class StatisticsSectionGenerator implements ISectionGenerator {
 	generate(): string {
 		let content = "";
 		content += `## Statistics${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		content += `A quantitative look at my GitHub presence, summarizing my overall contributions and repository metrics. These stats reflect my coding habits, preferred languages, and long-term activity.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
 
 		content += this.generateGitHubStatsTable();
 
@@ -38,6 +39,7 @@ export class StatisticsSectionGenerator implements ISectionGenerator {
 
 		let content = "";
 		content += `### GitHub Stats${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
+		content += `Detailed numbers breaking down my repositories, commits, pull requests, and other key interactions. This table provides a quick snapshot of my impact and engagement on the platform.${MarkdownUtils.newLine()}${MarkdownUtils.newLine()}`;
 		content += `| Metric | Count |${MarkdownUtils.newLine()}`;
 		content += `| :--- | :--- |${MarkdownUtils.newLine()}`;
 		content += `| Top Language | ${topLanguage} |${MarkdownUtils.newLine()}`;
