@@ -1,6 +1,6 @@
 import Handlebars from "handlebars";
-import { FeedService } from "./services/FeedService";
-import { GitHubDataProvider } from "./services/GitHubService";
+import { FeedService } from "./services/feed-service/FeedService";
+import { GitHubDataProvider } from "./services/github-service/GitHubDataProvider";
 import { DataFormatter } from "./utils/DataFormatter";
 
 interface ApplicationConfig {
@@ -100,11 +100,7 @@ class Application {
 
 		// 5. Render
 		const content = template(context);
-
-		// 6. Write README.md
-		console.log("Generating README.md...");
 		await Bun.write(this.config.outputPath, content);
-		console.log(`${this.config.outputPath} updated successfully!`);
 	}
 }
 

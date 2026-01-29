@@ -4,9 +4,9 @@ These instructions help an AI coding assistant become productive in this reposit
 
 ## Quick summary
 
-- Runtime: Bun. Run generators with `bun run index.ts` (see [package.json](package.json)).
+- Runtime: Bun. Run generators with `bun run start` (see [package.json](package.json)).
 - Formatting / linting: Biome (`bunx biome format`, `bunx biome lint`).
-- Main entry: `Application` orchestrates generation; output is `README.md` and `data.json`.
+- Main entry: `src/index.ts` orchestrates generation; output is `README.md`.
 - GitHub access: uses `@octokit/rest` and respects `GITHUB_TOKEN` / `GH_TOKEN` env vars.
 
 ## Project Purpose
@@ -15,61 +15,64 @@ This repository generates an automated GitHub profile `README.md` for the config
 
 - Fetches the user's public GitHub profile, repositories, and recent events via `@octokit/rest`.
 - Pulls latest blog/gist posts from a JSON feed (default `https://sametcc.me/feed.json`).
-- Aggregates data into `data.json` then renders Markdown sections using `ISectionGenerator` implementations under `src/generators/`.
+- Aggregates data into a context object then renders `README.md.hbs` using Handlebars.
 - Is intended to run in CI (see `/.github/workflows/update-readme.yml`) on a schedule or manually to keep the profile README up-to-date.
 
-Typical consumer tasks: add generators, extend GitHub queries (via new `*Fetcher`), or adjust formatting in `src/utils/MarkdownUtils.ts`.
+Typical consumer tasks: modify the Handlebars template, extend GitHub queries (via new `*Fetcher`), or adjust formatting in `src/utils/DataFormatter.ts`.
 
 ## Architecture & data flow (big picture)
 
-- Orchestration: `src/Application.ts` is the coordinator. It fetches feed + GitHub data, saves `data.json`, then runs a list of `ISectionGenerator` instances to produce `README.md`.
-- Data providers: `src/services/GitHubService.ts` (Octokit wrapper + fetcher classes) and `src/services/FeedService.ts` (simple JSON feed fetcher).
-- Sections: individual Markdown sections are produced by classes in `src/generators/` that implement `ISectionGenerator` (see [src/generators/index.ts](src/generators/index.ts)).
-- Utilities & types: shared helpers live in [src/utils/MarkdownUtils.ts](src/utils/MarkdownUtils.ts) and global shape/types are in [src/types.d.ts](src/types.d.ts).
+- Orchestration: `src/index.ts` contains the `Application` class coordinator. It fetches feed + GitHub data then renders the template.
+- Data providers:
+    - GitHub: `src/services/github-service/` containing `GitHubDataProvider` and specialized fetchers (e.g., `RepositoryFetcher.ts`).
+    - Feed: `src/services/feed-service/FeedService.ts` (simple JSON feed fetcher).
+- Templating: `src/README.md.hbs` defines the structure using Handlebars syntax.
+- Logic & Formatting: `src/utils/DataFormatter.ts` handles complex data transformations and `src/utils/MarkdownUtils.ts` provides lower-level formatting.
+- Types: Shared shapes are in [src/types.d.ts](src/types.d.ts).
 
 ## Conventions & patterns (do this in your edits)
 
-- Adding a README section: create a new generator in `src/generators/`, export it from `src/generators/index.ts`, and add it into the `generators` array inside `Application.generate()` so ordering is explicit.
-- Data persistence: the project writes `data.json` using `Bun.write` — avoid changing this name unless you update `Application` default `dataPath`.
-- Error handling: network fetchers log and return sensible fallbacks (usually empty arrays) — follow the same pattern for new fetchers.
-- Octokit usage: follow the `GitHubDataProvider` façade pattern (small fetcher classes: `RepositoryFetcher`, `EventFetcher`, `UserStatsFetcher`). Keep heavy GitHub queries inside these fetchers.
+- Adding a README section: Update [src/README.md.hbs](src/README.md.hbs) to include the new section, update `Application.generate` in `src/index.ts` to fetch/provide the data, and use `DataFormatter.ts` if processing is needed.
+- Error handling: network fetchers log and return sensible fallbacks (usually empty arrays or null) — follow the same pattern for new fetchers.
+- Octokit usage: follow the `GitHubDataProvider` facade pattern using small fetcher classes under `src/services/github-service/`. Keep heavy GitHub queries inside these fetchers.
 
 ## Local dev & CI workflows
 
-- Run locally: `bun run index.ts`.
-- Formatting & checks: `bunx biome format --write`, `bunx biome lint --write`, `bunx biome check --write` (scripts in [package.json](package.json)).
+- Run locally: `bun run start`.
+- Formatting & checks: `bun run check` (scripts in [package.json](package.json)).
 - CI: see [/.github/workflows/update-readme.yml](.github/workflows/update-readme.yml). The workflow:
-  - sets up Bun, caches dependencies, runs `bun run index.ts`, and commits `README.md` + `data.json` when meaningful changes exist.
-  - The workflow ignores generated timestamp lines when deciding to commit — preserve that format when changing output text.
+  - sets up Bun, caches dependencies, runs `bun run start`, and commits `README.md` when changes exist.
 
 ## Important integration points
 
 - Feed URL: default in `Application` is `https://sametcc.me/feed.json`. Override via constructor `feedUrl` for testing.
 - Environment: `GITHUB_TOKEN` / `GH_TOKEN` (if missing the code warns and some data will be partial).
-- Output files: `README.md` (final) and `data.json` (intermediate). CI commit logic diff-ignores timestamp fields — keep `generatedAt` and `Last updated:` patterns stable.
+- Output files: `README.md`.
 
 ## What to read first (recommended files)
 
-- [src/Application.ts](src/Application.ts) — orchestration and generator ordering.
-- [src/services/GitHubService.ts](src/services/GitHubService.ts) — Octokit usage and fetcher patterns.
-- [src/generators/\*](src/generators/) — examples of generating markdown sections (TOC, Repos, Stats).
-- [src/utils/MarkdownUtils.ts](src/utils/MarkdownUtils.ts) — common helpers for formatting and escaping.
+- [src/index.ts](src/index.ts) — orchestration and application entry point.
+- [src/README.md.hbs](src/README.md.hbs) — the Handlebars template for the README.
+- [src/services/github-service/GitHubDataProvider.ts](src/services/github-service/GitHubDataProvider.ts) — Octokit usage and fetcher patterns.
+- [src/utils/DataFormatter.ts](src/utils/DataFormatter.ts) — how raw data is prepared for the template.
 - [package.json](package.json) and [/.github/workflows/update-readme.yml](.github/workflows/update-readme.yml) — how the project is run and automated.
 
 ## Practical examples for automated edits
 
-- To add a new section generator named `XGenerator`:
-  1. Create `src/generators/XGenerator.ts` exporting a class that implements `ISectionGenerator` with `generate()`.
-  2. Add `export { XGenerator } from "./XGenerator";` to [src/generators/index.ts](src/generators/index.ts).
-  3. Import and instantiate it in `Application`'s `generators` array in the desired position so content order remains intentional.
+- To add a new GitHub query:
+  1. Create `src/services/github-service/XFetcher.ts` following existing patterns.
+  2. Add it to `GitHubDataProvider.ts`.
+  3. Call it in `src/index.ts`.
 
-- To add a new GitHub query, add a small fetcher class under `src/services/` (follow `*Fetcher` pattern), keep network calls in the fetcher, and invoke it via `GitHubDataProvider`.
+- To change the README layout:
+  1. Edit [src/README.md.hbs](src/README.md.hbs).
+  2. If new data is needed, update the context in `src/index.ts`.
 
 ## Editing and testing notes for AI agents
 
-- Preserve stable markers used by CI when generating output: the README contains a `Last updated:` line and `data.json` contains `generatedAt` — CI uses `git diff -I` to ignore those when deciding to commit.
 - Use existing utility functions instead of duplicating logic (eg. `MarkdownUtils.formatDateLong`).
 - Keep network-facing code defensive: follow existing pattern of try/catch + console.error + fallback return values.
+- Respect Biome linting and formatting rules.
 
 ## Questions / gaps
 
