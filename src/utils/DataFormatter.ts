@@ -158,8 +158,8 @@ export class DataFormatter {
 				DataFormatter.formatRepo(r),
 			),
 			active: splitGroup(activeRaw, 10),
-			forked: splitGroup(forkedRaw, 10),
-			archived: splitGroup(archivedRaw, 10),
+			forked: splitGroup(forkedRaw, 5),
+			archived: splitGroup(archivedRaw, 5),
 		};
 	}
 
