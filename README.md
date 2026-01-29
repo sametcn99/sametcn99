@@ -46,7 +46,7 @@ I prioritize:
 - Automation in development and deployment workflows
 - Continuous learning and improving engineering practices
 
-I actively work on open-source projects and enjoy exploring new tools, frameworks, and ideas that improve developer productivity and system reliability.
+I actively work on open-source projects and enjoy exploring new tools, frameworks, and ideas that improve developer productivity and system reliability.  
 Below is a quick overview to learn more about my work, activity, and how to get in touch.
 
 ## Table of Contents
