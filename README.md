@@ -114,7 +114,7 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 ## Latest Activity
 
-This section tracks my recent interactions across GitHub, including pushes, pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
+This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
 
 - **Starred [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)** _(Jan 29, 2026)_
 
