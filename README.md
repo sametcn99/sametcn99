@@ -65,6 +65,8 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 This section tracks my recent interactions across GitHub, including pushes, pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
 
+- **Published release [1.1.8](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/1.1.8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jan 29, 2026)_
+
 - **Starred [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)** _(Jan 28, 2026)_
 
 - **Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** _(Jan 28, 2026)_
@@ -83,10 +85,10 @@ This section tracks my recent interactions across GitHub, including pushes, pull
 
 - **Created branch &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 26, 2026)_
 
-- **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
-
 <details>
-<summary>Show 49 more activities...</summary>
+<summary>Show 50 more activities...</summary>
+
+- **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 
 - **Opened pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 
@@ -194,7 +196,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                  | Value   |
 | :---------------------- | :------ |
-| **Total Stars Earned:** | 180     |
+| **Total Stars Earned:** | 179     |
 | **Total Commits:**      | 1000+   |
 | **Total PRs:**          | 19      |
 | **Total Issues:**       | 9       |
@@ -213,7 +215,9 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />No description provided.
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 29, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
 
@@ -221,13 +225,11 @@ These are the projects I have been most active on recently. Check here to see th
 
 - [**golter-web**](https://sametcc.me/repo/golter-web) - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
-- [**golter**](https://sametcc.me/repo/golter) - Go<br />_Created: Jan 16, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
-
 ### Active Repositories
 
 A collection of my primary projects that are currently maintained and under active development. These repositories represent my core open-source contributions and personal tools.
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 8, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 - TypeScript<br />_Created: Mar 24, 2024 • Updated: Dec 19, 2025_<br />the missing html based widget manager application
 
@@ -248,7 +250,7 @@ A collection of my primary projects that are currently maintained and under acti
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 - TypeScript<br />_Created: Jul 14, 2025 • Updated: Jan 10, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 
 <details>
-<summary>Show 19 more repositories...</summary>
+<summary>Show 18 more repositories...</summary>
 
 - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 - JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 
@@ -259,8 +261,6 @@ A collection of my primary projects that are currently maintained and under acti
 - [**svg-split**](https://sametcc.me/repo/svg-split) ★1 - JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
 
 - [**electron-widgets-web**](https://sametcc.me/repo/electron-widgets-web) ★1 - Vue<br />_Created: Apr 3, 2024 • Updated: Oct 18, 2025_<br />No description provided.
-
-- [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 - TypeScript<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />No description provided.
 
 - [**xls-to-gantt**](https://sametcc.me/repo/xls-to-gantt) ★1 - TypeScript<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
 
@@ -274,7 +274,7 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />No description provided.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 29, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
 
@@ -325,7 +325,7 @@ Older projects that are no longer actively maintained but kept for reference and
 - [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 - C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 
 <details>
-<summary>Show 16 more repositories...</summary>
+<summary>Show 17 more repositories...</summary>
 
 - [**altinsaray-ds**](https://sametcc.me/repo/altinsaray-ds) ★1 - TypeScript<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
 
@@ -358,6 +358,8 @@ Older projects that are no longer actively maintained but kept for reference and
 - [**nestjs-course**](https://sametcc.me/repo/nestjs-course) ★1 - TypeScript<br />_Created: Dec 9, 2024 • Updated: Dec 9, 2024_<br />No description provided.
 
 - [**gists**](https://sametcc.me/repo/gists) ★1 - TypeScript<br />_Created: Dec 15, 2024 • Updated: Apr 2, 2025_<br />moved https://sametcc.me/personal-website
+
+- [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) - TypeScript<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
 
 </details>
 
