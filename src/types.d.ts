@@ -10,6 +10,7 @@ type FeedItem = {
 type UserStats = {
 	totalStars: number;
 	totalCommits: number | string;
+	commitsLast7Days: number | string;
 	totalPRs: number;
 	totalIssues: number;
 	contributedTo: number;

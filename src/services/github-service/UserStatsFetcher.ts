@@ -14,6 +14,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		const stats: UserStats = {
 			totalStars: 0,
 			totalCommits: 0,
+			commitsLast7Days: 0,
 			totalPRs: 0,
 			totalIssues: 0,
 			contributedTo: 0,
@@ -29,6 +30,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 			this.fetchPRs(stats, username),
 			this.fetchIssues(stats, username),
 			this.fetchCommits(stats, username),
+			this.fetchCommitsLast7Days(stats, username),
 			this.fetchContributions(stats, username),
 			this.fetchMergedPRs(stats, username),
 			this.fetchReviewedPRs(stats, username),
@@ -110,9 +112,33 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 			);
 			const count = commits.total_count;
 			stats.totalCommits =
-				count >= 100 ? `${Math.floor(count / 100) * 100}+` : count;
+				count >= 10 ? `${Math.floor(count / 10) * 10}+` : count;
 		} catch (error) {
 			console.error("Error fetching Commits stats:", error);
+		}
+	}
+
+	private async fetchCommitsLast7Days(
+		stats: UserStats,
+		username: string,
+	): Promise<void> {
+		try {
+			const sevenDaysAgo = new Date();
+			sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+			const dateStr = sevenDaysAgo.toISOString().split("T")[0];
+
+			const { data: commits } = await this.octokit.request(
+				"GET /search/commits",
+				{
+					q: `author:${username} committer-date:>${dateStr}`,
+					mediaType: { previews: ["cloak"] },
+				},
+			);
+			const count = commits.total_count;
+			stats.commitsLast7Days =
+				count >= 10 ? `${Math.floor(count / 10) * 10}+` : count;
+		} catch (error) {
+			console.error("Error fetching Commits Last 7 Days stats:", error);
 		}
 	}
 
