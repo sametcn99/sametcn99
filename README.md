@@ -65,6 +65,10 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 This section tracks my recent interactions across GitHub, including pushes, pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
 
+- **Starred [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)** _(Jan 28, 2026)_
+
+- **Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** _(Jan 28, 2026)_
+
 - **Starred [madara88645/Compiler](https://github.com/madara88645/Compiler)** _(Jan 28, 2026)_
 
 - **Starred [odest/katip](https://github.com/odest/katip)** _(Jan 28, 2026)_
@@ -81,12 +85,12 @@ This section tracks my recent interactions across GitHub, including pushes, pull
 
 - **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 
+<details>
+<summary>Show 49 more activities...</summary>
+
 - **Opened pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 
 - **Forked [mogretici/nestlens](https://github.com/mogretici/nestlens) to [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 25, 2026)_
-
-<details>
-<summary>Show 47 more activities...</summary>
 
 - **Starred [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 24, 2026)_
 
@@ -209,7 +213,7 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />automated profile readme
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
 
@@ -270,7 +274,7 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />automated profile readme
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 28, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
 
