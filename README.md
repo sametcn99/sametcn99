@@ -247,18 +247,19 @@ This section tracks my recent interactions across GitHub, including pull request
 
 A summary of my GitHub statistics, showcasing my contributions, repositories, and overall activity on the platform.
 
-| Metric                  | Value   |
-| :---------------------- | :------ |
-| **Total Stars Earned:** | 179     |
-| **Total Commits:**      | 1000+   |
-| **Total PRs:**          | 19      |
-| **Total Issues:**       | 9       |
-| **Contributed To:**     | 5       |
-| **Total Repositories:** | 58      |
-| **Total Gists:**        | 53      |
-| **Merged PRs:**         | 16      |
-| **Reviewed PRs:**       | 0       |
-| **Account Age:**        | 6 years |
+| Metric                     | Value   |
+| :------------------------- | :------ |
+| **Total Stars Earned:**    | 179     |
+| **Total Commits:**         | 1090+   |
+| **Commits (Last 7 Days):** | 50+     |
+| **Total PRs:**             | 19      |
+| **Total Issues:**          | 9       |
+| **Contributed To:**        | 5       |
+| **Total Repositories:**    | 58      |
+| **Total Gists:**           | 53      |
+| **Merged PRs:**            | 16      |
+| **Reviewed PRs:**          | 0       |
+| **Account Age:**           | 6 years |
 
 ## Repositories
 
