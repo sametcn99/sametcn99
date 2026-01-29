@@ -61,7 +61,7 @@ class Application {
 		}
 
 		// 2. Load template
-		const templateSource = await Bun.file("src/README.hbs.md").text();
+		const templateSource = await Bun.file("src/README.md.hbs").text();
 
 		// 3. Compile template
 		const template = Handlebars.compile(templateSource);
