@@ -1,3 +1,54 @@
+# Hi there!
+
+I’m a software developer with hands-on experience across **front-end**, **back-end**, and **DevOps** domains. I enjoy building clean, scalable, and production-ready systems, and I care deeply about maintainability, performance, and developer experience.
+
+## What I Do
+
+- Develop modern web applications using **React.js**, **Next.js**, and **Vue.js**
+- Build robust back-end services with **.NET**, **NestJS**, and **C#**
+- Design and work with relational databases such as **PostgreSQL**, **MS SQL**, and **SQLite**
+- Create and maintain **CI/CD pipelines** using **GitHub Actions**, **Docker**, **Azure**, and **AWS**
+- Develop **cross-platform desktop applications** with **Electron.js** and **.NET MAUI**
+- Follow **clean code**, **SOLID principles**, and pragmatic architecture decisions
+
+## Tech Stack
+
+**Frontend**
+
+- React.js, Next.js, Vue.js
+- TypeScript, JavaScript
+
+**Backend**
+
+- .NET, NestJS, C#
+- RESTful APIs, modular service design
+
+**Databases**
+
+- PostgreSQL, MS SQL, SQLite
+
+**DevOps & Tooling**
+
+- GitHub Actions, Docker
+- Azure, AWS
+
+**Desktop**
+
+- Electron.js
+- .NET MAUI
+
+## Focus & Mindset
+
+I prioritize:
+
+- Clean and readable code
+- Long-term maintainability over short-term hacks
+- Automation in development and deployment workflows
+- Continuous learning and improving engineering practices
+
+I actively work on open-source projects and enjoy exploring new tools, frameworks, and ideas that improve developer productivity and system reliability.
+Below is a quick overview to learn more about my work, activity, and how to get in touch.
+
 ## Table of Contents
 
 - [Latest Blog Posts](#latest-blog-posts)
@@ -316,6 +367,9 @@ Older projects that are no longer actively maintained but kept for reference and
 
 - [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 - TypeScript<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 
+<details>
+<summary>Show 22 more repositories...</summary>
+
 - [**code-nest-web**](https://sametcc.me/repo/code-nest-web) ★2 - TypeScript<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
 
 - [**rock-paper-scissors**](https://sametcc.me/repo/rock-paper-scissors) ★2 - TypeScript<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />This is a simple rock-paper-scissors game built with React and Next.js. The game is played against the computer using the React Context.
@@ -325,9 +379,6 @@ Older projects that are no longer actively maintained but kept for reference and
 - [**MarkdownFileRenamer**](https://sametcc.me/repo/MarkdownFileRenamer) ★2 - C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
 
 - [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 - C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
-
-<details>
-<summary>Show 17 more repositories...</summary>
 
 - [**altinsaray-ds**](https://sametcc.me/repo/altinsaray-ds) ★1 - TypeScript<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
 
