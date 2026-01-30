@@ -254,7 +254,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | **Commits (Last 7 Days):** | 50+     |
 | **Total PRs:**             | 19      |
 | **Total Issues:**          | 9       |
-| **Contributed To:**        | 5       |
+| **Contributed To:**        | 4       |
 | **Total Repositories:**    | 58      |
 | **Total Gists:**           | 53      |
 | **Merged PRs:**            | 16      |
@@ -269,11 +269,11 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
+- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
+
 - [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 29, 2026_<br />No description provided.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-
-- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 24, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
@@ -328,9 +328,9 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 29, 2026_<br />No description provided.
+- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
-- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 28, 2026_<br />No description provided.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 29, 2026_<br />No description provided.
 
 - [**golter-web**](https://sametcc.me/repo/golter-web) - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
