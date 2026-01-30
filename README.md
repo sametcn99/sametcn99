@@ -136,7 +136,7 @@ This section tracks my recent interactions across GitHub, including pull request
 
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 
-- **Starred [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** _(Jan 26, 2026)_
+- **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
 
 <details>
 <summary>Show 51 more activities...</summary>
