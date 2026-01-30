@@ -118,6 +118,10 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
 
+- **Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)** _(Jan 30, 2026)_
+
+- **Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)** _(Jan 30, 2026)_
+
 - **Starred [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)** _(Jan 29, 2026)_
 
 - **Published release [1.1.8](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/1.1.8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jan 29, 2026)_
@@ -134,12 +138,12 @@ This section tracks my recent interactions across GitHub, including pull request
 
 - **Starred [Subutay-CyberSecurity/ProtoBas](https://github.com/Subutay-CyberSecurity/ProtoBas)** _(Jan 28, 2026)_
 
+<details>
+<summary>Show 53 more activities...</summary>
+
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 
 - **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
-
-<details>
-<summary>Show 51 more activities...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 26, 2026)_
 
