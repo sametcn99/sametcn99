@@ -19,6 +19,7 @@ type UserStats = {
 	mergedPRs: number;
 	reviewedPRs: number;
 	accountAge: string;
+	topLanguages: string;
 };
 
 type Repository =

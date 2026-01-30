@@ -23,6 +23,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 			mergedPRs: 0,
 			reviewedPRs: 0,
 			accountAge: "",
+			topLanguages: "",
 		};
 
 		// Start independent fetches immediately
@@ -54,6 +55,9 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 			0,
 		);
 
+		// Top Languages
+		this.processTopLanguages(stats, reposData);
+
 		await independentFetches;
 
 		return stats;
@@ -68,6 +72,23 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		const diffTime = Math.abs(now.getTime() - createdAt.getTime());
 		const years = Math.floor(diffTime / (1000 * 60 * 60 * 24 * 365));
 		stats.accountAge = `${years} years`;
+	}
+
+	private processTopLanguages(stats: UserStats, repos: Repository[]): void {
+		const languageCounts: Record<string, number> = {};
+
+		for (const repo of repos) {
+			if (!repo.fork && repo.language) {
+				languageCounts[repo.language] = (languageCounts[repo.language] || 0) + 1;
+			}
+		}
+
+		const sortedLanguages = Object.entries(languageCounts)
+			.sort(([, a], [, b]) => b - a)
+			.slice(0, 5)
+			.map(([language]) => language);
+
+		stats.topLanguages = sortedLanguages.join(", ");
 	}
 
 	private async fetchPRs(stats: UserStats, username: string): Promise<void> {
