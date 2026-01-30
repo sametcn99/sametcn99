@@ -247,19 +247,20 @@ This section tracks my recent interactions across GitHub, including pull request
 
 A summary of my GitHub statistics, showcasing my contributions, repositories, and overall activity on the platform.
 
-| Metric                     | Value   |
-| :------------------------- | :------ |
-| **Total Stars Earned:**    | 179     |
-| **Total Commits:**         | 1090+   |
-| **Commits (Last 7 Days):** | 50+     |
-| **Total PRs:**             | 19      |
-| **Total Issues:**          | 9       |
-| **Contributed To:**        | 4       |
-| **Total Repositories:**    | 58      |
-| **Total Gists:**           | 53      |
-| **Merged PRs:**            | 16      |
-| **Reviewed PRs:**          | 0       |
-| **Account Age:**           | 6 years |
+| Metric                     | Value                                 |
+| :------------------------- | :------------------------------------ |
+| **Total Stars Earned:**    | 179                                   |
+| **Total Commits:**         | 1090+                                 |
+| **Commits (Last 7 Days):** | 50+                                   |
+| **Total PRs:**             | 19                                    |
+| **Total Issues:**          | 9                                     |
+| **Contributed To:**        | 4                                     |
+| **Total Repositories:**    | 58                                    |
+| **Total Gists:**           | 53                                    |
+| **Merged PRs:**            | 16                                    |
+| **Reviewed PRs:**          | 0                                     |
+| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Vue |
+| **Account Age:**           | 6 years                               |
 
 ## Repositories
 
@@ -269,9 +270,9 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 30, 2026_<br />No description provided.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 29, 2026_<br />No description provided.
+- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
@@ -328,9 +329,9 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 
-- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 30, 2026_<br />No description provided.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 29, 2026_<br />No description provided.
+- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
 - [**golter-web**](https://sametcc.me/repo/golter-web) - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
