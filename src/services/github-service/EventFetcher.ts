@@ -1,12 +1,18 @@
 import type { Octokit } from "@octokit/rest";
 import type { GitHubService } from "./GitHubService";
 
+/** Loads multiple pages of public events for the configured user. */
 export class EventFetcher implements IDataFetcher<GitHubEvent[]> {
+	/** Keeps references to the GitHub service and Octokit client. */
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
 	) {}
 
+	/**
+	 * Returns event data by paginating up to three pages, stopping early
+	 * when pages return no results or when an error occurs.
+	 */
 	async fetch(): Promise<GitHubEvent[]> {
 		const username = this.service.getUsername();
 		let eventsData: GitHubEvent[] = [];

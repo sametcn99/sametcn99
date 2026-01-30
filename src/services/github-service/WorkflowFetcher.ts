@@ -1,12 +1,17 @@
 import type { Octokit } from "@octokit/rest";
 import type { GitHubService } from "./GitHubService";
 
+/** Retrieves the latest workflow run for the repo that matches the username. */
 export class WorkflowFetcher implements IDataFetcher<WorkflowRun | null> {
+	/** Stores the GitHub service helper plus Octokit reference. */
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
 	) {}
 
+	/**
+	 * Returns the most recent workflow run or null if nothing is available.
+	 */
 	async fetch(): Promise<WorkflowRun | null> {
 		const username = this.service.getUsername();
 		// Assuming profile repo name is same as username

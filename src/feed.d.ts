@@ -1,3 +1,5 @@
+/** biome-ignore-all lint/correctness/noUnusedVariables: . */
+/** Shape of a JSON Feed document as defined by the spec. */
 type JSONFeed = {
 	version: string;
 	title: string;
@@ -15,17 +17,20 @@ type JSONFeed = {
 	items: JSONFeedItem[];
 };
 
+/** Author metadata for a JSON Feed entry. */
 type JSONFeedAuthor = {
 	name?: string;
 	url?: string;
 	avatar?: string;
 };
 
+/** Hub endpoint metadata for JSON Feed subscription updates. */
 type JSONFeedHub = {
 	type: string;
 	url: string;
 };
 
+/** Individual item in a JSON Feed. */
 type JSONFeedItem = {
 	id: string;
 	url?: string;
@@ -43,6 +48,7 @@ type JSONFeedItem = {
 	attachments?: JSONFeedAttachment[];
 };
 
+/** Attachment metadata referenced by a JSON Feed item. */
 type JSONFeedAttachment = {
 	url: string;
 	mime_type: string;

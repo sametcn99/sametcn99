@@ -3,17 +3,23 @@ import { FeedService } from "./services/feed-service/FeedService";
 import { GitHubDataProvider } from "./services/github-service/GitHubDataProvider";
 import { DataFormatter } from "./utils/DataFormatter";
 
+/** Configuration overrides used when instantiating the application. */
 interface ApplicationConfig {
+	/** URL of the JSON feed that should be pulled for blog posts. */
 	feedUrl: string;
+	/** Github username whose profile, repos, and events will be queried. */
 	username: string;
+	/** Destination path for the rendered README. */
 	outputPath: string;
 }
 
+/** Orchestrates fetching data, formatting it, and writing README.md. */
 class Application {
 	private readonly config: ApplicationConfig;
 	private readonly githubProvider: GitHubDataProvider;
 	private readonly feedService: FeedService;
 
+	/** Creates an application instance with optional overrides. */
 	constructor(config?: Partial<ApplicationConfig>) {
 		const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 
@@ -27,8 +33,11 @@ class Application {
 		this.feedService = new FeedService(this.config.feedUrl);
 	}
 
+	/**
+	 * Fetches data from GitHub and the feed, renders the Handlebars template,
+	 * and writes the resulting README content to the configured path.
+	 */
 	public async generate(): Promise<void> {
-		// 1. Fetch all data in parallel
 		const recentPostsPromise = this.feedService.fetch();
 		const reposDataPromise = this.githubProvider.fetchRepositories();
 		const eventsDataPromise = this.githubProvider.fetchEvents();
@@ -60,13 +69,8 @@ class Application {
 			throw new Error("Failed to fetch user profile");
 		}
 
-		// 2. Load template
 		const templateSource = await Bun.file("src/README.md.hbs").text();
-
-		// 3. Compile template
 		const template = Handlebars.compile(templateSource);
-
-		// 4. Prepare context data
 		const formattedActivity = eventsData
 			.filter((event) => event.type !== "PushEvent")
 			.map((event) => DataFormatter.formatActivity(event))
@@ -98,7 +102,6 @@ class Application {
 			generatedAt: new Date().toUTCString(),
 		};
 
-		// 5. Render
 		const content = template(context);
 		await Bun.write(this.config.outputPath, content);
 	}

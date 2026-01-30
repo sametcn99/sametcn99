@@ -1,5 +1,6 @@
 import { formatDateLong } from "./MarkdownUtils";
 
+/** Shape used by the template when rendering blog post summaries. */
 export interface FormattedPost {
 	title: string;
 	url: string;
@@ -7,6 +8,7 @@ export interface FormattedPost {
 	dateStr: string;
 }
 
+/** Shape used by the template when rendering repository information. */
 export interface FormattedRepo {
 	name: string;
 	html_url: string;
@@ -18,6 +20,7 @@ export interface FormattedRepo {
 
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
 export class DataFormatter {
+	/** Formats GitHub activity events into readable Markdown snippets. */
 	static formatActivity(event: GitHubEvent): string | null {
 		const date = event.created_at ? formatDateLong(event.created_at) : "";
 		const repoName = event.repo.name;
@@ -81,6 +84,7 @@ export class DataFormatter {
 		return null;
 	}
 
+	/** Converts a GitHub repository into the data needed by the template. */
 	static formatRepo(repo: Repository): FormattedRepo {
 		const created = repo.created_at ? formatDateLong(repo.created_at) : "";
 		const updated = repo.pushed_at ? formatDateLong(repo.pushed_at) : "";
@@ -102,6 +106,10 @@ export class DataFormatter {
 		};
 	}
 
+	/**
+	 * Organizes repositories into recently updated and categorized groups
+	 * (active, forked, archived) with pagination info for the template.
+	 */
 	static prepareRepoData(repos: Repository[]): {
 		recentlyUpdated: FormattedRepo[];
 		active: {
@@ -120,7 +128,6 @@ export class DataFormatter {
 			length: number;
 		};
 	} {
-		// 1. Recently Updated (Top 5, owned, sorted by push date)
 		const recentlyUpdatedRaw = repos
 			.filter((r) => !r.fork)
 			.sort((a, b) => {
@@ -129,8 +136,6 @@ export class DataFormatter {
 				return dateB - dateA;
 			})
 			.slice(0, 5);
-
-		// Other groups sorted by stars
 		const sortedByStars = [...repos].sort(
 			(a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0),
 		);
@@ -163,6 +168,9 @@ export class DataFormatter {
 		};
 	}
 
+	/**
+	 * Splits feed items into recent and older posts while formatting dates.
+	 */
 	static preparePostsData(posts: FeedItem[]): {
 		recent: FormattedPost[];
 		older: FormattedPost[];
@@ -187,6 +195,9 @@ export class DataFormatter {
 		return { recent, older };
 	}
 
+	/**
+	 * Human readable description for CreateEvents (repo/branch/tag).
+	 */
 	private static formatCreateEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -208,6 +219,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Describes deleted refs in repositories. */
 	private static formatDeleteEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -221,6 +233,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Describes issues lifecycle events. */
 	private static formatIssuesEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -240,6 +253,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Describes when an issue receives a comment. */
 	private static formatIssueCommentEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -254,6 +268,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Notes a pull request action such as opened/closed/reopened. */
 	private static formatPullRequestEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -275,6 +290,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Documents a review written on a pull request. */
 	private static formatPRReviewEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -291,6 +307,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Notes when a review comment is created on a pull request. */
 	private static formatPRReviewCommentEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -307,6 +324,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Describes when the user forks a repository. */
 	private static formatForkEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -321,6 +339,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Notes a published release in a repository. */
 	private static formatReleaseEvent(
 		event: GitHubEvent,
 		repoName: string,
@@ -335,6 +354,7 @@ export class DataFormatter {
 		return "";
 	}
 
+	/** Describes adding a collaborator to a repository. */
 	private static formatMemberEvent(
 		event: GitHubEvent,
 		repoName: string,

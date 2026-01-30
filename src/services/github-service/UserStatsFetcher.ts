@@ -1,7 +1,11 @@
 import type { Octokit } from "@octokit/rest";
 import type { GitHubService } from "./GitHubService";
 
+/** Aggregates user statistics by combining repo/profile data with search queries. */
 export class UserStatsFetcher implements IDataFetcher<UserStats> {
+	/**
+	 * Prepares shared promises so the fetcher can coordinate dependent data.
+	 */
 	constructor(
 		private readonly service: GitHubService,
 		private readonly octokit: Octokit,
@@ -9,6 +13,10 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		private readonly userProfilePromise: Promise<UserProfile | null>,
 	) {}
 
+	/**
+	 * Combines repository totals, profile-derived fields, and resuable search
+	 * queries to populate the `UserStats` shape.
+	 */
 	async fetch(): Promise<UserStats> {
 		const username = this.service.getUsername();
 		const stats: UserStats = {
@@ -63,6 +71,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		return stats;
 	}
 
+	/** Populates counts that derive directly from the GitHub profile payload. */
 	private processUserProfile(stats: UserStats, userProfile: UserProfile): void {
 		stats.totalRepos = userProfile.public_repos;
 		stats.totalGists = userProfile.public_gists;
@@ -74,12 +83,14 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		stats.accountAge = `${years} years`;
 	}
 
+	/** Chooses up to five top languages across owned, non-forked repos. */
 	private processTopLanguages(stats: UserStats, repos: Repository[]): void {
 		const languageCounts: Record<string, number> = {};
 
 		for (const repo of repos) {
 			if (!repo.fork && repo.language) {
-				languageCounts[repo.language] = (languageCounts[repo.language] || 0) + 1;
+				languageCounts[repo.language] =
+					(languageCounts[repo.language] || 0) + 1;
 			}
 		}
 
@@ -91,6 +102,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		stats.topLanguages = sortedLanguages.join(", ");
 	}
 
+	/** Counts pull requests authored by the user. */
 	private async fetchPRs(stats: UserStats, username: string): Promise<void> {
 		try {
 			const { data: prs } =
@@ -103,6 +115,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		}
 	}
 
+	/** Counts issues opened by the user. */
 	private async fetchIssues(stats: UserStats, username: string): Promise<void> {
 		try {
 			const { data: issues } =
@@ -115,6 +128,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		}
 	}
 
+	/** Counts commits authored in the last year, rounded for display. */
 	private async fetchCommits(
 		stats: UserStats,
 		username: string,
@@ -139,6 +153,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		}
 	}
 
+	/** Counts commits authored in the last 7 days, rounded for display. */
 	private async fetchCommitsLast7Days(
 		stats: UserStats,
 		username: string,
@@ -163,6 +178,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		}
 	}
 
+	/** Counts unique repositories the user has contributed to via PRs. */
 	private async fetchContributions(
 		stats: UserStats,
 		username: string,
@@ -189,6 +205,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		}
 	}
 
+	/** Counts merged PRs authored by the user. */
 	private async fetchMergedPRs(
 		stats: UserStats,
 		username: string,
@@ -204,6 +221,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		}
 	}
 
+	/** Counts PRs the user reviewed. */
 	private async fetchReviewedPRs(
 		stats: UserStats,
 		username: string,
