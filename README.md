@@ -256,7 +256,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                 |
 | :------------------------- | :------------------------------------ |
 | **Total Stars Earned:**    | 179                                   |
-| **Total Commits:**         | 1090+                                 |
+| **Total Commits:**         | 1100+                                 |
 | **Commits (Last 7 Days):** | 50+                                   |
 | **Total PRs:**             | 19                                    |
 | **Total Issues:**          | 9                                     |
@@ -276,15 +276,15 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 30, 2026_<br />No description provided.
+- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
+
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 24, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-
-- [**golter-web**](https://sametcc.me/repo/golter-web) - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
 ### Active Repositories
 
@@ -319,6 +319,8 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 - JavaScript<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 
+- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
+
 - [**svg-split**](https://sametcc.me/repo/svg-split) ★1 - JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
 
 - [**electron-widgets-web**](https://sametcc.me/repo/electron-widgets-web) ★1 - Vue<br />_Created: Apr 3, 2024 • Updated: Oct 18, 2025_<br />No description provided.
@@ -329,13 +331,11 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**fullstack-template**](https://sametcc.me/repo/fullstack-template) ★1 - TypeScript<br />_Created: Sep 6, 2025 • Updated: Sep 6, 2025_<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
 
-- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - Shell<br />_Created: Oct 16, 2025 • Updated: Oct 16, 2025_<br />No description provided.
-
 - [**sql-query-safety-checker**](https://sametcc.me/repo/sql-query-safety-checker) ★1 - TypeScript<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 30, 2026_<br />No description provided.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
