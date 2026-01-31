@@ -256,7 +256,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                 |
 | :------------------------- | :------------------------------------ |
 | **Total Stars Earned:**    | 179                                   |
-| **Total Commits:**         | 1100+                                 |
+| **Total Commits:**         | 1090+                                 |
 | **Commits (Last 7 Days):** | 50+                                   |
 | **Total PRs:**             | 19                                    |
 | **Total Issues:**          | 9                                     |
