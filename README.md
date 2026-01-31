@@ -275,7 +275,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 190                                      |
+| **Total Stars Earned:**    | 191                                      |
 | **Total Commits:**         | 1100+                                    |
 | **Commits (Last 7 Days):** | 50+                                      |
 | **Total PRs:**             | 19                                       |
@@ -296,13 +296,13 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
-
 - [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
+
+- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★36 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★37 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 24, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
@@ -310,7 +310,7 @@ These are the projects I have been most active on recently. Check here to see th
 
 A collection of my primary projects that are currently maintained and under active development. These repositories represent my core open-source contributions and personal tools.
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★36 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★37 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 - TypeScript<br />_Created: Mar 24, 2024 • Updated: Dec 19, 2025_<br />the missing html based widget manager application
 
@@ -339,6 +339,8 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 - JavaScript<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
+
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 - TypeScript<br />_Created: Jan 1, 2025 • Updated: Jan 4, 2026_<br />No description provided.
 
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 - HTML<br />_Created: Dec 23, 2025 • Updated: Dec 24, 2025_<br />No description provided.
@@ -350,8 +352,6 @@ A collection of my primary projects that are currently maintained and under acti
 - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
-
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
 
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 
