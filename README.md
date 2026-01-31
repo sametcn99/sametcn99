@@ -118,6 +118,29 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
 
+- **Starred [sametcn99/RepoHub](https://github.com/sametcn99/RepoHub)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/vitepress-mermaid-renderer-web](https://github.com/sametcn99/vitepress-mermaid-renderer-web)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/golter-web](https://github.com/sametcn99/golter-web)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Jan 31, 2026)_
+
+- **Starred [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 31, 2026)_
+
+<details>
+<summary>Show 63 more activities...</summary>
+
 - **Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)** _(Jan 30, 2026)_
 
 - **Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)** _(Jan 30, 2026)_
@@ -137,9 +160,6 @@ This section tracks my recent interactions across GitHub, including pull request
 - **Starred [koesan/ORCUS](https://github.com/koesan/ORCUS)** _(Jan 28, 2026)_
 
 - **Starred [Subutay-CyberSecurity/ProtoBas](https://github.com/Subutay-CyberSecurity/ProtoBas)** _(Jan 28, 2026)_
-
-<details>
-<summary>Show 53 more activities...</summary>
 
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 
@@ -253,20 +273,20 @@ This section tracks my recent interactions across GitHub, including pull request
 
 A summary of my GitHub statistics, showcasing my contributions, repositories, and overall activity on the platform.
 
-| Metric                     | Value                                 |
-| :------------------------- | :------------------------------------ |
-| **Total Stars Earned:**    | 179                                   |
-| **Total Commits:**         | 1100+                                 |
-| **Commits (Last 7 Days):** | 50+                                   |
-| **Total PRs:**             | 19                                    |
-| **Total Issues:**          | 9                                     |
-| **Contributed To:**        | 4                                     |
-| **Total Repositories:**    | 58                                    |
-| **Total Gists:**           | 53                                    |
-| **Merged PRs:**            | 16                                    |
-| **Reviewed PRs:**          | 0                                     |
-| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Vue |
-| **Account Age:**           | 6 years                               |
+| Metric                     | Value                                    |
+| :------------------------- | :--------------------------------------- |
+| **Total Stars Earned:**    | 190                                      |
+| **Total Commits:**         | 1100+                                    |
+| **Commits (Last 7 Days):** | 50+                                      |
+| **Total PRs:**             | 19                                       |
+| **Total Issues:**          | 9                                        |
+| **Contributed To:**        | 4                                        |
+| **Total Repositories:**    | 58                                       |
+| **Total Gists:**           | 53                                       |
+| **Merged PRs:**            | 16                                       |
+| **Reviewed PRs:**          | 0                                        |
+| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Python |
+| **Account Age:**           | 6 years                                  |
 
 ## Repositories
 
@@ -278,11 +298,11 @@ These are the projects I have been most active on recently. Check here to see th
 
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
 
-- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
+- [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★36 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 24, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
@@ -290,7 +310,7 @@ These are the projects I have been most active on recently. Check here to see th
 
 A collection of my primary projects that are currently maintained and under active development. These repositories represent my core open-source contributions and personal tools.
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★35 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★36 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 - TypeScript<br />_Created: Mar 24, 2024 • Updated: Dec 19, 2025_<br />the missing html based widget manager application
 
@@ -319,6 +339,20 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 - JavaScript<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 
+- [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 - TypeScript<br />_Created: Jan 1, 2025 • Updated: Jan 4, 2026_<br />No description provided.
+
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 - HTML<br />_Created: Dec 23, 2025 • Updated: Dec 24, 2025_<br />No description provided.
+
+- [**instaloader-api**](https://sametcc.me/repo/instaloader-api) ★1 - Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
+
+- [**golter**](https://sametcc.me/repo/golter) ★1 - Go<br />_Created: Jan 16, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
+
+- [**golter-web**](https://sametcc.me/repo/golter-web) ★1 - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
+
+- [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
+
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
+
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 
 - [**svg-split**](https://sametcc.me/repo/svg-split) ★1 - JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
@@ -335,31 +369,17 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 - C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
-
-- [**personal-website**](https://sametcc.me/repo/personal-website) - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
-
-- [**golter-web**](https://sametcc.me/repo/golter-web) - TypeScript<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
-
-- [**golter**](https://sametcc.me/repo/golter) - Go<br />_Created: Jan 16, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
-
-- [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) - TypeScript<br />_Created: Jan 1, 2025 • Updated: Jan 4, 2026_<br />No description provided.
-
-- [**instaloader-api**](https://sametcc.me/repo/instaloader-api) - Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
-
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) - HTML<br />_Created: Dec 23, 2025 • Updated: Dec 24, 2025_<br />No description provided.
-
 </details>
 
 ### Forked Repositories
 
 Repositories I have forked to contribute to, study, or customize. This list reflects my involvement in the broader open-source ecosystem and tools I find interesting.
 
+- [**RepoHub**](https://sametcc.me/repo/RepoHub) ★1 - TypeScript<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
+
+- [**nestlens**](https://sametcc.me/repo/nestlens) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
+
 - [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) ★1 - Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
-
-- [**nestlens**](https://sametcc.me/repo/nestlens) - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
-
-- [**RepoHub**](https://sametcc.me/repo/RepoHub) - TypeScript<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
 
 ### Archived Repositories
 
@@ -387,6 +407,8 @@ Older projects that are no longer actively maintained but kept for reference and
 - [**MarkdownFileRenamer**](https://sametcc.me/repo/MarkdownFileRenamer) ★2 - C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
 
 - [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 - C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
+
+- [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 - TypeScript<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
 
 - [**altinsaray-ds**](https://sametcc.me/repo/altinsaray-ds) ★1 - TypeScript<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
 
@@ -419,8 +441,6 @@ Older projects that are no longer actively maintained but kept for reference and
 - [**nestjs-course**](https://sametcc.me/repo/nestjs-course) ★1 - TypeScript<br />_Created: Dec 9, 2024 • Updated: Dec 9, 2024_<br />No description provided.
 
 - [**gists**](https://sametcc.me/repo/gists) ★1 - TypeScript<br />_Created: Dec 15, 2024 • Updated: Apr 2, 2025_<br />moved https://sametcc.me/personal-website
-
-- [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) - TypeScript<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
 
 </details>
 
