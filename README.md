@@ -296,9 +296,9 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 - TypeScript<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Feb 1, 2026_<br />No description provided.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
+- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 - TypeScript<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 
@@ -339,7 +339,7 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 - JavaScript<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Feb 1, 2026_<br />No description provided.
 
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 - TypeScript<br />_Created: Jan 1, 2025 • Updated: Jan 4, 2026_<br />No description provided.
 
