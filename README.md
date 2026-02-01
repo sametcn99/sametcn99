@@ -15,7 +15,7 @@ I’m a software developer with hands-on experience across **front-end**, **back
 
 **Frontend**
 
-- React.js, Next.js, Vue.js
+- React.js, Next.js, Vue.js, Blazor
 - TypeScript, JavaScript
 
 **Backend**
