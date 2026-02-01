@@ -277,7 +277,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 191                                      |
 | **Total Commits:**         | 1100+                                    |
-| **Commits (Last 7 Days):** | 50+                                      |
+| **Commits (Last 7 Days):** | 60+                                      |
 | **Total PRs:**             | 19                                       |
 | **Total Issues:**          | 9                                        |
 | **Contributed To:**        | 4                                        |
@@ -296,6 +296,8 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
+- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 - TypeScript<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+
 - [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 31, 2026_<br />No description provided.
 
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
@@ -303,8 +305,6 @@ These are the projects I have been most active on recently. Check here to see th
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX<br />_Created: Sep 7, 2023 • Updated: Jan 30, 2026_<br />No description provided.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★37 - TypeScript<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Jan 24, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 ### Active Repositories
 
@@ -322,7 +322,7 @@ A collection of my primary projects that are currently maintained and under acti
 
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 - TypeScript<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 
-- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 - TypeScript<br />_Created: May 16, 2024 • Updated: Nov 4, 2025_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 - TypeScript<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 - TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 
