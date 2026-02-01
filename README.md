@@ -118,6 +118,35 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
 
+- **Starred [resend/react-email](https://github.com/resend/react-email)** _(Feb 1, 2026)_
+
+- **Starred [vitejs/vite](https://github.com/vitejs/vite)** _(Feb 1, 2026)_
+
+- **Starred [immich-app/immich](https://github.com/immich-app/immich)** _(Feb 1, 2026)_
+
+- **Starred [withastro/astro](https://github.com/withastro/astro)** _(Feb 1, 2026)_
+
+- **Starred [huggingface/transformers](https://github.com/huggingface/transformers)** _(Feb 1, 2026)_
+
+- **Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** _(Feb 1, 2026)_
+
+- **Starred [cli/cli](https://github.com/cli/cli)** _(Feb 1, 2026)_
+
+- **Starred [langgenius/dify](https://github.com/langgenius/dify)** _(Feb 1, 2026)_
+
+- **Starred [usebruno/bruno](https://github.com/usebruno/bruno)** _(Feb 1, 2026)_
+
+- **Starred [axios/axios](https://github.com/axios/axios)** _(Feb 1, 2026)_
+
+<details>
+<summary>Show 74 more activities...</summary>
+
+- **Starred [fastapi/fastapi](https://github.com/fastapi/fastapi)** _(Feb 1, 2026)_
+
+- **Starred [httpie/cli](https://github.com/httpie/cli)** _(Feb 1, 2026)_
+
+- **Starred [Kong/insomnia](https://github.com/Kong/insomnia)** _(Feb 1, 2026)_
+
 - **Starred [scalar/scalar](https://github.com/scalar/scalar)** _(Feb 1, 2026)_
 
 - **Starred [sametcn99/RepoHub](https://github.com/sametcn99/RepoHub)** _(Jan 31, 2026)_
@@ -137,9 +166,6 @@ This section tracks my recent interactions across GitHub, including pull request
 - **Starred [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 31, 2026)_
 
 - **Starred [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Jan 31, 2026)_
-
-<details>
-<summary>Show 64 more activities...</summary>
 
 - **Starred [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 31, 2026)_
 
@@ -263,12 +289,6 @@ This section tracks my recent interactions across GitHub, including pull request
 
 - **Created branch &#x60;fullstack-dev&#x60; in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jan 5, 2026)_
 
-- **Created branch &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api)** _(Jan 4, 2026)_
-
-- **Starred [marhensa/instaloader-gui-wrapper](https://github.com/marhensa/instaloader-gui-wrapper)** _(Jan 4, 2026)_
-
-- **Starred [booklore-app/booklore](https://github.com/booklore-app/booklore)** _(Jan 4, 2026)_
-
 </details>
 
 ## GitHub Stats
@@ -298,9 +318,9 @@ Explore a comprehensive list of my code repositories, categorized by their statu
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Feb 1, 2026_<br />No description provided.
-
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 - TypeScript<br />_Created: Apr 23, 2025 • Updated: Feb 1, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+
+- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Feb 1, 2026_<br />No description provided.
 
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 - TypeScript<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
