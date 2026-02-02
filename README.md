@@ -118,6 +118,16 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
 
+- **Commented on issue [#20](https://github.com/LetterBoxd-Stats/letterboxd-api/pull/20) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
+
+- **Opened pull request [#20](undefined) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
+
+- **Forked [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api) to [sametcn99/letterboxd-api](https://github.com/sametcn99/letterboxd-api)** _(Feb 2, 2026)_
+
+- **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 1, 2026)_
+
+- **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
+
 - **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** _(Feb 1, 2026)_
 
 - **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** _(Feb 1, 2026)_
@@ -128,6 +138,9 @@ This section tracks my recent interactions across GitHub, including pull request
 
 - **Starred [garmeeh/next-seo](https://github.com/garmeeh/next-seo)** _(Feb 1, 2026)_
 
+<details>
+<summary>Show 84 more activities...</summary>
+
 - **Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)** _(Feb 1, 2026)_
 
 - **Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)** _(Feb 1, 2026)_
@@ -137,9 +150,6 @@ This section tracks my recent interactions across GitHub, including pull request
 - **Starred [resend/react-email](https://github.com/resend/react-email)** _(Feb 1, 2026)_
 
 - **Starred [vitejs/vite](https://github.com/vitejs/vite)** _(Feb 1, 2026)_
-
-<details>
-<summary>Show 79 more activities...</summary>
 
 - **Starred [immich-app/immich](https://github.com/immich-app/immich)** _(Feb 1, 2026)_
 
@@ -308,12 +318,12 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 191                                      |
-| **Total Commits:**         | 760+                                     |
-| **Commits (Last 7 Days):** | 50+                                      |
-| **Total PRs:**             | 18                                       |
+| **Total Commits:**         | 770+                                     |
+| **Commits (Last 7 Days):** | 30+                                      |
+| **Total PRs:**             | 19                                       |
 | **Total Issues:**          | 9                                        |
-| **Contributed To:**        | 4                                        |
-| **Total Repositories:**    | 57                                       |
+| **Contributed To:**        | 5                                        |
+| **Total Repositories:**    | 58                                       |
 | **Total Gists:**           | 53                                       |
 | **Merged PRs:**            | 15                                       |
 | **Reviewed PRs:**          | 0                                        |
@@ -410,6 +420,8 @@ Repositories I have forked to contribute to, study, or customize. This list refl
 - [**nestlens**](https://sametcc.me/repo/nestlens) ★1 - TypeScript<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
 
 - [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) ★1 - Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
+
+- [**letterboxd-api**](https://sametcc.me/repo/letterboxd-api) - Python<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
 
 ### Archived Repositories
 
