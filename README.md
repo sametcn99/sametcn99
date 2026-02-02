@@ -322,7 +322,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 191                                      |
+| **Total Stars Earned:**    | 192                                      |
 | **Total Commits:**         | 770+                                     |
 | **Commits (Last 7 Days):** | 30+                                      |
 | **Total PRs:**             | 19                                       |
@@ -489,7 +489,7 @@ open-source ecosystem and tools I find interesting.
 Older projects that are no longer actively maintained but kept for reference and historical context. Feel free to browse
 them for code snippets or to see my past work.
 
-- [**ResumeBuilder**](https://sametcc.me/repo/ResumeBuilder) ★14 -
+- [**ResumeBuilder**](https://sametcc.me/repo/ResumeBuilder) ★15 -
   C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
 
 - [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
