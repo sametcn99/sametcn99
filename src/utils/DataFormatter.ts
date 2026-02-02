@@ -16,6 +16,7 @@ export interface FormattedRepo {
 	language?: string | null;
 	description: string;
 	dateStr: string;
+	homepage?: string | null;
 }
 
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
@@ -103,6 +104,7 @@ export class DataFormatter {
 			language: repo.language,
 			description: repo.description || "No description provided.",
 			dateStr,
+			homepage: repo.homepage,
 		};
 	}
 

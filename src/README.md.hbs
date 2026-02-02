@@ -1,6 +1,8 @@
 # Hi there!
 
-I’m a software developer with hands-on experience across **front-end**, **back-end**, and **DevOps** domains. I enjoy building clean, scalable, and production-ready systems, and I care deeply about maintainability, performance, and developer experience.
+I’m a software developer with hands-on experience across **front-end**, **back-end**, and **DevOps** domains. I enjoy
+building clean, scalable, and production-ready systems, and I care deeply about maintainability, performance, and
+developer experience.
 
 ## What I Do
 
@@ -46,7 +48,8 @@ I prioritize:
 * Automation in development and deployment workflows
 * Continuous learning and improving engineering practices
 
-I actively work on open-source projects and enjoy exploring new tools, frameworks, and ideas that improve developer productivity and system reliability.    
+I actively work on open-source projects and enjoy exploring new tools, frameworks, and ideas that improve developer
+productivity and system reliability.
 Below is a quick overview to learn more about my work, activity, and how to get in touch.
 
 ## Table of Contents
@@ -70,12 +73,12 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 {{#if posts.older.length}}
 <details>
-<summary>Show {{posts.older.length}} more posts...</summary>
+    <summary>Show {{posts.older.length}} more posts...</summary>
 
-{{#each posts.older}}
+    {{#each posts.older}}
 
-- [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
-{{/each}}
+    - [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
+    {{/each}}
 
 </details>
 {{/if}}
@@ -85,7 +88,9 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 ## Latest Activity
 
-This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It provides a chronological overview of my contributions and community engagement, showcasing what I've been working on lately.
+This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It
+provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
+lately.
 
 {{#each activity.recent}}
 
@@ -94,12 +99,12 @@ This section tracks my recent interactions across GitHub, including pull request
 
 {{#if activity.older.length}}
 <details>
-<summary>Show {{activity.older.length}} more activities...</summary>
+    <summary>Show {{activity.older.length}} more activities...</summary>
 
-{{#each activity.older}}
+    {{#each activity.older}}
 
-- {{this}}
-{{/each}}
+    - {{this}}
+    {{/each}}
 
 </details>
 {{/if}}
@@ -109,36 +114,40 @@ This section tracks my recent interactions across GitHub, including pull request
 
 A summary of my GitHub statistics, showcasing my contributions, repositories, and overall activity on the platform.
 
-| Metric                     | Value                      |
+| Metric | Value |
 |:---------------------------|:---------------------------|
-| **Total Stars Earned:**    | {{stats.totalStars}}       |
-| **Total Commits:**         | {{stats.totalCommits}}     |
+| **Total Stars Earned:** | {{stats.totalStars}} |
+| **Total Commits:** | {{stats.totalCommits}} |
 | **Commits (Last 7 Days):** | {{stats.commitsLast7Days}} |
-| **Total PRs:**             | {{stats.totalPRs}}         |
-| **Total Issues:**          | {{stats.totalIssues}}      |
-| **Contributed To:**        | {{stats.contributedTo}}    |
-| **Total Repositories:**    | {{stats.totalRepos}}       |
-| **Total Gists:**           | {{stats.totalGists}}       |
-| **Merged PRs:**            | {{stats.mergedPRs}}        |
-| **Reviewed PRs:**          | {{stats.reviewedPRs}}      |
-| **Top Languages:**         | {{stats.topLanguages}}     |
-| **Account Age:**           | {{stats.accountAge}}       |
+| **Total PRs:** | {{stats.totalPRs}} |
+| **Total Issues:** | {{stats.totalIssues}} |
+| **Contributed To:** | {{stats.contributedTo}} |
+| **Total Repositories:** | {{stats.totalRepos}} |
+| **Total Gists:** | {{stats.totalGists}} |
+| **Merged PRs:** | {{stats.mergedPRs}} |
+| **Reviewed PRs:** | {{stats.reviewedPRs}} |
+| **Top Languages:** | {{stats.topLanguages}} |
+| **Account Age:** | {{stats.accountAge}} |
 
 {{#if repos}}
 
 ## Repositories
 
-Explore a comprehensive list of my code repositories, categorized by their status and type. This includes projects I've recently updated, those I maintain actively, as well as forks and archived exploratory work.
+Explore a comprehensive list of my code repositories, categorized by their status and type. This includes projects I've
+recently updated, those I maintain actively, as well as forks and archived exploratory work.
 
 {{#if repos.recentlyUpdated.length}}
 
 ### Recently Updated
 
-These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the features currently under development.
+These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
+features currently under development.
 
 {{#each repos.recentlyUpdated}}
 
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{/each}}
 {{/if}}
@@ -147,23 +156,28 @@ These are the projects I have been most active on recently. Check here to see th
 
 ### Active Repositories
 
-A collection of my primary projects that are currently maintained and under active development. These repositories represent my core open-source contributions and personal tools.
+A collection of my primary projects that are currently maintained and under active development. These repositories
+represent my core open-source contributions and personal tools.
 
 {{#each repos.active.visible}}
 
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{/each}}
 
 {{#if repos.active.hidden.length}}
 <details>
-<summary>Show {{repos.active.hidden.length}} more repositories...</summary>
+    <summary>Show {{repos.active.hidden.length}} more repositories...</summary>
 
-{{#each repos.active.hidden}}
+    {{#each repos.active.hidden}}
 
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+    - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+    {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+    dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
-{{/each}}
+    {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -172,23 +186,28 @@ A collection of my primary projects that are currently maintained and under acti
 
 ### Forked Repositories
 
-Repositories I have forked to contribute to, study, or customize. This list reflects my involvement in the broader open-source ecosystem and tools I find interesting.
+Repositories I have forked to contribute to, study, or customize. This list reflects my involvement in the broader
+open-source ecosystem and tools I find interesting.
 
 {{#each repos.forked.visible}}
 
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{/each}}
 
 {{#if repos.forked.hidden.length}}
 <details>
-<summary>Show {{repos.forked.hidden.length}} more repositories...</summary>
+    <summary>Show {{repos.forked.hidden.length}} more repositories...</summary>
 
-{{#each repos.forked.hidden}}
+    {{#each repos.forked.hidden}}
 
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+    - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+    {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+    dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
-{{/each}}
+    {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -197,23 +216,28 @@ Repositories I have forked to contribute to, study, or customize. This list refl
 
 ### Archived Repositories
 
-Older projects that are no longer actively maintained but kept for reference and historical context. Feel free to browse them for code snippets or to see my past work.
+Older projects that are no longer actively maintained but kept for reference and historical context. Feel free to browse
+them for code snippets or to see my past work.
 
 {{#each repos.archived.visible}}
 
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{/each}}
 
 {{#if repos.archived.hidden.length}}
 <details>
-<summary>Show {{repos.archived.hidden.length}} more repositories...</summary>
+    <summary>Show {{repos.archived.hidden.length}} more repositories...</summary>
 
-{{#each repos.archived.hidden}}
+    {{#each repos.archived.hidden}}
 
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+    - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+    {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+    dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
-{{/each}}
+    {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -221,7 +245,8 @@ Older projects that are no longer actively maintained but kept for reference and
 
 ## Contact
 
-Feel free to reach out to me through any of the channels listed below. Whether for collaboration, questions, or just to say hi.
+Feel free to reach out to me through any of the channels listed below. Whether for collaboration, questions, or just to
+say hi.
 
 - [Website](https://sametcc.me)
 - [LinkedIn](https://sametcc.me/link/linkedin)
