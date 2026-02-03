@@ -130,7 +130,10 @@ export class DataFormatter {
 			length: number;
 		};
 	} {
-		const recentlyUpdatedRaw = repos
+		// Exclude the personal repo `sametcn99` from lists
+		const filteredRepos = repos.filter((r) => r.name !== "sametcn99");
+
+		const recentlyUpdatedRaw = filteredRepos
 			.filter((r) => !r.fork)
 			.sort((a, b) => {
 				const dateA = new Date(a.pushed_at || 0).getTime();
@@ -138,7 +141,7 @@ export class DataFormatter {
 				return dateB - dateA;
 			})
 			.slice(0, 5);
-		const sortedByStars = [...repos].sort(
+		const sortedByStars = [...filteredRepos].sort(
 			(a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0),
 		);
 
