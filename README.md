@@ -348,7 +348,7 @@ These are the projects I have been most active on recently. Check here to see th
 features currently under development.
 
 - [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 -
-  TypeScript - [Homepage](https://sametcc.me/readme)<br />_Created: Jan 25, 2026 • Updated: Feb 2, 2026_<br />No description provided.
+  TypeScript - [Homepage](https://sametcc.me/readme)<br />_Created: Jan 25, 2026 • Updated: Feb 3, 2026_<br />No description provided.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 1, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
@@ -413,7 +413,7 @@ represent my core open-source contributions and personal tools.
 
 
     - [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 -
-    TypeScript - [Homepage](https://sametcc.me/readme)<br />*Created: Jan 25, 2026 • Updated: Feb 2, 2026*<br />No description provided.
+    TypeScript - [Homepage](https://sametcc.me/readme)<br />*Created: Jan 25, 2026 • Updated: Feb 3, 2026*<br />No description provided.
 
 
     - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 -
