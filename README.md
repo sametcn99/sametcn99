@@ -347,9 +347,6 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 -
-  TypeScript - [Homepage](https://sametcc.me/readme)<br />_Created: Jan 25, 2026 • Updated: Feb 3, 2026_<br />No description provided.
-
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 1, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
@@ -361,6 +358,9 @@ features currently under development.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★38 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+
+- [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
+  TypeScript - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
 
 ### Active Repositories
 
@@ -398,7 +398,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://color-img-downloader.sametcc.me)<br />_Created: Jul 14, 2025 • Updated: Jan 10, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 
 <details>
-    <summary>Show 17 more repositories...</summary>
+    <summary>Show 16 more repositories...</summary>
 
     - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 -
     JavaScript<br />*Created: May 4, 2024 • Updated: Sep 13, 2025*<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
@@ -410,10 +410,6 @@ represent my core open-source contributions and personal tools.
 
     - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
     JavaScript - [Homepage](https://githubprofileviewer.com)<br />*Created: Jan 20, 2024 • Updated: Aug 4, 2024*<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-
-
-    - [**sametcn99**](https://sametcc.me/repo/sametcn99) ★1 -
-    TypeScript - [Homepage](https://sametcc.me/readme)<br />*Created: Jan 25, 2026 • Updated: Feb 3, 2026*<br />No description provided.
 
 
     - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 -
