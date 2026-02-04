@@ -326,7 +326,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 192                                      |
 | **Total Commits:**         | 770+                                     |
-| **Commits (Last 7 Days):** | 30+                                      |
+| **Commits (Last 7 Days):** | 20+                                      |
 | **Total PRs:**             | 19                                       |
 | **Total Issues:**          | 9                                        |
 | **Contributed To:**        | 5                                        |
