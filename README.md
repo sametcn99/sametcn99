@@ -123,6 +123,10 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** _(Feb 5, 2026)_
+
+- **Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)** _(Feb 5, 2026)_
+
 - **Commented on issue [#88](https://github.com/emersonbottero/vitepress-plugin-mermaid/pull/88) in [emersonbottero/vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid)** _(Feb 4, 2026)_
 
 - **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** _(Feb 3, 2026)_
@@ -139,12 +143,12 @@ lately.
 
 - **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** _(Feb 1, 2026)_
 
-- **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** _(Feb 1, 2026)_
-
-- **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** _(Feb 1, 2026)_
-
 <details>
-    <summary>Show 85 more activities...</summary>
+    <summary>Show 87 more activities...</summary>
+
+    - **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** *(Feb 1, 2026)*
+
+    - **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** *(Feb 1, 2026)*
 
     - **Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)** *(Feb 1, 2026)*
 
@@ -324,7 +328,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 194                                      |
+| **Total Stars Earned:**    | 195                                      |
 | **Total Commits:**         | 770+                                     |
 | **Commits (Last 7 Days):** | 20+                                      |
 | **Total PRs:**             | 19                                       |
@@ -353,7 +357,7 @@ features currently under development.
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 1, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
-- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 -
+- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
@@ -382,11 +386,11 @@ represent my core open-source contributions and personal tools.
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 1, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
+- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
+  TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-
-- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★3 -
-  TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Jan 31, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
