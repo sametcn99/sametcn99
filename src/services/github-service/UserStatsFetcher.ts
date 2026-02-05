@@ -21,28 +21,16 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		const username = this.service.getUsername();
 		const stats: UserStats = {
 			totalStars: 0,
-			totalCommits: 0,
 			commitsLast7Days: 0,
-			totalPRs: 0,
-			totalIssues: 0,
-			contributedTo: 0,
 			totalRepos: 0,
 			totalGists: 0,
-			mergedPRs: 0,
-			reviewedPRs: 0,
 			accountAge: "",
 			topLanguages: "",
 		};
 
 		// Start independent fetches immediately
 		const independentFetches = Promise.all([
-			this.fetchPRs(stats, username),
-			this.fetchIssues(stats, username),
-			this.fetchCommits(stats, username),
 			this.fetchCommitsLast7Days(stats, username),
-			this.fetchContributions(stats, username),
-			this.fetchMergedPRs(stats, username),
-			this.fetchReviewedPRs(stats, username),
 		]);
 
 		const [reposData, userProfile] = await Promise.all([
@@ -102,57 +90,7 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 		stats.topLanguages = sortedLanguages.join(", ");
 	}
 
-	/** Counts pull requests authored by the user. */
-	private async fetchPRs(stats: UserStats, username: string): Promise<void> {
-		try {
-			const { data: prs } =
-				await this.octokit.rest.search.issuesAndPullRequests({
-					q: `author:${username} type:pr`,
-				});
-			stats.totalPRs = prs.total_count;
-		} catch (error) {
-			console.error("Error fetching PRs stats:", error);
-		}
-	}
-
-	/** Counts issues opened by the user. */
-	private async fetchIssues(stats: UserStats, username: string): Promise<void> {
-		try {
-			const { data: issues } =
-				await this.octokit.rest.search.issuesAndPullRequests({
-					q: `author:${username} type:issue`,
-				});
-			stats.totalIssues = issues.total_count;
-		} catch (error) {
-			console.error("Error fetching Issues stats:", error);
-		}
-	}
-
 	/** Counts commits authored in the last year, rounded for display. */
-	private async fetchCommits(
-		stats: UserStats,
-		username: string,
-	): Promise<void> {
-		try {
-			const oneYearAgo = new Date();
-			oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
-			const dateStr = oneYearAgo.toISOString().split("T")[0];
-
-			const { data: commits } = await this.octokit.request(
-				"GET /search/commits",
-				{
-					q: `author:${username} committer-date:>${dateStr}`,
-					mediaType: { previews: ["cloak"] },
-				},
-			);
-			const count = commits.total_count;
-			stats.totalCommits =
-				count >= 10 ? `${Math.floor(count / 10) * 10}+` : count;
-		} catch (error) {
-			console.error("Error fetching Commits stats:", error);
-		}
-	}
-
 	/** Counts commits authored in the last 7 days, rounded for display. */
 	private async fetchCommitsLast7Days(
 		stats: UserStats,
@@ -175,65 +113,6 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 				count >= 10 ? `${Math.floor(count / 10) * 10}+` : count;
 		} catch (error) {
 			console.error("Error fetching Commits Last 7 Days stats:", error);
-		}
-	}
-
-	/** Counts unique repositories the user has contributed to via PRs. */
-	private async fetchContributions(
-		stats: UserStats,
-		username: string,
-	): Promise<void> {
-		try {
-			const oneYearAgo = new Date();
-			oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
-			const dateStr = oneYearAgo.toISOString().split("T")[0];
-
-			const { data: contribPrs } =
-				await this.octokit.rest.search.issuesAndPullRequests({
-					q: `author:${username} type:pr -user:${username} created:>${dateStr}`,
-					per_page: 100,
-				});
-
-			const uniqueRepos = new Set(
-				contribPrs.items
-					.map((item) => item.repository_url)
-					.filter((url) => url),
-			);
-			stats.contributedTo = uniqueRepos.size;
-		} catch (error) {
-			console.error("Error fetching Contribution stats:", error);
-		}
-	}
-
-	/** Counts merged PRs authored by the user. */
-	private async fetchMergedPRs(
-		stats: UserStats,
-		username: string,
-	): Promise<void> {
-		try {
-			const { data: mergedData } =
-				await this.octokit.rest.search.issuesAndPullRequests({
-					q: `author:${username} is:pr is:merged`,
-				});
-			stats.mergedPRs = mergedData.total_count;
-		} catch (error) {
-			console.error("Error fetching Merged PRs stats:", error);
-		}
-	}
-
-	/** Counts PRs the user reviewed. */
-	private async fetchReviewedPRs(
-		stats: UserStats,
-		username: string,
-	): Promise<void> {
-		try {
-			const { data: reviewedData } =
-				await this.octokit.rest.search.issuesAndPullRequests({
-					q: `reviewer:${username} is:pr`,
-				});
-			stats.reviewedPRs = reviewedData.total_count;
-		} catch (error) {
-			console.error("Error fetching Reviewed PRs stats:", error);
 		}
 	}
 }

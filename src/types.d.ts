@@ -11,15 +11,9 @@ type FeedItem = {
 /** Aggregated counts surfaced to the README template. */
 type UserStats = {
 	totalStars: number;
-	totalCommits: number | string;
 	commitsLast7Days: number | string;
-	totalPRs: number;
-	totalIssues: number;
-	contributedTo: number;
 	totalRepos: number;
 	totalGists: number;
-	mergedPRs: number;
-	reviewedPRs: number;
 	accountAge: string;
 	topLanguages: string;
 };
