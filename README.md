@@ -123,6 +123,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [Elagoht/StatiGo](https://github.com/Elagoht/StatiGo)** _(Feb 5, 2026)_
+
 - **Starred [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** _(Feb 5, 2026)_
 
 - **Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)** _(Feb 5, 2026)_
@@ -141,10 +143,10 @@ lately.
 
 - **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
 
-- **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** _(Feb 1, 2026)_
-
 <details>
-    <summary>Show 87 more activities...</summary>
+    <summary>Show 88 more activities...</summary>
+
+    - **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** *(Feb 1, 2026)*
 
     - **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** *(Feb 1, 2026)*
 
@@ -329,15 +331,9 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 195                                      |
-| **Total Commits:**         | 770+                                     |
 | **Commits (Last 7 Days):** | 20+                                      |
-| **Total PRs:**             | 19                                       |
-| **Total Issues:**          | 9                                        |
-| **Contributed To:**        | 5                                        |
 | **Total Repositories:**    | 58                                       |
 | **Total Gists:**           | 53                                       |
-| **Merged PRs:**            | 15                                       |
-| **Reviewed PRs:**          | 0                                        |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Python |
 | **Account Age:**           | 6 years                                  |
 
@@ -351,6 +347,9 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★40 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
@@ -363,16 +362,13 @@ features currently under development.
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
   TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★40 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-
 ### Active Repositories
 
 A collection of my primary projects that are currently maintained and under active development. These repositories
 represent my core open-source contributions and personal tools.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★40 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Jan 29, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.sametcc.me)<br />_Created: Mar 24, 2024 • Updated: Dec 19, 2025_<br />the missing html based widget manager application
