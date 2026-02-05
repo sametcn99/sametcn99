@@ -144,7 +144,7 @@ lately.
 - **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** _(Feb 1, 2026)_
 
 <details>
-    <summary>Show 86 more activities...</summary>
+    <summary>Show 85 more activities...</summary>
 
     - **Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)** *(Feb 1, 2026)*
 
@@ -315,8 +315,6 @@ lately.
     - **Merged pull request [#5](undefined) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** *(Jan 9, 2026)*
 
     - **Opened pull request [#5](undefined) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** *(Jan 9, 2026)*
-
-    - **Created branch &#x60;fullstack-dev&#x60; in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** *(Jan 5, 2026)*
 
 </details>
 
