@@ -123,6 +123,10 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Discussion in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
+
+- **Created branch &#x60;master&#x60; in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
+
 - **Starred [Elagoht/StatiGo](https://github.com/Elagoht/StatiGo)** _(Feb 5, 2026)_
 
 - **Starred [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** _(Feb 5, 2026)_
@@ -139,12 +143,12 @@ lately.
 
 - **Forked [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api) to [sametcn99/letterboxd-api](https://github.com/sametcn99/letterboxd-api)** _(Feb 2, 2026)_
 
-- **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 1, 2026)_
-
-- **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
-
 <details>
-    <summary>Show 88 more activities...</summary>
+    <summary>Show 90 more activities...</summary>
+
+    - **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** *(Feb 1, 2026)*
+
+    - **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** *(Feb 1, 2026)*
 
     - **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** *(Feb 1, 2026)*
 
@@ -332,7 +336,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 195                                      |
 | **Commits (Last 7 Days):** | 20+                                      |
-| **Total Repositories:**    | 58                                       |
+| **Total Repositories:**    | 59                                       |
 | **Total Gists:**           | 53                                       |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Python |
 | **Account Age:**           | 6 years                                  |
@@ -347,6 +351,9 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**dreamtui**](https://sametcc.me/repo/dreamtui) -
+  TypeScript<br />_Created: Feb 6, 2026 • Updated: Feb 6, 2026_<br />A terminal-based generative dream engine.
+
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★40 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
@@ -358,9 +365,6 @@ features currently under development.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 1, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-
-- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
-  TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -398,7 +402,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://color-img-downloader.sametcc.me)<br />_Created: Jul 14, 2025 • Updated: Jan 10, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 
 <details>
-    <summary>Show 16 more repositories...</summary>
+    <summary>Show 17 more repositories...</summary>
 
     - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 -
     JavaScript<br />*Created: May 4, 2024 • Updated: Sep 13, 2025*<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
@@ -462,6 +466,10 @@ represent my core open-source contributions and personal tools.
 
     - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
     C#<br />*Created: Jun 4, 2024 • Updated: Jun 11, 2024*<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+
+
+    - [**dreamtui**](https://sametcc.me/repo/dreamtui) -
+    TypeScript<br />*Created: Feb 6, 2026 • Updated: Feb 6, 2026*<br />A terminal-based generative dream engine.
 
 </details>
 
