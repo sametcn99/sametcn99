@@ -123,6 +123,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
+
 - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
 
 - **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
@@ -141,10 +143,10 @@ lately.
 
 - **Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)** _(Feb 5, 2026)_
 
-- **Commented on issue [#88](https://github.com/emersonbottero/vitepress-plugin-mermaid/pull/88) in [emersonbottero/vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid)** _(Feb 4, 2026)_
-
 <details>
-    <summary>Show 94 more activities...</summary>
+    <summary>Show 95 more activities...</summary>
+
+    - **Commented on issue [#88](https://github.com/emersonbottero/vitepress-plugin-mermaid/pull/88) in [emersonbottero/vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid)** *(Feb 4, 2026)*
 
     - **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** *(Feb 3, 2026)*
 
@@ -342,7 +344,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 196                                      |
+| **Total Stars Earned:**    | 197                                      |
 | **Commits (Last 7 Days):** | 20+                                      |
 | **Total Repositories:**    | 59                                       |
 | **Total Gists:**           | 53                                       |
@@ -359,7 +361,7 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**dreamtui**](https://sametcc.me/repo/dreamtui) -
+- [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
   TypeScript<br />_Created: Feb 6, 2026 • Updated: Feb 6, 2026_<br />A terminal-based generative dream engine.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★41 -
@@ -424,6 +426,10 @@ represent my core open-source contributions and personal tools.
     JavaScript - [Homepage](https://githubprofileviewer.com)<br />*Created: Jan 20, 2024 • Updated: Aug 4, 2024*<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 
 
+    - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
+    TypeScript<br />*Created: Feb 6, 2026 • Updated: Feb 6, 2026*<br />A terminal-based generative dream engine.
+
+
     - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 -
     TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />*Created: Jan 1, 2025 • Updated: Jan 4, 2026*<br />No description provided.
 
@@ -474,10 +480,6 @@ represent my core open-source contributions and personal tools.
 
     - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
     C#<br />*Created: Jun 4, 2024 • Updated: Jun 11, 2024*<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
-
-
-    - [**dreamtui**](https://sametcc.me/repo/dreamtui) -
-    TypeScript<br />*Created: Feb 6, 2026 • Updated: Feb 6, 2026*<br />A terminal-based generative dream engine.
 
 </details>
 
