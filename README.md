@@ -123,6 +123,14 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
+
+- **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
+
+- **Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** _(Feb 6, 2026)_
+
+- **Starred [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui)** _(Feb 6, 2026)_
+
 - **Discussion in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
 
 - **Created branch &#x60;master&#x60; in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
@@ -135,16 +143,16 @@ lately.
 
 - **Commented on issue [#88](https://github.com/emersonbottero/vitepress-plugin-mermaid/pull/88) in [emersonbottero/vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid)** _(Feb 4, 2026)_
 
-- **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** _(Feb 3, 2026)_
-
-- **Commented on issue [#20](https://github.com/LetterBoxd-Stats/letterboxd-api/pull/20) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
-
-- **Opened pull request [#20](undefined) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
-
-- **Forked [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api) to [sametcn99/letterboxd-api](https://github.com/sametcn99/letterboxd-api)** _(Feb 2, 2026)_
-
 <details>
-    <summary>Show 90 more activities...</summary>
+    <summary>Show 94 more activities...</summary>
+
+    - **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** *(Feb 3, 2026)*
+
+    - **Commented on issue [#20](https://github.com/LetterBoxd-Stats/letterboxd-api/pull/20) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** *(Feb 2, 2026)*
+
+    - **Opened pull request [#20](undefined) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** *(Feb 2, 2026)*
+
+    - **Forked [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api) to [sametcn99/letterboxd-api](https://github.com/sametcn99/letterboxd-api)** *(Feb 2, 2026)*
 
     - **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** *(Feb 1, 2026)*
 
