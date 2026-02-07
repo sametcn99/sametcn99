@@ -66,13 +66,11 @@ I write about technology, coding, my experiences and my thoughts.
 
 {{#if posts.older.length}}
 <details>
-    <summary>Show {{posts.older.length}} more posts...</summary>
+<summary>Show {{posts.older.length}} more posts...</summary>
 
-    {{#each posts.older}}
-
-    - [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
-    {{/each}}
-
+{{#each posts.older}}
+- [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
+{{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -92,13 +90,11 @@ lately.
 
 {{#if activity.older.length}}
 <details>
-    <summary>Show {{activity.older.length}} more activities...</summary>
+<summary>Show {{activity.older.length}} more activities...</summary>
 
-    {{#each activity.older}}
-
-    - {{this}}
-    {{/each}}
-
+{{#each activity.older}}
+- {{this}}
+{{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -156,15 +152,11 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{#if repos.active.hidden.length}}
 <details>
-    <summary>Show {{repos.active.hidden.length}} more repositories...</summary>
+<summary>Show {{repos.active.hidden.length}} more repositories...</summary>
 
-    {{#each repos.active.hidden}}
-
-    - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
-    {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
-    dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
-    {{/each}}
+{{#each repos.active.hidden}}
+- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+{{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -186,15 +178,11 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{#if repos.forked.hidden.length}}
 <details>
-    <summary>Show {{repos.forked.hidden.length}} more repositories...</summary>
+<summary>Show {{repos.forked.hidden.length}} more repositories...</summary>
 
-    {{#each repos.forked.hidden}}
-
-    - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
-    {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
-    dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
-    {{/each}}
+{{#each repos.forked.hidden}}
+- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+{{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -216,15 +204,11 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{#if repos.archived.hidden.length}}
 <details>
-    <summary>Show {{repos.archived.hidden.length}} more repositories...</summary>
+<summary>Show {{repos.archived.hidden.length}} more repositories...</summary>
 
-    {{#each repos.archived.hidden}}
-
-    - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
-    {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
-    dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
-    {{/each}}
+{{#each repos.archived.hidden}}
+- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+{{/each}}
 </details>
 {{/if}}
 {{/if}}
