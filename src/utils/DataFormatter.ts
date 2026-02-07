@@ -146,7 +146,13 @@ export class DataFormatter {
 		);
 
 		const activeRaw = sortedByStars.filter((r) => !r.fork && !r.archived);
-		const forkedRaw = sortedByStars.filter((r) => r.fork && !r.archived);
+		const forkedRaw = filteredRepos
+			.filter((r) => r.fork && !r.archived)
+			.sort((a, b) => {
+				const dateA = new Date(a.pushed_at || 0).getTime();
+				const dateB = new Date(b.pushed_at || 0).getTime();
+				return dateB - dateA;
+			});
 		const archivedRaw = sortedByStars.filter((r) => r.archived);
 
 		const splitGroup = (groupRepos: Repository[], limit: number) => {
@@ -168,8 +174,8 @@ export class DataFormatter {
 				DataFormatter.formatRepo(r),
 			),
 			active: splitGroup(activeRaw, 10),
-			forked: splitGroup(forkedRaw, 5),
-			archived: splitGroup(archivedRaw, 5),
+			forked: splitGroup(forkedRaw, 3),
+			archived: splitGroup(archivedRaw, 3),
 		};
 	}
 
@@ -194,8 +200,8 @@ export class DataFormatter {
 			};
 		};
 
-		const recent = posts.slice(0, 10).map(format);
-		const older = posts.slice(10).map(format);
+		const recent = posts.slice(0, 5).map(format);
+		const older = posts.slice(5).map(format);
 
 		return { recent, older };
 	}
