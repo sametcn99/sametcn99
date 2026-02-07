@@ -6,38 +6,24 @@ developer experience.
 
 ## What I Do
 
-- Develop modern web applications using **React.js**, **Next.js**, and **Vue.js**
-- Build robust back-end services with **.NET**, **NestJS**, and **C#**
-- Design and work with relational databases such as **PostgreSQL**, **MS SQL**, and **SQLite**
-- Create and maintain **CI/CD pipelines** using **GitHub Actions**, **Docker**, **Azure**, and **AWS**
-- Develop **cross-platform desktop applications** with **Electron.js** and **.NET MAUI**
+- Develop modern web applications using **React**, **Next.js**, **Vue**, and **Blazor**
+- Build robust back-end services with **.NET**, **NestJS**, **NodeJS**, and **BunJS**
+- Design and work with databases such as **PostgreSQL**, **MS SQL**, **SQLite**, and **InfluxDB**
+- Create and maintain **CI/CD pipelines** using **GitHub Actions**, **Docker**, **Coolify**, **Azure**, and **AWS**
+- Develop **desktop applications** using **Electron**, **.NET MAUI**, and **Windows Forms**
+- Write clean and efficient code in **C#**, **TypeScript**, **JavaScript**, and **Python**
 - Follow **clean code**, **SOLID principles**, and pragmatic architecture decisions
 
 ## Tech Stack
 
-**Frontend**
-
-- React.js, Next.js, Vue.js, Blazor
-- TypeScript, JavaScript
-
-**Backend**
-
-- .NET, NestJS, C#
-- RESTful APIs, modular service design
-
-**Databases**
-
-- PostgreSQL, MS SQL, SQLite
-
-**DevOps & Tooling**
-
-- GitHub Actions, Docker, Coolify
-- Azure, AWS
-
-**Desktop**
-
-- Electron.js
-- .NET MAUI
+| Category                  | Tools & Technologies                                |
+| :------------------------ | :-------------------------------------------------- |
+| **Frontend**              | React, Next.js, Vue, Blazor, TypeScript, JavaScript |
+| **Backend**               | .NET, NestJS, NodeJS, BunJS, C#                     |
+| **Databases**             | PostgreSQL, MS SQL, SQLite, InfluxDB                |
+| **DevOps & Tooling**      | GitHub Actions, Docker, Coolify, Azure, AWS         |
+| **Desktop**               | Electron, .NET MAUI, .NET Windows Forms             |
+| **Programming Languages** | C#, TypeScript, JavaScript, Python                  |
 
 ## Focus & Mindset
 
@@ -54,15 +40,22 @@ Below is a quick overview to learn more about my work, activity, and how to get 
 
 ## Table of Contents
 
+- [What I Do](#what-i-do)
+- [Tech Stack](#tech-stack)
+- [Focus & Mindset](#focus--mindset)
 - [Latest Blog Posts](#latest-blog-posts)
 - [Latest Activity](#latest-activity)
 - [GitHub Stats](#github-stats)
 - [Repositories](#repositories)
+  - [Recently Updated](#recently-updated)
+  - [Active Repositories](#active-repositories)
+  - [Forked Repositories](#forked-repositories)
+  - [Archived Repositories](#archived-repositories)
 - [Contact](#contact)
 
 ## Latest Blog Posts
 
-I write about technology, coding, and my experiences. Here are my latest posts:
+I write about technology, coding, my experiences and my thoughts.
 
 - [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
 
@@ -74,18 +67,18 @@ I write about technology, coding, and my experiences. Here are my latest posts:
 
 - [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
 
-- [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) _(Dec 17, 2025)_<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
-
-- [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) _(Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
-
-- [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) _(Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
-
-- [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) _(Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
-
-- [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) _(Mar 15, 2025)_<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
-
 <details>
-    <summary>Show 14 more posts...</summary>
+    <summary>Show 19 more posts...</summary>
+
+    - [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) *(Dec 17, 2025)*<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
+
+    - [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) *(Oct 15, 2025)*<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
+
+    - [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) *(Oct 15, 2025)*<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
+
+    - [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) *(Apr 23, 2025)*<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
+
+    - [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) *(Mar 15, 2025)*<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
 
     - [**Env Protector**](https://sametcc.me/project/env-protector) *(Sep 14, 2024)*<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive data, providing confirmation prompts before opening, and allowing users to manage environment variables without exposing their contents.
 
@@ -123,6 +116,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
+
 - **Starred [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
 
 - **Opened pull request [#2](undefined) in [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
@@ -141,10 +136,10 @@ lately.
 
 - **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
 
-- **Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** _(Feb 6, 2026)_
-
 <details>
-    <summary>Show 101 more activities...</summary>
+    <summary>Show 102 more activities...</summary>
+
+    - **Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** *(Feb 6, 2026)*
 
     - **Starred [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui)** *(Feb 6, 2026)*
 
@@ -356,7 +351,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 195                                      |
+| **Total Stars Earned:**    | 194                                      |
 | **Commits (Last 7 Days):** | 20+                                      |
 | **Total Repositories:**    | 60                                       |
 | **Total Gists:**           | 53                                       |
@@ -500,19 +495,25 @@ represent my core open-source contributions and personal tools.
 Repositories I have forked to contribute to, study, or customize. This list reflects my involvement in the broader
 open-source ecosystem and tools I find interesting.
 
-- [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) ★1 -
-  Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
-
-- [**RepoHub**](https://sametcc.me/repo/RepoHub) -
-  TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
-
-- [**nestlens**](https://sametcc.me/repo/nestlens) -
-  TypeScript - [Homepage](https://nestlens-docs.vercel.app/)<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
-
 - [**crono-event**](https://sametcc.me/repo/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
 
 - [**letterboxd-api**](https://sametcc.me/repo/letterboxd-api) -
   Python - [Homepage](https://letterboxd-api-zeta.vercel.app)<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
+
+- [**nestlens**](https://sametcc.me/repo/nestlens) -
+  TypeScript - [Homepage](https://nestlens-docs.vercel.app/)<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
+
+<details>
+    <summary>Show 2 more repositories...</summary>
+
+    - [**RepoHub**](https://sametcc.me/repo/RepoHub) -
+    TypeScript - [Homepage](https://repo-hub.com/)<br />*Created: Dec 5, 2025 • Updated: Dec 5, 2025*<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
+
+
+    - [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) -
+    Python<br />*Created: Jun 28, 2025 • Updated: Jun 28, 2025*<br />Import your Letterboxd ratings into IMDb
+
+</details>
 
 ### Archived Repositories
 
@@ -528,14 +529,16 @@ them for code snippets or to see my past work.
 - [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Oct 14, 2025_<br />moved: https://github.com/sametcn99/GPVBlazor
 
-- [**nextjs-cookie-based-auth**](https://sametcc.me/repo/nextjs-cookie-based-auth) ★4 -
-  TypeScript - [Homepage](https://nextjs-cookie-based-auth-delta.vercel.app)<br />_Created: Oct 30, 2023 • Updated: Sep 18, 2024_<br />This project has been created to learn how to implement JSON Web Token (JWT) and cookie-based authentication for only an administrator (admin) using Next.js.
-
-- [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 -
-  TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
-
 <details>
-    <summary>Show 22 more repositories...</summary>
+    <summary>Show 24 more repositories...</summary>
+
+    - [**nextjs-cookie-based-auth**](https://sametcc.me/repo/nextjs-cookie-based-auth) ★4 -
+    TypeScript - [Homepage](https://nextjs-cookie-based-auth-delta.vercel.app)<br />*Created: Oct 30, 2023 • Updated: Sep 18, 2024*<br />This project has been created to learn how to implement JSON Web Token (JWT) and cookie-based authentication for only an administrator (admin) using Next.js.
+
+
+    - [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 -
+    TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />*Created: Oct 28, 2023 • Updated: Dec 13, 2024*<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
+
 
     - [**code-nest-web**](https://sametcc.me/repo/code-nest-web) ★2 -
     TypeScript - [Homepage](https://code-nest-web-samets-projects-538a8f28.vercel.app)<br />*Created: Jul 10, 2024 • Updated: Sep 18, 2024*<br />No description provided.
