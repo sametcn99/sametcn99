@@ -356,7 +356,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 197                                      |
+| **Total Stars Earned:**    | 195                                      |
 | **Commits (Last 7 Days):** | 20+                                      |
 | **Total Repositories:**    | 60                                       |
 | **Total Gists:**           | 53                                       |
@@ -500,14 +500,14 @@ represent my core open-source contributions and personal tools.
 Repositories I have forked to contribute to, study, or customize. This list reflects my involvement in the broader
 open-source ecosystem and tools I find interesting.
 
-- [**RepoHub**](https://sametcc.me/repo/RepoHub) ★1 -
-  TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
-
-- [**nestlens**](https://sametcc.me/repo/nestlens) ★1 -
-  TypeScript - [Homepage](https://nestlens-docs.vercel.app/)<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
-
 - [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) ★1 -
   Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
+
+- [**RepoHub**](https://sametcc.me/repo/RepoHub) -
+  TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
+
+- [**nestlens**](https://sametcc.me/repo/nestlens) -
+  TypeScript - [Homepage](https://nestlens-docs.vercel.app/)<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
 
 - [**crono-event**](https://sametcc.me/repo/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
 
