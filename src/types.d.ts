@@ -13,6 +13,9 @@ type UserStats = {
 	totalStars: number;
 	commitsLast7Days: number | string;
 	totalRepos: number;
+	activeRepos: number;
+	forkedRepos: number;
+	archivedRepos: number;
 	totalGists: number;
 	accountAge: string;
 	topLanguages: string;
@@ -21,6 +24,10 @@ type UserStats = {
 /** Repository payload returned by Octokit listForUser. */
 type Repository =
 	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
+
+/** Gist payload returned by Octokit listForUser. */
+type Gist =
+	import("@octokit/rest").RestEndpointMethodTypes["gists"]["listForUser"]["response"]["data"][number];
 
 /** Activity payload returned when listing public events for a user. */
 type GitHubEvent =

@@ -40,6 +40,8 @@ class Application {
 	public async generate(): Promise<void> {
 		const recentPostsPromise = this.feedService.fetch();
 		const reposDataPromise = this.githubProvider.fetchRepositories();
+		// Fetch gists in parallel
+		const gistsDataPromise = this.githubProvider.fetchGists();
 		const eventsDataPromise = this.githubProvider.fetchEvents();
 		const userProfilePromise = this.githubProvider.fetchProfile();
 		const workflowPromise = this.githubProvider.fetchWorkflow();
@@ -52,6 +54,7 @@ class Application {
 		const [
 			recentPosts,
 			reposData,
+			gistsData,
 			eventsData,
 			userProfile,
 			workflowData,
@@ -59,6 +62,7 @@ class Application {
 		] = await Promise.all([
 			recentPostsPromise,
 			reposDataPromise,
+			gistsDataPromise,
 			eventsDataPromise,
 			userProfilePromise,
 			workflowPromise,
@@ -98,6 +102,7 @@ class Application {
 			activity,
 			stats: userStats,
 			repos: DataFormatter.prepareRepoData(reposData),
+			gists: DataFormatter.prepareGistData(gistsData),
 			workflow,
 			generatedAt: new Date().toUTCString(),
 		};

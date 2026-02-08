@@ -19,6 +19,15 @@ export interface FormattedRepo {
 	homepage?: string | null;
 }
 
+/** Shape used by the template when rendering gist information. */
+export interface FormattedGist {
+	id: string;
+	html_url: string;
+	description: string;
+	fullDescription: string;
+	dateStr: string;
+}
+
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
 export class DataFormatter {
 	/** Formats GitHub activity events into readable Markdown snippets. */
@@ -105,6 +114,64 @@ export class DataFormatter {
 			description: repo.description || "No description provided.",
 			dateStr,
 			homepage: repo.homepage,
+		};
+	}
+
+	/** Converts a GitHub gist into the data needed by the template. */
+	static formatGist(gist: Gist): FormattedGist {
+		const created = gist.created_at ? formatDateLong(gist.created_at) : "";
+		const updated = gist.updated_at ? formatDateLong(gist.updated_at) : "";
+
+		let dateStr = "";
+		if (created && updated) {
+			dateStr = `Created: ${created} • Updated: ${updated}`;
+		} else if (updated) {
+			dateStr = `Updated: ${updated}`;
+		}
+
+		const filename = Object.keys(gist.files ?? {})[0] ?? "gist";
+		const rawDescription = gist.description || filename;
+		// Escape quotes for markdown title attribute
+		const fullDescription = rawDescription.replace(/"/g, "&quot;");
+
+		// Truncate if longer than 70 chars
+		const description =
+			rawDescription.length > 70
+				? `${rawDescription.substring(0, 70)}...`
+				: rawDescription;
+
+		return {
+			id: gist.id || "",
+			html_url: gist.html_url || "",
+			description,
+			fullDescription,
+			dateStr,
+		};
+	}
+
+	/**
+	 * Organizes gists with pagination info for the template.
+	 */
+	static prepareGistData(gists: Gist[]): {
+		visible: FormattedGist[];
+		hidden: FormattedGist[];
+		length: number;
+	} {
+		const sortedGists = [...gists].sort((a, b) => {
+			const dateA = new Date(a.updated_at || 0).getTime();
+			const dateB = new Date(b.updated_at || 0).getTime();
+			return dateB - dateA;
+		});
+
+		const visible = sortedGists
+			.slice(0, 3)
+			.map((g) => DataFormatter.formatGist(g));
+		const hidden = sortedGists.slice(3).map((g) => DataFormatter.formatGist(g));
+
+		return {
+			visible,
+			hidden,
+			length: gists.length,
 		};
 	}
 

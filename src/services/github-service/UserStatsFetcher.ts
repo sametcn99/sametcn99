@@ -23,6 +23,9 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 			totalStars: 0,
 			commitsLast7Days: 0,
 			totalRepos: 0,
+			activeRepos: 0,
+			forkedRepos: 0,
+			archivedRepos: 0,
 			totalGists: 0,
 			accountAge: "",
 			topLanguages: "",
@@ -53,6 +56,15 @@ export class UserStatsFetcher implements IDataFetcher<UserStats> {
 
 		// Top Languages
 		this.processTopLanguages(stats, reposData);
+
+		// Repository Counts
+		stats.activeRepos = reposData.filter(
+			(repo) => !repo.fork && !repo.archived,
+		).length;
+		stats.forkedRepos = reposData.filter(
+			(repo) => repo.fork && !repo.archived,
+		).length;
+		stats.archivedRepos = reposData.filter((repo) => repo.archived).length;
 
 		await independentFetches;
 

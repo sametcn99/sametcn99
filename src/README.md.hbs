@@ -51,6 +51,7 @@ Below is a quick overview to learn more about my work, activity, and how to get 
   - [Active Repositories](#active-repositories)
   - [Forked Repositories](#forked-repositories)
   - [Archived Repositories](#archived-repositories)
+  - [Public Gists](#public-gists)
 - [Contact](#contact)
 
 {{#if posts.recent.length}}
@@ -108,7 +109,10 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | **Total Stars Earned:** | {{stats.totalStars}} |
 | **Commits (Last 7 Days):** | {{stats.commitsLast7Days}} |
 | **Total Repositories:** | {{stats.totalRepos}} |
-| **Total Gists:** | {{stats.totalGists}} |
+| **Active Repositories:** | {{stats.activeRepos}} |
+| **Forked Repositories:** | {{stats.forkedRepos}} |
+| **Archived Repositories:** | {{stats.archivedRepos}} |
+| **Total Gists:** | [{{stats.totalGists}}](https://gist.github.com/sametcn99) |
 | **Top Languages:** | {{stats.topLanguages}} |
 | **Account Age:** | {{stats.accountAge}} |
 
@@ -208,6 +212,29 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{#each repos.archived.hidden}}
 - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+{{/each}}
+</details>
+{{/if}}
+{{/if}}
+
+{{#if gists.length}}
+
+### Public Gists
+
+Code snippets and small scripts I've shared. Gists are great for quick ideas, config files, or helper functions.
+
+{{#each gists.visible}}
+
+- [**{{description}}**]({{html_url}} "{{fullDescription}}"){{#if dateStr}}<br />*{{dateStr}}*{{/if}}
+
+{{/each}}
+
+{{#if gists.hidden.length}}
+<details>
+<summary>Show {{gists.hidden.length}} more gists...</summary>
+
+{{#each gists.hidden}}
+- [**{{description}}**]({{html_url}} "{{fullDescription}}"){{#if dateStr}}<br />*{{dateStr}}*{{/if}}
 {{/each}}
 </details>
 {{/if}}
