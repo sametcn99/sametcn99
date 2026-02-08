@@ -24,7 +24,7 @@ developer experience.
 | **DevOps & Tooling**      | GitHub Actions, Docker, Coolify, Azure, AWS         |
 | **Desktop**               | Electron, .NET MAUI, .NET Windows Forms             |
 | **Programming Languages** | C#, TypeScript, JavaScript, Python                  |
-| **OS/Distros**            | Linux (Ubuntu, Debian )                             |
+| **OS/Distros**            | Linux (Ubuntu, Debian)                              |
 
 ## Focus & Mindset
 
@@ -236,7 +236,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 195                                     |
-| **Commits (Last 7 Days):** | 30+                                     |
+| **Commits (Last 7 Days):** | 40+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 29                                      |
 | **Forked Repositories:**   | 5                                       |
