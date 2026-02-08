@@ -140,7 +140,7 @@ export class DataFormatter {
 				const dateB = new Date(b.pushed_at || 0).getTime();
 				return dateB - dateA;
 			})
-			.slice(0, 5);
+			.slice(0, 3);
 		const sortedByStars = [...filteredRepos].sort(
 			(a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0),
 		);
@@ -173,7 +173,7 @@ export class DataFormatter {
 			recentlyUpdated: recentlyUpdatedRaw.map((r) =>
 				DataFormatter.formatRepo(r),
 			),
-			active: splitGroup(activeRaw, 10),
+			active: splitGroup(activeRaw, 5),
 			forked: splitGroup(forkedRaw, 3),
 			archived: splitGroup(archivedRaw, 3),
 		};
