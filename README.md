@@ -51,6 +51,7 @@ Below is a quick overview to learn more about my work, activity, and how to get 
   - [Active Repositories](#active-repositories)
   - [Forked Repositories](#forked-repositories)
   - [Archived Repositories](#archived-repositories)
+  - [Public Gists](#public-gists)
 - [Contact](#contact)
 
 ## Latest Blog Posts
@@ -231,9 +232,12 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 194                                      |
-| **Commits (Last 7 Days):** | 30+                                      |
+| **Commits (Last 7 Days):** | 20+                                      |
 | **Total Repositories:**    | 60                                       |
-| **Total Gists:**           | 53                                       |
+| **Active Repositories:**   | 28                                       |
+| **Forked Repositories:**   | 5                                        |
+| **Archived Repositories:** | 27                                       |
+| **Total Gists:**           | [53](https://gist.github.com/sametcn99)  |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Python |
 | **Account Age:**           | 6 years                                  |
 
