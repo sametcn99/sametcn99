@@ -24,6 +24,7 @@ developer experience.
 | **DevOps & Tooling**      | GitHub Actions, Docker, Coolify, Azure, AWS         |
 | **Desktop**               | Electron, .NET MAUI, .NET Windows Forms             |
 | **Programming Languages** | C#, TypeScript, JavaScript, Python                  |
+| **OS/Distros**            | Linux (Ubuntu, Debian, Arch )                       |
 
 ## Focus & Mindset
 
@@ -97,6 +98,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
+
 - **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
 
 - **Starred [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
@@ -115,11 +118,10 @@ lately.
 
 - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
 
-- **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
-
 <details>
-<summary>Show 102 more activities...</summary>
+<summary>Show 106 more activities...</summary>
 
+- **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
 - **Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** _(Feb 6, 2026)_
 - **Starred [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui)** _(Feb 6, 2026)_
 - **Discussion in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
@@ -164,6 +166,7 @@ lately.
 - **Starred [sametcn99/golter-web](https://github.com/sametcn99/golter-web)** _(Jan 31, 2026)_
 - **Starred [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 31, 2026)_
 - **Starred [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 31, 2026)_
+- **Starred [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Jan 31, 2026)_
 - **Starred [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 31, 2026)_
 - **Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)** _(Jan 30, 2026)_
 - **Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)** _(Jan 30, 2026)_
@@ -175,6 +178,7 @@ lately.
 - **Starred [odest/katip](https://github.com/odest/katip)** _(Jan 28, 2026)_
 - **Starred [koesan/ORCUS](https://github.com/koesan/ORCUS)** _(Jan 28, 2026)_
 - **Starred [Subutay-CyberSecurity/ProtoBas](https://github.com/Subutay-CyberSecurity/ProtoBas)** _(Jan 28, 2026)_
+- **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 26, 2026)_
 - **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
@@ -202,6 +206,7 @@ lately.
 - **Assigned issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 13, 2026)_
 - **Labeled issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 13, 2026)_
 - **Commented on issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 13, 2026)_
+- **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Published release [1.0.12](https://github.com/sametcn99/env-protector/releases/tag/1.0.12) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 12, 2026)_
 - **Deleted tag &#x60;1.0.11&#x60; in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 12, 2026)_
 - **Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)** _(Jan 11, 2026)_
@@ -228,17 +233,17 @@ lately.
 
 A summary of my GitHub statistics, showcasing my contributions, repositories, and overall activity on the platform.
 
-| Metric                     | Value                                    |
-| :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 194                                      |
-| **Commits (Last 7 Days):** | 20+                                      |
-| **Total Repositories:**    | 60                                       |
-| **Active Repositories:**   | 28                                       |
-| **Forked Repositories:**   | 5                                        |
-| **Archived Repositories:** | 27                                       |
-| **Total Gists:**           | [53](https://gist.github.com/sametcn99)  |
-| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Python |
-| **Account Age:**           | 6 years                                  |
+| Metric                     | Value                                   |
+| :------------------------- | :-------------------------------------- |
+| **Total Stars Earned:**    | 195                                     |
+| **Commits (Last 7 Days):** | 30+                                     |
+| **Total Repositories:**    | 61                                      |
+| **Active Repositories:**   | 29                                      |
+| **Forked Repositories:**   | 5                                       |
+| **Archived Repositories:** | 27                                      |
+| **Total Gists:**           | [53](https://gist.github.com/sametcn99) |
+| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
+| **Account Age:**           | 6 years                                 |
 
 ## Repositories
 
@@ -249,6 +254,9 @@ recently updated, those I maintain actively, as well as forks and archived explo
 
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
+
+- [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 8, 2026_<br />No description provided.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 7, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
@@ -261,9 +269,6 @@ features currently under development.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★41 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-
-- [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
-  TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 
 ### Active Repositories
 
@@ -301,11 +306,12 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://color-img-downloader.sametcc.me)<br />_Created: Jul 14, 2025 • Updated: Jan 10, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 
 <details>
-<summary>Show 17 more repositories...</summary>
+<summary>Show 18 more repositories...</summary>
 
 - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 - JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 - [**catchapage**](https://sametcc.me/repo/catchapage) ★2 - TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 - JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 8, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 - TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 - TypeScript<br />_Created: Feb 6, 2026 • Updated: Feb 6, 2026_<br />A terminal-based generative dream engine.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 - HTML<br />_Created: Dec 23, 2025 • Updated: Dec 24, 2025_<br />No description provided.
