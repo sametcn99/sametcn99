@@ -137,27 +137,6 @@ features currently under development.
 {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
 dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
-{{#if repos}}
-
-## Repositories
-
-Explore a comprehensive list of my code repositories, categorized by their status and type. This includes projects I've
-recently updated, those I maintain actively, as well as forks and archived exploratory work.
-
-{{#if repos.recentlyUpdated.length}}
-
-### Recently Updated
-
-These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
-features currently under development.
-
-{{#each repos.recentlyUpdated}}
-
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
-{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
-dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
-{{/each
 {{/each}}
 {{/if}}
 

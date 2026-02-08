@@ -158,6 +158,11 @@ export class DataFormatter {
 		length: number;
 	} {
 		const sortedGists = [...gists].sort((a, b) => {
+			const starsA = a.stargazers_count || 0;
+			const starsB = b.stargazers_count || 0;
+			if (starsA !== starsB) {
+				return starsB - starsA;
+			}
 			const dateA = new Date(a.updated_at || 0).getTime();
 			const dateB = new Date(b.updated_at || 0).getTime();
 			return dateB - dateA;
