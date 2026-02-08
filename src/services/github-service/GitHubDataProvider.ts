@@ -1,6 +1,5 @@
 import { Octokit } from "@octokit/rest";
 import { EventFetcher } from "./EventFetcher";
-import { GistFetcher } from "./GistFetcher";
 import { GitHubService } from "./GitHubService";
 import { ProfileFetcher } from "./ProfileFetcher";
 import { RepositoryFetcher } from "./RepositoryFetcher";
@@ -23,12 +22,6 @@ export class GitHubDataProvider {
 	/** Returns the owner's repositories sorted by stargazers+activity. */
 	async fetchRepositories(): Promise<Repository[]> {
 		const fetcher = new RepositoryFetcher(this.service, this.octokit);
-		return fetcher.fetch();
-	}
-
-	/** Returns the owner's gists. */
-	async fetchGists(): Promise<Gist[]> {
-		const fetcher = new GistFetcher(this.service, this.octokit);
 		return fetcher.fetch();
 	}
 

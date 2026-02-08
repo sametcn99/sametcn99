@@ -25,12 +25,6 @@ type UserStats = {
 type Repository =
 	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
 
-/** Gist payload returned by Octokit listForUser. */
-type Gist =
-	import("@octokit/rest").RestEndpointMethodTypes["gists"]["listForUser"]["response"]["data"][number] & {
-		stargazers_count?: number;
-	};
-
 /** Activity payload returned when listing public events for a user. */
 type GitHubEvent =
 	import("@octokit/rest").RestEndpointMethodTypes["activity"]["listPublicEventsForUser"]["response"]["data"][number];

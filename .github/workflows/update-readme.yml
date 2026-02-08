@@ -48,7 +48,7 @@ jobs:
       - name: Generate README
         run: bun run start
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Format and lint
         run: |
