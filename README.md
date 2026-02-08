@@ -51,7 +51,7 @@ Below is a quick overview to learn more about my work, activity, and how to get 
   - [Active Repositories](#active-repositories)
   - [Forked Repositories](#forked-repositories)
   - [Archived Repositories](#archived-repositories)
-  - [Public Gists](#public-gists)
+- [Public Gists](#public-gists)
 - [Contact](#contact)
 
 ## Latest Blog Posts
