@@ -119,7 +119,7 @@ lately.
 - **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
 
 <details>
-<summary>Show 105 more activities...</summary>
+<summary>Show 102 more activities...</summary>
 
 - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
 - **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
@@ -223,9 +223,6 @@ lately.
 - **Labeled issue [#7278](https://github.com/EclipseFdn/open-vsx.org/issues/7278) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)** _(Jan 10, 2026)_
 - **Labeled issue [#7278](https://github.com/EclipseFdn/open-vsx.org/issues/7278) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)** _(Jan 10, 2026)_
 - **Opened issue [#7278](https://github.com/EclipseFdn/open-vsx.org/issues/7278) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)** _(Jan 10, 2026)_
-- **Deleted branch &#x60;fullstack-dev&#x60; in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jan 9, 2026)_
-- **Merged pull request [#6](undefined) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jan 9, 2026)_
-- **Opened pull request [#6](undefined) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jan 9, 2026)_
 </details>
 
 ## GitHub Stats
