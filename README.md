@@ -119,7 +119,7 @@ lately.
 - **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
 
 <details>
-<summary>Show 102 more activities...</summary>
+<summary>Show 98 more activities...</summary>
 
 - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
 - **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
@@ -219,10 +219,6 @@ lately.
 - **Commented on issue [#7](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 10, 2026)_
 - **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-2cb8645c2b&#x60; in [sametcn99/color-img-downloader](https://github.com/sametcn99/color-img-downloader)** _(Jan 10, 2026)_
 - **Closed pull request [#1](undefined) in [sametcn99/color-img-downloader](https://github.com/sametcn99/color-img-downloader)** _(Oct 12, 2025)_
-- **Starred [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)** _(Jan 10, 2026)_
-- **Labeled issue [#7278](https://github.com/EclipseFdn/open-vsx.org/issues/7278) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)** _(Jan 10, 2026)_
-- **Labeled issue [#7278](https://github.com/EclipseFdn/open-vsx.org/issues/7278) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)** _(Jan 10, 2026)_
-- **Opened issue [#7278](https://github.com/EclipseFdn/open-vsx.org/issues/7278) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)** _(Jan 10, 2026)_
 </details>
 
 ## GitHub Stats
