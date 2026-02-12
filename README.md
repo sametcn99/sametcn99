@@ -119,7 +119,7 @@ lately.
 - **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
 
 <details>
-<summary>Show 89 more activities...</summary>
+<summary>Show 87 more activities...</summary>
 
 - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
 - **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
@@ -208,8 +208,6 @@ lately.
 - **Labeled issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 13, 2026)_
 - **Commented on issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 13, 2026)_
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
-- **Published release [1.0.12](https://github.com/sametcn99/env-protector/releases/tag/1.0.12) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 12, 2026)_
-- **Deleted tag &#x60;1.0.11&#x60; in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jan 12, 2026)_
 </details>
 
 ## GitHub Stats
@@ -219,7 +217,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 195                                     |
-| **Commits (Last 7 Days):** | 30+                                     |
+| **Commits (Last 7 Days):** | 20+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 29                                      |
 | **Forked Repositories:**   | 5                                       |
