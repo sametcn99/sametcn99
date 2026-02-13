@@ -119,7 +119,7 @@ lately.
 - **Created branch &#x60;turkish-translation&#x60; in [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 
 <details>
-<summary>Show 86 more activities...</summary>
+<summary>Show 84 more activities...</summary>
 
 - **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Commented on issue [#87719](https://github.com/vercel/next.js/issues/87719) in [vercel/next.js](https://github.com/vercel/next.js)** _(Feb 7, 2026)_
@@ -205,8 +205,6 @@ lately.
 - **Starred [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)** _(Jan 15, 2026)_
 - **Starred [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github)** _(Jan 14, 2026)_
 - **Starred [coollabsio/fonts](https://github.com/coollabsio/fonts)** _(Jan 14, 2026)_
-- **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-5134b82be1&#x60; in [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Jan 14, 2026)_
-- **Closed pull request [#2](undefined) in [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Jun 21, 2024)_
 </details>
 
 ## GitHub Stats
