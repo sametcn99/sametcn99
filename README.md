@@ -98,6 +98,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
+
 - **Starred [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 13, 2026)_
 
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
@@ -116,11 +118,10 @@ lately.
 
 - **Created branch &#x60;turkish-translation&#x60; in [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 
-- **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
-
 <details>
-<summary>Show 85 more activities...</summary>
+<summary>Show 86 more activities...</summary>
 
+- **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Commented on issue [#87719](https://github.com/vercel/next.js/issues/87719) in [vercel/next.js](https://github.com/vercel/next.js)** _(Feb 7, 2026)_
 - **Starred [davidosemwegie/doxy](https://github.com/davidosemwegie/doxy)** _(Feb 7, 2026)_
 - **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
@@ -214,8 +215,8 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 196                                     |
-| **Commits (Last 7 Days):** | 20+                                     |
+| **Total Stars Earned:**    | 197                                     |
+| **Commits (Last 7 Days):** | 30+                                     |
 | **Total Repositories:**    | 62                                      |
 | **Active Repositories:**   | 30                                      |
 | **Forked Repositories:**   | 5                                       |
@@ -234,7 +235,7 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**maalesef-tr**](https://sametcc.me/repo/maalesef-tr) ★1 -
+- [**maalesef-tr**](https://sametcc.me/repo/maalesef-tr) ★2 -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Feb 13, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
@@ -269,12 +270,12 @@ represent my core open-source contributions and personal tools.
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 - TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 - TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 - TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+- [**maalesef-tr**](https://sametcc.me/repo/maalesef-tr) ★2 - TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Feb 13, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 - HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 3, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 - TypeScript - [Homepage](https://color-img-downloader.sametcc.me)<br />_Created: Jul 14, 2025 • Updated: Jan 10, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 - JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 - [**catchapage**](https://sametcc.me/repo/catchapage) ★2 - TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 - JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-- [**maalesef-tr**](https://sametcc.me/repo/maalesef-tr) ★1 - TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Feb 13, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 8, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 - TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 - TypeScript<br />_Created: Feb 6, 2026 • Updated: Feb 6, 2026_<br />A terminal-based generative dream engine.
