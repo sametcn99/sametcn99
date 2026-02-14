@@ -119,7 +119,7 @@ lately.
 - **Opened pull request [#2](undefined) in [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
 
 <details>
-<summary>Show 84 more activities...</summary>
+<summary>Show 83 more activities...</summary>
 
 - **Created branch &#x60;turkish-translation&#x60; in [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
@@ -204,7 +204,6 @@ lately.
 - **Published release [0.1.0](https://github.com/sametcn99/golter/releases/tag/0.1.0) in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 17, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 16, 2026)_
 - **Starred [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)** _(Jan 15, 2026)_
-- **Starred [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github)** _(Jan 14, 2026)_
 </details>
 
 ## GitHub Stats
