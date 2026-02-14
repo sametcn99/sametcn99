@@ -98,6 +98,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
+
 - **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
 
 - **Starred [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 13, 2026)_
@@ -116,11 +118,10 @@ lately.
 
 - **Opened pull request [#2](undefined) in [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
 
-- **Created branch &#x60;turkish-translation&#x60; in [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
-
 <details>
 <summary>Show 84 more activities...</summary>
 
+- **Created branch &#x60;turkish-translation&#x60; in [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Commented on issue [#87719](https://github.com/vercel/next.js/issues/87719) in [vercel/next.js](https://github.com/vercel/next.js)** _(Feb 7, 2026)_
 - **Starred [davidosemwegie/doxy](https://github.com/davidosemwegie/doxy)** _(Feb 7, 2026)_
@@ -204,7 +205,6 @@ lately.
 - **Created branch &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 16, 2026)_
 - **Starred [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)** _(Jan 15, 2026)_
 - **Starred [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github)** _(Jan 14, 2026)_
-- **Starred [coollabsio/fonts](https://github.com/coollabsio/fonts)** _(Jan 14, 2026)_
 </details>
 
 ## GitHub Stats
@@ -214,7 +214,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 197                                     |
-| **Commits (Last 7 Days):** | 30+                                     |
+| **Commits (Last 7 Days):** | 20+                                     |
 | **Total Repositories:**    | 62                                      |
 | **Active Repositories:**   | 30                                      |
 | **Forked Repositories:**   | 5                                       |
