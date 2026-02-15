@@ -98,6 +98,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
+
 - **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
 
 - **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
@@ -116,11 +118,10 @@ lately.
 
 - **Starred [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
 
-- **Opened pull request [#2](undefined) in [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
-
 <details>
-<summary>Show 83 more activities...</summary>
+<summary>Show 84 more activities...</summary>
 
+- **Opened pull request [#2](undefined) in [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
 - **Created branch &#x60;turkish-translation&#x60; in [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Commented on issue [#87719](https://github.com/vercel/next.js/issues/87719) in [vercel/next.js](https://github.com/vercel/next.js)** _(Feb 7, 2026)_
