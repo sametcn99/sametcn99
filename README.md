@@ -8,8 +8,8 @@ developer experience.
 
 - Develop modern web applications using **React**, **Next.js**, **Vue**, and **Blazor**
 - Build robust back-end services with **.NET**, **NestJS**, **NodeJS**, and **BunJS**
-- Design and work with databases such as **PostgreSQL**, **MS SQL**, **SQLite**, and **InfluxDB**
-- Create and maintain **CI/CD pipelines** using **GitHub Actions**, **Docker**, **Coolify**, **Azure**, and **AWS**
+- Design and work with databases such as **PostgreSQL**, **MS SQL**, **SQLite**, **InfluxDB**
+- Create and maintain **CI/CD pipelines** using **GitHub Actions**, **Docker**, **Coolify**
 - Develop **desktop applications** using **Electron**, **.NET MAUI**, and **Windows Forms**
 - Write clean and efficient code in **C#**, **TypeScript**, **JavaScript**, and **Python**
 - Follow **clean code**, **SOLID principles**, and pragmatic architecture decisions
@@ -21,10 +21,10 @@ developer experience.
 | **Frontend**              | React, Next.js, Vue, Blazor, TypeScript, JavaScript |
 | **Backend**               | .NET, NestJS, NodeJS, BunJS, C#                     |
 | **Databases**             | PostgreSQL, MS SQL, SQLite, InfluxDB                |
-| **DevOps & Tooling**      | GitHub Actions, Docker, Coolify, Azure, AWS         |
+| **DevOps & Tooling**      | GitHub Actions, Docker, Coolify                     |
 | **Desktop**               | Electron, .NET MAUI, .NET Windows Forms             |
 | **Programming Languages** | C#, TypeScript, JavaScript, Python                  |
-| **OS/Distros**            | Linux (Ubuntu, Debian)                              |
+| **OS/Distros**            | Ubuntu                                              |
 
 ## Focus & Mindset
 
@@ -233,14 +233,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
+  TypeScript<br />_Created: Oct 16, 2025 • Updated: Feb 16, 2026_<br />No description provided.
+
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 16, 2026_<br />No description provided.
 
 - [**maalesef-tr**](https://sametcc.me/repo/maalesef-tr) ★2 -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Feb 13, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
-
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 7, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 ### Active Repositories
 
@@ -274,6 +274,7 @@ represent my core open-source contributions and personal tools.
 - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 - JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 - [**catchapage**](https://sametcc.me/repo/catchapage) ★2 - TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 - JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Feb 16, 2026_<br />No description provided.
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 - MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 16, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 - TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 - TypeScript<br />_Created: Feb 6, 2026 • Updated: Feb 6, 2026_<br />A terminal-based generative dream engine.
@@ -281,7 +282,6 @@ represent my core open-source contributions and personal tools.
 - [**instaloader-api**](https://sametcc.me/repo/instaloader-api) ★1 - Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 - [**golter**](https://sametcc.me/repo/golter) ★1 - Go - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 16, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
 - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 - TypeScript - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 17, 2026 • Updated: Jan 18, 2026_<br />golter landing page
-- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 - TypeScript<br />_Created: Oct 16, 2025 • Updated: Jan 31, 2026_<br />No description provided.
 - [**svg-split**](https://sametcc.me/repo/svg-split) ★1 - JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
 - [**electron-widgets-web**](https://sametcc.me/repo/electron-widgets-web) ★1 - Vue - [Homepage](https://electron-widgets.sametcc.me)<br />_Created: Apr 3, 2024 • Updated: Oct 18, 2025_<br />No description provided.
 - [**xls-to-gantt**](https://sametcc.me/repo/xls-to-gantt) ★1 - TypeScript - [Homepage](https://xls-to-gantt.vercel.app)<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
