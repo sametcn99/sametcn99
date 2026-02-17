@@ -24,7 +24,7 @@ developer experience.
 | **DevOps & Tooling** | GitHub Actions, Docker, Coolify |
 | **Desktop** | Electron, .NET MAUI, .NET Windows Forms|
 | **Programming Languages** | C#, TypeScript, JavaScript, Python|
-| **OS/Distros**  | Ubuntu |
+| **OS/Distros** | Ubuntu |
 
 
 ## Focus & Mindset
@@ -40,6 +40,9 @@ I actively work on open-source projects and enjoy exploring new tools, framework
 productivity and system reliability.
 Below is a quick overview to learn more about my work, activity, and how to get in touch.
 
+I track all my development tasks in a centralized project board on
+[github.com/users/sametcn99/projects/9](https://github.com/users/sametcn99/projects/9)
+
 ## Table of Contents
 
 - [What I Do](#what-i-do)
@@ -49,10 +52,10 @@ Below is a quick overview to learn more about my work, activity, and how to get 
 - [Latest Activity](#latest-activity)
 - [GitHub Stats](#github-stats)
 - [Repositories](#repositories)
-  - [Recently Updated](#recently-updated)
-  - [Active Repositories](#active-repositories)
-  - [Forked Repositories](#forked-repositories)
-  - [Archived Repositories](#archived-repositories)
+- [Recently Updated](#recently-updated)
+- [Active Repositories](#active-repositories)
+- [Forked Repositories](#forked-repositories)
+- [Archived Repositories](#archived-repositories)
 - [Contact](#contact)
 
 {{#if posts.recent.length}}
@@ -68,11 +71,11 @@ I write about technology, coding, my experiences and my thoughts.
 
 {{#if posts.older.length}}
 <details>
-<summary>Show {{posts.older.length}} more posts...</summary>
+  <summary>Show {{posts.older.length}} more posts...</summary>
 
-{{#each posts.older}}
-- [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
-{{/each}}
+  {{#each posts.older}}
+  - [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -92,11 +95,11 @@ lately.
 
 {{#if activity.older.length}}
 <details>
-<summary>Show {{activity.older.length}} more activities...</summary>
+  <summary>Show {{activity.older.length}} more activities...</summary>
 
-{{#each activity.older}}
-- {{this}}
-{{/each}}
+  {{#each activity.older}}
+  - {{this}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -158,11 +161,13 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{#if repos.active.hidden.length}}
 <details>
-<summary>Show {{repos.active.hidden.length}} more repositories...</summary>
+  <summary>Show {{repos.active.hidden.length}} more repositories...</summary>
 
-{{#each repos.active.hidden}}
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-{{/each}}
+  {{#each repos.active.hidden}}
+  - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+  {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+  dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -184,11 +189,13 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{#if repos.forked.hidden.length}}
 <details>
-<summary>Show {{repos.forked.hidden.length}} more repositories...</summary>
+  <summary>Show {{repos.forked.hidden.length}} more repositories...</summary>
 
-{{#each repos.forked.hidden}}
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-{{/each}}
+  {{#each repos.forked.hidden}}
+  - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+  {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+  dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -210,11 +217,13 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 
 {{#if repos.archived.hidden.length}}
 <details>
-<summary>Show {{repos.archived.hidden.length}} more repositories...</summary>
+  <summary>Show {{repos.archived.hidden.length}} more repositories...</summary>
 
-{{#each repos.archived.hidden}}
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} - {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-{{/each}}
+  {{#each repos.archived.hidden}}
+  - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+  {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+  dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
