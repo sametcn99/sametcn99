@@ -101,6 +101,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
+
 - **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
 
 - **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
@@ -119,11 +121,10 @@ lately.
 
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 
-- **Starred [abusoww/tuxmate](https://github.com/abusoww/tuxmate)** _(Feb 8, 2026)_
-
 <details>
-  <summary>Show 79 more activities...</summary>
+  <summary>Show 80 more activities...</summary>
 
+- **Starred [abusoww/tuxmate](https://github.com/abusoww/tuxmate)** _(Feb 8, 2026)_
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
 - **Starred [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
