@@ -122,7 +122,7 @@ lately.
 - **Starred [abusoww/tuxmate](https://github.com/abusoww/tuxmate)** _(Feb 8, 2026)_
 
 <details>
-  <summary>Show 80 more activities...</summary>
+  <summary>Show 79 more activities...</summary>
 
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
@@ -203,7 +203,6 @@ lately.
 - **Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** _(Jan 22, 2026)_
 - **Starred [sametirkoren/pharmacy-scraper](https://github.com/sametirkoren/pharmacy-scraper)** _(Jan 20, 2026)_
 - **Starred [sametirkoren/pharmacy-on-duty](https://github.com/sametirkoren/pharmacy-on-duty)** _(Jan 20, 2026)_
-- **Starred [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm)** _(Jan 18, 2026)_
 </details>
 
 ## GitHub Stats
@@ -232,14 +231,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
-  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Feb 16, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 18, 2026_<br />No description provided.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 16, 2026_<br />No description provided.
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 18, 2026_<br />No description provided.
 
-- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
-  TypeScript<br />_Created: Oct 16, 2025 • Updated: Feb 16, 2026_<br />No description provided.
+- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
+  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Feb 16, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 
 ### Active Repositories
 
@@ -282,16 +281,16 @@ represent my core open-source contributions and personal tools.
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 18, 2026_<br />No description provided.
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 16, 2026_<br />No description provided.
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 18, 2026_<br />No description provided.
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
   TypeScript<br />_Created: Oct 16, 2025 • Updated: Feb 16, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
   TypeScript<br />_Created: Feb 6, 2026 • Updated: Feb 6, 2026_<br />A terminal-based generative dream engine.
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  HTML<br />_Created: Dec 23, 2025 • Updated: Dec 24, 2025_<br />No description provided.
 - [**instaloader-api**](https://sametcc.me/repo/instaloader-api) ★1 -
   Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 - [**golter**](https://sametcc.me/repo/golter) ★1 -
