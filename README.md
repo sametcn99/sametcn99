@@ -122,7 +122,7 @@ lately.
 - **Starred [abusoww/tuxmate](https://github.com/abusoww/tuxmate)** _(Feb 8, 2026)_
 
 <details>
-  <summary>Show 81 more activities...</summary>
+  <summary>Show 80 more activities...</summary>
 
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
@@ -204,7 +204,6 @@ lately.
 - **Starred [sametirkoren/pharmacy-scraper](https://github.com/sametirkoren/pharmacy-scraper)** _(Jan 20, 2026)_
 - **Starred [sametirkoren/pharmacy-on-duty](https://github.com/sametirkoren/pharmacy-on-duty)** _(Jan 20, 2026)_
 - **Starred [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm)** _(Jan 18, 2026)_
-- **Published release [0.1.3](https://github.com/sametcn99/golter/releases/tag/0.1.3) in [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 18, 2026)_
 </details>
 
 ## GitHub Stats
