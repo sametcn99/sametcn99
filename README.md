@@ -61,39 +61,40 @@ I track all my development tasks in a centralized project board on
 
 I write about technology, coding, my experiences and my thoughts.
 
-- [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](http://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) _(Dec 17, 2025)_<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
+- [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) _(Dec 17, 2025)_<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
 
-- [**GitHub Repo TUI Cloner (PowerShell)**](http://sametcc.me/gist/git-clone-repo-tui) _(Feb 19, 2026)_<br />An interactive PowerShell script to fetch and clone your owned GitHub repositories using a terminal UI (TUI).
+- [**GitHub Repo TUI Cloner (PowerShell)**](https://sametcc.me/gist/git-clone-repo-tui) _(Feb 19, 2026)_<br />An interactive PowerShell script to fetch and clone your owned GitHub repositories using a terminal UI (TUI).
 
-- [**Rendering HTML Details/Summary in MDX with Custom Components**](http://sametcc.me/gist/mdx-details-custom-components) _(Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
+- [**TypeSpec for .NET and Next.js Teams**](https://sametcc.me/gist/typespec-for-dotnet-nextjs) _(Feb 19, 2026)_<br />Practical TypeSpec workflow for contract-first API design with ASP.NET Core and Next.js, including OpenAPI generation and typed client usage.
 
-- [**Payload Docker Config: PostgreSQL + BunJS**](http://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
+- [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
 
-- [**Migrate from prettier-eslint to Biome**](http://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
+- [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
 
 <details>
-  <summary>Show 20 more posts...</summary>
+  <summary>Show 21 more posts...</summary>
 
-- [**Insta Public Archiver**](http://sametcc.me/gist/insta-public-archiver) _(Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
-- [**Running Calibre-Web on Coolify**](http://sametcc.me/gist/running-calibre-on-coolify) _(Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
-- [**Using JSON Schema in VS Code**](http://sametcc.me/gist/using-json-schema-in-vscode) _(Aug 25, 2024)_<br />Step-by-step guide to implementing JSON Schema validation in VS Code for automatic error detection and IntelliSense support.
-- [**Docker Command Documentation**](http://sametcc.me/gist/docker-commands) _(Aug 25, 2024)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
-- [**TypeScript Types and Utility Types**](http://sametcc.me/gist/typescript-types) _(Aug 25, 2024)_<br />Complete guide to TypeScript&#x27;s built-in utility types, advanced type transformations, and custom type definitions for robust type safety.
-- [**Using Glob Patterns in TypeScript Projects**](http://sametcc.me/gist/typescript-glob-patterns) _(Aug 25, 2024)_<br />Comprehensive guide to glob patterns in TypeScript with detailed character explanations, examples, and practical applications for file matching.
-- [**Product Requirements Document**](http://sametcc.me/gist/product-requirement-doc-guide) _(Aug 25, 2024)_<br />Complete guide to writing effective Product Requirements Documents (PRDs) with templates, best practices, and real-world examples for software development.
-- [**React Component Lifecycle**](http://sametcc.me/gist/react-component-lifecycle) _(Aug 25, 2024)_<br />Deep dive into React component lifecycle methods, hooks, and modern patterns for managing component state and side effects in React applications.
-- [**A Comprehensive Guide to Creating and Using Tasks in Visual Studio Code**](http://sametcc.me/gist/using-tasks-in-vscode) _(Aug 25, 2024)_<br />Complete guide to VS Code tasks configuration including custom tasks, automation, debugging, and integration with build systems.
-- [**Git Hooks: A Comprehensive Guide**](http://sametcc.me/gist/git-hooks-guide) _(Aug 25, 2024)_<br />Complete guide to Git hooks implementation, best practices, and advanced automation techniques for client-side and server-side workflows.
-- [**Script Gists**](http://sametcc.me/gist/scripts-gist) _(Aug 25, 2024)_<br />Collection of useful development scripts including Prettier setup, Git utilities, and automation tools for modern development workflows.
-- [**Running Scripts in Linux**](http://sametcc.me/gist/running-scripts-in-linux) _(Aug 25, 2024)_<br />Essential guide to running scripts in Linux including permissions, execution methods, and best practices for shell scripting.
-- [**PowerShell Scripting**](http://sametcc.me/gist/powershell-scripting) _(Aug 25, 2024)_<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
-- [**Golter**](http://sametcc.me/project/golter) _(Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
-- [**GitHub Profile Viewer**](http://sametcc.me/project/github-profile-viewer) _(Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
-- [**Mermaid Live Editor &amp; Viewer**](http://sametcc.me/project/mermaid-viewer) _(Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
-- [**VitePress Mermaid Renderer**](http://sametcc.me/project/vitepress-mermaid-renderer) _(Mar 15, 2025)_<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
-- [**Env Protector**](http://sametcc.me/project/env-protector) _(Sep 14, 2024)_<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive data, providing confirmation prompts before opening, and allowing users to manage environment variables without exposing their contents.
-- [**Electron Widgets**](http://sametcc.me/project/electron-widgets) _(Mar 25, 2024)_<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
-- [**Resume Builder**](http://sametcc.me/project/resume-builder) _(Jan 12, 2023)_<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
+- [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
+- [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
+- [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) _(Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
+- [**Using JSON Schema in VS Code**](https://sametcc.me/gist/using-json-schema-in-vscode) _(Aug 25, 2024)_<br />Step-by-step guide to implementing JSON Schema validation in VS Code for automatic error detection and IntelliSense support.
+- [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) _(Aug 25, 2024)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
+- [**TypeScript Types and Utility Types**](https://sametcc.me/gist/typescript-types) _(Aug 25, 2024)_<br />Complete guide to TypeScript&#x27;s built-in utility types, advanced type transformations, and custom type definitions for robust type safety.
+- [**Using Glob Patterns in TypeScript Projects**](https://sametcc.me/gist/typescript-glob-patterns) _(Aug 25, 2024)_<br />Comprehensive guide to glob patterns in TypeScript with detailed character explanations, examples, and practical applications for file matching.
+- [**Product Requirements Document**](https://sametcc.me/gist/product-requirement-doc-guide) _(Aug 25, 2024)_<br />Complete guide to writing effective Product Requirements Documents (PRDs) with templates, best practices, and real-world examples for software development.
+- [**React Component Lifecycle**](https://sametcc.me/gist/react-component-lifecycle) _(Aug 25, 2024)_<br />Deep dive into React component lifecycle methods, hooks, and modern patterns for managing component state and side effects in React applications.
+- [**A Comprehensive Guide to Creating and Using Tasks in Visual Studio Code**](https://sametcc.me/gist/using-tasks-in-vscode) _(Aug 25, 2024)_<br />Complete guide to VS Code tasks configuration including custom tasks, automation, debugging, and integration with build systems.
+- [**Git Hooks: A Comprehensive Guide**](https://sametcc.me/gist/git-hooks-guide) _(Aug 25, 2024)_<br />Complete guide to Git hooks implementation, best practices, and advanced automation techniques for client-side and server-side workflows.
+- [**Script Gists**](https://sametcc.me/gist/scripts-gist) _(Aug 25, 2024)_<br />Collection of useful development scripts including Prettier setup, Git utilities, and automation tools for modern development workflows.
+- [**Running Scripts in Linux**](https://sametcc.me/gist/running-scripts-in-linux) _(Aug 25, 2024)_<br />Essential guide to running scripts in Linux including permissions, execution methods, and best practices for shell scripting.
+- [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) _(Aug 25, 2024)_<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
+- [**Golter**](https://sametcc.me/project/golter) _(Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
+- [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) _(Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
+- [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) _(Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
+- [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) _(Mar 15, 2025)_<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
+- [**Env Protector**](https://sametcc.me/project/env-protector) _(Sep 14, 2024)_<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive data, providing confirmation prompts before opening, and allowing users to manage environment variables without exposing their contents.
+- [**Electron Widgets**](https://sametcc.me/project/electron-widgets) _(Mar 25, 2024)_<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
+- [**Resume Builder**](https://sametcc.me/project/resume-builder) _(Jan 12, 2023)_<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
 </details>
 
 ## Latest Activity
@@ -123,7 +124,7 @@ lately.
 - **Starred [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 13, 2026)_
 
 <details>
-  <summary>Show 82 more activities...</summary>
+  <summary>Show 81 more activities...</summary>
 
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
@@ -197,7 +198,6 @@ lately.
 - **Starred [Subutay-CyberSecurity/ProtoBas](https://github.com/Subutay-CyberSecurity/ProtoBas)** _(Jan 28, 2026)_
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 26, 2026)_
 - **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 - **Opened pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 - **Forked [mogretici/nestlens](https://github.com/mogretici/nestlens) to [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 25, 2026)_
@@ -216,7 +216,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 198                                     |
-| **Commits (Last 7 Days):** | 40+                                     |
+| **Commits (Last 7 Days):** | 60+                                     |
 | **Total Repositories:**    | 62                                      |
 | **Active Repositories:**   | 30                                      |
 | **Forked Repositories:**   | 5                                       |
@@ -235,14 +235,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 18, 2026_<br />No description provided.
-
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 18, 2026_<br />No description provided.
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
 
-- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
-  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Feb 16, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 19, 2026_<br />No description provided.
+
+- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
+  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 
 ### Active Repositories
 
@@ -273,22 +273,22 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
+  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Feb 16, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**maalesef-tr**](https://sametcc.me/repo/maalesef-tr) ★2 -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Feb 13, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
-- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
-  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 3, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 -
   JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 - [**catchapage**](https://sametcc.me/repo/catchapage) ★2 -
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 18, 2026_<br />No description provided.
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 18, 2026_<br />No description provided.
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 19, 2026_<br />No description provided.
 - [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
   TypeScript<br />_Created: Oct 16, 2025 • Updated: Feb 16, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 -
