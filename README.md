@@ -103,6 +103,12 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)** _(Feb 19, 2026)_
+
+- **Starred [ersinkoc/ReactCheck](https://github.com/ersinkoc/ReactCheck)** _(Feb 19, 2026)_
+
+- **Starred [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** _(Feb 19, 2026)_
+
 - **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
 
 - **Starred [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)** _(Feb 18, 2026)_
@@ -117,15 +123,12 @@ lately.
 
 - **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
 
-- **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
-
-- **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
-
-- **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
-
 <details>
-  <summary>Show 82 more activities...</summary>
+  <summary>Show 85 more activities...</summary>
 
+- **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
+- **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
+- **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
 - **Starred [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 13, 2026)_
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
