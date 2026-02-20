@@ -103,6 +103,8 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+
 - **Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)** _(Feb 19, 2026)_
 
 - **Starred [ersinkoc/ReactCheck](https://github.com/ersinkoc/ReactCheck)** _(Feb 19, 2026)_
@@ -121,11 +123,10 @@ lately.
 
 - **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
 
-- **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
-
 <details>
-  <summary>Show 85 more activities...</summary>
+  <summary>Show 84 more activities...</summary>
 
+- **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
 - **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
 - **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
 - **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
@@ -209,8 +210,6 @@ lately.
 - **Starred [barats/resizem](https://github.com/barats/resizem)** _(Jan 22, 2026)_
 - **Starred [wailsapp/wails](https://github.com/wailsapp/wails)** _(Jan 22, 2026)_
 - **Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** _(Jan 22, 2026)_
-- **Starred [sametirkoren/pharmacy-scraper](https://github.com/sametirkoren/pharmacy-scraper)** _(Jan 20, 2026)_
-- **Starred [sametirkoren/pharmacy-on-duty](https://github.com/sametirkoren/pharmacy-on-duty)** _(Jan 20, 2026)_
 </details>
 
 ## GitHub Stats
@@ -221,8 +220,8 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 198                                     |
 | **Commits (Last 7 Days):** | 60+                                     |
-| **Total Repositories:**    | 62                                      |
-| **Active Repositories:**   | 30                                      |
+| **Total Repositories:**    | 63                                      |
+| **Active Repositories:**   | 31                                      |
 | **Forked Repositories:**   | 5                                       |
 | **Archived Repositories:** | 27                                      |
 | **Total Gists:**           | [54](https://gist.github.com/sametcn99) |
@@ -239,14 +238,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) -
+  TypeScript<br />_Created: Feb 20, 2026 • Updated: Feb 20, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★42 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 19, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
-
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 19, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -269,7 +268,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 7, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 <details>
-  <summary>Show 24 more repositories...</summary>
+  <summary>Show 25 more repositories...</summary>
 
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
@@ -318,7 +317,9 @@ represent my core open-source contributions and personal tools.
 - [**sql-query-safety-checker**](https://sametcc.me/repo/sql-query-safety-checker) ★1 -
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
-C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+  C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) -
+TypeScript<br />_Created: Feb 20, 2026 • Updated: Feb 20, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 </details>
 
 ### Forked Repositories
