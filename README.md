@@ -103,29 +103,37 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Forked [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer) to [sametcn99/vitepress-image-viewer](https://github.com/sametcn99/vitepress-image-viewer)** _(Feb 21, 2026)_
+
+- **Starred [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 21, 2026)_
+
+- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Starred [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics)** _(Feb 21, 2026)_
+
 - **Starred [pbatard/rufus](https://github.com/pbatard/rufus)** _(Feb 21, 2026)_
 
 - **Published release [1.1.2](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 
-- **Deleted tag &#x60;1.1.2&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-
-- **Published release [1.1.1](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-
-- **Deleted tag &#x60;1.1.1&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-
-- **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-
-- **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-
-- **Published release [1.0.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.0.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-
-- **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-
-- **Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)** _(Feb 19, 2026)_
-
 <details>
-  <summary>Show 91 more activities...</summary>
+  <summary>Show 99 more activities...</summary>
 
+- **Deleted tag &#x60;1.1.2&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Published release [1.1.1](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Deleted tag &#x60;1.1.1&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+- **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+- **Published release [1.0.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.0.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+- **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+- **Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)** _(Feb 19, 2026)_
 - **Starred [ersinkoc/ReactCheck](https://github.com/ersinkoc/ReactCheck)** _(Feb 19, 2026)_
 - **Starred [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** _(Feb 19, 2026)_
 - **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
@@ -225,11 +233,11 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 201                                     |
-| **Commits (Last 7 Days):** | 100+                                    |
-| **Total Repositories:**    | 63                                      |
+| **Total Stars Earned:**    | 202                                     |
+| **Commits (Last 7 Days):** | 110+                                    |
+| **Total Repositories:**    | 64                                      |
 | **Active Repositories:**   | 31                                      |
-| **Forked Repositories:**   | 5                                       |
+| **Forked Repositories:**   | 6                                       |
 | **Archived Repositories:** | 27                                      |
 | **Total Gists:**           | [54](https://gist.github.com/sametcn99) |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
@@ -245,14 +253,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★4 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 21, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX<br />_Created: Dec 23, 2025 • Updated: Feb 21, 2026_<br />No description provided.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.sametcc.me)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager application
-
-- [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
-  TypeScript - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 
 ### Active Repositories
 
@@ -277,12 +285,12 @@ represent my core open-source contributions and personal tools.
 <details>
   <summary>Show 25 more repositories...</summary>
 
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★4 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 21, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★3 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 21, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
@@ -343,8 +351,9 @@ open-source ecosystem and tools I find interesting.
   TypeScript - [Homepage](https://nestlens-docs.vercel.app/)<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
 
 <details>
-  <summary>Show 2 more repositories...</summary>
+  <summary>Show 3 more repositories...</summary>
 
+- [**vitepress-image-viewer**](https://sametcc.me/repo/vitepress-image-viewer) - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Dec 31, 2025_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 - [**RepoHub**](https://sametcc.me/repo/RepoHub) -
   TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
 - [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) -
