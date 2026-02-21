@@ -103,6 +103,12 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+
+- **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+
+- **Published release [1.0.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.0.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+
 - **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
 
 - **Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)** _(Feb 19, 2026)_
@@ -117,15 +123,12 @@ lately.
 
 - **Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)** _(Feb 18, 2026)_
 
-- **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
-
-- **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
-
-- **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
-
 <details>
-  <summary>Show 84 more activities...</summary>
+  <summary>Show 87 more activities...</summary>
 
+- **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
+- **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
+- **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
 - **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
 - **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
 - **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
@@ -218,8 +221,8 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 198                                     |
-| **Commits (Last 7 Days):** | 70+                                     |
+| **Total Stars Earned:**    | 199                                     |
+| **Commits (Last 7 Days):** | 80+                                     |
 | **Total Repositories:**    | 63                                      |
 | **Active Repositories:**   | 31                                      |
 | **Forked Repositories:**   | 5                                       |
@@ -238,7 +241,7 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) -
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★1 -
   TypeScript<br />_Created: Feb 20, 2026 • Updated: Feb 20, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★42 -
@@ -288,6 +291,8 @@ represent my core open-source contributions and personal tools.
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★1 -
+  TypeScript<br />_Created: Feb 20, 2026 • Updated: Feb 20, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
@@ -317,9 +322,7 @@ represent my core open-source contributions and personal tools.
 - [**sql-query-safety-checker**](https://sametcc.me/repo/sql-query-safety-checker) ★1 -
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
-  C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) -
-TypeScript<br />_Created: Feb 20, 2026 • Updated: Feb 20, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 </details>
 
 ### Forked Repositories
