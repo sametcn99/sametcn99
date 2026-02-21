@@ -103,6 +103,14 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Published release [1.1.2](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Deleted tag &#x60;1.1.2&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Published release [1.1.1](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
+- **Deleted tag &#x60;1.1.1&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+
 - **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
 
 - **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
@@ -115,17 +123,13 @@ lately.
 
 - **Starred [ersinkoc/ReactCheck](https://github.com/ersinkoc/ReactCheck)** _(Feb 19, 2026)_
 
-- **Starred [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** _(Feb 19, 2026)_
-
-- **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
-
-- **Starred [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)** _(Feb 18, 2026)_
-
-- **Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)** _(Feb 18, 2026)_
-
 <details>
-  <summary>Show 87 more activities...</summary>
+  <summary>Show 91 more activities...</summary>
 
+- **Starred [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** _(Feb 19, 2026)_
+- **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
+- **Starred [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)** _(Feb 18, 2026)_
+- **Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)** _(Feb 18, 2026)_
 - **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
 - **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
 - **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
@@ -222,7 +226,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 199                                     |
-| **Commits (Last 7 Days):** | 80+                                     |
+| **Commits (Last 7 Days):** | 90+                                     |
 | **Total Repositories:**    | 63                                      |
 | **Active Repositories:**   | 31                                      |
 | **Forked Repositories:**   | 5                                       |
@@ -241,11 +245,11 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★1 -
-  TypeScript<br />_Created: Feb 20, 2026 • Updated: Feb 20, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★42 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 19, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 21, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★1 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 21, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
@@ -256,7 +260,7 @@ A collection of my primary projects that are currently maintained and under acti
 represent my core open-source contributions and personal tools.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★42 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 19, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Mar 15, 2025 • Updated: Feb 21, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.sametcc.me)<br />_Created: Mar 24, 2024 • Updated: Dec 19, 2025_<br />the missing html based widget manager application
@@ -292,7 +296,7 @@ represent my core open-source contributions and personal tools.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★1 -
-  TypeScript<br />_Created: Feb 20, 2026 • Updated: Feb 20, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 21, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
