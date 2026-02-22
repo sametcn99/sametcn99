@@ -124,7 +124,7 @@ lately.
 - **Opened issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 <details>
-  <summary>Show 114 more activities...</summary>
+  <summary>Show 112 more activities...</summary>
 
 - **Opened issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Starred [natelindev/tsdav](https://github.com/natelindev/tsdav)** _(Feb 22, 2026)_
@@ -238,8 +238,6 @@ lately.
 - **Opened pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 - **Forked [mogretici/nestlens](https://github.com/mogretici/nestlens) to [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 25, 2026)_
 - **Starred [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 24, 2026)_
-- **Starred [barats/resizem](https://github.com/barats/resizem)** _(Jan 22, 2026)_
-- **Starred [wailsapp/wails](https://github.com/wailsapp/wails)** _(Jan 22, 2026)_
 </details>
 
 ## GitHub Stats
