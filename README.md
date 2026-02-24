@@ -105,8 +105,6 @@ lately.
 
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
 
-- **Commented on issue [#1](https://github.com/miletorix/vitepress-image-viewer/pull/1) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
-
 - **Opened pull request [#1](undefined) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
 
 - **Closed issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
@@ -123,10 +121,11 @@ lately.
 
 - **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
 
-<details>
-  <summary>Show 122 more activities...</summary>
-
 - **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+
+<details>
+  <summary>Show 121 more activities...</summary>
+
 - **Opened issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Labeled issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
@@ -283,7 +282,7 @@ features currently under development.
   MDX<br />_Created: Dec 23, 2025 • Updated: Feb 21, 2026_<br />No description provided.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
-  TypeScript - [Homepage](https://electron-widgets.sametcc.me)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager application
+  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager application
 
 ### Active Repositories
 
@@ -294,7 +293,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Feb 21, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
-  TypeScript - [Homepage](https://electron-widgets.sametcc.me)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager application
+  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager application
 
 - [**env-protector**](https://sametcc.me/repo/env-protector) ★15 -
   TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector)<br />_Created: Sep 14, 2024 • Updated: Jan 12, 2026_<br />Protect your secrets from being exposed
