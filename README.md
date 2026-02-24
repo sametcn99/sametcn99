@@ -124,7 +124,7 @@ lately.
 - **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 <details>
-  <summary>Show 121 more activities...</summary>
+  <summary>Show 120 more activities...</summary>
 
 - **Opened issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
@@ -246,7 +246,6 @@ lately.
 - **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 - **Opened pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 - **Forked [mogretici/nestlens](https://github.com/mogretici/nestlens) to [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 25, 2026)_
-- **Starred [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 24, 2026)_
 </details>
 
 ## GitHub Stats
