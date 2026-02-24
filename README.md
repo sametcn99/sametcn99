@@ -124,7 +124,7 @@ lately.
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 <details>
-  <summary>Show 120 more activities...</summary>
+  <summary>Show 119 more activities...</summary>
 
 - **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
 - **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
@@ -245,7 +245,6 @@ lately.
 - **Starred [Subutay-CyberSecurity/ProtoBas](https://github.com/Subutay-CyberSecurity/ProtoBas)** _(Jan 28, 2026)_
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
-- **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
 </details>
 
 ## GitHub Stats
@@ -254,7 +253,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 203                                     |
+| **Total Stars Earned:**    | 204                                     |
 | **Commits (Last 7 Days):** | 110+                                    |
 | **Total Repositories:**    | 65                                      |
 | **Active Repositories:**   | 32                                      |
@@ -274,7 +273,7 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
-- [**HTWind**](https://sametcc.me/repo/HTWind) -
+- [**HTWind**](https://sametcc.me/repo/HTWind) ★1 -
   HTML<br />_Created: Feb 24, 2026 • Updated: Feb 24, 2026_<br />html based widget manager created with .net
 
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
@@ -326,6 +325,8 @@ represent my core open-source contributions and personal tools.
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**HTWind**](https://sametcc.me/repo/HTWind) ★1 -
+  HTML<br />_Created: Feb 24, 2026 • Updated: Feb 24, 2026_<br />html based widget manager created with .net
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX<br />_Created: Dec 23, 2025 • Updated: Feb 24, 2026_<br />No description provided.
 - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
@@ -355,9 +356,7 @@ represent my core open-source contributions and personal tools.
 - [**sql-query-safety-checker**](https://sametcc.me/repo/sql-query-safety-checker) ★1 -
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
-  C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
-- [**HTWind**](https://sametcc.me/repo/HTWind) -
-HTML<br />_Created: Feb 24, 2026 • Updated: Feb 24, 2026_<br />html based widget manager created with .net
+C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 </details>
 
 ### Forked Repositories
