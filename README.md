@@ -277,11 +277,11 @@ features currently under development.
 - [**HTWind**](https://sametcc.me/repo/HTWind) -
   HTML<br />_Created: Feb 24, 2026 • Updated: Feb 24, 2026_<br />html based widget manager created with .net
 
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 24, 2026_<br />No description provided.
+
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★4 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 21, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -327,7 +327,7 @@ represent my core open-source contributions and personal tools.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 21, 2026_<br />No description provided.
+  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 24, 2026_<br />No description provided.
 - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
   TypeScript - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
