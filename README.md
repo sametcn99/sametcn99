@@ -103,6 +103,10 @@ This section tracks my recent interactions across GitHub, including pull request
 provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
+- **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
+
+- **Created branch &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
+
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
 
 - **Opened pull request [#1](undefined) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
@@ -119,13 +123,11 @@ lately.
 
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
-- **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
-
-- **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-
 <details>
   <summary>Show 120 more activities...</summary>
 
+- **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
+- **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Opened issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Labeled issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
@@ -244,8 +246,6 @@ lately.
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
 - **Merged pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
-- **Opened pull request [#3](undefined) in [mogretici/nestlens](https://github.com/mogretici/nestlens)** _(Jan 25, 2026)_
-- **Forked [mogretici/nestlens](https://github.com/mogretici/nestlens) to [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 25, 2026)_
 </details>
 
 ## GitHub Stats
@@ -255,9 +255,9 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 203                                     |
-| **Commits (Last 7 Days):** | 100+                                    |
-| **Total Repositories:**    | 64                                      |
-| **Active Repositories:**   | 31                                      |
+| **Commits (Last 7 Days):** | 110+                                    |
+| **Total Repositories:**    | 65                                      |
+| **Active Repositories:**   | 32                                      |
 | **Forked Repositories:**   | 6                                       |
 | **Archived Repositories:** | 27                                      |
 | **Total Gists:**           | [54](https://gist.github.com/sametcn99) |
@@ -274,14 +274,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**HTWind**](https://sametcc.me/repo/HTWind) -
+  HTML<br />_Created: Feb 24, 2026 • Updated: Feb 24, 2026_<br />html based widget manager created with .net
+
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★4 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX<br />_Created: Dec 23, 2025 • Updated: Feb 21, 2026_<br />No description provided.
-
-- [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
-  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager application
 
 ### Active Repositories
 
@@ -304,7 +304,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 7, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 <details>
-  <summary>Show 25 more repositories...</summary>
+  <summary>Show 26 more repositories...</summary>
 
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★4 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -355,7 +355,9 @@ represent my core open-source contributions and personal tools.
 - [**sql-query-safety-checker**](https://sametcc.me/repo/sql-query-safety-checker) ★1 -
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
-C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+  C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**HTWind**](https://sametcc.me/repo/HTWind) -
+HTML<br />_Created: Feb 24, 2026 • Updated: Feb 24, 2026_<br />html based widget manager created with .net
 </details>
 
 ### Forked Repositories
