@@ -3,6 +3,10 @@ import { FeedService } from "./services/feed-service/FeedService";
 import { GitHubDataProvider } from "./services/github-service/GitHubDataProvider";
 import { DataFormatter } from "./utils/DataFormatter";
 
+// Register Handlebars helpers
+Handlebars.registerHelper("or", (a, b) => a || b);
+Handlebars.registerHelper("any", (...args) => args.slice(0, -1).some(Boolean));
+
 /** Configuration overrides used when instantiating the application. */
 interface ApplicationConfig {
 	/** URL of the JSON feed that should be pulled for blog posts. */
@@ -71,15 +75,6 @@ class Application {
 
 		const templateSource = await Bun.file("src/README.md.hbs").text();
 		const template = Handlebars.compile(templateSource);
-		const formattedActivity = eventsData
-			.filter((event) => event.type !== "PushEvent")
-			.map((event) => DataFormatter.formatActivity(event))
-			.filter((activity): activity is string => activity !== null);
-
-		const activity = {
-			recent: formattedActivity.slice(0, 10),
-			older: formattedActivity.slice(10),
-		};
 
 		const workflow = workflowData
 			? {
@@ -95,7 +90,7 @@ class Application {
 
 		const context = {
 			posts: DataFormatter.preparePostsData(recentPosts),
-			activity,
+			activity: DataFormatter.prepareActivityData(eventsData),
 			stats: userStats,
 			repos: DataFormatter.prepareRepoData(reposData),
 			workflow,

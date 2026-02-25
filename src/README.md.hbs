@@ -80,28 +80,94 @@ I write about technology, coding, my experiences and my thoughts.
 {{/if}}
 {{/if}}
 
-{{#if activity.recent.length}}
+{{#if (any activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length activity.others.length)}}
 
 ## Latest Activity
 
-This section tracks my recent interactions across GitHub, including pull requests, issues, and star activities. It
-provides a chronological overview of my contributions and community engagement, showcasing what I've been working on
+This section tracks my recent interactions across GitHub, including pull requests, comments, and releases. It
+provides a categorized overview of my contributions and community engagement, showcasing what I've been working on
 lately.
 
-{{#each activity.recent}}
-
+{{#if activity.pullRequests.length}}
+### Pull Requests
+{{#each activity.pullRequests.visible}}
 - {{this}}
 {{/each}}
-
-{{#if activity.older.length}}
+{{#if activity.pullRequests.hidden.length}}
 <details>
-  <summary>Show {{activity.older.length}} more activities...</summary>
+  <summary>Show {{activity.pullRequests.hidden.length}} more pull requests...</summary>
 
-  {{#each activity.older}}
+  {{#each activity.pullRequests.hidden}}
   - {{this}}
   {{/each}}
 </details>
 {{/if}}
+{{/if}}
+
+{{#if activity.comments.length}}
+### Comments
+{{#each activity.comments.visible}}
+- {{this}}
+{{/each}}
+{{#if activity.comments.hidden.length}}
+<details>
+  <summary>Show {{activity.comments.hidden.length}} more comments...</summary>
+
+  {{#each activity.comments.hidden}}
+  - {{this}}
+  {{/each}}
+</details>
+{{/if}}
+{{/if}}
+
+{{#if activity.releases.length}}
+### Releases
+{{#each activity.releases.visible}}
+- {{this}}
+{{/each}}
+{{#if activity.releases.hidden.length}}
+<details>
+  <summary>Show {{activity.releases.hidden.length}} more releases...</summary>
+
+  {{#each activity.releases.hidden}}
+  - {{this}}
+  {{/each}}
+</details>
+{{/if}}
+{{/if}}
+
+{{#if activity.stars.length}}
+### Starred Repositories
+{{#each activity.stars.visible}}
+- {{this}}
+{{/each}}
+{{#if activity.stars.hidden.length}}
+<details>
+  <summary>Show {{activity.stars.hidden.length}} more starred repositories...</summary>
+
+  {{#each activity.stars.hidden}}
+  - {{this}}
+  {{/each}}
+</details>
+{{/if}}
+{{/if}}
+
+{{#if activity.others.length}}
+### Other Activity
+{{#each activity.others.visible}}
+- {{this}}
+{{/each}}
+{{#if activity.others.hidden.length}}
+<details>
+  <summary>Show {{activity.others.hidden.length}} more other activity...</summary>
+
+  {{#each activity.others.hidden}}
+  - {{this}}
+  {{/each}}
+</details>
+{{/if}}
+{{/if}}
+
 {{/if}}
 
 ## GitHub Stats

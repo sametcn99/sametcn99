@@ -85,6 +85,69 @@ export class DataFormatter {
 		return null;
 	}
 
+	/**
+	 * Categorizes and formats events into groups for the README.
+	 */
+	static prepareActivityData(events: GitHubEvent[]): {
+		pullRequests: { visible: string[]; hidden: string[]; length: number };
+		comments: { visible: string[]; hidden: string[]; length: number };
+		releases: { visible: string[]; hidden: string[]; length: number };
+		stars: { visible: string[]; hidden: string[]; length: number };
+		others: { visible: string[]; hidden: string[]; length: number };
+	} {
+		const groups = {
+			pullRequests: [] as string[],
+			comments: [] as string[],
+			releases: [] as string[],
+			stars: [] as string[],
+			others: [] as string[],
+		};
+
+		// Filter out push events as they are too noisy and often not informative in a README
+		const relevantEvents = events.filter((e) => e.type !== "PushEvent");
+
+		for (const event of relevantEvents) {
+			const formatted = DataFormatter.formatActivity(event);
+			if (!formatted) continue;
+
+			switch (event.type) {
+				case "PullRequestEvent":
+				case "PullRequestReviewEvent":
+					groups.pullRequests.push(formatted);
+					break;
+				case "IssueCommentEvent":
+				case "PullRequestReviewCommentEvent":
+					groups.comments.push(formatted);
+					break;
+				case "ReleaseEvent":
+					groups.releases.push(formatted);
+					break;
+				case "WatchEvent":
+					groups.stars.push(formatted);
+					break;
+				default:
+					groups.others.push(formatted);
+					break;
+			}
+		}
+
+		const splitGroup = (items: string[], limit: number) => {
+			return {
+				visible: items.slice(0, limit),
+				hidden: items.slice(limit),
+				length: items.length,
+			};
+		};
+
+		return {
+			pullRequests: splitGroup(groups.pullRequests, 5),
+			comments: splitGroup(groups.comments, 5),
+			releases: splitGroup(groups.releases, 5),
+			stars: splitGroup(groups.stars, 5),
+			others: splitGroup(groups.others, 5),
+		};
+	}
+
 	/** Converts a GitHub repository into the data needed by the template. */
 	static formatRepo(repo: Repository): FormattedRepo {
 		const created = repo.created_at ? formatDateLong(repo.created_at) : "";
