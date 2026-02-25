@@ -95,6 +95,7 @@ I write about technology, coding, my experiences and my thoughts.
 - [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) _(Aug 25, 2024)_<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
 - [**Electron Widgets**](https://sametcc.me/project/electron-widgets) _(Mar 25, 2024)_<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
 - [**Resume Builder**](https://sametcc.me/project/resume-builder) _(Jan 12, 2023)_<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
+
 </details>
 
 ## Latest Activity
@@ -116,15 +117,17 @@ lately.
 - **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-  <details>
-    <summary>Show 6 more comments...</summary>
-  - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-  - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-  - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-  - **Commented on issue [#87719](https://github.com/vercel/next.js/issues/87719) in [vercel/next.js](https://github.com/vercel/next.js)** _(Feb 7, 2026)_
-  - **Commented on issue [#88](https://github.com/emersonbottero/vitepress-plugin-mermaid/pull/88) in [emersonbottero/vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid)** _(Feb 4, 2026)_
-  - **Commented on issue [#20](https://github.com/LetterBoxd-Stats/letterboxd-api/pull/20) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
-  </details>
+<details>
+  <summary>Show 6 more comments...</summary>
+
+- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Commented on issue [#87719](https://github.com/vercel/next.js/issues/87719) in [vercel/next.js](https://github.com/vercel/next.js)** _(Feb 7, 2026)_
+- **Commented on issue [#88](https://github.com/emersonbottero/vitepress-plugin-mermaid/pull/88) in [emersonbottero/vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid)** _(Feb 4, 2026)_
+- **Commented on issue [#20](https://github.com/LetterBoxd-Stats/letterboxd-api/pull/20) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
+
+</details>
 
 ### Releases
 
@@ -141,88 +144,90 @@ lately.
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
 - **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
 - **Starred [natelindev/tsdav](https://github.com/natelindev/tsdav)** _(Feb 22, 2026)_
-  <details>
-    <summary>Show 79 more starred repositories...</summary>
-  - **Starred [KlautNet/ts-caldav](https://github.com/KlautNet/ts-caldav)** _(Feb 22, 2026)_
-  - **Starred [usekaneo/kaneo](https://github.com/usekaneo/kaneo)** _(Feb 22, 2026)_
-  - **Starred [jasperapp/jasper](https://github.com/jasperapp/jasper)** _(Feb 22, 2026)_
-  - **Starred [devhubapp/devhub](https://github.com/devhubapp/devhub)** _(Feb 22, 2026)_
-  - **Starred [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 21, 2026)_
-  - **Starred [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics)** _(Feb 21, 2026)_
-  - **Starred [pbatard/rufus](https://github.com/pbatard/rufus)** _(Feb 21, 2026)_
-  - **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-  - **Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)** _(Feb 19, 2026)_
-  - **Starred [ersinkoc/ReactCheck](https://github.com/ersinkoc/ReactCheck)** _(Feb 19, 2026)_
-  - **Starred [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** _(Feb 19, 2026)_
-  - **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
-  - **Starred [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)** _(Feb 18, 2026)_
-  - **Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)** _(Feb 18, 2026)_
-  - **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
-  - **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
-  - **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
-  - **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
-  - **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
-  - **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
-  - **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
-  - **Starred [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 13, 2026)_
-  - **Starred [abusoww/tuxmate](https://github.com/abusoww/tuxmate)** _(Feb 8, 2026)_
-  - **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
-  - **Starred [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
-  - **Starred [davidosemwegie/doxy](https://github.com/davidosemwegie/doxy)** _(Feb 7, 2026)_
-  - **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
-  - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
-  - **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
-  - **Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** _(Feb 6, 2026)_
-  - **Starred [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui)** _(Feb 6, 2026)_
-  - **Starred [Elagoht/StatiGo](https://github.com/Elagoht/StatiGo)** _(Feb 5, 2026)_
-  - **Starred [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** _(Feb 5, 2026)_
-  - **Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)** _(Feb 5, 2026)_
-  - **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** _(Feb 3, 2026)_
-  - **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 1, 2026)_
-  - **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
-  - **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** _(Feb 1, 2026)_
-  - **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** _(Feb 1, 2026)_
-  - **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** _(Feb 1, 2026)_
-  - **Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)** _(Feb 1, 2026)_
-  - **Starred [garmeeh/next-seo](https://github.com/garmeeh/next-seo)** _(Feb 1, 2026)_
-  - **Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)** _(Feb 1, 2026)_
-  - **Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)** _(Feb 1, 2026)_
-  - **Starred [clerk/javascript](https://github.com/clerk/javascript)** _(Feb 1, 2026)_
-  - **Starred [resend/react-email](https://github.com/resend/react-email)** _(Feb 1, 2026)_
-  - **Starred [vitejs/vite](https://github.com/vitejs/vite)** _(Feb 1, 2026)_
-  - **Starred [immich-app/immich](https://github.com/immich-app/immich)** _(Feb 1, 2026)_
-  - **Starred [withastro/astro](https://github.com/withastro/astro)** _(Feb 1, 2026)_
-  - **Starred [huggingface/transformers](https://github.com/huggingface/transformers)** _(Feb 1, 2026)_
-  - **Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** _(Feb 1, 2026)_
-  - **Starred [cli/cli](https://github.com/cli/cli)** _(Feb 1, 2026)_
-  - **Starred [langgenius/dify](https://github.com/langgenius/dify)** _(Feb 1, 2026)_
-  - **Starred [usebruno/bruno](https://github.com/usebruno/bruno)** _(Feb 1, 2026)_
-  - **Starred [axios/axios](https://github.com/axios/axios)** _(Feb 1, 2026)_
-  - **Starred [fastapi/fastapi](https://github.com/fastapi/fastapi)** _(Feb 1, 2026)_
-  - **Starred [httpie/cli](https://github.com/httpie/cli)** _(Feb 1, 2026)_
-  - **Starred [Kong/insomnia](https://github.com/Kong/insomnia)** _(Feb 1, 2026)_
-  - **Starred [scalar/scalar](https://github.com/scalar/scalar)** _(Feb 1, 2026)_
-  - **Starred [sametcn99/RepoHub](https://github.com/sametcn99/RepoHub)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/vitepress-mermaid-renderer-web](https://github.com/sametcn99/vitepress-mermaid-renderer-web)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/golter-web](https://github.com/sametcn99/golter-web)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Jan 31, 2026)_
-  - **Starred [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 31, 2026)_
-  - **Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)** _(Jan 30, 2026)_
-  - **Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)** _(Jan 30, 2026)_
-  - **Starred [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)** _(Jan 29, 2026)_
-  - **Starred [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)** _(Jan 28, 2026)_
-  - **Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** _(Jan 28, 2026)_
-  - **Starred [madara88645/Compiler](https://github.com/madara88645/Compiler)** _(Jan 28, 2026)_
-  - **Starred [odest/katip](https://github.com/odest/katip)** _(Jan 28, 2026)_
-  - **Starred [koesan/ORCUS](https://github.com/koesan/ORCUS)** _(Jan 28, 2026)_
-  - **Starred [Subutay-CyberSecurity/ProtoBas](https://github.com/Subutay-CyberSecurity/ProtoBas)** _(Jan 28, 2026)_
-  - **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
-  </details>
+<details>
+  <summary>Show 79 more starred repositories...</summary>
+
+- **Starred [KlautNet/ts-caldav](https://github.com/KlautNet/ts-caldav)** _(Feb 22, 2026)_
+- **Starred [usekaneo/kaneo](https://github.com/usekaneo/kaneo)** _(Feb 22, 2026)_
+- **Starred [jasperapp/jasper](https://github.com/jasperapp/jasper)** _(Feb 22, 2026)_
+- **Starred [devhubapp/devhub](https://github.com/devhubapp/devhub)** _(Feb 22, 2026)_
+- **Starred [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 21, 2026)_
+- **Starred [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics)** _(Feb 21, 2026)_
+- **Starred [pbatard/rufus](https://github.com/pbatard/rufus)** _(Feb 21, 2026)_
+- **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+- **Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)** _(Feb 19, 2026)_
+- **Starred [ersinkoc/ReactCheck](https://github.com/ersinkoc/ReactCheck)** _(Feb 19, 2026)_
+- **Starred [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** _(Feb 19, 2026)_
+- **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
+- **Starred [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)** _(Feb 18, 2026)_
+- **Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)** _(Feb 18, 2026)_
+- **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
+- **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
+- **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
+- **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
+- **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
+- **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
+- **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
+- **Starred [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 13, 2026)_
+- **Starred [abusoww/tuxmate](https://github.com/abusoww/tuxmate)** _(Feb 8, 2026)_
+- **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
+- **Starred [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
+- **Starred [davidosemwegie/doxy](https://github.com/davidosemwegie/doxy)** _(Feb 7, 2026)_
+- **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
+- **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
+- **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
+- **Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** _(Feb 6, 2026)_
+- **Starred [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui)** _(Feb 6, 2026)_
+- **Starred [Elagoht/StatiGo](https://github.com/Elagoht/StatiGo)** _(Feb 5, 2026)_
+- **Starred [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** _(Feb 5, 2026)_
+- **Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)** _(Feb 5, 2026)_
+- **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** _(Feb 3, 2026)_
+- **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 1, 2026)_
+- **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
+- **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** _(Feb 1, 2026)_
+- **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** _(Feb 1, 2026)_
+- **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** _(Feb 1, 2026)_
+- **Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)** _(Feb 1, 2026)_
+- **Starred [garmeeh/next-seo](https://github.com/garmeeh/next-seo)** _(Feb 1, 2026)_
+- **Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)** _(Feb 1, 2026)_
+- **Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)** _(Feb 1, 2026)_
+- **Starred [clerk/javascript](https://github.com/clerk/javascript)** _(Feb 1, 2026)_
+- **Starred [resend/react-email](https://github.com/resend/react-email)** _(Feb 1, 2026)_
+- **Starred [vitejs/vite](https://github.com/vitejs/vite)** _(Feb 1, 2026)_
+- **Starred [immich-app/immich](https://github.com/immich-app/immich)** _(Feb 1, 2026)_
+- **Starred [withastro/astro](https://github.com/withastro/astro)** _(Feb 1, 2026)_
+- **Starred [huggingface/transformers](https://github.com/huggingface/transformers)** _(Feb 1, 2026)_
+- **Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** _(Feb 1, 2026)_
+- **Starred [cli/cli](https://github.com/cli/cli)** _(Feb 1, 2026)_
+- **Starred [langgenius/dify](https://github.com/langgenius/dify)** _(Feb 1, 2026)_
+- **Starred [usebruno/bruno](https://github.com/usebruno/bruno)** _(Feb 1, 2026)_
+- **Starred [axios/axios](https://github.com/axios/axios)** _(Feb 1, 2026)_
+- **Starred [fastapi/fastapi](https://github.com/fastapi/fastapi)** _(Feb 1, 2026)_
+- **Starred [httpie/cli](https://github.com/httpie/cli)** _(Feb 1, 2026)_
+- **Starred [Kong/insomnia](https://github.com/Kong/insomnia)** _(Feb 1, 2026)_
+- **Starred [scalar/scalar](https://github.com/scalar/scalar)** _(Feb 1, 2026)_
+- **Starred [sametcn99/RepoHub](https://github.com/sametcn99/RepoHub)** _(Jan 31, 2026)_
+- **Starred [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor)** _(Jan 31, 2026)_
+- **Starred [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 31, 2026)_
+- **Starred [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api)** _(Jan 31, 2026)_
+- **Starred [sametcn99/vitepress-mermaid-renderer-web](https://github.com/sametcn99/vitepress-mermaid-renderer-web)** _(Jan 31, 2026)_
+- **Starred [sametcn99/golter-web](https://github.com/sametcn99/golter-web)** _(Jan 31, 2026)_
+- **Starred [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 31, 2026)_
+- **Starred [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 31, 2026)_
+- **Starred [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Jan 31, 2026)_
+- **Starred [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 31, 2026)_
+- **Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)** _(Jan 30, 2026)_
+- **Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)** _(Jan 30, 2026)_
+- **Starred [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)** _(Jan 29, 2026)_
+- **Starred [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)** _(Jan 28, 2026)_
+- **Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** _(Jan 28, 2026)_
+- **Starred [madara88645/Compiler](https://github.com/madara88645/Compiler)** _(Jan 28, 2026)_
+- **Starred [odest/katip](https://github.com/odest/katip)** _(Jan 28, 2026)_
+- **Starred [koesan/ORCUS](https://github.com/koesan/ORCUS)** _(Jan 28, 2026)_
+- **Starred [Subutay-CyberSecurity/ProtoBas](https://github.com/Subutay-CyberSecurity/ProtoBas)** _(Jan 28, 2026)_
+- **Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** _(Jan 26, 2026)_
+
+</details>
 
 ### Other Activity
 
@@ -231,32 +236,34 @@ lately.
 - **Closed issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Closed issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Closed issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  <details>
-    <summary>Show 23 more other activity...</summary>
-  - **Discussion in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Closed issue [#7](https://github.com/sametcn99/booking-calendar/issues/7) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Opened issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Labeled issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Opened issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Labeled issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Labeled issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Labeled issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Opened issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Opened issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-  - **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-  - **Forked [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer) to [sametcn99/vitepress-image-viewer](https://github.com/sametcn99/vitepress-image-viewer)** _(Feb 21, 2026)_
-  - **Deleted tag &#x60;1.1.2&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-  - **Deleted tag &#x60;1.1.1&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-  - **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-  - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
-  - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
-  - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
-  - **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
-  - **Discussion in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
-  - **Forked [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api) to [sametcn99/letterboxd-api](https://github.com/sametcn99/letterboxd-api)** _(Feb 2, 2026)_
-  - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
-  </details>
+<details>
+  <summary>Show 23 more other activity...</summary>
+
+- **Discussion in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Closed issue [#7](https://github.com/sametcn99/booking-calendar/issues/7) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Opened issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Labeled issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Opened issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Labeled issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Labeled issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Labeled issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Opened issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Opened issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
+- **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Forked [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer) to [sametcn99/vitepress-image-viewer](https://github.com/sametcn99/vitepress-image-viewer)** _(Feb 21, 2026)_
+- **Deleted tag &#x60;1.1.2&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Deleted tag &#x60;1.1.1&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
+- **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+- **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
+- **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
+- **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
+- **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
+- **Discussion in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
+- **Forked [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api) to [sametcn99/letterboxd-api](https://github.com/sametcn99/letterboxd-api)** _(Feb 2, 2026)_
+- **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
+
+</details>
 
 ## GitHub Stats
 
@@ -367,7 +374,8 @@ represent my core open-source contributions and personal tools.
 - [**sql-query-safety-checker**](https://sametcc.me/repo/sql-query-safety-checker) ★1 -
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
-C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+  C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+
 </details>
 
 ### Forked Repositories
@@ -391,7 +399,8 @@ open-source ecosystem and tools I find interesting.
 - [**RepoHub**](https://sametcc.me/repo/RepoHub) -
   TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
 - [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) -
-Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
+  Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
+
 </details>
 
 ### Archived Repositories
@@ -458,7 +467,8 @@ them for code snippets or to see my past work.
 - [**nestjs-course**](https://sametcc.me/repo/nestjs-course) ★1 -
   TypeScript - [Homepage](https://www.udemy.com/course/nestjs-the-complete-developers-guide)<br />_Created: Dec 9, 2024 • Updated: Dec 9, 2024_<br />No description provided.
 - [**gists**](https://sametcc.me/repo/gists) ★1 -
-TypeScript - [Homepage](https://sametcc.me/gist)<br />_Created: Dec 15, 2024 • Updated: Apr 2, 2025_<br />moved https://sametcc.me/personal-website
+  TypeScript - [Homepage](https://sametcc.me/gist)<br />_Created: Dec 15, 2024 • Updated: Apr 2, 2025_<br />moved https://sametcc.me/personal-website
+
 </details>
 
 ## Contact
