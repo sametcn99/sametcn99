@@ -144,7 +144,7 @@ lately.
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
 - **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 <details>
-  <summary>Show 73 more starred repositories...</summary>
+  <summary>Show 72 more starred repositories...</summary>
 
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
 - **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
@@ -218,7 +218,6 @@ lately.
 - **Starred [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 31, 2026)_
 - **Starred [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Jan 31, 2026)_
 - **Starred [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 31, 2026)_
-- **Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)** _(Jan 30, 2026)_
 
 </details>
 
@@ -290,7 +289,7 @@ These are the projects I have been most active on recently. Check here to see th
 features currently under development.
 
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★3 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 26, 2026_<br />html based widget manager created with .net
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 26, 2026_<br />the missing html based widget manager created with .net
 
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />_Created: Feb 26, 2026 • Updated: Feb 26, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
 
@@ -327,7 +326,7 @@ represent my core open-source contributions and personal tools.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★3 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 26, 2026_<br />html based widget manager created with .net
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 26, 2026_<br />the missing html based widget manager created with .net
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
