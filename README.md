@@ -269,7 +269,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 208                                     |
-| **Commits (Last 7 Days):** | 90+                                     |
+| **Commits (Last 7 Days):** | 60+                                     |
 | **Total Repositories:**    | 66                                      |
 | **Active Repositories:**   | 33                                      |
 | **Forked Repositories:**   | 6                                       |
