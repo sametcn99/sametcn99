@@ -131,6 +131,7 @@ lately.
 
 ### Releases
 
+- **Published release [1.1.11](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/1.1.11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Feb 27, 2026)_
 - **Published release [1.1.2](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Published release [1.1.1](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
@@ -144,7 +145,7 @@ lately.
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
 - **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 <details>
-  <summary>Show 72 more starred repositories...</summary>
+  <summary>Show 69 more starred repositories...</summary>
 
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
 - **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
@@ -215,22 +216,20 @@ lately.
 - **Starred [sametcn99/vitepress-mermaid-renderer-web](https://github.com/sametcn99/vitepress-mermaid-renderer-web)** _(Jan 31, 2026)_
 - **Starred [sametcn99/golter-web](https://github.com/sametcn99/golter-web)** _(Jan 31, 2026)_
 - **Starred [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 31, 2026)_
-- **Starred [sametcn99/nestlens](https://github.com/sametcn99/nestlens)** _(Jan 31, 2026)_
-- **Starred [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Jan 31, 2026)_
-- **Starred [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jan 31, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Labeled issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 26, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Labeled issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Opened issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
-- **Assigned issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 28 more other activity...</summary>
+  <summary>Show 29 more other activity...</summary>
 
+- **Assigned issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Opened issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
@@ -288,13 +287,13 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★43 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Feb 27, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★3 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 26, 2026_<br />the missing html based widget manager created with .net
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
 
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />_Created: Feb 26, 2026 • Updated: Feb 26, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
-
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 25, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -302,7 +301,7 @@ A collection of my primary projects that are currently maintained and under acti
 represent my core open-source contributions and personal tools.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★43 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Feb 21, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Feb 27, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager
@@ -326,7 +325,7 @@ represent my core open-source contributions and personal tools.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★3 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 26, 2026_<br />the missing html based widget manager created with .net
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
