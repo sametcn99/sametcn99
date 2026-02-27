@@ -139,14 +139,15 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [DovieW/windows-is-awesome-actually](https://github.com/DovieW/windows-is-awesome-actually)** _(Feb 27, 2026)_
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
-- **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 <details>
-  <summary>Show 69 more starred repositories...</summary>
+  <summary>Show 68 more starred repositories...</summary>
 
+- **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
 - **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
 - **Starred [natelindev/tsdav](https://github.com/natelindev/tsdav)** _(Feb 22, 2026)_
@@ -214,21 +215,20 @@ lately.
 - **Starred [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 31, 2026)_
 - **Starred [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api)** _(Jan 31, 2026)_
 - **Starred [sametcn99/vitepress-mermaid-renderer-web](https://github.com/sametcn99/vitepress-mermaid-renderer-web)** _(Jan 31, 2026)_
-- **Starred [sametcn99/golter-web](https://github.com/sametcn99/golter-web)** _(Jan 31, 2026)_
-- **Starred [sametcn99/golter](https://github.com/sametcn99/golter)** _(Jan 31, 2026)_
 
 </details>
 
 ### Other Activity
 
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
+- **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Labeled issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 26, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Labeled issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
-- **Opened issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 29 more other activity...</summary>
+  <summary>Show 30 more other activity...</summary>
 
+- **Opened issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Assigned issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Opened issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
@@ -267,7 +267,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 209                                     |
+| **Total Stars Earned:**    | 210                                     |
 | **Commits (Last 7 Days):** | 60+                                     |
 | **Total Repositories:**    | 66                                      |
 | **Active Repositories:**   | 33                                      |
@@ -290,7 +290,7 @@ features currently under development.
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★43 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Feb 27, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
-- [**HTWind**](https://sametcc.me/repo/HTWind) ★3 -
+- [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
 
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />_Created: Feb 26, 2026 • Updated: Feb 26, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
@@ -320,12 +320,12 @@ represent my core open-source contributions and personal tools.
 
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★5 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**HTWind**](https://sametcc.me/repo/HTWind) ★3 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
