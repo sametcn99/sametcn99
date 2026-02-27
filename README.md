@@ -267,7 +267,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 208                                     |
+| **Total Stars Earned:**    | 209                                     |
 | **Commits (Last 7 Days):** | 60+                                     |
 | **Total Repositories:**    | 66                                      |
 | **Active Repositories:**   | 33                                      |
@@ -312,7 +312,7 @@ represent my core open-source contributions and personal tools.
 - [**nextui-blog-template**](https://sametcc.me/repo/nextui-blog-template) ★12 -
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★7 -
+- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 7, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 <details>
