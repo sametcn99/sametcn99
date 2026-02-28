@@ -146,7 +146,7 @@ lately.
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 49 more starred repositories...</summary>
+  <summary>Show 48 more starred repositories...</summary>
 
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
@@ -196,7 +196,6 @@ lately.
 - **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** _(Feb 1, 2026)_
 - **Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)** _(Feb 1, 2026)_
 - **Starred [garmeeh/next-seo](https://github.com/garmeeh/next-seo)** _(Feb 1, 2026)_
-- **Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)** _(Feb 1, 2026)_
 
 </details>
 
@@ -259,7 +258,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | **Active Repositories:**   | 35                                      |
 | **Forked Repositories:**   | 6                                       |
 | **Archived Repositories:** | 27                                      |
-| **Total Gists:**           | [54](https://gist.github.com/sametcn99) |
+| **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
 | **Account Age:**           | 6 years                                 |
 
