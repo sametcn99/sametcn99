@@ -145,7 +145,7 @@ lately.
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 67 more starred repositories...</summary>
+  <summary>Show 61 more starred repositories...</summary>
 
 - **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
@@ -208,25 +208,22 @@ lately.
 - **Starred [axios/axios](https://github.com/axios/axios)** _(Feb 1, 2026)_
 - **Starred [fastapi/fastapi](https://github.com/fastapi/fastapi)** _(Feb 1, 2026)_
 - **Starred [httpie/cli](https://github.com/httpie/cli)** _(Feb 1, 2026)_
-- **Starred [Kong/insomnia](https://github.com/Kong/insomnia)** _(Feb 1, 2026)_
-- **Starred [scalar/scalar](https://github.com/scalar/scalar)** _(Feb 1, 2026)_
-- **Starred [sametcn99/RepoHub](https://github.com/sametcn99/RepoHub)** _(Jan 31, 2026)_
-- **Starred [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor)** _(Jan 31, 2026)_
-- **Starred [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 31, 2026)_
-- **Starred [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api)** _(Jan 31, 2026)_
 
 </details>
 
 ### Other Activity
 
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
+- **Created branch &#x60;main&#x60; in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
+- **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
+- **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
+<details>
+  <summary>Show 33 more other activity...</summary>
+
 - **Labeled issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 26, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Labeled issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
-<details>
-  <summary>Show 30 more other activity...</summary>
-
 - **Opened issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Assigned issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Opened issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
@@ -267,9 +264,9 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 211                                     |
-| **Commits (Last 7 Days):** | 60+                                     |
-| **Total Repositories:**    | 66                                      |
-| **Active Repositories:**   | 33                                      |
+| **Commits (Last 7 Days):** | 40+                                     |
+| **Total Repositories:**    | 67                                      |
+| **Active Repositories:**   | 34                                      |
 | **Forked Repositories:**   | 6                                       |
 | **Archived Repositories:** | 27                                      |
 | **Total Gists:**           | [54](https://gist.github.com/sametcn99) |
@@ -289,10 +286,11 @@ features currently under development.
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
 
+- [**htwind-lain-aesthetic-widget-pack**](https://sametcc.me/repo/htwind-lain-aesthetic-widget-pack) -
+  HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
+
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★44 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Feb 27, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-
-- [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />_Created: Feb 26, 2026 • Updated: Feb 26, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
 
 ### Active Repositories
 
@@ -315,7 +313,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 7, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 <details>
-  <summary>Show 27 more repositories...</summary>
+  <summary>Show 28 more repositories...</summary>
 
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★5 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -370,6 +368,8 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**htwind-lain-aesthetic-widget-pack**](https://sametcc.me/repo/htwind-lain-aesthetic-widget-pack) -
+  HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 
 </details>
 
