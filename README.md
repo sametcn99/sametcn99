@@ -146,7 +146,7 @@ lately.
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 45 more starred repositories...</summary>
+  <summary>Show 43 more starred repositories...</summary>
 
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
@@ -191,8 +191,6 @@ lately.
 - **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** _(Feb 3, 2026)_
 - **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 1, 2026)_
 - **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
-- **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** _(Feb 1, 2026)_
-- **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** _(Feb 1, 2026)_
 
 </details>
 
