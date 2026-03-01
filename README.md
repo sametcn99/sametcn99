@@ -108,7 +108,6 @@ lately.
 
 - **Opened pull request [#1](undefined) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
 - **Opened pull request [#2](undefined) in [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
-- **Opened pull request [#20](undefined) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
 
 ### Comments
 
@@ -146,7 +145,7 @@ lately.
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 43 more starred repositories...</summary>
+  <summary>Show 41 more starred repositories...</summary>
 
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
@@ -189,21 +188,22 @@ lately.
 - **Starred [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** _(Feb 5, 2026)_
 - **Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)** _(Feb 5, 2026)_
 - **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** _(Feb 3, 2026)_
-- **Starred [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 1, 2026)_
-- **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
+- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
+- **Opened issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
+<details>
+  <summary>Show 36 more other activity...</summary>
+
 - **Created branch &#x60;main&#x60; in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
-<details>
-  <summary>Show 34 more other activity...</summary>
-
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Labeled issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 26, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
@@ -237,7 +237,6 @@ lately.
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
 - **Discussion in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
-- **Forked [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api) to [sametcn99/letterboxd-api](https://github.com/sametcn99/letterboxd-api)** _(Feb 2, 2026)_
 
 </details>
 
