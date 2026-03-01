@@ -146,7 +146,7 @@ lately.
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 48 more starred repositories...</summary>
+  <summary>Show 47 more starred repositories...</summary>
 
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
@@ -195,7 +195,6 @@ lately.
 - **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** _(Feb 1, 2026)_
 - **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** _(Feb 1, 2026)_
 - **Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)** _(Feb 1, 2026)_
-- **Starred [garmeeh/next-seo](https://github.com/garmeeh/next-seo)** _(Feb 1, 2026)_
 
 </details>
 
@@ -272,14 +271,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
+  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
+
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
   JavaScript<br />_Created: Feb 28, 2026 • Updated: Feb 28, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
-
-- [**htwind-lain-aesthetic-widget-pack**](https://sametcc.me/repo/htwind-lain-aesthetic-widget-pack) -
-  HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 
 ### Active Repositories
 
@@ -290,7 +289,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Feb 27, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
-  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 21, 2026_<br />the missing html based widget manager
+  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
 
 - [**env-protector**](https://sametcc.me/repo/env-protector) ★15 -
   TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector)<br />_Created: Sep 14, 2024 • Updated: Jan 12, 2026_<br />Protect your secrets from being exposed
