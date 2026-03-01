@@ -146,7 +146,7 @@ lately.
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 47 more starred repositories...</summary>
+  <summary>Show 45 more starred repositories...</summary>
 
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
@@ -193,8 +193,6 @@ lately.
 - **Starred [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)** _(Feb 1, 2026)_
 - **Starred [anomalyco/sst](https://github.com/anomalyco/sst)** _(Feb 1, 2026)_
 - **Starred [lightdash/lightdash](https://github.com/lightdash/lightdash)** _(Feb 1, 2026)_
-- **Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)** _(Feb 1, 2026)_
-- **Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)** _(Feb 1, 2026)_
 
 </details>
 
@@ -271,11 +269,11 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
+  JavaScript<br />_Created: Feb 28, 2026 • Updated: Mar 1, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
-
-- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
-  JavaScript<br />_Created: Feb 28, 2026 • Updated: Feb 28, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
@@ -314,7 +312,7 @@ represent my core open-source contributions and personal tools.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
-  JavaScript<br />_Created: Feb 28, 2026 • Updated: Feb 28, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  JavaScript<br />_Created: Feb 28, 2026 • Updated: Mar 1, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
