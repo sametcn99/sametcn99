@@ -106,6 +106,8 @@ lately.
 
 ### Pull Requests
 
+- **Merged pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
+- **Opened pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Opened pull request [#1](undefined) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
 - **Opened pull request [#2](undefined) in [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
 
@@ -117,15 +119,13 @@ lately.
 - **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 <details>
-  <summary>Show 7 more comments...</summary>
+  <summary>Show 5 more comments...</summary>
 
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Commented on issue [#87719](https://github.com/vercel/next.js/issues/87719) in [vercel/next.js](https://github.com/vercel/next.js)** _(Feb 7, 2026)_
-- **Commented on issue [#88](https://github.com/emersonbottero/vitepress-plugin-mermaid/pull/88) in [emersonbottero/vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid)** _(Feb 4, 2026)_
-- **Commented on issue [#20](https://github.com/LetterBoxd-Stats/letterboxd-api/pull/20) in [LetterBoxd-Stats/letterboxd-api](https://github.com/LetterBoxd-Stats/letterboxd-api)** _(Feb 2, 2026)_
 
 </details>
 
@@ -145,7 +145,7 @@ lately.
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 41 more starred repositories...</summary>
+  <summary>Show 35 more starred repositories...</summary>
 
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
@@ -182,25 +182,21 @@ lately.
 - **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
 - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
 - **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
-- **Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** _(Feb 6, 2026)_
-- **Starred [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui)** _(Feb 6, 2026)_
-- **Starred [Elagoht/StatiGo](https://github.com/Elagoht/StatiGo)** _(Feb 5, 2026)_
-- **Starred [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** _(Feb 5, 2026)_
-- **Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)** _(Feb 5, 2026)_
-- **Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** _(Feb 3, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Deleted branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
+- **Created branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Opened issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
+<details>
+  <summary>Show 37 more other activity...</summary>
+
 - **Created branch &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
-<details>
-  <summary>Show 36 more other activity...</summary>
-
 - **Created branch &#x60;main&#x60; in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
@@ -236,7 +232,6 @@ lately.
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 - **Public in [sametcn99/personal-website](https://github.com/sametcn99/personal-website)** _(Sep 7, 2023)_
 - **Forked [alexander4096/crono-event](https://github.com/alexander4096/crono-event) to [sametcn99/crono-event](https://github.com/sametcn99/crono-event)** _(Feb 7, 2026)_
-- **Discussion in [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
 
 </details>
 
@@ -247,7 +242,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 213                                     |
-| **Commits (Last 7 Days):** | 50+                                     |
+| **Commits (Last 7 Days):** | 60+                                     |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 35                                      |
 | **Forked Repositories:**   | 6                                       |
@@ -266,14 +261,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 2, 2026_<br />the missing html based widget manager created with .net
+
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
-  JavaScript<br />_Created: Feb 28, 2026 • Updated: Mar 1, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 2, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
-
-- [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
 
 ### Active Repositories
 
@@ -301,7 +296,7 @@ represent my core open-source contributions and personal tools.
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★5 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Feb 27, 2026_<br />the missing html based widget manager created with .net
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 2, 2026_<br />the missing html based widget manager created with .net
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
@@ -309,7 +304,7 @@ represent my core open-source contributions and personal tools.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
-  JavaScript<br />_Created: Feb 28, 2026 • Updated: Mar 1, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 2, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
