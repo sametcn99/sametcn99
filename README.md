@@ -145,7 +145,7 @@ lately.
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 35 more starred repositories...</summary>
+  <summary>Show 34 more starred repositories...</summary>
 
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
@@ -181,7 +181,6 @@ lately.
 - **Starred [davidosemwegie/doxy](https://github.com/davidosemwegie/doxy)** _(Feb 7, 2026)_
 - **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
 - **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
-- **Starred [iiviie/openspot-tui](https://github.com/iiviie/openspot-tui)** _(Feb 6, 2026)_
 
 </details>
 
