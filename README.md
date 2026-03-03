@@ -139,14 +139,15 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [amd64fox/Uninstall-Spotify](https://github.com/amd64fox/Uninstall-Spotify)** _(Mar 2, 2026)_
 - **Starred [Endoplazmikmitokondri/PrintStock](https://github.com/Endoplazmikmitokondri/PrintStock)** _(Feb 28, 2026)_
 - **Starred [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
 - **Starred [DovieW/windows-is-awesome-actually](https://github.com/DovieW/windows-is-awesome-actually)** _(Feb 27, 2026)_
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
-- **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 <details>
-  <summary>Show 34 more starred repositories...</summary>
+  <summary>Show 33 more starred repositories...</summary>
 
+- **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
 - **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
@@ -179,8 +180,6 @@ lately.
 - **Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** _(Feb 7, 2026)_
 - **Starred [alexander4096/crono-event](https://github.com/alexander4096/crono-event)** _(Feb 7, 2026)_
 - **Starred [davidosemwegie/doxy](https://github.com/davidosemwegie/doxy)** _(Feb 7, 2026)_
-- **Starred [sametcn99/dreamtui](https://github.com/sametcn99/dreamtui)** _(Feb 6, 2026)_
-- **Starred [tensorix-labs/t-req](https://github.com/tensorix-labs/t-req)** _(Feb 6, 2026)_
 
 </details>
 
@@ -241,7 +240,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 213                                     |
-| **Commits (Last 7 Days):** | 60+                                     |
+| **Commits (Last 7 Days):** | 50+                                     |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 35                                      |
 | **Forked Repositories:**   | 6                                       |
@@ -260,14 +259,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
+  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 2, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 2, 2026_<br />the missing html based widget manager created with .net
 
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
   TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 2, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-
-- [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
-  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
 
 ### Active Repositories
 
@@ -287,7 +286,7 @@ represent my core open-source contributions and personal tools.
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Feb 7, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 2, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 <details>
   <summary>Show 29 more repositories...</summary>
