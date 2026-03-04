@@ -188,7 +188,7 @@ lately.
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 <details>
-  <summary>Show 36 more other activity...</summary>
+  <summary>Show 35 more other activity...</summary>
 
 - **Opened issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
@@ -224,7 +224,6 @@ lately.
 - **Deleted tag &#x60;1.1.2&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Deleted tag &#x60;1.1.1&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-- **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 
 </details>
