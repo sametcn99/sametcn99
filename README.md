@@ -129,11 +129,17 @@ lately.
 
 ### Releases
 
+- **Published release [1.1.14](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/1.1.14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Published release [1.1.11](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/1.1.11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Feb 27, 2026)_
 - **Published release [1.1.2](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Published release [1.1.1](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+<details>
+  <summary>Show 1 more releases...</summary>
+
 - **Published release [1.0.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.0.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
+
+</details>
 
 ### Starred Repositories
 
@@ -143,7 +149,7 @@ lately.
 - **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
 - **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 30 more starred repositories...</summary>
 
 - **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
 - **Starred [amd64fox/Uninstall-Spotify](https://github.com/amd64fox/Uninstall-Spotify)** _(Mar 2, 2026)_
@@ -175,22 +181,21 @@ lately.
 - **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
 - **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
 - **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
-- **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
-- **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
-- **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
+- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Created branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
-- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
-- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 <details>
-  <summary>Show 34 more other activity...</summary>
+  <summary>Show 36 more other activity...</summary>
 
+- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
+- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Opened issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
@@ -235,7 +240,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 213                                     |
-| **Commits (Last 7 Days):** | 40+                                     |
+| **Commits (Last 7 Days):** | 50+                                     |
 | **Total Repositories:**    | 69                                      |
 | **Active Repositories:**   | 36                                      |
 | **Forked Repositories:**   | 6                                       |
