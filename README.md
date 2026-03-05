@@ -137,14 +137,15 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
 - **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
 - **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
 - **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
 - **Starred [amd64fox/Uninstall-Spotify](https://github.com/amd64fox/Uninstall-Spotify)** _(Mar 2, 2026)_
-- **Starred [Endoplazmikmitokondri/PrintStock](https://github.com/Endoplazmikmitokondri/PrintStock)** _(Feb 28, 2026)_
 <details>
-  <summary>Show 32 more starred repositories...</summary>
+  <summary>Show 33 more starred repositories...</summary>
 
+- **Starred [Endoplazmikmitokondri/PrintStock](https://github.com/Endoplazmikmitokondri/PrintStock)** _(Feb 28, 2026)_
 - **Starred [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
 - **Starred [DovieW/windows-is-awesome-actually](https://github.com/DovieW/windows-is-awesome-actually)** _(Feb 27, 2026)_
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
