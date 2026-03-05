@@ -143,7 +143,7 @@ lately.
 - **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
 - **Starred [amd64fox/Uninstall-Spotify](https://github.com/amd64fox/Uninstall-Spotify)** _(Mar 2, 2026)_
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 31 more starred repositories...</summary>
 
 - **Starred [Endoplazmikmitokondri/PrintStock](https://github.com/Endoplazmikmitokondri/PrintStock)** _(Feb 28, 2026)_
 - **Starred [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
@@ -176,8 +176,6 @@ lately.
 - **Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** _(Feb 15, 2026)_
 - **Starred [microsoft/typespec](https://github.com/microsoft/typespec)** _(Feb 15, 2026)_
 - **Starred [Infisical/infisical](https://github.com/Infisical/infisical)** _(Feb 13, 2026)_
-- **Starred [danigm/spotify-ad-blocker](https://github.com/danigm/spotify-ad-blocker)** _(Feb 13, 2026)_
-- **Starred [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 13, 2026)_
 
 </details>
 
@@ -189,7 +187,7 @@ lately.
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 <details>
-  <summary>Show 35 more other activity...</summary>
+  <summary>Show 34 more other activity...</summary>
 
 - **Opened issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
@@ -225,7 +223,6 @@ lately.
 - **Deleted tag &#x60;1.1.2&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Deleted tag &#x60;1.1.1&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-- **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 
 </details>
 
@@ -236,7 +233,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 213                                     |
-| **Commits (Last 7 Days):** | 30+                                     |
+| **Commits (Last 7 Days):** | 40+                                     |
 | **Total Repositories:**    | 69                                      |
 | **Active Repositories:**   | 36                                      |
 | **Forked Repositories:**   | 6                                       |
@@ -255,14 +252,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
+  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 5, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
-  C#<br />_Created: Mar 4, 2026 • Updated: Mar 4, 2026_<br />No description provided.
+  C#<br />_Created: Mar 4, 2026 • Updated: Mar 5, 2026_<br />No description provided.
 
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 3, 2026_<br />the missing html based widget manager created with .net
-
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 2, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 ### Active Repositories
 
@@ -298,7 +295,7 @@ represent my core open-source contributions and personal tools.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
-  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 2, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 5, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
@@ -343,7 +340,7 @@ represent my core open-source contributions and personal tools.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
-  C#<br />_Created: Mar 4, 2026 • Updated: Mar 4, 2026_<br />No description provided.
+  C#<br />_Created: Mar 4, 2026 • Updated: Mar 5, 2026_<br />No description provided.
 - [**htwind-lain-aesthetic-widget-pack**](https://sametcc.me/repo/htwind-lain-aesthetic-widget-pack) -
   HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 
