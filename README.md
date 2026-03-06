@@ -143,14 +143,15 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork)** _(Mar 6, 2026)_
 - **Starred [blakegearin/filterboxd](https://github.com/blakegearin/filterboxd)** _(Mar 6, 2026)_
 - **Starred [duxweb/vitepress-theme](https://github.com/duxweb/vitepress-theme)** _(Mar 5, 2026)_
 - **Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** _(Mar 5, 2026)_
 - **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
-- **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
 <details>
-  <summary>Show 31 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
+- **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
 - **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
 - **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
 - **Starred [amd64fox/Uninstall-Spotify](https://github.com/amd64fox/Uninstall-Spotify)** _(Mar 2, 2026)_
@@ -260,11 +261,11 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★44 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
   TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 6, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★44 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 5, 2026_<br />No description provided.
@@ -275,7 +276,7 @@ A collection of my primary projects that are currently maintained and under acti
 represent my core open-source contributions and personal tools.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★44 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
