@@ -143,14 +143,15 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [blakegearin/filterboxd](https://github.com/blakegearin/filterboxd)** _(Mar 6, 2026)_
 - **Starred [duxweb/vitepress-theme](https://github.com/duxweb/vitepress-theme)** _(Mar 5, 2026)_
 - **Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** _(Mar 5, 2026)_
 - **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
 - **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
-- **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
 <details>
-  <summary>Show 30 more starred repositories...</summary>
+  <summary>Show 31 more starred repositories...</summary>
 
+- **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
 - **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
 - **Starred [amd64fox/Uninstall-Spotify](https://github.com/amd64fox/Uninstall-Spotify)** _(Mar 2, 2026)_
 - **Starred [Endoplazmikmitokondri/PrintStock](https://github.com/Endoplazmikmitokondri/PrintStock)** _(Feb 28, 2026)_
@@ -259,11 +260,11 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
+  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 6, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★44 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-
-- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
-  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 5, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 5, 2026_<br />No description provided.
@@ -302,7 +303,7 @@ represent my core open-source contributions and personal tools.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★2 -
-  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 5, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 6, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
