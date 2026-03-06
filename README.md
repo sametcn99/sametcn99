@@ -143,14 +143,15 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)** _(Mar 6, 2026)_
 - **Starred [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork)** _(Mar 6, 2026)_
 - **Starred [blakegearin/filterboxd](https://github.com/blakegearin/filterboxd)** _(Mar 6, 2026)_
 - **Starred [duxweb/vitepress-theme](https://github.com/duxweb/vitepress-theme)** _(Mar 5, 2026)_
 - **Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** _(Mar 5, 2026)_
-- **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
 <details>
-  <summary>Show 32 more starred repositories...</summary>
+  <summary>Show 33 more starred repositories...</summary>
 
+- **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
 - **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
 - **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
 - **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
@@ -241,7 +242,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 213                                     |
+| **Total Stars Earned:**    | 214                                     |
 | **Commits (Last 7 Days):** | 50+                                     |
 | **Total Repositories:**    | 69                                      |
 | **Active Repositories:**   | 36                                      |
@@ -293,7 +294,7 @@ represent my core open-source contributions and personal tools.
 <details>
   <summary>Show 30 more repositories...</summary>
 
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★5 -
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★6 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 3, 2026_<br />the missing html based widget manager created with .net
