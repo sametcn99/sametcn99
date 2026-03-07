@@ -143,14 +143,15 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [themesberg/flowbite-blazor](https://github.com/themesberg/flowbite-blazor)** _(Mar 7, 2026)_
 - **Starred [imputnet/helium](https://github.com/imputnet/helium)** _(Mar 7, 2026)_
 - **Starred [EdANaiR/news-website](https://github.com/EdANaiR/news-website)** _(Mar 7, 2026)_
 - **Starred [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran)** _(Mar 7, 2026)_
 - **Starred [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot)** _(Mar 7, 2026)_
-- **Starred [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** _(Mar 7, 2026)_
 <details>
-  <summary>Show 38 more starred repositories...</summary>
+  <summary>Show 37 more starred repositories...</summary>
 
+- **Starred [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** _(Mar 7, 2026)_
 - **Starred [nohello-net/site](https://github.com/nohello-net/site)** _(Mar 7, 2026)_
 - **Starred [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)** _(Mar 6, 2026)_
 - **Starred [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork)** _(Mar 6, 2026)_
@@ -187,8 +188,6 @@ lately.
 - **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
 - **Starred [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)** _(Feb 18, 2026)_
 - **Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)** _(Feb 18, 2026)_
-- **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
-- **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
 
 </details>
 
@@ -248,7 +247,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 216                                     |
-| **Commits (Last 7 Days):** | 40+                                     |
+| **Commits (Last 7 Days):** | 50+                                     |
 | **Total Repositories:**    | 69                                      |
 | **Active Repositories:**   | 36                                      |
 | **Forked Repositories:**   | 6                                       |
