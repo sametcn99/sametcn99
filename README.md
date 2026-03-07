@@ -143,14 +143,17 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [imputnet/helium](https://github.com/imputnet/helium)** _(Mar 7, 2026)_
+- **Starred [EdANaiR/news-website](https://github.com/EdANaiR/news-website)** _(Mar 7, 2026)_
+- **Starred [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran)** _(Mar 7, 2026)_
 - **Starred [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot)** _(Mar 7, 2026)_
 - **Starred [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** _(Mar 7, 2026)_
+<details>
+  <summary>Show 38 more starred repositories...</summary>
+
 - **Starred [nohello-net/site](https://github.com/nohello-net/site)** _(Mar 7, 2026)_
 - **Starred [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)** _(Mar 6, 2026)_
 - **Starred [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork)** _(Mar 6, 2026)_
-<details>
-  <summary>Show 36 more starred repositories...</summary>
-
 - **Starred [blakegearin/filterboxd](https://github.com/blakegearin/filterboxd)** _(Mar 6, 2026)_
 - **Starred [duxweb/vitepress-theme](https://github.com/duxweb/vitepress-theme)** _(Mar 5, 2026)_
 - **Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** _(Mar 5, 2026)_
@@ -186,7 +189,6 @@ lately.
 - **Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)** _(Feb 18, 2026)_
 - **Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** _(Feb 18, 2026)_
 - **Starred [shadowww345/AiraOS](https://github.com/shadowww345/AiraOS)** _(Feb 17, 2026)_
-- **Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)** _(Feb 17, 2026)_
 
 </details>
 
@@ -246,7 +248,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 216                                     |
-| **Commits (Last 7 Days):** | 30+                                     |
+| **Commits (Last 7 Days):** | 40+                                     |
 | **Total Repositories:**    | 69                                      |
 | **Active Repositories:**   | 36                                      |
 | **Forked Repositories:**   | 6                                       |
@@ -265,14 +267,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 7, 2026_<br />No description provided.
+
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 6, 2026_<br />No description provided.
 
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★45 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-
-- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 6, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 
 ### Active Repositories
 
@@ -321,9 +323,9 @@ represent my core open-source contributions and personal tools.
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-- [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />_Created: Feb 26, 2026 • Updated: Feb 26, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX<br />_Created: Dec 23, 2025 • Updated: Feb 25, 2026_<br />No description provided.
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 7, 2026_<br />No description provided.
+- [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />_Created: Feb 26, 2026 • Updated: Feb 26, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
 - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
   TypeScript - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
