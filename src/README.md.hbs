@@ -1,93 +1,57 @@
-# Hi there!
+# Hi,
 
-I’m a software developer with hands-on experience across **front-end**, **back-end**, and **DevOps** domains. I enjoy
-building clean, scalable, and production-ready systems, and I care deeply about maintainability, performance, and
-developer experience.
+I build software across **frontend**, **backend**, and **DevOps** with a strong bias toward maintainability, clear
+architecture, and reliable delivery. My focus is shipping production-ready systems that stay understandable as they
+grow.
 
-## What I Do
-
-* Develop modern web applications using **React**, **Next.js**, **Vue**, and **Blazor**
-* Build robust back-end services with **.NET**, **NestJS**, **NodeJS**, and **BunJS**
-* Design and work with databases such as **PostgreSQL**, **MS SQL**, **SQLite**, **InfluxDB**
-* Create and maintain **CI/CD pipelines** using **GitHub Actions**, **Docker**, **Coolify**
-* Develop **desktop applications** using **Electron**, **.NET MAUI**, and **Windows Forms**
-* Write clean and efficient code in **C#**, **TypeScript**, **JavaScript**, and **Python**
-* Follow **clean code**, **SOLID principles**, and pragmatic architecture decisions
+[Website](https://sametcc.me) · [Project Board](https://github.com/users/sametcn99/projects/9) ·
+[LinkedIn](https://sametcc.me/link/linkedin) · [Telegram](https://sametcc.me/link/telegram) ·
+[Mail](https://sametcc.me/link/mail)
 
 ## Tech Stack
 
-| Category | Tools & Technologies |
+| Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Vue, Blazor, TypeScript, JavaScript |
-| **Backend** | .NET, NestJS, NodeJS, BunJS, C# |
-| **Databases** | PostgreSQL, MS SQL, SQLite, InfluxDB |
-| **DevOps & Tooling** | GitHub Actions, Docker, Coolify |
-| **Desktop** | Electron, .NET MAUI, .NET Windows Forms|
-| **Programming Languages** | C#, TypeScript, JavaScript, Python|
-| **OS/Distros** | Ubuntu |
+| **Backend** | .NET, NestJS, Node.js, Bun, C# |
+| **Data** | PostgreSQL, MS SQL, SQLite, InfluxDB |
+| **DevOps** | GitHub Actions, Docker, Coolify |
+| **Desktop** | Electron, .NET MAUI, .NET Windows Forms |
+| **Languages** | C#, TypeScript, JavaScript, Python |
+| **Environment** | Ubuntu |
 
+## Engineering Principles
 
-## Focus & Mindset
-
-I prioritize:
-
-* Clean and readable code
-* Long-term maintainability over short-term hacks
-* Automation in development and deployment workflows
-* Continuous learning and improving engineering practices
-
-I actively work on open-source projects and enjoy exploring new tools, frameworks, and ideas that improve developer
-productivity and system reliability.
-Below is a quick overview to learn more about my work, activity, and how to get in touch.
-
-I track all my development tasks in a centralized project board on
-[github.com/users/sametcn99/projects/9](https://github.com/users/sametcn99/projects/9)
-
-## Table of Contents
-
-- [What I Do](#what-i-do)
-- [Tech Stack](#tech-stack)
-- [Focus & Mindset](#focus--mindset)
-- [Latest Blog Posts](#latest-blog-posts)
-- [Latest Activity](#latest-activity)
-- [GitHub Stats](#github-stats)
-- [Repositories](#repositories)
-- [Recently Updated](#recently-updated)
-- [Active Repositories](#active-repositories)
-- [Forked Repositories](#forked-repositories)
-- [Archived Repositories](#archived-repositories)
-- [Contact](#contact)
+- Prefer clean, readable code over clever shortcuts
+- Optimize for long-term maintainability, not short-term convenience
+- Automate repetitive development and deployment work
+- Keep learning, refining workflows, and improving delivery quality
 
 {{#if posts.recent.length}}
 
-## Latest Blog Posts
+## Latest Writing
 
-I write about technology, coding, my experiences and my thoughts.
-
+I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 {{#each posts.recent}}
-
 - [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
 {{/each}}
 
 {{#if posts.older.length}}
 <details>
   <summary>Show {{posts.older.length}} more posts...</summary>
-
-{{#each posts.older}}
-- [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
-{{/each}}
-
+  {{#each posts.older}}
+  - [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
 
-{{#if (any activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length activity.others.length)}}
+{{#if (any activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
+activity.others.length)}}
 
-## Latest Activity
+## Recent GitHub Activity
 
-This section tracks my recent interactions across GitHub, including pull requests, comments, and releases. It
-provides a categorized overview of my contributions and community engagement, showcasing what I've been working on
-lately.
+Recent public activity across pull requests, releases, discussions, and other open-source work.
 
 {{#if activity.pullRequests.length}}
 ### Pull Requests
@@ -98,9 +62,9 @@ lately.
 <details>
   <summary>Show {{activity.pullRequests.hidden.length}} more pull requests...</summary>
 
-{{#each activity.pullRequests.hidden}}
-- {{this}}
-{{/each}}
+  {{#each activity.pullRequests.hidden}}
+  - {{this}}
+  {{/each}}
 
 </details>
 {{/if}}
@@ -115,9 +79,9 @@ lately.
 <details>
   <summary>Show {{activity.comments.hidden.length}} more comments...</summary>
 
-{{#each activity.comments.hidden}}
-- {{this}}
-{{/each}}
+  {{#each activity.comments.hidden}}
+  - {{this}}
+  {{/each}}
 
 </details>
 {{/if}}
@@ -132,9 +96,9 @@ lately.
 <details>
   <summary>Show {{activity.releases.hidden.length}} more releases...</summary>
 
-{{#each activity.releases.hidden}}
-- {{this}}
-{{/each}}
+  {{#each activity.releases.hidden}}
+  - {{this}}
+  {{/each}}
 
 </details>
 {{/if}}
@@ -149,9 +113,9 @@ lately.
 <details>
   <summary>Show {{activity.stars.hidden.length}} more starred repositories...</summary>
 
-{{#each activity.stars.hidden}}
-- {{this}}
-{{/each}}
+  {{#each activity.stars.hidden}}
+  - {{this}}
+  {{/each}}
 
 </details>
 {{/if}}
@@ -166,9 +130,9 @@ lately.
 <details>
   <summary>Show {{activity.others.hidden.length}} more other activity...</summary>
 
-{{#each activity.others.hidden}}
-- {{this}}
-{{/each}}
+  {{#each activity.others.hidden}}
+  - {{this}}
+  {{/each}}
 
 </details>
 {{/if}}
@@ -176,9 +140,7 @@ lately.
 
 {{/if}}
 
-## GitHub Stats
-
-A summary of my GitHub statistics, showcasing my contributions, repositories, and overall activity on the platform.
+## GitHub Snapshot
 
 | Metric | Value |
 |:---------------------------|:---------------------------|
@@ -195,52 +157,37 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 {{#if repos}}
 
-## Repositories
+## Repository Highlights
 
-Explore a comprehensive list of my code repositories, categorized by their status and type. This includes projects I've
-recently updated, those I maintain actively, as well as forks and archived exploratory work.
+A curated view of recent work, actively maintained projects, forks, and archived repositories kept for reference.
 
 {{#if repos.recentlyUpdated.length}}
 
 ### Recently Updated
-
-These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
-features currently under development.
-
 {{#each repos.recentlyUpdated}}
-
 - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
 {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
 dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
 {{/each}}
 {{/if}}
 
 {{#if repos.active.length}}
 
 ### Active Repositories
-
-A collection of my primary projects that are currently maintained and under active development. These repositories
-represent my core open-source contributions and personal tools.
-
 {{#each repos.active.visible}}
-
 - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
 {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
 dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
 {{/each}}
 
 {{#if repos.active.hidden.length}}
 <details>
   <summary>Show {{repos.active.hidden.length}} more repositories...</summary>
-
-{{#each repos.active.hidden}}
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
-{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
-dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-{{/each}}
-
+  {{#each repos.active.hidden}}
+  - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+  {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+  dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -248,28 +195,20 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 {{#if repos.forked.length}}
 
 ### Forked Repositories
-
-Repositories I have forked to contribute to, study, or customize. This list reflects my involvement in the broader
-open-source ecosystem and tools I find interesting.
-
 {{#each repos.forked.visible}}
-
 - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
 {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
 dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
 {{/each}}
 
 {{#if repos.forked.hidden.length}}
 <details>
   <summary>Show {{repos.forked.hidden.length}} more repositories...</summary>
-
-{{#each repos.forked.hidden}}
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
-{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
-dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-{{/each}}
-
+  {{#each repos.forked.hidden}}
+  - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+  {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+  dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
@@ -277,39 +216,21 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 {{#if repos.archived.length}}
 
 ### Archived Repositories
-
-Older projects that are no longer actively maintained but kept for reference and historical context. Feel free to browse
-them for code snippets or to see my past work.
-
 {{#each repos.archived.visible}}
-
 - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
 {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
 dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-
 {{/each}}
 
 {{#if repos.archived.hidden.length}}
 <details>
   <summary>Show {{repos.archived.hidden.length}} more repositories...</summary>
-
-{{#each repos.archived.hidden}}
-- [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
-{{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
-dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
-{{/each}}
-
+  {{#each repos.archived.hidden}}
+  - [**{{name}}**]({{html_url}}){{#if stargazers_count}} ★{{stargazers_count}}{{/if}}{{#if language}} -
+  {{language}}{{/if}}{{#if homepage}} - [Homepage]({{homepage}}){{/if}}{{#if
+  dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
+  {{/each}}
 </details>
 {{/if}}
 {{/if}}
 {{/if}}
-
-## Contact
-
-Feel free to reach out to me through any of the channels listed below. Whether for collaboration, questions, or just to
-say hi.
-
-- [Website](https://sametcc.me)
-- [LinkedIn](https://sametcc.me/link/linkedin)
-- [Telegram](https://sametcc.me/link/telegram)
-- [Mail](https://sametcc.me/link/mail)
