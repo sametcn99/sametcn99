@@ -245,7 +245,7 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 216                                     |
+| **Total Stars Earned:**    | 217                                     |
 | **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 69                                      |
 | **Active Repositories:**   | 36                                      |
@@ -297,7 +297,7 @@ represent my core open-source contributions and personal tools.
 <details>
   <summary>Show 30 more repositories...</summary>
 
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★6 -
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 3, 2026_<br />the missing html based widget manager created with .net
