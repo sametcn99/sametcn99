@@ -143,14 +143,16 @@ lately.
 
 ### Starred Repositories
 
+- **Starred [f/agentlytics](https://github.com/f/agentlytics)** _(Mar 8, 2026)_
+- **Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)** _(Mar 8, 2026)_
 - **Starred [themesberg/flowbite-blazor](https://github.com/themesberg/flowbite-blazor)** _(Mar 7, 2026)_
 - **Starred [imputnet/helium](https://github.com/imputnet/helium)** _(Mar 7, 2026)_
 - **Starred [EdANaiR/news-website](https://github.com/EdANaiR/news-website)** _(Mar 7, 2026)_
+<details>
+  <summary>Show 37 more starred repositories...</summary>
+
 - **Starred [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran)** _(Mar 7, 2026)_
 - **Starred [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot)** _(Mar 7, 2026)_
-<details>
-  <summary>Show 36 more starred repositories...</summary>
-
 - **Starred [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** _(Mar 7, 2026)_
 - **Starred [nohello-net/site](https://github.com/nohello-net/site)** _(Mar 7, 2026)_
 - **Starred [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)** _(Mar 6, 2026)_
@@ -186,7 +188,6 @@ lately.
 - **Starred [ersinkoc/ReactCheck](https://github.com/ersinkoc/ReactCheck)** _(Feb 19, 2026)_
 - **Starred [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)** _(Feb 19, 2026)_
 - **Starred [raindropio/app](https://github.com/raindropio/app)** _(Feb 19, 2026)_
-- **Starred [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)** _(Feb 18, 2026)_
 
 </details>
 
