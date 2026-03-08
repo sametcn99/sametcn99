@@ -218,10 +218,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 8, 2026_<br />No description provided.
 - [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 7, 2026_<br />No description provided.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 6, 2026_<br />No description provided.
 
@@ -282,6 +282,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />*Created: Nov 3, 2025 • Updated: Nov 4, 2025*<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation. 
   - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />*Created: Jan 20, 2024 • Updated: Aug 4, 2024*<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+  - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />*Created: Dec 23, 2025 • Updated: Mar 8, 2026*<br />No description provided.
   - [**SolidColorBackground**](https://sametcc.me/repo/SolidColorBackground) ★1 -
   C#<br />*Created: Sep 3, 2024 • Updated: Jan 24, 2025*<br />This application allows users to select a color using a color picker, which updates the background color of the window.
   - [**node-genius-lyrics-gui**](https://sametcc.me/repo/node-genius-lyrics-gui) ★1 -
@@ -296,8 +298,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   PowerShell<br />*Created: Apr 20, 2025 • Updated: Jun 17, 2025*<br />No description provided.
   - [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />*Created: Oct 14, 2025 • Updated: Jan 11, 2026*<br />moved to source repo
-  - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />*Created: Dec 23, 2025 • Updated: Mar 7, 2026*<br />No description provided.
   - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />*Created: Feb 26, 2026 • Updated: Feb 26, 2026*<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
   - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
   TypeScript - [Homepage](https://golter.sametcc.me)<br />*Created: Jan 17, 2026 • Updated: Feb 21, 2026*<br />golter landing page
