@@ -246,12 +246,12 @@ A summary of my GitHub statistics, showcasing my contributions, repositories, an
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 217                                     |
+| **Total Stars Earned:**    | 202                                     |
 | **Commits (7d):**          | 50+                                     |
-| **Total Repositories:**    | 69                                      |
-| **Active Repositories:**   | 36                                      |
+| **Total Repositories:**    | 57                                      |
+| **Active Repositories:**   | 51                                      |
 | **Forked Repositories:**   | 6                                       |
-| **Archived Repositories:** | 27                                      |
+| **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
 | **Account Age:**           | 6 years                                 |
@@ -266,14 +266,14 @@ recently updated, those I maintain actively, as well as forks and archived explo
 These are the projects I have been most active on recently. Check here to see the latest code I've pushed and the
 features currently under development.
 
+- [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
+  TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
+
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 7, 2026_<br />No description provided.
 
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 6, 2026_<br />No description provided.
-
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★45 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 ### Active Repositories
 
@@ -286,30 +286,48 @@ represent my core open-source contributions and personal tools.
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
 
+- [**ResumeBuilder**](https://sametcc.me/repo/ResumeBuilder) ★15 -
+  C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
+
 - [**env-protector**](https://sametcc.me/repo/env-protector) ★15 -
   TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector)<br />_Created: Sep 14, 2024 • Updated: Jan 12, 2026_<br />Protect your secrets from being exposed
 
 - [**nextui-blog-template**](https://sametcc.me/repo/nextui-blog-template) ★12 -
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
+<details>
+  <summary>Show 45 more repositories...</summary>
+
+- [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
+  TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 2, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-
-<details>
-  <summary>Show 30 more repositories...</summary>
-
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Feb 22, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
+  TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 3, 2026_<br />the missing html based widget manager created with .net
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Feb 5, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
+- [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 -
+  TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
   TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 6, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+- [**redux-practice**](https://sametcc.me/repo/redux-practice) ★2 -
+  TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 -
+  C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
+- [**code-nest-web**](https://sametcc.me/repo/code-nest-web) ★2 -
+  TypeScript - [Homepage](https://code-nest-web-samets-projects-538a8f28.vercel.app)<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
+- [**rock-paper-scissors**](https://sametcc.me/repo/rock-paper-scissors) ★2 -
+  TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />This is a simple rock-paper-scissors game built with React and Next.js. The game is played against the computer using the React Context.
+- [**MarkdownFileRenamer**](https://sametcc.me/repo/MarkdownFileRenamer) ★2 -
+  C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
@@ -322,6 +340,20 @@ represent my core open-source contributions and personal tools.
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**SolidColorBackground**](https://sametcc.me/repo/SolidColorBackground) ★1 -
+  C#<br />_Created: Sep 3, 2024 • Updated: Jan 24, 2025_<br />This application allows users to select a color using a color picker, which updates the background color of the window.
+- [**node-genius-lyrics-gui**](https://sametcc.me/repo/node-genius-lyrics-gui) ★1 -
+  TypeScript<br />_Created: May 4, 2024 • Updated: Sep 27, 2024_<br />This project is an Electron application designed to interact with the Genius Lyrics API, providing a graphical user interface for fetching and writing song lyrics to audio file metadata tags.
+- [**open-github-dev**](https://sametcc.me/repo/open-github-dev) ★1 -
+  JavaScript<br />_Created: Dec 20, 2023 • Updated: Dec 20, 2023_<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
+- [**altinsaray-ds**](https://sametcc.me/repo/altinsaray-ds) ★1 -
+  TypeScript - [Homepage](https://altinsaray-ds.vercel.app)<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
+- [**coordinat-auto-login**](https://sametcc.me/repo/coordinat-auto-login) ★1 -
+  TypeScript<br />_Created: Apr 19, 2025 • Updated: May 4, 2025_<br />No description provided.
+- [**my-vscode-profile**](https://sametcc.me/repo/my-vscode-profile) ★1 -
+  PowerShell<br />_Created: Apr 20, 2025 • Updated: Jun 17, 2025_<br />No description provided.
+- [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 7, 2026_<br />No description provided.
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1<br />_Created: Feb 26, 2026 • Updated: Feb 26, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
@@ -341,8 +373,6 @@ represent my core open-source contributions and personal tools.
   Go - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 16, 2026 • Updated: Jan 18, 2026_<br />Terminal-based file converter built with Go
 - [**svg-split**](https://sametcc.me/repo/svg-split) ★1 -
   JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
-- [**electron-widgets-web**](https://sametcc.me/repo/electron-widgets-web) ★1 -
-  Vue - [Homepage](https://electron-widgets.sametcc.me)<br />_Created: Apr 3, 2024 • Updated: Oct 18, 2025_<br />No description provided.
 - [**xls-to-gantt**](https://sametcc.me/repo/xls-to-gantt) ★1 -
   TypeScript - [Homepage](https://xls-to-gantt.vercel.app)<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
 - [**sametcn99.github.io**](https://sametcc.me/repo/sametcn99.github.io) ★1 -
@@ -382,74 +412,6 @@ open-source ecosystem and tools I find interesting.
   TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
 - [**Letterboxd-to-IMDb**](https://sametcc.me/repo/Letterboxd-to-IMDb) -
   Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
-
-</details>
-
-### Archived Repositories
-
-Older projects that are no longer actively maintained but kept for reference and historical context. Feel free to browse
-them for code snippets or to see my past work.
-
-- [**ResumeBuilder**](https://sametcc.me/repo/ResumeBuilder) ★15 -
-  C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
-
-- [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
-  TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
-
-- [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
-  TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Oct 14, 2025_<br />moved: https://github.com/sametcn99/GPVBlazor
-
-<details>
-  <summary>Show 24 more repositories...</summary>
-
-- [**nextjs-cookie-based-auth**](https://sametcc.me/repo/nextjs-cookie-based-auth) ★4 -
-  TypeScript - [Homepage](https://nextjs-cookie-based-auth-delta.vercel.app)<br />_Created: Oct 30, 2023 • Updated: Sep 18, 2024_<br />This project has been created to learn how to implement JSON Web Token (JWT) and cookie-based authentication for only an administrator (admin) using Next.js.
-- [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 -
-  TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
-- [**code-nest-web**](https://sametcc.me/repo/code-nest-web) ★2 -
-  TypeScript - [Homepage](https://code-nest-web-samets-projects-538a8f28.vercel.app)<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
-- [**rock-paper-scissors**](https://sametcc.me/repo/rock-paper-scissors) ★2 -
-  TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />This is a simple rock-paper-scissors game built with React and Next.js. The game is played against the computer using the React Context.
-- [**redux-practice**](https://sametcc.me/repo/redux-practice) ★2 -
-  TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**MarkdownFileRenamer**](https://sametcc.me/repo/MarkdownFileRenamer) ★2 -
-  C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
-- [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 -
-  C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
-- [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
-- [**altinsaray-ds**](https://sametcc.me/repo/altinsaray-ds) ★1 -
-  TypeScript - [Homepage](https://altinsaray-ds.vercel.app)<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
-- [**NLayerCourse**](https://sametcc.me/repo/NLayerCourse) ★1 -
-  C# - [Homepage](https://www.udemy.com/course/asp-net-core-api-web-cok-katmanli-mimari-api-best-practices/)<br />_Created: Sep 27, 2024 • Updated: Oct 5, 2024_<br />learning progress repo
-- [**highcharts-v4-demo-test**](https://sametcc.me/repo/highcharts-v4-demo-test) ★1 -
-  TypeScript - [Homepage](https://highcharts-v4-demo-test.vercel.app)<br />_Created: Jun 24, 2025 • Updated: Jun 25, 2025_<br />No description provided.
-- [**animated-search-bar**](https://sametcc.me/repo/animated-search-bar) ★1 -
-  TypeScript - [Homepage](https://animated-search-bar-flax.vercel.app/)<br />_Created: Dec 29, 2023 • Updated: May 10, 2024_<br />two simple component to add animation to input
-- [**DotNetChartJS**](https://sametcc.me/repo/DotNetChartJS) ★1 -
-  HTML - [Homepage](https://dotnetchartjs.azurewebsites.net)<br />_Created: Jul 9, 2024 • Updated: Aug 12, 2024_<br />This project is initiated to test the integration of Chart.js within a .NET Blazor Web Application.
-- [**mern-stack**](https://sametcc.me/repo/mern-stack) ★1 -
-  TypeScript<br />_Created: Sep 4, 2024 • Updated: Sep 12, 2024_<br />This project is a learning progress project aimed at mastering the MERN stack (MongoDB, Express, React, Node.js).
-- [**SolidColorBackground**](https://sametcc.me/repo/SolidColorBackground) ★1 -
-  C#<br />_Created: Sep 3, 2024 • Updated: Jan 24, 2025_<br />This application allows users to select a color using a color picker, which updates the background color of the window.
-- [**coordinat-auto-login**](https://sametcc.me/repo/coordinat-auto-login) ★1 -
-  TypeScript<br />_Created: Apr 19, 2025 • Updated: May 4, 2025_<br />No description provided.
-- [**dev-manager**](https://sametcc.me/repo/dev-manager) ★1 -
-  TypeScript<br />_Created: Mar 23, 2025 • Updated: Apr 4, 2025_<br />A comprehensive Visual Studio Code extension that streamlines package management across multiple Node.js projects.
-- [**mermaid-editor**](https://sametcc.me/repo/mermaid-editor) ★1 -
-  JavaScript<br />_Created: Feb 16, 2025 • Updated: Feb 16, 2025_<br />No description provided.
-- [**SnipDocs**](https://sametcc.me/repo/SnipDocs) ★1 -
-  TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.snip-docs)<br />_Created: May 21, 2025 • Updated: May 25, 2025_<br />Instantly access clean, context-aware documentation snippets for your favorite programming languages and frameworks without leaving your code.
-- [**my-vscode-profile**](https://sametcc.me/repo/my-vscode-profile) ★1 -
-  PowerShell<br />_Created: Apr 20, 2025 • Updated: Jun 17, 2025_<br />No description provided.
-- [**open-github-dev**](https://sametcc.me/repo/open-github-dev) ★1 -
-  JavaScript<br />_Created: Dec 20, 2023 • Updated: Dec 20, 2023_<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
-- [**node-genius-lyrics-gui**](https://sametcc.me/repo/node-genius-lyrics-gui) ★1 -
-  TypeScript<br />_Created: May 4, 2024 • Updated: Sep 27, 2024_<br />This project is an Electron application designed to interact with the Genius Lyrics API, providing a graphical user interface for fetching and writing song lyrics to audio file metadata tags.
-- [**nestjs-course**](https://sametcc.me/repo/nestjs-course) ★1 -
-  TypeScript - [Homepage](https://www.udemy.com/course/nestjs-the-complete-developers-guide)<br />_Created: Dec 9, 2024 • Updated: Dec 9, 2024_<br />No description provided.
-- [**gists**](https://sametcc.me/repo/gists) ★1 -
-  TypeScript - [Homepage](https://sametcc.me/gist)<br />_Created: Dec 15, 2024 • Updated: Apr 2, 2025_<br />moved https://sametcc.me/personal-website
 
 </details>
 
