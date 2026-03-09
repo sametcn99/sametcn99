@@ -103,13 +103,14 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
 - **Starred [f/agentlytics](https://github.com/f/agentlytics)** _(Mar 8, 2026)_
 - **Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)** _(Mar 8, 2026)_
 - **Starred [themesberg/flowbite-blazor](https://github.com/themesberg/flowbite-blazor)** _(Mar 7, 2026)_
 - **Starred [imputnet/helium](https://github.com/imputnet/helium)** _(Mar 7, 2026)_
-- **Starred [EdANaiR/news-website](https://github.com/EdANaiR/news-website)** _(Mar 7, 2026)_
   <details>
-    <summary>Show 37 more starred repositories...</summary>
+    <summary>Show 38 more starred repositories...</summary>
+  - **Starred [EdANaiR/news-website](https://github.com/EdANaiR/news-website)** _(Mar 7, 2026)_
   - **Starred [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran)** _(Mar 7, 2026)_
   - **Starred [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot)** _(Mar 7, 2026)_
   - **Starred [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** _(Mar 7, 2026)_
@@ -152,13 +153,14 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
-- **Created branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
   <details>
-    <summary>Show 36 more other activity...</summary>
+    <summary>Show 37 more other activity...</summary>
+  - **Created branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
   - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
   - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
   - **Opened issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
@@ -204,8 +206,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 202                                     |
 | **Commits (7d):**          | 40+                                     |
-| **Total Repositories:**    | 57                                      |
-| **Active Repositories:**   | 51                                      |
+| **Total Repositories:**    | 58                                      |
+| **Active Repositories:**   | 52                                      |
 | **Forked Repositories:**   | 6                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -218,12 +220,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 9, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
+  C#<br />_Created: Mar 9, 2026 • Updated: Mar 9, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 8, 2026_<br />No description provided.
-- [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
-  TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
-- [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
-  C#<br />_Created: Mar 4, 2026 • Updated: Mar 6, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -239,13 +241,13 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 45 more repositories...</summary>
+  <summary>Show 46 more repositories...</summary>
   - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />*Created: Apr 23, 2025 • Updated: Mar 2, 2026*<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
   - [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />*Created: Oct 28, 2023 • Updated: May 10, 2024*<br />nextjs auth and crud example with supabase.
   - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />*Created: Feb 20, 2026 • Updated: Feb 22, 2026*<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />*Created: Feb 20, 2026 • Updated: Mar 9, 2026*<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
   - [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />*Created: Nov 23, 2023 • Updated: Mar 8, 2026*<br />moved: https://github.com/sametcn99/GPVBlazor
   - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
@@ -325,6 +327,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />*Created: Jun 11, 2025 • Updated: Jun 19, 2025*<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
   - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />*Created: Jun 4, 2024 • Updated: Jun 11, 2024*<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+  - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
+  C#<br />*Created: Mar 9, 2026 • Updated: Mar 9, 2026*<br />No description provided.
   - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />*Created: Mar 4, 2026 • Updated: Mar 6, 2026*<br />No description provided.
   - [**htwind-lain-aesthetic-widget-pack**](https://sametcc.me/repo/htwind-lain-aesthetic-widget-pack) -
