@@ -220,12 +220,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
+  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 10, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 9, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
   C#<br />_Created: Mar 9, 2026 • Updated: Mar 9, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 8, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -243,7 +243,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 <details>
   <summary>Show 46 more repositories...</summary>
   - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />*Created: Apr 23, 2025 • Updated: Mar 2, 2026*<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />*Created: Apr 23, 2025 • Updated: Mar 10, 2026*<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
   - [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />*Created: Oct 28, 2023 • Updated: May 10, 2024*<br />nextjs auth and crud example with supabase.
   - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
