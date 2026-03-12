@@ -215,7 +215,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 203                                     |
-| **Commits (7d):**          | 50+                                     |
+| **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 58                                      |
 | **Active Repositories:**   | 52                                      |
 | **Forked Repositories:**   | 6                                       |
