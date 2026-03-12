@@ -109,15 +109,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 - **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
 - **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
 - **Starred [f/agentlytics](https://github.com/f/agentlytics)** _(Mar 8, 2026)_
 - **Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)** _(Mar 8, 2026)_
-- **Starred [themesberg/flowbite-blazor](https://github.com/themesberg/flowbite-blazor)** _(Mar 7, 2026)_
 
 <details>
-  <summary>Show 35 more starred repositories...</summary>
+  <summary>Show 36 more starred repositories...</summary>
 
+- **Starred [themesberg/flowbite-blazor](https://github.com/themesberg/flowbite-blazor)** _(Mar 7, 2026)_
 - **Starred [imputnet/helium](https://github.com/imputnet/helium)** _(Mar 7, 2026)_
 - **Starred [EdANaiR/news-website](https://github.com/EdANaiR/news-website)** _(Mar 7, 2026)_
 - **Starred [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran)** _(Mar 7, 2026)_
@@ -227,12 +228,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
+  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
+- [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
+  C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
   C#<br />_Created: Mar 9, 2026 • Updated: Mar 12, 2026_<br />No description provided.
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 10, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 9, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 
 ### Active Repositories
 
@@ -270,6 +271,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Feb 28, 2026 • Updated: Mar 6, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
+  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**redux-practice**](https://sametcc.me/repo/redux-practice) ★2 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**BlogAPIDotnet**](https://sametcc.me/repo/BlogAPIDotnet) ★2 -
@@ -282,8 +285,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Feb 19, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
-- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
-  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Feb 16, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**maalesef-tr**](https://sametcc.me/repo/maalesef-tr) ★2 -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Feb 13, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**write-lyric-to-audio**](https://sametcc.me/repo/write-lyric-to-audio) ★2 -
@@ -335,10 +336,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
+  C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
   C#<br />_Created: Mar 9, 2026 • Updated: Mar 12, 2026_<br />No description provided.
-- [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
-  C#<br />_Created: Mar 4, 2026 • Updated: Mar 6, 2026_<br />No description provided.
 - [**htwind-lain-aesthetic-widget-pack**](https://sametcc.me/repo/htwind-lain-aesthetic-widget-pack) -
 HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 </details>
