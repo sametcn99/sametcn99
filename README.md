@@ -110,15 +110,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
+- **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
 - **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
-- **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
-- **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
 
 <details>
-  <summary>Show 38 more starred repositories...</summary>
+  <summary>Show 40 more starred repositories...</summary>
 
+- **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
+- **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
 - **Starred [f/agentlytics](https://github.com/f/agentlytics)** _(Mar 8, 2026)_
 - **Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)** _(Mar 8, 2026)_
 - **Starred [themesberg/flowbite-blazor](https://github.com/themesberg/flowbite-blazor)** _(Mar 7, 2026)_
