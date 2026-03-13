@@ -69,6 +69,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pull Requests
 
+- **Opened pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Merged pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Opened pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Opened pull request [#1](undefined) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
@@ -109,15 +110,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
+- **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 - **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
 - **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
-- **Starred [f/agentlytics](https://github.com/f/agentlytics)** _(Mar 8, 2026)_
-- **Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)** _(Mar 8, 2026)_
 
 <details>
-  <summary>Show 36 more starred repositories...</summary>
+  <summary>Show 38 more starred repositories...</summary>
 
+- **Starred [f/agentlytics](https://github.com/f/agentlytics)** _(Mar 8, 2026)_
+- **Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)** _(Mar 8, 2026)_
 - **Starred [themesberg/flowbite-blazor](https://github.com/themesberg/flowbite-blazor)** _(Mar 7, 2026)_
 - **Starred [imputnet/helium](https://github.com/imputnet/helium)** _(Mar 7, 2026)_
 - **Starred [EdANaiR/news-website](https://github.com/EdANaiR/news-website)** _(Mar 7, 2026)_
@@ -159,15 +162,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
+- **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
 - **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
 - **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
-- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
 
 <details>
-  <summary>Show 37 more other activity...</summary>
+  <summary>Show 39 more other activity...</summary>
 
+- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
+- **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Created branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
@@ -213,13 +218,13 @@ Recent public activity across pull requests, releases, discussions, and other op
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 203                                     |
-| **Commits (7d):**          | 50+                                     |
-| **Total Repositories:**    | 58                                      |
-| **Active Repositories:**   | 52                                      |
-| **Forked Repositories:**   | 6                                       |
+| **Commits (7d):**          | 60+                                     |
+| **Total Repositories:**    | 60                                      |
+| **Active Repositories:**   | 53                                      |
+| **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
-| **Top Languages:**         | TypeScript, C#, HTML, JavaScript, MDX   |
+| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
 | **Account Age:**           | 6 years                                 |
 
 ## Repository Highlights
@@ -228,12 +233,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://sametcc.me/repo/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 13, 2026_<br />No description provided.
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1 -
   HTML - [Homepage](https://sametcn99.github.io/product-planning-copilot/)<br />_Created: Feb 26, 2026 • Updated: Mar 13, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 13, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
-  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 
 ### Active Repositories
 
@@ -249,7 +254,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 46 more repositories...</summary>
+  <summary>Show 47 more repositories...</summary>
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 10, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
@@ -337,6 +342,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**apps**](https://sametcc.me/repo/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 13, 2026_<br />No description provided.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
@@ -347,15 +354,17 @@ HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted w
 
 ### Forked Repositories
 
+- [**wvw.dev**](https://sametcc.me/repo/wvw.dev) -
+  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: Mar 13, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 - [**vitepress-image-viewer**](https://sametcc.me/repo/vitepress-image-viewer) -
   JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 - [**crono-event**](https://sametcc.me/repo/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
-- [**letterboxd-api**](https://sametcc.me/repo/letterboxd-api) -
-  Python - [Homepage](https://letterboxd-api-zeta.vercel.app)<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
 
 <details>
-  <summary>Show 3 more repositories...</summary>
+  <summary>Show 4 more repositories...</summary>
 
+- [**letterboxd-api**](https://sametcc.me/repo/letterboxd-api) -
+  Python - [Homepage](https://letterboxd-api-zeta.vercel.app)<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
 - [**nestlens**](https://sametcc.me/repo/nestlens) -
   TypeScript - [Homepage](https://nestlens-docs.vercel.app/)<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
 - [**RepoHub**](https://sametcc.me/repo/RepoHub) -
