@@ -69,11 +69,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pull Requests
 
+- **Merged pull request [#21](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
+- **Opened pull request [#21](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 - **Merged pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Opened pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Merged pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
+
+<details>
+  <summary>Show 2 more pull requests...</summary>
+
 - **Opened pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Opened pull request [#1](undefined) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
+
+</details>
 
 ### Comments
 
@@ -100,7 +108,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Published release [1.1.11](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/1.1.11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Feb 27, 2026)_
 - **Published release [1.1.2](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Published release [1.1.1](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-- **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
 
 ### Starred Repositories
 
