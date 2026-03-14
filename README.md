@@ -102,13 +102,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Published release [1.1.1](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Published release [1.1.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
 
-<details>
-  <summary>Show 1 more releases...</summary>
-
-- **Published release [1.0.0](https://github.com/sametcn99/booking-calendar/releases/tag/1.0.0) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
-
-</details>
-
 ### Starred Repositories
 
 - **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
@@ -118,7 +111,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 
 <details>
-  <summary>Show 40 more starred repositories...</summary>
+  <summary>Show 39 more starred repositories...</summary>
 
 - **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
 - **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
@@ -159,7 +152,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 21, 2026)_
 - **Starred [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics)** _(Feb 21, 2026)_
 - **Starred [pbatard/rufus](https://github.com/pbatard/rufus)** _(Feb 21, 2026)_
-- **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 20, 2026)_
 
 </details>
 
@@ -237,7 +229,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 ### Recently Updated
 
 - [**apps**](https://sametcc.me/repo/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 13, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 14, 2026_<br />No description provided.
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1 -
   HTML - [Homepage](https://sametcn99.github.io/product-planning-copilot/)<br />_Created: Feb 26, 2026 • Updated: Mar 13, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
@@ -346,7 +338,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 - [**apps**](https://sametcc.me/repo/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 13, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 14, 2026_<br />No description provided.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
@@ -358,7 +350,7 @@ HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted w
 ### Forked Repositories
 
 - [**wvw.dev**](https://sametcc.me/repo/wvw.dev) -
-  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: Mar 13, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
+  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: Mar 14, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 - [**vitepress-image-viewer**](https://sametcc.me/repo/vitepress-image-viewer) -
   JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 - [**crono-event**](https://sametcc.me/repo/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
