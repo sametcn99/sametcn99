@@ -170,7 +170,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 
 <details>
-  <summary>Show 38 more other activity...</summary>
+  <summary>Show 35 more other activity...</summary>
 
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
@@ -187,9 +187,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Labeled issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 26, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
-- **Labeled issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
-- **Opened issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
-- **Assigned issue [#3](https://github.com/sametcn99/HTWind/issues/3) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Opened issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
@@ -217,10 +214,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 204                                     |
+| **Total Stars Earned:**    | 203                                     |
 | **Commits (7d):**          | 50+                                     |
-| **Total Repositories:**    | 60                                      |
-| **Active Repositories:**   | 53                                      |
+| **Total Repositories:**    | 59                                      |
+| **Active Repositories:**   | 52                                      |
 | **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -254,7 +251,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 47 more repositories...</summary>
+  <summary>Show 46 more repositories...</summary>
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 10, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
@@ -312,8 +309,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://altinsaray-ds.vercel.app)<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
 - [**coordinat-auto-login**](https://sametcc.me/repo/coordinat-auto-login) ★1 -
   TypeScript<br />_Created: Apr 19, 2025 • Updated: May 4, 2025_<br />No description provided.
-- [**my-vscode-profile**](https://sametcc.me/repo/my-vscode-profile) ★1 -
-  PowerShell<br />_Created: Apr 20, 2025 • Updated: Jun 17, 2025_<br />No description provided.
 - [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
 - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
