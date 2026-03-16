@@ -163,15 +163,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 - **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
 - **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
 - **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
-- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 
 <details>
-  <summary>Show 34 more other activity...</summary>
+  <summary>Show 35 more other activity...</summary>
 
+- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
@@ -213,7 +214,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 203                                     |
+| **Total Stars Earned:**    | 204                                     |
 | **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 59                                      |
 | **Active Repositories:**   | 52                                      |
@@ -229,16 +230,16 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★47 -
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 16, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★48 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 16, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 16, 2026_<br />No description provided.
-- [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★47 -
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★48 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 16, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
@@ -257,7 +258,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 9, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 16, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
