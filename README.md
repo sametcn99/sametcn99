@@ -69,15 +69,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pull Requests
 
+- **Merged pull request [#9](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
+- **Opened pull request [#9](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 - **Opened pull request [#42](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 16, 2026)_
 - **Merged pull request [#21](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 - **Opened pull request [#21](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
-- **Merged pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
-- **Opened pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 
 <details>
-  <summary>Show 3 more pull requests...</summary>
+  <summary>Show 5 more pull requests...</summary>
 
+- **Merged pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
+- **Opened pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Merged pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Opened pull request [#2](undefined) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
 - **Opened pull request [#1](undefined) in [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 23, 2026)_
@@ -93,11 +95,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 <details>
-  <summary>Show 5 more comments...</summary>
+  <summary>Show 4 more comments...</summary>
 
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 
@@ -117,7 +118,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 
 <details>
-  <summary>Show 39 more starred repositories...</summary>
+  <summary>Show 37 more starred repositories...</summary>
 
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 - **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
@@ -156,8 +157,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [usekaneo/kaneo](https://github.com/usekaneo/kaneo)** _(Feb 22, 2026)_
 - **Starred [jasperapp/jasper](https://github.com/jasperapp/jasper)** _(Feb 22, 2026)_
 - **Starred [devhubapp/devhub](https://github.com/devhubapp/devhub)** _(Feb 22, 2026)_
-- **Starred [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)** _(Feb 21, 2026)_
-- **Starred [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics)** _(Feb 21, 2026)_
 
 </details>
 
@@ -215,7 +214,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 204                                     |
-| **Commits (7d):**          | 50+                                     |
+| **Commits (7d):**          | 60+                                     |
 | **Total Repositories:**    | 59                                      |
 | **Active Repositories:**   | 52                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -230,12 +229,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 16, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 16, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★48 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 16, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**apps**](https://sametcc.me/repo/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 16, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -268,7 +267,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 13, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 16, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
