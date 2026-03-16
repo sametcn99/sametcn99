@@ -95,11 +95,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 <details>
-  <summary>Show 4 more comments...</summary>
+  <summary>Show 3 more comments...</summary>
 
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-- **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 - **Commented on issue [#1](https://github.com/sametcn99/booking-calendar/issues/1) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
 
 </details>
@@ -169,7 +168,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 
 <details>
-  <summary>Show 35 more other activity...</summary>
+  <summary>Show 34 more other activity...</summary>
 
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
@@ -205,7 +204,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Opened issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Opened issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 21, 2026)_
-- **Forked [miletorix/vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer) to [sametcn99/vitepress-image-viewer](https://github.com/sametcn99/vitepress-image-viewer)** _(Feb 21, 2026)_
 
 </details>
 
@@ -214,7 +212,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 204                                     |
-| **Commits (7d):**          | 60+                                     |
+| **Commits (7d):**          | 70+                                     |
 | **Total Repositories:**    | 59                                      |
 | **Active Repositories:**   | 52                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -229,12 +227,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 16, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 16, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★48 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 16, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 16, 2026_<br />No description provided.
+- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 16, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 
 ### Active Repositories
 
@@ -294,10 +292,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 16, 2026_<br />No description provided.
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1 -
   HTML - [Homepage](https://sametcn99.github.io/product-planning-copilot/)<br />_Created: Feb 26, 2026 • Updated: Mar 13, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 8, 2026_<br />No description provided.
 - [**SolidColorBackground**](https://sametcc.me/repo/SolidColorBackground) ★1 -
   C#<br />_Created: Sep 3, 2024 • Updated: Jan 24, 2025_<br />This application allows users to select a color using a color picker, which updates the background color of the window.
 - [**node-genius-lyrics-gui**](https://sametcc.me/repo/node-genius-lyrics-gui) ★1 -
