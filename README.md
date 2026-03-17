@@ -99,15 +99,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Starred [karpathy/jobs](https://github.com/karpathy/jobs)** _(Mar 17, 2026)_
 - **Starred [k-eren-k/GemBot-AI-Automation-Free](https://github.com/k-eren-k/GemBot-AI-Automation-Free)** _(Mar 15, 2026)_
 - **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
 - **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
-- **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
 
 <details>
   <summary>Show 33 more starred repositories...</summary>
 
+- **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 - **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
@@ -140,7 +141,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
 - **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 - **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
-- **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
 
 </details>
 
@@ -153,7 +153,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
 
 <details>
-  <summary>Show 27 more other activity...</summary>
+  <summary>Show 25 more other activity...</summary>
 
 - **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
@@ -180,8 +180,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Closed issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Discussion in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Closed issue [#7](https://github.com/sametcn99/booking-calendar/issues/7) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Opened issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 </details>
 
@@ -189,8 +187,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 204                                     |
-| **Commits (7d):**          | 80+                                     |
+| **Total Stars Earned:**    | 205                                     |
+| **Commits (7d):**          | 90+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -205,7 +203,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) -
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 17, 2026_<br />No description provided.
@@ -270,6 +268,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
   TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
@@ -312,8 +312,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 17, 2026_<br />No description provided.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
