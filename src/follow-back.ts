@@ -68,13 +68,13 @@ async function fetchFollowing(octokit: Octokit): Promise<Set<string>> {
 
 async function main(): Promise<void> {
 	const token =
-		process.env.GITHUB_FOLLOW_BACK_TOKEN ||
+		process.env.FOLLOW_BACK_TOKEN ||
 		process.env.GITHUB_TOKEN ||
 		process.env.GH_TOKEN;
 
 	if (!token) {
 		throw new Error(
-			"Missing token. Set GITHUB_FOLLOW_BACK_TOKEN, GITHUB_TOKEN, or GH_TOKEN.",
+			"Missing token. Set FOLLOW_BACK_TOKEN, GITHUB_TOKEN, or GH_TOKEN.",
 		);
 	}
 
