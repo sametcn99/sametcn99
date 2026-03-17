@@ -250,16 +250,16 @@ export class DataFormatter {
 		older: FormattedPost[];
 	} {
 		// Ensure posts are ordered newest -> oldest based on `date_published`.
-		const sorted = posts
-			.slice()
-			.sort((a, b) => {
-				const ta = new Date(a.date_published || 0).getTime();
-				const tb = new Date(b.date_published || 0).getTime();
-				return tb - ta;
-			});
+		const sorted = posts.slice().sort((a, b) => {
+			const ta = new Date(a.date_published || 0).getTime();
+			const tb = new Date(b.date_published || 0).getTime();
+			return tb - ta;
+		});
 
 		const format = (item: FeedItem): FormattedPost => {
-			const date = item.date_published ? formatDateLong(item.date_published) : "";
+			const date = item.date_published
+				? formatDateLong(item.date_published)
+				: "";
 			const dateStr = date ? ` *(${date})*` : "";
 
 			return {
