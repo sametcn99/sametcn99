@@ -46,9 +46,19 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
+      - name: Validate follow-back token
+        env:
+          GITHUB_FOLLOW_BACK_TOKEN: ${{ secrets.GITHUB_FOLLOW_BACK_TOKEN }}
+        run: |
+          if [ -z "$GITHUB_FOLLOW_BACK_TOKEN" ]; then
+            echo "Missing repository secret: GITHUB_FOLLOW_BACK_TOKEN"
+            echo "Use a classic PAT with user:follow or a fine-grained PAT with Followers: write."
+            exit 1
+          fi
+
       - name: Follow back new followers
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_FOLLOW_BACK_TOKEN: ${{ secrets.GITHUB_FOLLOW_BACK_TOKEN }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
           FOLLOW_BACK_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.follow_back_limit || '' }}
         run: bun run follow-back
