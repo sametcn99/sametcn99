@@ -8,6 +8,7 @@ type GitHubAccount = {
 };
 
 const DEFAULT_DELAY_MS = 750;
+const FOLLOW_ELIGIBILITY_CHUNK_SIZE = 20;
 
 function parseBoolean(
 	value: string | undefined,
@@ -41,6 +42,16 @@ function sleep(milliseconds: number): Promise<void> {
 	return new Promise((resolve) => setTimeout(resolve, milliseconds));
 }
 
+function chunkArray<T>(items: T[], size: number): T[][] {
+	const chunks: T[][] = [];
+
+	for (let index = 0; index < items.length; index += size) {
+		chunks.push(items.slice(index, index + size));
+	}
+
+	return chunks;
+}
+
 async function fetchFollowers(octokit: Octokit): Promise<GitHubAccount[]> {
 	const followers = await octokit.paginate(
 		octokit.rest.users.listFollowersForAuthenticatedUser,
@@ -64,6 +75,36 @@ async function fetchFollowing(octokit: Octokit): Promise<Set<string>> {
 	);
 
 	return new Set(following.map((user) => user.login));
+}
+
+async function fetchFollowEligibility(
+	octokit: Octokit,
+	logins: string[],
+): Promise<Map<string, boolean>> {
+	const eligibilityByLogin = new Map<string, boolean>();
+
+	for (const loginChunk of chunkArray(logins, FOLLOW_ELIGIBILITY_CHUNK_SIZE)) {
+		const queryFields = loginChunk
+			.map(
+				(login, index) =>
+					`user${index}: user(login: ${JSON.stringify(login)}) { login viewerCanFollow }`,
+			)
+			.join("\n");
+
+		const response = await octokit.graphql<
+			Record<string, { login: string; viewerCanFollow: boolean } | null>
+		>(`query {\n${queryFields}\n}`);
+
+		for (const account of Object.values(response)) {
+			if (!account) {
+				continue;
+			}
+
+			eligibilityByLogin.set(account.login, account.viewerCanFollow);
+		}
+	}
+
+	return eligibilityByLogin;
 }
 
 async function main(): Promise<void> {
@@ -98,7 +139,7 @@ async function main(): Promise<void> {
 		fetchFollowing(octokit),
 	]);
 
-	const followBackCandidates = followers.filter((follower) => {
+	const unmatchedFollowers = followers.filter((follower) => {
 		if (follower.login === authenticatedUser.login) {
 			return false;
 		}
@@ -110,13 +151,26 @@ async function main(): Promise<void> {
 		return !followingLogins.has(follower.login);
 	});
 
+	const followEligibilityByLogin = await fetchFollowEligibility(
+		octokit,
+		unmatchedFollowers.map((follower) => follower.login),
+	);
+
+	const privateFollowers = unmatchedFollowers.filter(
+		(follower) => followEligibilityByLogin.get(follower.login) === false,
+	);
+
+	const followBackCandidates = unmatchedFollowers.filter(
+		(follower) => followEligibilityByLogin.get(follower.login) !== false,
+	);
+
 	const selectedFollowers =
 		limit === null
 			? followBackCandidates
 			: followBackCandidates.slice(0, limit);
 
 	console.log(
-		`Found ${followers.length} followers, already following ${followingLogins.size} accounts, ${followBackCandidates.length} follow-back candidate(s).`,
+		`Found ${followers.length} followers, already following ${followingLogins.size} accounts, ignored ${privateFollowers.length} private user(s), ${followBackCandidates.length} follow-back candidate(s).`,
 	);
 
 	if (selectedFollowers.length === 0) {
