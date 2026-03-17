@@ -91,8 +91,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Commented on issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 11, 2026)_
 - **Commented on issue [#6](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/6) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Feb 28, 2026)_
 - **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Commented on issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 ### Releases
 
@@ -148,15 +146,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 - **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
 - **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
-- **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 
 <details>
-  <summary>Show 31 more other activity...</summary>
+  <summary>Show 27 more other activity...</summary>
 
+- **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
@@ -183,11 +182,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Closed issue [#7](https://github.com/sametcn99/booking-calendar/issues/7) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Labeled issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Opened issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Labeled issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Opened issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Labeled issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Labeled issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Labeled issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 </details>
 
@@ -197,8 +191,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 204                                     |
 | **Commits (7d):**          | 80+                                     |
-| **Total Repositories:**    | 59                                      |
-| **Active Repositories:**   | 52                                      |
+| **Total Repositories:**    | 60                                      |
+| **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -211,12 +205,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
-  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 17, 2026_<br />No description provided.
-- [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
-  TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
+- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
+  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 
 ### Active Repositories
 
@@ -232,7 +226,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 46 more repositories...</summary>
+  <summary>Show 47 more repositories...</summary>
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 10, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
@@ -318,6 +312,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 17, 2026_<br />No description provided.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
