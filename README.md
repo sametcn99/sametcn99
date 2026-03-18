@@ -98,15 +98,20 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [coollabsio/serverlesshorrors.com](https://github.com/coollabsio/serverlesshorrors.com)** _(Mar 18, 2026)_
+- **Starred [techwithanirudh/coolify-tweaks](https://github.com/techwithanirudh/coolify-tweaks)** _(Mar 18, 2026)_
+- **Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)** _(Mar 18, 2026)_
+- **Starred [Dokploy/mcp](https://github.com/Dokploy/mcp)** _(Mar 18, 2026)_
+- **Starred [Elagoht/cvgo](https://github.com/Elagoht/cvgo)** _(Mar 18, 2026)_
+
+<details>
+  <summary>Show 40 more starred repositories...</summary>
+
 - **Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** _(Mar 18, 2026)_
 - **Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)** _(Mar 17, 2026)_
 - **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Starred [karpathy/jobs](https://github.com/karpathy/jobs)** _(Mar 17, 2026)_
 - **Starred [k-eren-k/GemBot-AI-Automation-Free](https://github.com/k-eren-k/GemBot-AI-Automation-Free)** _(Mar 15, 2026)_
-
-<details>
-  <summary>Show 35 more starred repositories...</summary>
-
 - **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
 - **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
 - **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
@@ -154,7 +159,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
 
 <details>
-  <summary>Show 25 more other activity...</summary>
+  <summary>Show 22 more other activity...</summary>
 
 - **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
@@ -178,9 +183,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 - **Closed issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 - **Closed issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Closed issue [#4](https://github.com/sametcn99/booking-calendar/issues/4) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Discussion in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Closed issue [#7](https://github.com/sametcn99/booking-calendar/issues/7) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 </details>
 
