@@ -98,15 +98,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** _(Mar 18, 2026)_
 - **Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)** _(Mar 17, 2026)_
 - **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Starred [karpathy/jobs](https://github.com/karpathy/jobs)** _(Mar 17, 2026)_
 - **Starred [k-eren-k/GemBot-AI-Automation-Free](https://github.com/k-eren-k/GemBot-AI-Automation-Free)** _(Mar 15, 2026)_
-- **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
 
 <details>
-  <summary>Show 34 more starred repositories...</summary>
+  <summary>Show 35 more starred repositories...</summary>
 
+- **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
 - **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
 - **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
@@ -203,10 +204,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 18, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 18, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 
@@ -269,7 +270,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 18, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
   TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
