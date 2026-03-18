@@ -152,15 +152,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 - **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
-- **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
 
 <details>
-  <summary>Show 22 more other activity...</summary>
+  <summary>Show 21 more other activity...</summary>
 
+- **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
 - **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
@@ -181,8 +182,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Opened issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
-- **Closed issue [#3](https://github.com/sametcn99/booking-calendar/issues/3) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
-- **Closed issue [#5](https://github.com/sametcn99/booking-calendar/issues/5) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 </details>
 
@@ -208,10 +207,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 18, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+- [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 18, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 18, 2026_<br />No description provided.
-- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
-  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 
 ### Active Repositories
 
@@ -234,7 +233,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 16, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 18, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**HTWind**](https://sametcc.me/repo/HTWind) ★4 -
