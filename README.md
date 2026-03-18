@@ -90,7 +90,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 - **Commented on issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 11, 2026)_
 - **Commented on issue [#6](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/6) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Feb 28, 2026)_
-- **Commented on issue [#2](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Feb 22, 2026)_
 
 ### Releases
 
@@ -99,15 +98,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)** _(Mar 17, 2026)_
 - **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Starred [karpathy/jobs](https://github.com/karpathy/jobs)** _(Mar 17, 2026)_
 - **Starred [k-eren-k/GemBot-AI-Automation-Free](https://github.com/k-eren-k/GemBot-AI-Automation-Free)** _(Mar 15, 2026)_
 - **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
-- **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
 
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 34 more starred repositories...</summary>
 
+- **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
 - **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
@@ -188,7 +188,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 205                                     |
-| **Commits (7d):**          | 90+                                     |
+| **Commits (7d):**          | 80+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
