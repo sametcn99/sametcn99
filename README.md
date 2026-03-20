@@ -189,7 +189,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 206                                     |
+| **Total Stars Earned:**    | 205                                     |
 | **Commits (7d):**          | 60+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
@@ -205,16 +205,16 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://sametcc.me/repo/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 20, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 19, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 19, 2026_<br />No description provided.
-- [**apps**](https://sametcc.me/repo/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 19, 2026_<br />No description provided.
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★48 -
+- [**vitepress-mermaid-renderer**](https://sametcc.me/repo/vitepress-mermaid-renderer) ★47 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 16, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://sametcc.me/repo/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
@@ -315,7 +315,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 - [**apps**](https://sametcc.me/repo/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 19, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 20, 2026_<br />No description provided.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
