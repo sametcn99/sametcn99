@@ -205,10 +205,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 21, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 21, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 20, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 19, 2026_<br />No description provided.
 
@@ -271,7 +271,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 20, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 21, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 19, 2026_<br />No description provided.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
