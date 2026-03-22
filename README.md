@@ -97,15 +97,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [greensock/react](https://github.com/greensock/react)** _(Mar 22, 2026)_
+- **Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)** _(Mar 22, 2026)_
 - **Starred [muhammetdag/ParadiseSteamLibrary](https://github.com/muhammetdag/ParadiseSteamLibrary)** _(Mar 21, 2026)_
 - **Starred [dashersw/gea](https://github.com/dashersw/gea)** _(Mar 19, 2026)_
 - **Starred [Megabit/Blazorise](https://github.com/Megabit/Blazorise)** _(Mar 18, 2026)_
-- **Starred [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor)** _(Mar 18, 2026)_
-- **Starred [TamerSarioglu/Resume-Architect](https://github.com/TamerSarioglu/Resume-Architect)** _(Mar 18, 2026)_
 
 <details>
-  <summary>Show 44 more starred repositories...</summary>
+  <summary>Show 46 more starred repositories...</summary>
 
+- **Starred [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor)** _(Mar 18, 2026)_
+- **Starred [TamerSarioglu/Resume-Architect](https://github.com/TamerSarioglu/Resume-Architect)** _(Mar 18, 2026)_
 - **Starred [coollabsio/serverlesshorrors.com](https://github.com/coollabsio/serverlesshorrors.com)** _(Mar 18, 2026)_
 - **Starred [techwithanirudh/coolify-tweaks](https://github.com/techwithanirudh/coolify-tweaks)** _(Mar 18, 2026)_
 - **Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)** _(Mar 18, 2026)_
