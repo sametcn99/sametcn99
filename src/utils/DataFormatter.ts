@@ -386,9 +386,12 @@ export class DataFormatter {
 	): string {
 		if (event.payload && "issue" in event.payload) {
 			const issue = (
-				event.payload as { issue?: { number?: number; html_url?: string } }
+				event.payload as {
+					issue?: { number?: number; title?: string; html_url?: string };
+				}
 			).issue;
-			return `Commented on issue [#${issue?.number}](${issue?.html_url}) in [${repoName}](${repoUrl})`;
+			const issueLabel = issue?.title?.trim() || `#${issue?.number}`;
+			return `Commented on issue [${issueLabel}](${issue?.html_url}) in [${repoName}](${repoUrl})`;
 		}
 		return "";
 	}
