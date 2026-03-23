@@ -105,8 +105,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Comments
 
-- **Commented on issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 11, 2026)_
-- **Commented on issue [#6](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/6) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Feb 28, 2026)_
+- **Commented on issue [[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 11, 2026)_
+- **Commented on issue [const mermaidRenderer &lt;-- why?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/6) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Feb 28, 2026)_
 
 ### Releases
 
@@ -220,7 +220,7 @@ If you landed here while looking for something to contribute, these are the issu
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 206                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
