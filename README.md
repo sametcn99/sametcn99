@@ -115,26 +115,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
-- **Starred [k-eren-k/SBViewer](https://github.com/k-eren-k/SBViewer)** _(Mar 23, 2026)_
-- **Starred [greensock/react](https://github.com/greensock/react)** _(Mar 22, 2026)_
-- **Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)** _(Mar 22, 2026)_
-- **Starred [muhammetdag/ParadiseSteamLibrary](https://github.com/muhammetdag/ParadiseSteamLibrary)** _(Mar 22, 2026)_
-- **Starred [dashersw/gea](https://github.com/dashersw/gea)** _(Mar 19, 2026)_
-
-<details>
-  <summary>Show 46 more starred repositories...</summary>
-
-- **Starred [Megabit/Blazorise](https://github.com/Megabit/Blazorise)** _(Mar 18, 2026)_
-- **Starred [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor)** _(Mar 18, 2026)_
-- **Starred [TamerSarioglu/Resume-Architect](https://github.com/TamerSarioglu/Resume-Architect)** _(Mar 18, 2026)_
-- **Starred [coollabsio/serverlesshorrors.com](https://github.com/coollabsio/serverlesshorrors.com)** _(Mar 18, 2026)_
-- **Starred [techwithanirudh/coolify-tweaks](https://github.com/techwithanirudh/coolify-tweaks)** _(Mar 18, 2026)_
-- **Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)** _(Mar 18, 2026)_
-- **Starred [Dokploy/mcp](https://github.com/Dokploy/mcp)** _(Mar 18, 2026)_
-- **Starred [Elagoht/cvgo](https://github.com/Elagoht/cvgo)** _(Mar 18, 2026)_
-- **Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** _(Mar 18, 2026)_
-- **Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)** _(Mar 18, 2026)_
-- **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Starred [karpathy/jobs](https://github.com/karpathy/jobs)** _(Mar 17, 2026)_
 - **Starred [k-eren-k/GemBot-AI-Automation-Free](https://github.com/k-eren-k/GemBot-AI-Automation-Free)** _(Mar 15, 2026)_
 - **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
@@ -170,14 +150,14 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 26, 2026)_
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 - **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
+- **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 24, 2026)_
+- **Starred [github/copilot-plugins](https://github.com/github/copilot-plugins)** _(Feb 23, 2026)_
+- **Starred [cagritaskn/SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey)** _(Feb 22, 2026)_
 
 </details>
 
 ### Other Activity
 
-- **Closed issue [#3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/3) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
-- **Discussion in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
-- **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 
@@ -185,6 +165,10 @@ Recent public activity across pull requests, releases, discussions, and other op
   <summary>Show 21 more other activity...</summary>
 
 - **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
+
+<details>
+  <summary>Show 20 more other activity...</summary>
+
 - **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
 - **Created branch &#x60;prod/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 12, 2026)_
 - **Created branch &#x60;test/v1.0.0&#x60; in [sametcn99/KayraExportCase](https://github.com/sametcn99/KayraExportCase)** _(Mar 9, 2026)_
@@ -235,12 +219,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 23, 2026_<br />No description provided.
-- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 23, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 23, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+- [**apps**](https://sametcc.me/repo/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 17, 2026_<br />No description provided.
+- [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
+  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 
 ### Active Repositories
 
@@ -300,12 +284,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 23, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 23, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**dreamtui**](https://sametcc.me/repo/dreamtui) ★1 -
-  TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 17, 2026_<br />A terminal-based generative dream engine.
+  TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
+- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 16, 2026_<br />No description provided.
 - [**product-planning-copilot**](https://sametcc.me/repo/product-planning-copilot) ★1 -
   HTML - [Homepage](https://sametcn99.github.io/product-planning-copilot/)<br />_Created: Feb 26, 2026 • Updated: Mar 13, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
 - [**SolidColorBackground**](https://sametcc.me/repo/SolidColorBackground) ★1 -
