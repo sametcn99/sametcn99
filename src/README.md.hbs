@@ -8,6 +8,52 @@ grow.
 [LinkedIn](https://sametcc.me/link/linkedin) · [Telegram](https://sametcc.me/link/telegram) ·
 [Mail](https://sametcc.me/link/mail)
 
+## Table of Contents
+
+- [Tech Stack](#tech-stack)
+- [Engineering Principles](#engineering-principles)
+{{#if posts.recent.length}}
+- [Latest Writing](#latest-writing)
+{{/if}}
+{{#if (any activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
+activity.others.length)}}
+- [Recent GitHub Activity](#recent-github-activity)
+  {{#if activity.pullRequests.length}}
+  - [Pull Requests](#pull-requests)
+  {{/if}}
+  {{#if activity.comments.length}}
+  - [Comments](#comments)
+  {{/if}}
+  {{#if activity.releases.length}}
+  - [Releases](#releases)
+  {{/if}}
+  {{#if activity.stars.length}}
+  - [Starred Repositories](#starred-repositories)
+  {{/if}}
+  {{#if activity.others.length}}
+  - [Other Activity](#other-activity)
+  {{/if}}
+{{/if}}
+{{#if helpWantedIssues.length}}
+- [Open Help Wanted Issues](#open-help-wanted-issues)
+{{/if}}
+- [GitHub Snapshot](#github-snapshot)
+{{#if repos}}
+- [Repository Highlights](#repository-highlights)
+  {{#if repos.recentlyUpdated.length}}
+  - [Recently Updated](#recently-updated)
+  {{/if}}
+  {{#if repos.active.length}}
+  - [Active Repositories](#active-repositories)
+  {{/if}}
+  {{#if repos.forked.length}}
+  - [Forked Repositories](#forked-repositories)
+  {{/if}}
+  {{#if repos.archived.length}}
+  - [Archived Repositories](#archived-repositories)
+  {{/if}}
+{{/if}}
+
 ## Tech Stack
 
 | Area | Technologies |
@@ -144,6 +190,28 @@ Recent public activity across pull requests, releases, discussions, and other op
 {{/if}}
 {{/if}}
 
+{{/if}}
+
+{{#if helpWantedIssues.length}}
+
+## Open Help Wanted Issues
+
+If you landed here while looking for something to contribute, these are the issues across my repositories where I could use help.
+
+{{#each helpWantedIssues.visible}}
+- [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+{{/each}}
+
+{{#if helpWantedIssues.hidden.length}}
+
+<details>
+  <summary>Show {{helpWantedIssues.hidden.length}} more issues...</summary>
+
+  {{#each helpWantedIssues.hidden}}
+  - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+  {{/each}}
+</details>
+{{/if}}
 {{/if}}
 
 ## GitHub Snapshot

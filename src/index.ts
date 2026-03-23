@@ -45,6 +45,8 @@ class Application {
 		const recentPostsPromise = this.feedService.fetch();
 		const reposDataPromise = this.githubProvider.fetchRepositories();
 		const eventsDataPromise = this.githubProvider.fetchEvents();
+		const helpWantedIssuesPromise =
+			this.githubProvider.fetchHelpWantedIssues(reposDataPromise);
 		const userProfilePromise = this.githubProvider.fetchProfile();
 		const workflowPromise = this.githubProvider.fetchWorkflow();
 
@@ -57,6 +59,7 @@ class Application {
 			recentPosts,
 			reposData,
 			eventsData,
+			helpWantedIssues,
 			userProfile,
 			workflowData,
 			userStats,
@@ -64,6 +67,7 @@ class Application {
 			recentPostsPromise,
 			reposDataPromise,
 			eventsDataPromise,
+			helpWantedIssuesPromise,
 			userProfilePromise,
 			workflowPromise,
 			userStatsPromise,
@@ -91,6 +95,7 @@ class Application {
 		const context = {
 			posts: DataFormatter.preparePostsData(recentPosts),
 			activity: DataFormatter.prepareActivityData(eventsData),
+			helpWantedIssues: DataFormatter.prepareHelpWantedIssues(helpWantedIssues),
 			stats: userStats,
 			repos: DataFormatter.prepareRepoData(reposData),
 			workflow,

@@ -19,6 +19,15 @@ export interface FormattedRepo {
 	homepage?: string | null;
 }
 
+/** Shape used by the template when rendering help wanted issues. */
+export interface FormattedHelpWantedIssue {
+	title: string;
+	html_url: string;
+	repositoryName: string;
+	repositoryUrl: string;
+	dateStr: string;
+}
+
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
 export class DataFormatter {
 	/** Formats GitHub activity events into readable Markdown snippets. */
@@ -145,6 +154,41 @@ export class DataFormatter {
 			releases: splitGroup(groups.releases, 5),
 			stars: splitGroup(groups.stars, 5),
 			others: splitGroup(groups.others, 5),
+		};
+	}
+
+	/** Converts a repository issue into the data needed by the template. */
+	static formatHelpWantedIssue(issue: RepoIssue): FormattedHelpWantedIssue {
+		const issueUrl = issue.html_url;
+		const repositoryUrl = issueUrl.replace(/\/issues\/\d+$/, "");
+		const repositoryName = repositoryUrl
+			.replace("https://github.com/", "")
+			.trim();
+		const updated = issue.updated_at ? formatDateLong(issue.updated_at) : "";
+
+		return {
+			title: issue.title,
+			html_url: issueUrl,
+			repositoryName,
+			repositoryUrl,
+			dateStr: updated ? `Updated ${updated}` : "",
+		};
+	}
+
+	/** Organizes open help wanted issues into visible and hidden groups. */
+	static prepareHelpWantedIssues(issues: RepoIssue[]): {
+		visible: FormattedHelpWantedIssue[];
+		hidden: FormattedHelpWantedIssue[];
+		length: number;
+	} {
+		const formattedIssues = issues.map((issue) =>
+			DataFormatter.formatHelpWantedIssue(issue),
+		);
+
+		return {
+			visible: formattedIssues.slice(0, 5),
+			hidden: formattedIssues.slice(5),
+			length: formattedIssues.length,
 		};
 	}
 

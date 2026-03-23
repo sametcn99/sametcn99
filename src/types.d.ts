@@ -37,6 +37,10 @@ type UserProfile =
 type WorkflowRun =
 	import("@octokit/rest").RestEndpointMethodTypes["actions"]["listWorkflowRuns"]["response"]["data"]["workflow_runs"][number];
 
+/** Issue payload returned when listing repository issues. */
+type RepoIssue =
+	import("@octokit/rest").RestEndpointMethodTypes["issues"]["listForRepo"]["response"]["data"][number];
+
 /** Contract implemented by each GitHub/feed fetcher in this repo. */
 interface IDataFetcher<T> {
 	fetch(): Promise<T>;

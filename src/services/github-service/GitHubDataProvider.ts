@@ -1,6 +1,7 @@
 import { Octokit } from "@octokit/rest";
 import { EventFetcher } from "./EventFetcher";
 import { GitHubService } from "./GitHubService";
+import { HelpWantedIssueFetcher } from "./HelpWantedIssueFetcher";
 import { ProfileFetcher } from "./ProfileFetcher";
 import { RepositoryFetcher } from "./RepositoryFetcher";
 import { UserStatsFetcher } from "./UserStatsFetcher";
@@ -28,6 +29,18 @@ export class GitHubDataProvider {
 	/** Pulls the user's recent public GitHub events (paginated). */
 	async fetchEvents(): Promise<GitHubEvent[]> {
 		const fetcher = new EventFetcher(this.service, this.octokit);
+		return fetcher.fetch();
+	}
+
+	/** Returns open help wanted issues from the user's public repositories. */
+	async fetchHelpWantedIssues(
+		reposData: Promise<Repository[]>,
+	): Promise<RepoIssue[]> {
+		const fetcher = new HelpWantedIssueFetcher(
+			this.service,
+			this.octokit,
+			reposData,
+		);
 		return fetcher.fetch();
 	}
 
