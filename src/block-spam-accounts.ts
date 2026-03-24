@@ -186,23 +186,41 @@ async function fetchProfiles(
 	const profiles: GitHubProfile[] = [];
 
 	for (const loginChunk of chunkArray(logins, PROFILE_CHUNK_SIZE)) {
-		const queryFields = loginChunk
-			.map(
-				(login, index) =>
-					`user${index}: user(login: ${JSON.stringify(login)}) { login name bio company location websiteUrl twitterUsername }`,
-			)
-			.join("\n");
+		const profileResults = await Promise.all(
+			loginChunk.map(async (login) => {
+				try {
+					const { data } = await octokit.rest.users.getByUsername({
+						username: login,
+					});
 
-		const response = await octokit.graphql<
-			Record<string, GitHubProfile | null>
-		>(`query {\n${queryFields}\n}`);
+					return {
+						login: data.login,
+						name: data.name,
+						bio: data.bio,
+						company: "company" in data ? data.company : null,
+						location: data.location,
+						websiteUrl: data.blog || null,
+						twitterUsername: data.twitter_username ?? null,
+					} satisfies GitHubProfile;
+				} catch (error) {
+					const status = getErrorStatus(error);
 
-		for (const profile of Object.values(response)) {
-			if (!profile) {
-				continue;
+					if (status === 404) {
+						console.warn(
+							`Could not fetch profile details for @${login}. Skipping this account.`,
+						);
+						return null;
+					}
+
+					throw error;
+				}
+			}),
+		);
+
+		for (const profile of profileResults) {
+			if (profile) {
+				profiles.push(profile);
 			}
-
-			profiles.push(profile);
 		}
 	}
 
