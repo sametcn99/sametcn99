@@ -26,6 +26,11 @@ type SpamKeyword = {
 	normalized: string;
 };
 
+type SpamRule = {
+	reason: string;
+	regex: RegExp;
+};
+
 const DEFAULT_DELAY_MS = 750;
 const PROFILE_CHUNK_SIZE = 20;
 const RAW_SPAM_KEYWORDS = [
@@ -102,10 +107,78 @@ function normalizeText(value: string): string {
 		.trim();
 }
 
+function escapeRegExp(value: string): string {
+	return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function createPhraseRule(keyword: SpamKeyword): SpamRule {
+	const phrasePattern = keyword.normalized
+		.split(" ")
+		.map((part) => escapeRegExp(part))
+		.join("\\s+");
+
+	return {
+		reason: keyword.original,
+		regex: new RegExp(`(?:^|\\s)${phrasePattern}(?:$|\\s)`, "i"),
+	};
+}
+
 const SPAM_KEYWORDS: SpamKeyword[] = RAW_SPAM_KEYWORDS.map((keyword) => ({
 	original: keyword,
 	normalized: normalizeText(keyword),
 }));
+
+const SPAM_RULES: SpamRule[] = [
+	...SPAM_KEYWORDS.map((keyword) => createPhraseRule(keyword)),
+	{
+		reason: "follow main",
+		regex: /\bfollow\s+(?:my\s+)?main\b/i,
+	},
+	{
+		reason: "main account mention",
+		regex: /\b(?:my\s+)?main\s+@[a-z\d-]+\b/i,
+	},
+	{
+		reason: "spam account variant",
+		regex: /\bspam\s+(?:acc|account|follower|followers|follow|following|follow(?:ing)?\s+account)\b/i,
+	},
+	{
+		reason: "block if variant",
+		regex: /\bblock\s+if\s+(?:you\s+want|unwanted|you\s+uncomfortable|you\s+are\s+uncomfortable|you\s+find\s+this\s+account\s+annoying)\b/i,
+	},
+	{
+		reason: "block permanent",
+		regex: /\bblock\s+permanent(?:ly)?\b/i,
+	},
+	{
+		reason: "sb to remove",
+		regex: /\bsb\s+to\s+remove\b/i,
+	},
+	{
+		reason: "remove me variant",
+		regex: /\b(?:remove|unfollow)\s+me\b/i,
+	},
+	{
+		reason: "check my repos",
+		regex: /\bcheck\s+my\s+(?:repo|repos|repository|repositories)\b/i,
+	},
+	{
+		reason: "star my repos",
+		regex: /\b(?:please\s+)?(?:kindly\s+)?(?:star|give\s+me\s+star|give\s+me\s+stars)\b.*\b(?:repo|repos|repository|repositories)\b/i,
+	},
+	{
+		reason: "follow for follow",
+		regex: /\b(?:if\s+(?:u|you)\s+follow\s+me.*follow\s+(?:u|you)(?:\s+2|\s+too|\s+back)?|follow\s+me.*follow\s+(?:you|u)\s+back)\b/i,
+	},
+	{
+		reason: "please follow",
+		regex: /\bplease\s+follow(?:\s+and\s+give\s+me\s+star)?\b/i,
+	},
+	{
+		reason: "spam remove notice",
+		regex: /\b(?:spam\s+following|spam\s+follower)\b.*\b(?:remove|sb\s+to\s+remove)\b/i,
+	},
+];
 
 function buildNormalizedProfileDetails(profile: GitHubProfile): string {
 	return [
@@ -257,14 +330,19 @@ function detectSpamProfiles(profiles: GitHubProfile[]): SpamDetection[] {
 
 	for (const profile of profiles) {
 		const mergedProfileDetails = buildNormalizedProfileDetails(profile);
+		const matchedReasonSet = new Set<string>();
 
-		const matchedReasons = SPAM_KEYWORDS.filter((keyword) => mergedProfileDetails.includes(keyword.normalized)).map(
-			(keyword) => keyword.original,
-		);
+		for (const rule of SPAM_RULES) {
+			if (rule.regex.test(mergedProfileDetails)) {
+				matchedReasonSet.add(rule.reason);
+			}
+		}
 
 		if (MAIN_ACCOUNT_PATTERN.test(mergedProfileDetails)) {
-			matchedReasons.push("main: @...");
+			matchedReasonSet.add("main: @...");
 		}
+
+		const matchedReasons = [...matchedReasonSet];
 
 		if (matchedReasons.length === 0) {
 			continue;
