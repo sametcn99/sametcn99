@@ -115,15 +115,22 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [badursun/terlik.js](https://github.com/badursun/terlik.js)** _(Mar 24, 2026)_
+- **Starred [neondatabase/neon](https://github.com/neondatabase/neon)** _(Mar 24, 2026)_
+- **Starred [directus/directus](https://github.com/directus/directus)** _(Mar 24, 2026)_
+- **Starred [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)** _(Mar 24, 2026)_
+- **Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)** _(Mar 24, 2026)_
+
+<details>
+  <summary>Show 51 more starred repositories...</summary>
+
+- **Starred [uwaserver/uwas](https://github.com/uwaserver/uwas)** _(Mar 24, 2026)_
+- **Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** _(Mar 24, 2026)_
 - **Starred [nestjs/nestjs.com](https://github.com/nestjs/nestjs.com)** _(Mar 24, 2026)_
 - **Starred [k-eren-k/SBViewer](https://github.com/k-eren-k/SBViewer)** _(Mar 23, 2026)_
 - **Starred [greensock/react](https://github.com/greensock/react)** _(Mar 22, 2026)_
 - **Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)** _(Mar 22, 2026)_
 - **Starred [muhammetdag/ParadiseSteamLibrary](https://github.com/muhammetdag/ParadiseSteamLibrary)** _(Mar 21, 2026)_
-
-<details>
-  <summary>Show 46 more starred repositories...</summary>
-
 - **Starred [dashersw/gea](https://github.com/dashersw/gea)** _(Mar 19, 2026)_
 - **Starred [Megabit/Blazorise](https://github.com/Megabit/Blazorise)** _(Mar 18, 2026)_
 - **Starred [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor)** _(Mar 18, 2026)_
@@ -168,8 +175,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
 - **Starred [DovieW/windows-is-awesome-actually](https://github.com/DovieW/windows-is-awesome-actually)** _(Feb 27, 2026)_
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
-- **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
-- **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
 
 </details>
 
@@ -182,7 +187,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 
 <details>
-  <summary>Show 20 more other activity...</summary>
+  <summary>Show 19 more other activity...</summary>
 
 - **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
@@ -203,7 +208,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Labeled issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 26, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 
 </details>
 
@@ -234,10 +238,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 24, 2026_<br />No description provided.
 
