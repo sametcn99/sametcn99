@@ -39,13 +39,20 @@ const RAW_SPAM_KEYWORDS = [
 	"block if you uncomfortable",
 	"give me stars to my repositories and back to your repositories",
 	"following people for fun, I'm not some creep.",
+	"Check my repository I am sure you will find interesting projects etc and kindly star the repos",
+	"block permanent",
+	"block if you find this account annoying",
+	"block permanently",
+	"Check my repos",
+	"Check my repositories",
+	"if u follow me, i will follow u 2",
+	"follow me and i will follow you back",
+	"Please follow and give me star.",
+	"Please follow",
 ] as const;
 const MAIN_ACCOUNT_PATTERN = /\bmain\s*:\s*@[a-z\d-]+\b/i;
 
-function parseBoolean(
-	value: string | undefined,
-	defaultValue: boolean,
-): boolean {
+function parseBoolean(value: string | undefined, defaultValue: boolean): boolean {
 	if (value === undefined) {
 		return defaultValue;
 	}
@@ -117,22 +124,14 @@ function buildNormalizedProfileDetails(profile: GitHubProfile): string {
 }
 
 function getErrorStatus(error: unknown): number | null {
-	if (
-		typeof error === "object" &&
-		error !== null &&
-		"status" in error &&
-		typeof error.status === "number"
-	) {
+	if (typeof error === "object" && error !== null && "status" in error && typeof error.status === "number") {
 		return error.status;
 	}
 
 	return null;
 }
 
-function getHeaderValue(
-	headers: Record<string, string | number | string[] | undefined>,
-	name: string,
-): string | null {
+function getHeaderValue(headers: Record<string, string | number | string[] | undefined>, name: string): string | null {
 	const headerValue = headers[name];
 
 	if (typeof headerValue === "string") {
@@ -150,10 +149,7 @@ function getHeaderValue(
 	return null;
 }
 
-function validateClassicTokenScopes(
-	isDryRun: boolean,
-	oauthScopes: string | null,
-): void {
+function validateClassicTokenScopes(isDryRun: boolean, oauthScopes: string | null): void {
 	if (isDryRun || !oauthScopes) {
 		return;
 	}
@@ -173,12 +169,9 @@ function validateClassicTokenScopes(
 }
 
 async function fetchFollowers(octokit: Octokit): Promise<GitHubAccount[]> {
-	const followers = await octokit.paginate(
-		octokit.rest.users.listFollowersForAuthenticatedUser,
-		{
-			per_page: 100,
-		},
-	);
+	const followers = await octokit.paginate(octokit.rest.users.listFollowersForAuthenticatedUser, {
+		per_page: 100,
+	});
 
 	return followers.map((user) => ({
 		login: user.login,
@@ -186,12 +179,9 @@ async function fetchFollowers(octokit: Octokit): Promise<GitHubAccount[]> {
 }
 
 async function fetchFollowing(octokit: Octokit): Promise<GitHubAccount[]> {
-	const following = await octokit.paginate(
-		octokit.rest.users.listFollowedByAuthenticatedUser,
-		{
-			per_page: 100,
-		},
-	);
+	const following = await octokit.paginate(octokit.rest.users.listFollowedByAuthenticatedUser, {
+		per_page: 100,
+	});
 
 	return following.map((user) => ({
 		login: user.login,
@@ -200,12 +190,9 @@ async function fetchFollowing(octokit: Octokit): Promise<GitHubAccount[]> {
 
 async function fetchBlockedLogins(octokit: Octokit): Promise<Set<string>> {
 	try {
-		const blockedUsers = await octokit.paginate(
-			octokit.rest.users.listBlockedByAuthenticatedUser,
-			{
-				per_page: 100,
-			},
-		);
+		const blockedUsers = await octokit.paginate(octokit.rest.users.listBlockedByAuthenticatedUser, {
+			per_page: 100,
+		});
 
 		return new Set(blockedUsers.map((user) => user.login));
 	} catch (error) {
@@ -222,10 +209,7 @@ async function fetchBlockedLogins(octokit: Octokit): Promise<Set<string>> {
 	}
 }
 
-async function fetchProfiles(
-	octokit: Octokit,
-	logins: string[],
-): Promise<GitHubProfile[]> {
+async function fetchProfiles(octokit: Octokit, logins: string[]): Promise<GitHubProfile[]> {
 	const profiles: GitHubProfile[] = [];
 
 	for (const loginChunk of chunkArray(logins, PROFILE_CHUNK_SIZE)) {
@@ -249,9 +233,7 @@ async function fetchProfiles(
 					const status = getErrorStatus(error);
 
 					if (status === 404) {
-						console.warn(
-							`Could not fetch profile details for @${login}. Skipping this account.`,
-						);
+						console.warn(`Could not fetch profile details for @${login}. Skipping this account.`);
 						return null;
 					}
 
@@ -276,9 +258,9 @@ function detectSpamProfiles(profiles: GitHubProfile[]): SpamDetection[] {
 	for (const profile of profiles) {
 		const mergedProfileDetails = buildNormalizedProfileDetails(profile);
 
-		const matchedReasons = SPAM_KEYWORDS.filter((keyword) =>
-			mergedProfileDetails.includes(keyword.normalized),
-		).map((keyword) => keyword.original);
+		const matchedReasons = SPAM_KEYWORDS.filter((keyword) => mergedProfileDetails.includes(keyword.normalized)).map(
+			(keyword) => keyword.original,
+		);
 
 		if (MAIN_ACCOUNT_PATTERN.test(mergedProfileDetails)) {
 			matchedReasons.push("main: @...");
@@ -298,24 +280,17 @@ function detectSpamProfiles(profiles: GitHubProfile[]): SpamDetection[] {
 }
 
 async function main(): Promise<void> {
-	const token =
-		process.env.FOLLOW_BACK_TOKEN ||
-		process.env.GITHUB_TOKEN ||
-		process.env.GH_TOKEN;
+	const token = process.env.FOLLOW_BACK_TOKEN || process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 
 	if (!token) {
-		throw new Error(
-			"Missing token. Set FOLLOW_BACK_TOKEN, GITHUB_TOKEN, or GH_TOKEN.",
-		);
+		throw new Error("Missing token. Set FOLLOW_BACK_TOKEN, GITHUB_TOKEN, or GH_TOKEN.");
 	}
 
 	const octokit = new Octokit({ auth: token });
 	const isDryRun = parseBoolean(process.env.DRY_RUN, false);
-	const delayMs =
-		parsePositiveInteger(process.env.BLOCK_DELAY_MS) ?? DEFAULT_DELAY_MS;
+	const delayMs = parsePositiveInteger(process.env.BLOCK_DELAY_MS) ?? DEFAULT_DELAY_MS;
 
-	const { data: authenticatedUser, headers } =
-		await octokit.rest.users.getAuthenticated();
+	const { data: authenticatedUser, headers } = await octokit.rest.users.getAuthenticated();
 	const oauthScopes = getHeaderValue(headers, "x-oauth-scopes");
 
 	validateClassicTokenScopes(isDryRun, oauthScopes);
@@ -333,9 +308,7 @@ async function main(): Promise<void> {
 		.map((account) => account.login)
 		.filter(
 			(login, index, logins) =>
-				login !== authenticatedUser.login &&
-				!blockedLogins.has(login) &&
-				logins.indexOf(login) === index,
+				login !== authenticatedUser.login && !blockedLogins.has(login) && logins.indexOf(login) === index,
 		);
 
 	console.log(
@@ -350,9 +323,7 @@ async function main(): Promise<void> {
 	const profiles = await fetchProfiles(octokit, candidateLogins);
 	const spamDetections = detectSpamProfiles(profiles);
 
-	console.log(
-		`Detected ${spamDetections.length} spam account(s) after profile inspection.`,
-	);
+	console.log(`Detected ${spamDetections.length} spam account(s) after profile inspection.`);
 
 	if (spamDetections.length === 0) {
 		console.log("No spam accounts detected.");
@@ -361,9 +332,7 @@ async function main(): Promise<void> {
 
 	console.log("The following users will be blocked:");
 	for (const detection of spamDetections) {
-		console.log(
-			`- @${detection.profile.login} (${detection.matchedReasons.join(", ")})`,
-		);
+		console.log(`- @${detection.profile.login} (${detection.matchedReasons.join(", ")})`);
 	}
 
 	if (isDryRun) {
