@@ -116,6 +116,19 @@ function buildNormalizedProfileDetails(profile: GitHubProfile): string {
 		.join(" ");
 }
 
+function getErrorStatus(error: unknown): number | null {
+	if (
+		typeof error === "object" &&
+		error !== null &&
+		"status" in error &&
+		typeof error.status === "number"
+	) {
+		return error.status;
+	}
+
+	return null;
+}
+
 async function fetchFollowers(octokit: Octokit): Promise<GitHubAccount[]> {
 	const followers = await octokit.paginate(
 		octokit.rest.users.listFollowersForAuthenticatedUser,
@@ -143,14 +156,27 @@ async function fetchFollowing(octokit: Octokit): Promise<GitHubAccount[]> {
 }
 
 async function fetchBlockedLogins(octokit: Octokit): Promise<Set<string>> {
-	const blockedUsers = await octokit.paginate(
-		octokit.rest.users.listBlockedByAuthenticatedUser,
-		{
-			per_page: 100,
-		},
-	);
+	try {
+		const blockedUsers = await octokit.paginate(
+			octokit.rest.users.listBlockedByAuthenticatedUser,
+			{
+				per_page: 100,
+			},
+		);
 
-	return new Set(blockedUsers.map((user) => user.login));
+		return new Set(blockedUsers.map((user) => user.login));
+	} catch (error) {
+		const status = getErrorStatus(error);
+
+		if (status === 403 || status === 404) {
+			console.warn(
+				"Could not read the authenticated user's block list. Continuing without blocked-user deduplication. Check token permissions if you want this optimization.",
+			);
+			return new Set<string>();
+		}
+
+		throw error;
+	}
 }
 
 async function fetchProfiles(
