@@ -1,31 +1,22 @@
-name: Auto Follow Back Followers
+name: Block Spam Accounts
 
 on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: Run without following anyone
+        description: Run without blocking anyone
         required: false
         default: true
         type: boolean
-      follow_back_limit:
-        description: Optional limit for manual runs
-        required: false
-        default: ''
-        type: string
-  workflow_run:
-    workflows:
-      - Block Spam Accounts
-    types:
-      - completed
+  schedule:
+    - cron: '0 7 * * *'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  follow-back:
-    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'schedule')
+  block-spam-accounts:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
@@ -50,19 +41,18 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
-      - name: Validate follow-back token
+      - name: Validate automation token
         env:
           FOLLOW_BACK_TOKEN: ${{ secrets.FOLLOW_BACK_TOKEN }}
         run: |
           if [ -z "$FOLLOW_BACK_TOKEN" ]; then
             echo "Missing repository secret: FOLLOW_BACK_TOKEN"
-            echo "Use a classic PAT with user:follow or a fine-grained PAT with Followers: write."
+            echo "Use a classic PAT with user scope support for blocking/following, or a fine-grained PAT with Followers: write and Block another user: write."
             exit 1
           fi
 
-      - name: Follow back new followers
+      - name: Detect and block spam accounts
         env:
           FOLLOW_BACK_TOKEN: ${{ secrets.FOLLOW_BACK_TOKEN }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
-          FOLLOW_BACK_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.follow_back_limit || '' }}
-        run: bun run follow-back
+        run: bun run block-spam-accounts

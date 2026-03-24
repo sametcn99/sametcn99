@@ -1,6 +1,7 @@
 {
 	"scripts": {
 		"start": "bun run src/index.ts",
+		"block-spam-accounts": "bun run src/block-spam-accounts.ts",
 		"follow-back": "bun run src/follow-back.ts",
 		"format": "bunx biome format --write && bunx prettier --write README.md",
 		"lint": "bunx biome lint --write",
