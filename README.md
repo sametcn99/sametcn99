@@ -115,15 +115,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [nestjs/nestjs.com](https://github.com/nestjs/nestjs.com)** _(Mar 24, 2026)_
 - **Starred [k-eren-k/SBViewer](https://github.com/k-eren-k/SBViewer)** _(Mar 23, 2026)_
 - **Starred [greensock/react](https://github.com/greensock/react)** _(Mar 22, 2026)_
 - **Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)** _(Mar 22, 2026)_
 - **Starred [muhammetdag/ParadiseSteamLibrary](https://github.com/muhammetdag/ParadiseSteamLibrary)** _(Mar 21, 2026)_
-- **Starred [dashersw/gea](https://github.com/dashersw/gea)** _(Mar 19, 2026)_
 
 <details>
   <summary>Show 46 more starred repositories...</summary>
 
+- **Starred [dashersw/gea](https://github.com/dashersw/gea)** _(Mar 19, 2026)_
 - **Starred [Megabit/Blazorise](https://github.com/Megabit/Blazorise)** _(Mar 18, 2026)_
 - **Starred [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor)** _(Mar 18, 2026)_
 - **Starred [TamerSarioglu/Resume-Architect](https://github.com/TamerSarioglu/Resume-Architect)** _(Mar 18, 2026)_
@@ -169,7 +170,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 - **Starred [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Feb 25, 2026)_
 - **Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)** _(Feb 25, 2026)_
-- **Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** _(Feb 25, 2026)_
 
 </details>
 
@@ -235,12 +235,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 24, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 23, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -273,7 +273,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 23, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
