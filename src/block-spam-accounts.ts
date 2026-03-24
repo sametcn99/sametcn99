@@ -129,6 +129,49 @@ function getErrorStatus(error: unknown): number | null {
 	return null;
 }
 
+function getHeaderValue(
+	headers: Record<string, string | number | string[] | undefined>,
+	name: string,
+): string | null {
+	const headerValue = headers[name];
+
+	if (typeof headerValue === "string") {
+		return headerValue;
+	}
+
+	if (typeof headerValue === "number") {
+		return String(headerValue);
+	}
+
+	if (Array.isArray(headerValue)) {
+		return headerValue.join(", ");
+	}
+
+	return null;
+}
+
+function validateClassicTokenScopes(
+	isDryRun: boolean,
+	oauthScopes: string | null,
+): void {
+	if (isDryRun || !oauthScopes) {
+		return;
+	}
+
+	const normalizedScopes = oauthScopes
+		.split(",")
+		.map((scope) => scope.trim().toLowerCase())
+		.filter((scope) => scope.length > 0);
+
+	if (normalizedScopes.includes("user")) {
+		return;
+	}
+
+	throw new Error(
+		`The current token advertises OAuth scopes: ${oauthScopes}. Blocking users requires a classic PAT with the user scope, or a fine-grained PAT with Block another user: write. A token with only user:follow can detect spam accounts but cannot block them.`,
+	);
+}
+
 async function fetchFollowers(octokit: Octokit): Promise<GitHubAccount[]> {
 	const followers = await octokit.paginate(
 		octokit.rest.users.listFollowersForAuthenticatedUser,
@@ -271,8 +314,11 @@ async function main(): Promise<void> {
 	const delayMs =
 		parsePositiveInteger(process.env.BLOCK_DELAY_MS) ?? DEFAULT_DELAY_MS;
 
-	const { data: authenticatedUser } =
+	const { data: authenticatedUser, headers } =
 		await octokit.rest.users.getAuthenticated();
+	const oauthScopes = getHeaderValue(headers, "x-oauth-scopes");
+
+	validateClassicTokenScopes(isDryRun, oauthScopes);
 
 	console.log(`Authenticated as @${authenticatedUser.login}`);
 	console.log(`Options: dryRun=${isDryRun}, delayMs=${delayMs}`);
@@ -326,7 +372,20 @@ async function main(): Promise<void> {
 	}
 
 	for (const detection of spamDetections) {
-		await octokit.rest.users.block({ username: detection.profile.login });
+		try {
+			await octokit.rest.users.block({ username: detection.profile.login });
+		} catch (error) {
+			const status = getErrorStatus(error);
+
+			if (status === 403 || status === 404) {
+				throw new Error(
+					`The token cannot block @${detection.profile.login}. Blocking users requires a classic PAT with the user scope, or a fine-grained PAT with Block another user: write. user:follow alone is not sufficient.`,
+				);
+			}
+
+			throw error;
+		}
+
 		console.log(`Blocked @${detection.profile.login}`);
 		await sleep(delayMs);
 	}

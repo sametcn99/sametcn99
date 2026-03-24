@@ -47,7 +47,7 @@ jobs:
         run: |
           if [ -z "$FOLLOW_BACK_TOKEN" ]; then
             echo "Missing repository secret: FOLLOW_BACK_TOKEN"
-            echo "Use a classic PAT with user scope support for blocking/following, or a fine-grained PAT with Followers: write and Block another user: write."
+            echo "Use a classic PAT with the user scope for blocking/following, or a fine-grained PAT with Followers: write and Block another user: write. user:follow alone is not sufficient."
             exit 1
           fi
 
