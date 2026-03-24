@@ -182,7 +182,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 
 <details>
-  <summary>Show 21 more other activity...</summary>
+  <summary>Show 20 more other activity...</summary>
 
 - **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
@@ -204,7 +204,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Labeled issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 26, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
-- **Opened issue [#2](https://github.com/sametcn99/HTWind/issues/2) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 25, 2026)_
 
 </details>
 
