@@ -219,7 +219,7 @@ If you landed here while looking for something to contribute, these are the issu
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 206                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -234,10 +234,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+- [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 24, 2026_<br />No description provided.
 
