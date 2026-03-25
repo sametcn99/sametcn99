@@ -115,15 +115,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [plantuml/plantuml](https://github.com/plantuml/plantuml)** _(Mar 25, 2026)_
+- **Starred [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 25, 2026)_
 - **Starred [badursun/terlik.js](https://github.com/badursun/terlik.js)** _(Mar 24, 2026)_
 - **Starred [neondatabase/neon](https://github.com/neondatabase/neon)** _(Mar 24, 2026)_
 - **Starred [directus/directus](https://github.com/directus/directus)** _(Mar 24, 2026)_
-- **Starred [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)** _(Mar 24, 2026)_
-- **Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)** _(Mar 24, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
+- **Starred [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)** _(Mar 24, 2026)_
+- **Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)** _(Mar 24, 2026)_
 - **Starred [uwaserver/uwas](https://github.com/uwaserver/uwas)** _(Mar 24, 2026)_
 - **Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** _(Mar 24, 2026)_
 - **Starred [nestjs/nestjs.com](https://github.com/nestjs/nestjs.com)** _(Mar 24, 2026)_
@@ -174,7 +176,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Endoplazmikmitokondri/PrintStock](https://github.com/Endoplazmikmitokondri/PrintStock)** _(Feb 28, 2026)_
 - **Starred [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Feb 28, 2026)_
 - **Starred [DovieW/windows-is-awesome-actually](https://github.com/DovieW/windows-is-awesome-actually)** _(Feb 27, 2026)_
-- **Starred [sametcn99/product-planning-copilot](https://github.com/sametcn99/product-planning-copilot)** _(Feb 26, 2026)_
 
 </details>
 
@@ -223,7 +224,7 @@ If you landed here while looking for something to contribute, these are the issu
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 207                                     |
+| **Total Stars Earned:**    | 208                                     |
 | **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
@@ -239,12 +240,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) ★1 -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 25, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 25, 2026_<br />No description provided.
-- [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 24, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 
 ### Active Repositories
 
@@ -304,6 +305,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) ★1 -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 25, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
@@ -350,8 +353,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 25, 2026_<br />No description provided.
-- [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 24, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 - [**KayraExportCase**](https://sametcc.me/repo/KayraExportCase) -
