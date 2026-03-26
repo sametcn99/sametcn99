@@ -239,12 +239,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://sametcc.me/repo/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 26, 2026_<br />No description provided.
 - [**MicroServiceLearn**](https://sametcc.me/repo/MicroServiceLearn) -
   C#<br />_Created: Mar 25, 2026 • Updated: Mar 25, 2026_<br />learning repo
 - [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) ★1 -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 25, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -350,10 +350,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
 - [**ResumeBuilderMAUI**](https://sametcc.me/repo/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**apps**](https://sametcc.me/repo/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 26, 2026_<br />No description provided.
 - [**MicroServiceLearn**](https://sametcc.me/repo/MicroServiceLearn) -
   C#<br />_Created: Mar 25, 2026 • Updated: Mar 25, 2026_<br />learning repo
-- [**apps**](https://sametcc.me/repo/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 25, 2026_<br />No description provided.
 - [**ArcDrop**](https://sametcc.me/repo/ArcDrop) -
   C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 - [**htwind-lain-aesthetic-widget-pack**](https://sametcc.me/repo/htwind-lain-aesthetic-widget-pack) -
