@@ -115,15 +115,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api)** _(Mar 26, 2026)_
 - **Starred [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)** _(Mar 25, 2026)_
 - **Starred [plantuml/plantuml](https://github.com/plantuml/plantuml)** _(Mar 25, 2026)_
 - **Starred [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 25, 2026)_
 - **Starred [badursun/terlik.js](https://github.com/badursun/terlik.js)** _(Mar 24, 2026)_
-- **Starred [neondatabase/neon](https://github.com/neondatabase/neon)** _(Mar 24, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 54 more starred repositories...</summary>
 
+- **Starred [neondatabase/neon](https://github.com/neondatabase/neon)** _(Mar 24, 2026)_
 - **Starred [directus/directus](https://github.com/directus/directus)** _(Mar 24, 2026)_
 - **Starred [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)** _(Mar 24, 2026)_
 - **Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)** _(Mar 24, 2026)_
