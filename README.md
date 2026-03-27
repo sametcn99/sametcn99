@@ -115,15 +115,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [boltgolt/howdy](https://github.com/boltgolt/howdy)** _(Mar 27, 2026)_
 - **Starred [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api)** _(Mar 26, 2026)_
 - **Starred [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)** _(Mar 25, 2026)_
 - **Starred [plantuml/plantuml](https://github.com/plantuml/plantuml)** _(Mar 25, 2026)_
 - **Starred [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 25, 2026)_
-- **Starred [badursun/terlik.js](https://github.com/badursun/terlik.js)** _(Mar 24, 2026)_
 
 <details>
-  <summary>Show 54 more starred repositories...</summary>
+  <summary>Show 55 more starred repositories...</summary>
 
+- **Starred [badursun/terlik.js](https://github.com/badursun/terlik.js)** _(Mar 24, 2026)_
 - **Starred [neondatabase/neon](https://github.com/neondatabase/neon)** _(Mar 24, 2026)_
 - **Starred [directus/directus](https://github.com/directus/directus)** _(Mar 24, 2026)_
 - **Starred [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)** _(Mar 24, 2026)_
@@ -190,7 +191,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
 
 <details>
-  <summary>Show 18 more other activity...</summary>
+  <summary>Show 17 more other activity...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
@@ -209,7 +210,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;main&#x60; in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 - **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
-- **Discussion in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Feb 27, 2026)_
 
 </details>
 
@@ -226,8 +226,8 @@ If you landed here while looking for something to contribute, these are the issu
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 208                                     |
 | **Commits (7d):**          | 20+                                     |
-| **Total Repositories:**    | 61                                      |
-| **Active Repositories:**   | 54                                      |
+| **Total Repositories:**    | 60                                      |
+| **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -261,7 +261,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 48 more repositories...</summary>
+  <summary>Show 47 more repositories...</summary>
 
 - [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 10, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
@@ -269,10 +269,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 18, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**HTWind**](https://sametcc.me/repo/HTWind) ★6 -
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
-- [**HTWind**](https://sametcc.me/repo/HTWind) ★5 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
@@ -331,8 +331,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
-- [**dotfiles**](https://sametcc.me/repo/dotfiles) ★1 -
-  TypeScript<br />_Created: Oct 16, 2025 • Updated: Feb 16, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
 - [**instaloader-api**](https://sametcc.me/repo/instaloader-api) ★1 -
