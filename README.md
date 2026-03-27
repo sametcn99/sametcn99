@@ -240,10 +240,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 27, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 27, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 26, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**MicroServiceLearn**](https://sametcc.me/repo/MicroServiceLearn) -
   C#<br />_Created: Mar 25, 2026 • Updated: Mar 25, 2026_<br />learning repo
 
@@ -306,7 +306,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★1 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 26, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 27, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) ★1 -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 25, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
