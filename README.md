@@ -226,7 +226,7 @@ If you landed here while looking for something to contribute, these are the issu
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 209                                     |
+| **Total Stars Earned:**    | 210                                     |
 | **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
@@ -242,7 +242,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★2 -
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 29, 2026_<br />No description provided.
@@ -279,14 +279,14 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**markdown-file-renamer-web-app**](https://sametcc.me/repo/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
+- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**linkedin-hide-viewed-jobs**](https://sametcc.me/repo/linkedin-hide-viewed-jobs) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**tic-tac-toe**](https://sametcc.me/repo/tic-tac-toe) ★3 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://sametcc.me/repo/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
-- [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**GPVBlazor**](https://sametcc.me/repo/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://sametcc.me/repo/color-img-downloader) ★2 -
