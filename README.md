@@ -116,15 +116,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal-js](https://github.com/fal-ai/fal-js)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal](https://github.com/fal-ai/fal)** _(Mar 29, 2026)_
 - **Starred [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio)** _(Mar 28, 2026)_
 - **Starred [chenglou/pretext](https://github.com/chenglou/pretext)** _(Mar 28, 2026)_
-- **Starred [cobaltdb/cobaltdb](https://github.com/cobaltdb/cobaltdb)** _(Mar 28, 2026)_
 
 <details>
-  <summary>Show 62 more starred repositories...</summary>
+  <summary>Show 63 more starred repositories...</summary>
 
+- **Starred [cobaltdb/cobaltdb](https://github.com/cobaltdb/cobaltdb)** _(Mar 28, 2026)_
 - **Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)** _(Mar 28, 2026)_
 - **Starred [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)** _(Mar 28, 2026)_
 - **Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)** _(Mar 27, 2026)_
