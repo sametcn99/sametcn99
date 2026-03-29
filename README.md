@@ -116,15 +116,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio)** _(Mar 28, 2026)_
+- **Starred [chenglou/pretext](https://github.com/chenglou/pretext)** _(Mar 28, 2026)_
 - **Starred [cobaltdb/cobaltdb](https://github.com/cobaltdb/cobaltdb)** _(Mar 28, 2026)_
 - **Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)** _(Mar 28, 2026)_
 - **Starred [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)** _(Mar 28, 2026)_
-- **Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)** _(Mar 27, 2026)_
-- **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Mar 27, 2026)_
 
 <details>
-  <summary>Show 59 more starred repositories...</summary>
+  <summary>Show 61 more starred repositories...</summary>
 
+- **Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)** _(Mar 27, 2026)_
+- **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Mar 27, 2026)_
 - **Starred [boltgolt/howdy](https://github.com/boltgolt/howdy)** _(Mar 27, 2026)_
 - **Starred [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api)** _(Mar 26, 2026)_
 - **Starred [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)** _(Mar 25, 2026)_
