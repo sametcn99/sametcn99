@@ -13,11 +13,6 @@ on:
         required: false
         default: ''
         type: string
-  workflow_run:
-    workflows:
-      - Block Spam Accounts
-    types:
-      - completed
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
