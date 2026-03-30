@@ -116,15 +116,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** _(Mar 29, 2026)_
 - **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal-js](https://github.com/fal-ai/fal-js)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal](https://github.com/fal-ai/fal)** _(Mar 29, 2026)_
 - **Starred [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio)** _(Mar 28, 2026)_
-- **Starred [chenglou/pretext](https://github.com/chenglou/pretext)** _(Mar 28, 2026)_
 
 <details>
   <summary>Show 63 more starred repositories...</summary>
 
+- **Starred [chenglou/pretext](https://github.com/chenglou/pretext)** _(Mar 28, 2026)_
 - **Starred [cobaltdb/cobaltdb](https://github.com/cobaltdb/cobaltdb)** _(Mar 28, 2026)_
 - **Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)** _(Mar 28, 2026)_
 - **Starred [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)** _(Mar 28, 2026)_
@@ -187,7 +188,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
 - **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
 - **Starred [amd64fox/Uninstall-Spotify](https://github.com/amd64fox/Uninstall-Spotify)** _(Mar 2, 2026)_
-- **Starred [Endoplazmikmitokondri/PrintStock](https://github.com/Endoplazmikmitokondri/PrintStock)** _(Feb 28, 2026)_
 
 </details>
 
