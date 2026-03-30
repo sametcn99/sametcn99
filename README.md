@@ -227,7 +227,7 @@ If you landed here while looking for something to contribute, these are the issu
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 210                                     |
+| **Total Stars Earned:**    | 211                                     |
 | **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
@@ -270,10 +270,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 10, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 - [**nextjs-auth-and-crud-with-supabase**](https://sametcc.me/repo/nextjs-auth-and-crud-with-supabase) ★8 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
+- [**HTWind**](https://sametcc.me/repo/HTWind) ★7 -
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 - [**booking-calendar**](https://sametcc.me/repo/booking-calendar) ★7 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Mar 18, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-- [**HTWind**](https://sametcc.me/repo/HTWind) ★6 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://sametcc.me/repo/github-profile-viewer) ★6 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**reddit-rss-api**](https://sametcc.me/repo/reddit-rss-api) ★4 -
