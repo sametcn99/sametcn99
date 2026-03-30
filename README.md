@@ -115,15 +115,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [anthropics/skills](https://github.com/anthropics/skills)** _(Mar 30, 2026)_
 - **Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** _(Mar 29, 2026)_
 - **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal-js](https://github.com/fal-ai/fal-js)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal](https://github.com/fal-ai/fal)** _(Mar 29, 2026)_
-- **Starred [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio)** _(Mar 28, 2026)_
 
 <details>
-  <summary>Show 63 more starred repositories...</summary>
+  <summary>Show 64 more starred repositories...</summary>
 
+- **Starred [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio)** _(Mar 28, 2026)_
 - **Starred [chenglou/pretext](https://github.com/chenglou/pretext)** _(Mar 28, 2026)_
 - **Starred [cobaltdb/cobaltdb](https://github.com/cobaltdb/cobaltdb)** _(Mar 28, 2026)_
 - **Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)** _(Mar 28, 2026)_
@@ -310,6 +311,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
+  TypeScript - [Homepage](https://golter.vercel.app/)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) ★1 -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 29, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**personal-website-blazor**](https://sametcc.me/repo/personal-website-blazor) ★1 -
@@ -330,8 +333,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Apr 19, 2025 • Updated: May 4, 2025_<br />No description provided.
 - [**vitepress-mermaid-renderer-web**](https://sametcc.me/repo/vitepress-mermaid-renderer-web) ★1 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
-- [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
-  TypeScript - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**personal-website**](https://sametcc.me/repo/personal-website) ★1 -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://sametcc.me/repo/orhan-elektronik) ★1 -
