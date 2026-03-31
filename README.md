@@ -115,7 +115,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
-- **Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)** _(Mar 31, 2026)_
+- **Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)** _(Mar 31, 2026)_
 - **Starred [needim/ned.im](https://github.com/needim/ned.im)** _(Mar 30, 2026)_
 - **Starred [go-task/task](https://github.com/go-task/task)** _(Mar 30, 2026)_
 - **Starred [umami-software/umami](https://github.com/umami-software/umami)** _(Mar 30, 2026)_
@@ -204,7 +204,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
 
 <details>
-  <summary>Show 12 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
@@ -214,10 +214,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Mar 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
-- **Created branch &#x60;dev&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 2, 2026)_
-- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
-- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
-- **Opened issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 1, 2026)_
 
 </details>
 
@@ -248,12 +244,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**golter**](https://sametcc.me/repo/golter) ★1 -
+  Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />Terminal-based file converter built with Go
 - [**my-stars-atlas**](https://sametcc.me/repo/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Mar 31, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://sametcc.me/repo/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Mar 31, 2026_<br />No description provided.
-- [**mermaid-viewer**](https://sametcc.me/repo/mermaid-viewer) ★8 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 
 ### Active Repositories
 
@@ -316,7 +312,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**open-on-gpv-crx**](https://sametcc.me/repo/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**golter**](https://sametcc.me/repo/golter) ★1 -
-  Go - [Homepage](https://golter.sametcc.me)<br />_Created: Jan 16, 2026 • Updated: Mar 30, 2026_<br />Terminal-based file converter built with Go
+  Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />Terminal-based file converter built with Go
 - [**golter-web**](https://sametcc.me/repo/golter-web) ★1 -
   TypeScript - [Homepage](https://golter.vercel.app/)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**gh-block-spam-accounts**](https://sametcc.me/repo/gh-block-spam-accounts) ★1 -
