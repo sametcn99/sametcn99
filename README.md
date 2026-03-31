@@ -115,15 +115,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)** _(Mar 31, 2026)_
 - **Starred [needim/ned.im](https://github.com/needim/ned.im)** _(Mar 30, 2026)_
 - **Starred [go-task/task](https://github.com/go-task/task)** _(Mar 30, 2026)_
 - **Starred [umami-software/umami](https://github.com/umami-software/umami)** _(Mar 30, 2026)_
 - **Starred [anthropics/skills](https://github.com/anthropics/skills)** _(Mar 30, 2026)_
-- **Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** _(Mar 29, 2026)_
 
 <details>
-  <summary>Show 67 more starred repositories...</summary>
+  <summary>Show 68 more starred repositories...</summary>
 
+- **Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** _(Mar 29, 2026)_
 - **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal-js](https://github.com/fal-ai/fal-js)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal](https://github.com/fal-ai/fal)** _(Mar 29, 2026)_
