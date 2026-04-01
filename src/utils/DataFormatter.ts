@@ -206,7 +206,7 @@ export class DataFormatter {
 
 		return {
 			name: repo.name,
-			html_url: `https://sametcc.me/repo/${repo.name}`,
+			html_url: repo.html_url,
 			stargazers_count: repo.stargazers_count,
 			language: repo.language,
 			description: repo.description || "No description provided.",
