@@ -1,6 +1,8 @@
 name: Auto Follow Back Followers
 
 on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch:
     inputs:
       dry_run:
@@ -20,7 +22,6 @@ concurrency:
 
 jobs:
   follow-back:
-    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'schedule')
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
