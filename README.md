@@ -120,7 +120,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [anthropics/skills](https://github.com/anthropics/skills)** _(Mar 30, 2026)_
 
 <details>
-  <summary>Show 67 more starred repositories...</summary>
+  <summary>Show 66 more starred repositories...</summary>
 
 - **Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** _(Mar 29, 2026)_
 - **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
@@ -188,7 +188,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
 - **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
 - **Starred [fmhy/edit](https://github.com/fmhy/edit)** _(Mar 3, 2026)_
-- **Starred [mogretici/rn-iconify](https://github.com/mogretici/rn-iconify)** _(Mar 3, 2026)_
 
 </details>
 
