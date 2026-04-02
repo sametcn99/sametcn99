@@ -113,7 +113,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
-- **Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)** _(Mar 31, 2026)_
+- **Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** _(Mar 31, 2026)_
 - **Starred [needim/ned.im](https://github.com/needim/ned.im)** _(Mar 30, 2026)_
 - **Starred [go-task/task](https://github.com/go-task/task)** _(Mar 30, 2026)_
 - **Starred [umami-software/umami](https://github.com/umami-software/umami)** _(Mar 30, 2026)_
@@ -241,10 +241,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 2, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 1, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 1, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) ★1 -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />Terminal-based file converter built with Go
 
@@ -351,7 +351,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) ★1 -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 1, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 2, 2026_<br />No description provided.
 - [**MicroServiceLearn**](https://github.com/sametcn99/MicroServiceLearn) -
   C#<br />_Created: Mar 25, 2026 • Updated: Mar 25, 2026_<br />learning repo
 - [**ArcDrop**](https://github.com/sametcn99/ArcDrop) -
