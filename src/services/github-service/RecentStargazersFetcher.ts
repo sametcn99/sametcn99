@@ -95,7 +95,7 @@ export class RecentStargazersFetcher implements IDataFetcher<RawStargazer[]> {
 				}
 			}
 
-			return deduped.slice(0, 10); // Keep top 10 to be safe, formatter will limit to 5
+			return deduped; // Return all stargazers from the last 2 weeks
 		} catch (error) {
 			console.error("Error fetching recent stargazers:", error);
 			return [];
