@@ -32,14 +32,19 @@ export class RecentStargazersFetcher implements IDataFetcher<RawStargazer[]> {
 						r.stargazers_count &&
 						r.stargazers_count > 0 &&
 						!r.private &&
-						!r.fork,
+						!r.fork &&
+						!r.archived,
 				)
-				.sort((a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0))
-				.slice(0, 10); // Limit to top 10 repos to avoid rate limits
+				.sort((a, b) => {
+					// Pushed at date could be more relevant for recent stars, but let's just process all of them
+					const dateA = new Date(a.pushed_at || 0).getTime();
+					const dateB = new Date(b.pushed_at || 0).getTime();
+					return dateB - dateA;
+				});
 
 			const fetchPromises = activeRepos.map(async (repo) => {
 				try {
-					const perPage = 30;
+					const perPage = 100;
 					const lastPage = Math.ceil((repo.stargazers_count || 1) / perPage);
 
 					// We need the custom header to get the starred_at timestamp
@@ -70,13 +75,14 @@ export class RecentStargazersFetcher implements IDataFetcher<RawStargazer[]> {
 
 			const results = await Promise.all(fetchPromises);
 
-			const twoWeeksAgo = new Date();
-			twoWeeksAgo.setDate(twoWeeksAgo.getDate() - 14);
+			const oneMonthAgo = new Date();
+			oneMonthAgo.setDate(oneMonthAgo.getDate() - 30);
 
 			const allStargazers = results.flat().filter((s) => {
 				if (!s.starred_at || !s.user) return false;
+				if (s.user.login === owner) return false; // Exclude own stars
 				const starDate = new Date(s.starred_at);
-				return starDate >= twoWeeksAgo;
+				return starDate >= oneMonthAgo;
 			});
 
 			// Sort descending by starred_at
