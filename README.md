@@ -114,15 +114,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)** _(Apr 3, 2026)_
+- **Starred [solidjs/solid-docs](https://github.com/solidjs/solid-docs)** _(Apr 3, 2026)_
+- **Starred [solidjs/solid-router](https://github.com/solidjs/solid-router)** _(Apr 3, 2026)_
+- **Starred [solidjs/solid](https://github.com/solidjs/solid)** _(Apr 3, 2026)_
 - **Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)** _(Apr 2, 2026)_
+
+<details>
+  <summary>Show 74 more starred repositories...</summary>
+
 - **Starred [containerd/containerd](https://github.com/containerd/containerd)** _(Apr 2, 2026)_
 - **Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)** _(Apr 2, 2026)_
 - **Starred [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid)** _(Apr 2, 2026)_
 - **Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)** _(Apr 2, 2026)_
-
-<details>
-  <summary>Show 71 more starred repositories...</summary>
-
 - **Starred [vim/vim](https://github.com/vim/vim)** _(Apr 2, 2026)_
 - **Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** _(Apr 2, 2026)_
 - **Starred [needim/ned.im](https://github.com/needim/ned.im)** _(Mar 30, 2026)_
@@ -193,7 +197,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [duxweb/vitepress-theme](https://github.com/duxweb/vitepress-theme)** _(Mar 5, 2026)_
 - **Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** _(Mar 5, 2026)_
 - **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
-- **Starred [microsoft/WSL](https://github.com/microsoft/WSL)** _(Mar 4, 2026)_
 
 </details>
 
