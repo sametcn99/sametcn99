@@ -114,15 +114,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)** _(Apr 3, 2026)_
 - **Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid-docs](https://github.com/solidjs/solid-docs)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid-router](https://github.com/solidjs/solid-router)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid](https://github.com/solidjs/solid)** _(Apr 3, 2026)_
-- **Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)** _(Apr 2, 2026)_
 
 <details>
-  <summary>Show 74 more starred repositories...</summary>
+  <summary>Show 75 more starred repositories...</summary>
 
+- **Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)** _(Apr 2, 2026)_
 - **Starred [containerd/containerd](https://github.com/containerd/containerd)** _(Apr 2, 2026)_
 - **Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)** _(Apr 2, 2026)_
 - **Starred [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid)** _(Apr 2, 2026)_
