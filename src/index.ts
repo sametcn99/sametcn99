@@ -49,6 +49,8 @@ class Application {
 			this.githubProvider.fetchHelpWantedIssues(reposDataPromise);
 		const userProfilePromise = this.githubProvider.fetchProfile();
 		const workflowPromise = this.githubProvider.fetchWorkflow();
+		const stargazersPromise =
+			this.githubProvider.fetchRecentStargazers(reposDataPromise);
 
 		const userStatsPromise = this.githubProvider.fetchUserStats(
 			reposDataPromise,
@@ -63,6 +65,7 @@ class Application {
 			userProfile,
 			workflowData,
 			userStats,
+			stargazers,
 		] = await Promise.all([
 			recentPostsPromise,
 			reposDataPromise,
@@ -71,6 +74,7 @@ class Application {
 			userProfilePromise,
 			workflowPromise,
 			userStatsPromise,
+			stargazersPromise,
 		]);
 
 		if (!userProfile) {
@@ -99,6 +103,7 @@ class Application {
 			stats: userStats,
 			repos: DataFormatter.prepareRepoData(reposData),
 			workflow,
+			stargazers: DataFormatter.prepareRecentStargazersData(stargazers),
 			generatedAt: new Date().toUTCString(),
 		};
 

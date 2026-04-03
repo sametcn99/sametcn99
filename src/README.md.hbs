@@ -53,6 +53,9 @@ activity.others.length)}}
   - [Archived Repositories](#archived-repositories)
   {{/if}}
 {{/if}}
+{{#if stargazers.length}}
+- [Recent Stargazers](#recent-stargazers)
+{{/if}}
 
 ## Tech Stack
 
@@ -312,5 +315,25 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
   {{/each}}
 </details>
 {{/if}}
+{{/if}}
+{{/if}}
+{{#if stargazers.length}}
+
+## Recent Stargazers
+
+Thank you to everyone who starred my repositories! Your support is much appreciated.
+
+{{#each stargazers.visible}}
+- [**@{{username}}**]({{profileUrl}}) starred [**{{repoName}}**]({{repoUrl}}) *({{starredAt}})*
+{{/each}}
+
+{{#if stargazers.hidden.length}}
+<details>
+  <summary>Show {{stargazers.hidden.length}} more stargazers...</summary>
+
+  {{#each stargazers.hidden}}
+  - [**@{{username}}**]({{profileUrl}}) starred [**{{repoName}}**]({{repoUrl}}) *({{starredAt}})*
+  {{/each}}
+</details>
 {{/if}}
 {{/if}}
