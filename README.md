@@ -88,15 +88,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pull Requests
 
+- **Merged pull request [#11](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
+- **Opened pull request [#11](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Merged pull request [#10](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Opened pull request [#10](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Merged pull request [#9](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
-- **Opened pull request [#9](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
-- **Opened pull request [#42](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 16, 2026)_
 
 <details>
-  <summary>Show 4 more pull requests...</summary>
+  <summary>Show 6 more pull requests...</summary>
 
+- **Opened pull request [#9](undefined) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
+- **Opened pull request [#42](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 16, 2026)_
 - **Merged pull request [#21](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 - **Opened pull request [#21](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 - **Merged pull request [#11](undefined) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
@@ -112,7 +114,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 ### Releases
 
 - **Published release [1.0](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.0) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 28, 2026)_
-- **Published release [1.1.14](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/1.1.14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 
 ### Starred Repositories
 
@@ -205,23 +206,22 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/MicroServiceLearn](https://github.com/sametcn99/MicroServiceLearn)** _(Mar 25, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 24, 2026)_
-- **Closed issue [#3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/3) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 
 <details>
-  <summary>Show 8 more other activity...</summary>
+  <summary>Show 7 more other activity...</summary>
 
+- **Closed issue [#3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/3) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Discussion in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 - **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
-- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
-- **Deleted tag &#x60;v1.1.12&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Mar 5, 2026)_
 
 </details>
 
@@ -237,7 +237,7 @@ If you landed here while looking for something to contribute, these are the issu
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 213                                     |
-| **Commits (7d):**          | 10+                                     |
+| **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -252,12 +252,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★2 -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 4, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★7 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 4, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -297,6 +297,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★3 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★2 -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 4, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★2 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) ★2 -
@@ -311,8 +313,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />This is a simple rock-paper-scissors game built with React and Next.js. The game is played against the computer using the React Context.
 - [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) ★2 -
   C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★2 -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Feb 13, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) ★2 -
   JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 - [**catchapage**](https://github.com/sametcn99/catchapage) ★2 -
