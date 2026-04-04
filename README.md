@@ -121,7 +121,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [solidjs/solid](https://github.com/solidjs/solid)** _(Apr 3, 2026)_
 
 <details>
-  <summary>Show 75 more starred repositories...</summary>
+  <summary>Show 74 more starred repositories...</summary>
 
 - **Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)** _(Apr 2, 2026)_
 - **Starred [containerd/containerd](https://github.com/containerd/containerd)** _(Apr 2, 2026)_
@@ -197,7 +197,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [blakegearin/filterboxd](https://github.com/blakegearin/filterboxd)** _(Mar 6, 2026)_
 - **Starred [duxweb/vitepress-theme](https://github.com/duxweb/vitepress-theme)** _(Mar 5, 2026)_
 - **Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** _(Mar 5, 2026)_
-- **Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)** _(Mar 5, 2026)_
 
 </details>
 
