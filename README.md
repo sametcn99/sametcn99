@@ -233,7 +233,7 @@ If you landed here while looking for something to contribute, these are the issu
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 212                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
