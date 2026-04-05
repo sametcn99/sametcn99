@@ -1,6 +1,7 @@
 /// <reference types="bun-types" />
 
 import { Octokit } from "@octokit/rest";
+import { TelegramService } from "./services/telegram-service/TelegramService";
 
 type GitHubAccount = {
 	login: string;
@@ -169,12 +170,20 @@ async function main(): Promise<void> {
 			? followBackCandidates
 			: followBackCandidates.slice(0, limit);
 
+	const telegramService = new TelegramService(
+		process.env.TELEGRAM_BOT_TOKEN,
+		process.env.TELEGRAM_CHAT_ID,
+	);
+
 	console.log(
 		`Found ${followers.length} followers, already following ${followingLogins.size} accounts, ignored ${privateFollowers.length} private user(s), ${followBackCandidates.length} follow-back candidate(s).`,
 	);
 
 	if (selectedFollowers.length === 0) {
 		console.log("No follow-back action required.");
+		if (!isDryRun) {
+			await telegramService.sendFollowMessage([]);
+		}
 		return;
 	}
 
@@ -187,6 +196,8 @@ async function main(): Promise<void> {
 		);
 	}
 
+	const followedAccounts: GitHubAccount[] = [];
+
 	for (const follower of selectedFollowers) {
 		if (isDryRun) {
 			console.log(`[dry-run] Would follow @${follower.login}`);
@@ -195,7 +206,12 @@ async function main(): Promise<void> {
 
 		await octokit.rest.users.follow({ username: follower.login });
 		console.log(`Followed @${follower.login}`);
+		followedAccounts.push(follower);
 		await sleep(delayMs);
+	}
+
+	if (!isDryRun && followedAccounts.length > 0) {
+		await telegramService.sendFollowMessage(followedAccounts);
 	}
 
 	console.log("Follow-back run completed successfully.");

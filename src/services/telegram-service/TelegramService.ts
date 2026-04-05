@@ -88,4 +88,55 @@ export class TelegramService {
 			console.error("Error sending Telegram message:", error);
 		}
 	}
+
+	async sendFollowMessage(
+		followedAccounts: { login: string; type: string }[],
+	): Promise<void> {
+		if (!this.botToken || !this.chatId) {
+			console.log(
+				"Telegram credentials missing (TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID). Skipping notification.",
+			);
+			return;
+		}
+
+		let message = "👥 <b>GitHub Follow-back Update</b> 👥\n\n";
+
+		if (followedAccounts.length === 0) {
+			message +=
+				"✅ Follow-back script executed successfully (No new followers to catch up).\n\n";
+		} else {
+			message += "🤝 <b>New accounts followed:</b>\n";
+			for (const account of followedAccounts) {
+				message += `- <a href="https://github.com/${account.login}">${this.escapeHtml(account.login)}</a> (${this.escapeHtml(account.type)})\n`;
+			}
+			message += "\n";
+		}
+
+		try {
+			const response = await fetch(
+				`https://api.telegram.org/bot${this.botToken}/sendMessage`,
+				{
+					method: "POST",
+					headers: {
+						"Content-Type": "application/json",
+					},
+					body: JSON.stringify({
+						chat_id: this.chatId,
+						text: message,
+						parse_mode: "HTML",
+						disable_web_page_preview: true,
+					}),
+				},
+			);
+
+			if (!response.ok) {
+				const errorText = await response.text();
+				console.error("Failed to send Telegram message:", errorText);
+			} else {
+				console.log("Successfully sent Telegram follow-back notification.");
+			}
+		} catch (error) {
+			console.error("Error sending Telegram message:", error);
+		}
+	}
 }

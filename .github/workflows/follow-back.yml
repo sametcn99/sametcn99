@@ -26,6 +26,8 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: read
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -59,6 +61,8 @@ jobs:
       - name: Follow back new followers
         env:
           FOLLOW_BACK_TOKEN: ${{ secrets.FOLLOW_BACK_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
           FOLLOW_BACK_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.follow_back_limit || '' }}
         run: bun run follow-back
