@@ -6,6 +6,14 @@ export class TelegramService {
 		private readonly chatId?: string,
 	) {}
 
+	private escapeHtml(text?: string): string {
+		if (!text) return "";
+		return text
+			.replace(/&/g, "&amp;")
+			.replace(/</g, "&lt;")
+			.replace(/>/g, "&gt;");
+	}
+
 	async sendChangeMessage(
 		addedStargazers: RawStargazer[],
 		removedStargazers: RawStargazer[],
@@ -18,7 +26,7 @@ export class TelegramService {
 			return;
 		}
 
-		let message = "🌟 *GitHub Profile Update* 🌟\n\n";
+		let message = "🌟 <b>GitHub Profile Update</b> 🌟\n\n";
 
 		if (
 			addedStargazers.length === 0 &&
@@ -30,25 +38,25 @@ export class TelegramService {
 		}
 
 		if (addedStargazers.length > 0) {
-			message += "✅ *New Stargazers:*\n";
+			message += "✅ <b>New Stargazers:</b>\n";
 			for (const stargazer of addedStargazers) {
-				message += `- [${stargazer.user.login}](${stargazer.user.html_url}) on _${stargazer.repo}_\n`;
+				message += `- <a href="${stargazer.user.html_url}">${this.escapeHtml(stargazer.user.login)}</a> on <i>${this.escapeHtml(stargazer.repo)}</i>\n`;
 			}
 			message += "\n";
 		}
 
 		if (removedStargazers.length > 0) {
-			message += "❌ *Removed/Expired Stargazers:*\n";
+			message += "❌ <b>Removed/Expired Stargazers:</b>\n";
 			for (const stargazer of removedStargazers) {
-				message += `- [${stargazer.user.login}](${stargazer.user.html_url}) on _${stargazer.repo}_\n`;
+				message += `- <a href="${stargazer.user.html_url}">${this.escapeHtml(stargazer.user.login)}</a> on <i>${this.escapeHtml(stargazer.repo)}</i>\n`;
 			}
 			message += "\n";
 		}
 
 		if (newIssues.length > 0) {
-			message += "🐛 *New Open Issues:*\n";
+			message += "🐛 <b>New Open Issues:</b>\n";
 			for (const issue of newIssues) {
-				message += `- [${issue.title}](${issue.html_url})\n`;
+				message += `- <a href="${issue.html_url}">${this.escapeHtml(issue.title)}</a>\n`;
 			}
 			message += "\n";
 		}
@@ -64,7 +72,7 @@ export class TelegramService {
 					body: JSON.stringify({
 						chat_id: this.chatId,
 						text: message,
-						parse_mode: "Markdown",
+						parse_mode: "HTML",
 						disable_web_page_preview: true,
 					}),
 				},
