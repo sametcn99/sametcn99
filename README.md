@@ -124,7 +124,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)** _(Apr 3, 2026)_
 
 <details>
-  <summary>Show 74 more starred repositories...</summary>
+  <summary>Show 73 more starred repositories...</summary>
 
 - **Starred [solidjs/solid-docs](https://github.com/solidjs/solid-docs)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid-router](https://github.com/solidjs/solid-router)** _(Apr 3, 2026)_
@@ -199,7 +199,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** _(Mar 7, 2026)_
 - **Starred [nohello-net/site](https://github.com/nohello-net/site)** _(Mar 7, 2026)_
 - **Starred [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)** _(Mar 6, 2026)_
-- **Starred [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork)** _(Mar 6, 2026)_
 
 </details>
 
