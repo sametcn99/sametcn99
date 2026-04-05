@@ -91,7 +91,7 @@ class Application {
 				const readmeContent = await readmeFile.text();
 
 				const stargazerRegex =
-					/- \[\*\*@([^*]+)\*\*\]\(([^)]+)\) starred \[\*\*([^*]+)\*\*\]/g;
+					/- \[\*\*@(.+?)\*\*\]\(([^)]+)\) starred \[\*\*(.+?)\*\*\]/g;
 				let match: RegExpExecArray | null;
 				// biome-ignore lint/suspicious/noAssignInExpressions: standard regex loop
 				while ((match = stargazerRegex.exec(readmeContent)) !== null) {
@@ -107,7 +107,7 @@ class Application {
 				}
 
 				const issueRegex =
-					/- \[\*\*([^*]+)\*\*\]\((https:\/\/github\.com\/[^/]+\/[^/]+\/issues\/\d+)\)/g;
+					/- \[\*\*(.+?)\*\*\]\((https:\/\/github\.com\/[^/]+\/[^/]+\/issues\/\d+)\)/g;
 				// biome-ignore lint/suspicious/noAssignInExpressions: standard regex loop
 				while ((match = issueRegex.exec(readmeContent)) !== null) {
 					previousIssueUrls.add(match[2] ?? "");
