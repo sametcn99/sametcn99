@@ -34,8 +34,14 @@ activity.others.length)}}
   - [Other Activity](#other-activity)
   {{/if}}
 {{/if}}
-{{#if helpWantedIssues.length}}
-- [Open Help Wanted Issues](#open-help-wanted-issues)
+{{#if issues.hasAny}}
+- [Project Issues](#project-issues)
+  {{#if issues.otherOpen.length}}
+  - [Open Issues](#open-issues)
+  {{/if}}
+  {{#if issues.helpWanted.length}}
+  - [Open Help Wanted Issues](#open-help-wanted-issues)
+  {{/if}}
 {{/if}}
 - [GitHub Snapshot](#github-snapshot)
 {{#if repos}}
@@ -195,26 +201,54 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 {{/if}}
 
-{{#if helpWantedIssues.length}}
+{{#if issues.hasAny}}
 
-## Open Help Wanted Issues
+## Project Issues
 
-If you landed here while looking for something to contribute, these are the issues across my repositories where I could use help.
+A quick overview of ongoing discussions, tracked bugs, and feature requests across my public projects.
 
-{{#each helpWantedIssues.visible}}
+{{#if issues.otherOpen.length}}
+### Open Issues
+
+Active issues I am currently tracking or planning to work on.
+
+{{#each issues.otherOpen.visible}}
 - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
 {{/each}}
 
-{{#if helpWantedIssues.hidden.length}}
+{{#if issues.otherOpen.hidden.length}}
 
 <details>
-  <summary>Show {{helpWantedIssues.hidden.length}} more issues...</summary>
+  <summary>Show {{issues.otherOpen.hidden.length}} more open issues...</summary>
 
-  {{#each helpWantedIssues.hidden}}
+  {{#each issues.otherOpen.hidden}}
   - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
   {{/each}}
 </details>
 {{/if}}
+{{/if}}
+
+{{#if issues.helpWanted.length}}
+### Open Help Wanted Issues
+
+If you landed here while looking for something to contribute, these are the issues across my repositories where I could use help.
+
+{{#each issues.helpWanted.visible}}
+- [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+{{/each}}
+
+{{#if issues.helpWanted.hidden.length}}
+
+<details>
+  <summary>Show {{issues.helpWanted.hidden.length}} more issues...</summary>
+
+  {{#each issues.helpWanted.hidden}}
+  - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+  {{/each}}
+</details>
+{{/if}}
+{{/if}}
+
 {{/if}}
 
 ## GitHub Snapshot

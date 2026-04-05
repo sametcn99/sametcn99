@@ -19,8 +19,8 @@ export interface FormattedRepo {
 	homepage?: string | null;
 }
 
-/** Shape used by the template when rendering help wanted issues. */
-export interface FormattedHelpWantedIssue {
+/** Shape used by the template when rendering issues. */
+export interface FormattedIssue {
 	title: string;
 	html_url: string;
 	repositoryName: string;
@@ -168,7 +168,7 @@ export class DataFormatter {
 	}
 
 	/** Converts a repository issue into the data needed by the template. */
-	static formatHelpWantedIssue(issue: RepoIssue): FormattedHelpWantedIssue {
+	static formatIssue(issue: RepoIssue): FormattedIssue {
 		const issueUrl = issue.html_url;
 		const repositoryUrl = issueUrl.replace(/\/issues\/\d+$/, "");
 		const repositoryName = repositoryUrl
@@ -185,20 +185,47 @@ export class DataFormatter {
 		};
 	}
 
-	/** Organizes open help wanted issues into visible and hidden groups. */
-	static prepareHelpWantedIssues(issues: RepoIssue[]): {
-		visible: FormattedHelpWantedIssue[];
-		hidden: FormattedHelpWantedIssue[];
-		length: number;
+	/** Organizes open issues into open and help-wanted groups. */
+	static prepareIssuesData(issues: RepoIssue[]): {
+		helpWanted: {
+			visible: FormattedIssue[];
+			hidden: FormattedIssue[];
+			length: number;
+		};
+		otherOpen: {
+			visible: FormattedIssue[];
+			hidden: FormattedIssue[];
+			length: number;
+		};
+		hasAny: boolean;
 	} {
-		const formattedIssues = issues.map((issue) =>
-			DataFormatter.formatHelpWantedIssue(issue),
+		const helpWantedIssues = issues.filter((i) =>
+			i.labels?.some((l) =>
+				typeof l === "string" ? l === "help wanted" : l.name === "help wanted",
+			),
+		);
+		const otherIssues = issues.filter(
+			(i) =>
+				!i.labels?.some((l) =>
+					typeof l === "string"
+						? l === "help wanted"
+						: l.name === "help wanted",
+				),
 		);
 
+		const formatAndSplit = (list: RepoIssue[]) => {
+			const formatted = list.map((i) => DataFormatter.formatIssue(i));
+			return {
+				visible: formatted.slice(0, 5),
+				hidden: formatted.slice(5),
+				length: formatted.length,
+			};
+		};
+
 		return {
-			visible: formattedIssues.slice(0, 5),
-			hidden: formattedIssues.slice(5),
-			length: formattedIssues.length,
+			helpWanted: formatAndSplit(helpWantedIssues),
+			otherOpen: formatAndSplit(otherIssues),
+			hasAny: issues.length > 0,
 		};
 	}
 

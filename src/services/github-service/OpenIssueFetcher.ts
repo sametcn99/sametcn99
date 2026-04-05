@@ -1,8 +1,8 @@
 import type { Octokit } from "@octokit/rest";
 import type { GitHubService } from "./GitHubService";
 
-/** Collects open help wanted issues from the user's public repositories. */
-export class HelpWantedIssueFetcher implements IDataFetcher<RepoIssue[]> {
+/** Collects all open issues from the user's public repositories. */
+export class OpenIssueFetcher implements IDataFetcher<RepoIssue[]> {
 	/** Shares repository data so public repos do not need to be fetched twice. */
 	constructor(
 		private readonly service: GitHubService,
@@ -11,7 +11,7 @@ export class HelpWantedIssueFetcher implements IDataFetcher<RepoIssue[]> {
 	) {}
 
 	/**
-	 * Loads open issues labeled help wanted from owned public repositories and
+	 * Loads open issues from owned public repositories and
 	 * sorts them by most recently updated.
 	 */
 	async fetch(): Promise<RepoIssue[]> {
@@ -28,7 +28,6 @@ export class HelpWantedIssueFetcher implements IDataFetcher<RepoIssue[]> {
 					owner: repo.owner?.login ?? username,
 					repo: repo.name,
 					state: "open",
-					labels: "help wanted",
 					per_page: 100,
 					sort: "updated",
 					direction: "desc",
@@ -40,10 +39,7 @@ export class HelpWantedIssueFetcher implements IDataFetcher<RepoIssue[]> {
 					),
 				);
 			} catch (error) {
-				console.error(
-					`Error fetching help wanted issues for ${repo.name}:`,
-					error,
-				);
+				console.error(`Error fetching open issues for ${repo.name}:`, error);
 			}
 		}
 

@@ -1,7 +1,7 @@
 import { Octokit } from "@octokit/rest";
 import { EventFetcher } from "./EventFetcher";
 import { GitHubService } from "./GitHubService";
-import { HelpWantedIssueFetcher } from "./HelpWantedIssueFetcher";
+import { OpenIssueFetcher } from "./OpenIssueFetcher";
 import { ProfileFetcher } from "./ProfileFetcher";
 import {
 	type RawStargazer,
@@ -36,15 +36,11 @@ export class GitHubDataProvider {
 		return fetcher.fetch();
 	}
 
-	/** Returns open help wanted issues from the user's public repositories. */
-	async fetchHelpWantedIssues(
+	/** Returns open issues from the user's public repositories. */
+	async fetchOpenIssues(
 		reposData: Promise<Repository[]>,
 	): Promise<RepoIssue[]> {
-		const fetcher = new HelpWantedIssueFetcher(
-			this.service,
-			this.octokit,
-			reposData,
-		);
+		const fetcher = new OpenIssueFetcher(this.service, this.octokit, reposData);
 		return fetcher.fetch();
 	}
 
