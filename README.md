@@ -117,15 +117,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
+- **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
+- **Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** _(Apr 5, 2026)_
 - **Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)** _(Apr 4, 2026)_
 - **Starred [linrunner/TLP](https://github.com/linrunner/TLP)** _(Apr 4, 2026)_
+
+<details>
+  <summary>Show 76 more starred repositories...</summary>
+
 - **Starred [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI)** _(Apr 4, 2026)_
 - **Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)** _(Apr 3, 2026)_
 - **Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)** _(Apr 3, 2026)_
-
-<details>
-  <summary>Show 73 more starred repositories...</summary>
-
 - **Starred [solidjs/solid-docs](https://github.com/solidjs/solid-docs)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid-router](https://github.com/solidjs/solid-router)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid](https://github.com/solidjs/solid)** _(Apr 3, 2026)_
@@ -234,7 +237,7 @@ If you landed here while looking for something to contribute, these are the issu
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 213                                     |
+| **Total Stars Earned:**    | 214                                     |
 | **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
@@ -259,7 +262,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★51 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★52 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 27, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★20 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
@@ -372,7 +375,7 @@ HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted w
 ### Forked Repositories
 
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
-  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: Apr 1, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
+  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: Apr 5, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 - [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) -
   JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 - [**crono-event**](https://github.com/sametcn99/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
@@ -394,15 +397,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thank you to everyone who starred my repositories in the last month! Your support is much appreciated.
 
+- [**@developer239**](https://github.com/developer239) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 5, 2026)_
 - [**@freddymu**](https://github.com/freddymu) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 4, 2026)_
 - [**@dnaka91**](https://github.com/dnaka91) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 2, 2026)_
 - [**@octifakker**](https://github.com/octifakker) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 30, 2026)_
 - [**@faustovo2003-commits**](https://github.com/faustovo2003-commits) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 29, 2026)_
-- [**@Danilarious**](https://github.com/Danilarious) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 28, 2026)_
 
 <details>
   <summary>Show 10 more stargazers...</summary>
 
+- [**@Danilarious**](https://github.com/Danilarious) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 28, 2026)_
 - [**@SiberizmBey**](https://github.com/SiberizmBey) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 27, 2026)_
 - [**@0x596F**](https://github.com/0x596F) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 25, 2026)_
 - [**@RazorSiM**](https://github.com/RazorSiM) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 20, 2026)_
@@ -412,5 +416,4 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@kimatata-brother**](https://github.com/kimatata-brother) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 11, 2026)_
 - [**@OneCreek**](https://github.com/OneCreek) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Mar 7, 2026)_
 - [**@EdANaiR**](https://github.com/EdANaiR) starred [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Mar 7, 2026)_
-- [**@nebajoth**](https://github.com/nebajoth) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Mar 6, 2026)_
 </details>
