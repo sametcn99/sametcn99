@@ -133,15 +133,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)** _(Apr 6, 2026)_
 - **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
 - **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
 - **Starred [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** _(Apr 6, 2026)_
 - **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
-- **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
 
 <details>
-  <summary>Show 71 more starred repositories...</summary>
+  <summary>Show 72 more starred repositories...</summary>
 
+- **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
 - **Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** _(Apr 5, 2026)_
 - **Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)** _(Apr 4, 2026)_
 - **Starred [linrunner/TLP](https://github.com/linrunner/TLP)** _(Apr 4, 2026)_
