@@ -447,10 +447,17 @@ export class DataFormatter {
 			const action = (event.payload as { action?: string }).action;
 			const pr = (
 				event.payload as {
-					pull_request?: { number?: number; html_url?: string };
+					pull_request?: { number?: number; html_url?: string; url?: string };
 				}
 			).pull_request;
-			return `${action?.charAt(0).toUpperCase()}${action?.slice(1)} pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
+			const prUrl =
+				pr?.html_url ||
+				(pr?.url
+					? pr.url
+							.replace("api.github.com/repos", "github.com")
+							.replace("/pulls/", "/pull/")
+					: `${repoUrl}/pull/${pr?.number}`);
+			return `${action?.charAt(0).toUpperCase()}${action?.slice(1)} pull request [#${pr?.number}](${prUrl}) in [${repoName}](${repoUrl})`;
 		}
 		return "";
 	}
@@ -464,10 +471,17 @@ export class DataFormatter {
 		if (event.payload && "pull_request" in event.payload) {
 			const pr = (
 				event.payload as {
-					pull_request?: { number?: number; html_url?: string };
+					pull_request?: { number?: number; html_url?: string; url?: string };
 				}
 			).pull_request;
-			return `Reviewed pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
+			const prUrl =
+				pr?.html_url ||
+				(pr?.url
+					? pr.url
+							.replace("api.github.com/repos", "github.com")
+							.replace("/pulls/", "/pull/")
+					: `${repoUrl}/pull/${pr?.number}`);
+			return `Reviewed pull request [#${pr?.number}](${prUrl}) in [${repoName}](${repoUrl})`;
 		}
 		return "";
 	}
@@ -481,10 +495,17 @@ export class DataFormatter {
 		if (event.payload && "pull_request" in event.payload) {
 			const pr = (
 				event.payload as {
-					pull_request?: { number?: number; html_url?: string };
+					pull_request?: { number?: number; html_url?: string; url?: string };
 				}
 			).pull_request;
-			return `Commented on pull request [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
+			const prUrl =
+				pr?.html_url ||
+				(pr?.url
+					? pr.url
+							.replace("api.github.com/repos", "github.com")
+							.replace("/pulls/", "/pull/")
+					: `${repoUrl}/pull/${pr?.number}`);
+			return `Commented on pull request [#${pr?.number}](${prUrl}) in [${repoName}](${repoUrl})`;
 		}
 		return "";
 	}
