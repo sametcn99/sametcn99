@@ -119,15 +119,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
+- **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
+- **Starred [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** _(Apr 6, 2026)_
 - **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
 - **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
+
+<details>
+  <summary>Show 72 more starred repositories...</summary>
+
 - **Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** _(Apr 5, 2026)_
 - **Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)** _(Apr 4, 2026)_
 - **Starred [linrunner/TLP](https://github.com/linrunner/TLP)** _(Apr 4, 2026)_
-
-<details>
-  <summary>Show 69 more starred repositories...</summary>
-
 - **Starred [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI)** _(Apr 4, 2026)_
 - **Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)** _(Apr 3, 2026)_
 - **Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)** _(Apr 3, 2026)_
@@ -261,12 +264,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 6, 2026_<br />No description provided.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★2 -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 5, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 
 ### Active Repositories
 
@@ -328,6 +331,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) ★1 -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />TUI file converter built with Go
 - [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) ★1 -
@@ -336,8 +341,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://golter.vercel.app/)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) ★1 -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 29, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Mar 29, 2026_<br />No description provided.
 - [**dreamtui**](https://github.com/sametcn99/dreamtui) ★1 -
   TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
 - [**product-planning-copilot**](https://github.com/sametcn99/product-planning-copilot) ★1 -
