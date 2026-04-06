@@ -328,10 +328,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) ★2 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**golter**](https://github.com/sametcn99/golter) ★1 -
+  Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />TUI file converter built with Go
 - [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) ★1 -
   HTML - [Homepage](https://sametcn99.github.io/)<br />_Created: Jan 6, 2024 • Updated: Apr 5, 2026_<br />redirect to personal website
-- [**golter**](https://github.com/sametcn99/golter) ★1 -
-  Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />Terminal-based file converter built with Go
 - [**golter-web**](https://github.com/sametcn99/golter-web) ★1 -
   TypeScript - [Homepage](https://golter.vercel.app/)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) ★1 -
