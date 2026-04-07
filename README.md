@@ -265,12 +265,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 7, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 6, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -332,6 +332,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★1 -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 5, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 7, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
 - [**open-github-dev**](https://github.com/sametcn99/open-github-dev) -
@@ -374,8 +376,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />TUI file converter built with Go
 - [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) -
   HTML - [Homepage](https://sametcn99.github.io/)<br />_Created: Jan 6, 2024 • Updated: Apr 5, 2026_<br />redirect to personal website
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 6, 2026_<br />No description provided.
 - [**MicroServiceLearn**](https://github.com/sametcn99/MicroServiceLearn) -
   C#<br />_Created: Mar 25, 2026 • Updated: Mar 25, 2026_<br />learning repo
 - [**ArcDrop**](https://github.com/sametcn99/ArcDrop) -
