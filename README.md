@@ -133,15 +133,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW)** _(Apr 7, 2026)_
 - **Starred [ashley-ha/goodclaude](https://github.com/ashley-ha/goodclaude)** _(Apr 7, 2026)_
 - **Starred [aygunbayirdev/ECommerceStock](https://github.com/aygunbayirdev/ECommerceStock)** _(Apr 6, 2026)_
 - **Starred [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)** _(Apr 6, 2026)_
 - **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
-- **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
 
 <details>
-  <summary>Show 74 more starred repositories...</summary>
+  <summary>Show 73 more starred repositories...</summary>
 
+- **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
 - **Starred [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** _(Apr 6, 2026)_
 - **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
 - **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
@@ -214,8 +215,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 - **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
 - **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
-- **Starred [f/agentlytics](https://github.com/f/agentlytics)** _(Mar 8, 2026)_
-- **Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)** _(Mar 8, 2026)_
 
 </details>
 
