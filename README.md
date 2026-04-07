@@ -88,7 +88,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 215                                     |
+| **Total Stars Earned:**    | 166                                     |
 | **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
@@ -133,15 +133,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [aygunbayirdev/ECommerceStock](https://github.com/aygunbayirdev/ECommerceStock)** _(Apr 6, 2026)_
 - **Starred [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)** _(Apr 6, 2026)_
 - **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
 - **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
 - **Starred [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** _(Apr 6, 2026)_
-- **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
 
 <details>
-  <summary>Show 72 more starred repositories...</summary>
+  <summary>Show 73 more starred repositories...</summary>
 
+- **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
 - **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
 - **Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** _(Apr 5, 2026)_
 - **Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)** _(Apr 4, 2026)_
@@ -264,115 +265,115 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 6, 2026_<br />No description provided.
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★53 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★52 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Mar 27, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★20 -
+- [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
-- [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★15 -
+- [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★14 -
   C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
-- [**env-protector**](https://github.com/sametcn99/env-protector) ★15 -
+- [**env-protector**](https://github.com/sametcn99/env-protector) ★14 -
   TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector)<br />_Created: Sep 14, 2024 • Updated: Jan 12, 2026_<br />Protect your secrets from being exposed
-- [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template) ★12 -
+- [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template) ★11 -
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
   <summary>Show 47 more repositories...</summary>
 
-- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★8 -
+- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
-- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★7 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-- [**HTWind**](https://github.com/sametcn99/HTWind) ★7 -
+- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★7 -
+  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+- [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
-- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★6 -
+- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★6 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★5 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
-- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★4 -
-  TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
-- [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★4 -
+- [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★3 -
+- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★3 -
+  TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+- [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★2 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
-- [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★3 -
+- [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★2 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★2 -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 5, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
-- [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★2 -
-  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
-- [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) ★2 -
-  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
-- [**redux-practice**](https://github.com/sametcn99/redux-practice) ★2 -
-  TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**BlogAPIDotnet**](https://github.com/sametcn99/BlogAPIDotnet) ★2 -
-  C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
-- [**code-nest-web**](https://github.com/sametcn99/code-nest-web) ★2 -
-  TypeScript - [Homepage](https://code-nest-web-samets-projects-538a8f28.vercel.app)<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
-- [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) ★2 -
-  TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />This is a simple rock-paper-scissors game built with React and Next.js. The game is played against the computer using the React Context.
-- [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) ★2 -
+- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+- [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) ★1 -
   C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
-- [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) ★2 -
-  JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
-- [**catchapage**](https://github.com/sametcn99/catchapage) ★2 -
-  TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
-- [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) ★2 -
+- [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) ★1 -
+  TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />This is a simple rock-paper-scissors game built with React and Next.js. The game is played against the computer using the React Context.
+- [**code-nest-web**](https://github.com/sametcn99/code-nest-web) ★1 -
+  TypeScript - [Homepage](https://code-nest-web-samets-projects-538a8f28.vercel.app)<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
+- [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) ★1 -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
+- [**BlogAPIDotnet**](https://github.com/sametcn99/BlogAPIDotnet) ★1 -
+  C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
+- [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
+  TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) ★1 -
+  JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
+- [**catchapage**](https://github.com/sametcn99/catchapage) ★1 -
+  TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
+- [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) ★1 -
+  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
+- [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
+  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★1 -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 5, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
-- [**golter**](https://github.com/sametcn99/golter) ★1 -
-  Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />TUI file converter built with Go
-- [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) ★1 -
-  HTML - [Homepage](https://sametcn99.github.io/)<br />_Created: Jan 6, 2024 • Updated: Apr 5, 2026_<br />redirect to personal website
-- [**golter-web**](https://github.com/sametcn99/golter-web) ★1 -
-  TypeScript - [Homepage](https://golter.vercel.app/)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
-- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) ★1 -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 29, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**dreamtui**](https://github.com/sametcn99/dreamtui) ★1 -
-  TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
-- [**product-planning-copilot**](https://github.com/sametcn99/product-planning-copilot) ★1 -
-  HTML - [Homepage](https://sametcn99.github.io/product-planning-copilot/)<br />_Created: Feb 26, 2026 • Updated: Mar 13, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
-- [**SolidColorBackground**](https://github.com/sametcn99/SolidColorBackground) ★1 -
-  C#<br />_Created: Sep 3, 2024 • Updated: Jan 24, 2025_<br />This application allows users to select a color using a color picker, which updates the background color of the window.
-- [**node-genius-lyrics-gui**](https://github.com/sametcn99/node-genius-lyrics-gui) ★1 -
-  TypeScript<br />_Created: May 4, 2024 • Updated: Sep 27, 2024_<br />This project is an Electron application designed to interact with the Genius Lyrics API, providing a graphical user interface for fetching and writing song lyrics to audio file metadata tags.
-- [**open-github-dev**](https://github.com/sametcn99/open-github-dev) ★1 -
+- [**open-github-dev**](https://github.com/sametcn99/open-github-dev) -
   JavaScript<br />_Created: Dec 20, 2023 • Updated: Dec 20, 2023_<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
-- [**altinsaray-ds**](https://github.com/sametcn99/altinsaray-ds) ★1 -
+- [**altinsaray-ds**](https://github.com/sametcn99/altinsaray-ds) -
   TypeScript - [Homepage](https://altinsaray-ds.vercel.app)<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
-- [**coordinat-auto-login**](https://github.com/sametcn99/coordinat-auto-login) ★1 -
-  TypeScript<br />_Created: Apr 19, 2025 • Updated: May 4, 2025_<br />No description provided.
-- [**vitepress-mermaid-renderer-web**](https://github.com/sametcn99/vitepress-mermaid-renderer-web) ★1 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
-- [**personal-website**](https://github.com/sametcn99/personal-website) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
-- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) ★1 -
-  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
-- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) ★1 -
-  Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
-- [**svg-split**](https://github.com/sametcn99/svg-split) ★1 -
-  JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
-- [**xls-to-gantt**](https://github.com/sametcn99/xls-to-gantt) ★1 -
-  TypeScript - [Homepage](https://xls-to-gantt.vercel.app)<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
-- [**fullstack-template**](https://github.com/sametcn99/fullstack-template) ★1 -
-  TypeScript<br />_Created: Sep 6, 2025 • Updated: Sep 6, 2025_<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
-- [**sql-query-safety-checker**](https://github.com/sametcn99/sql-query-safety-checker) ★1 -
-  TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
-- [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) ★1 -
+- [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**node-genius-lyrics-gui**](https://github.com/sametcn99/node-genius-lyrics-gui) -
+  TypeScript<br />_Created: May 4, 2024 • Updated: Sep 27, 2024_<br />This project is an Electron application designed to interact with the Genius Lyrics API, providing a graphical user interface for fetching and writing song lyrics to audio file metadata tags.
+- [**SolidColorBackground**](https://github.com/sametcn99/SolidColorBackground) -
+  C#<br />_Created: Sep 3, 2024 • Updated: Jan 24, 2025_<br />This application allows users to select a color using a color picker, which updates the background color of the window.
+- [**coordinat-auto-login**](https://github.com/sametcn99/coordinat-auto-login) -
+  TypeScript<br />_Created: Apr 19, 2025 • Updated: May 4, 2025_<br />No description provided.
+- [**sql-query-safety-checker**](https://github.com/sametcn99/sql-query-safety-checker) -
+  TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
+- [**svg-split**](https://github.com/sametcn99/svg-split) -
+  JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
+- [**fullstack-template**](https://github.com/sametcn99/fullstack-template) -
+  TypeScript<br />_Created: Sep 6, 2025 • Updated: Sep 6, 2025_<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
+- [**xls-to-gantt**](https://github.com/sametcn99/xls-to-gantt) -
+  TypeScript - [Homepage](https://xls-to-gantt.vercel.app)<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
+- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
+  Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
+- [**vitepress-mermaid-renderer-web**](https://github.com/sametcn99/vitepress-mermaid-renderer-web) -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
+- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
+  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
+- [**personal-website**](https://github.com/sametcn99/personal-website) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
+- [**golter-web**](https://github.com/sametcn99/golter-web) -
+  TypeScript - [Homepage](https://golter.vercel.app/)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
+- [**product-planning-copilot**](https://github.com/sametcn99/product-planning-copilot) -
+  HTML - [Homepage](https://sametcn99.github.io/product-planning-copilot/)<br />_Created: Feb 26, 2026 • Updated: Mar 13, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
+- [**dreamtui**](https://github.com/sametcn99/dreamtui) -
+  TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Mar 29, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
+- [**golter**](https://github.com/sametcn99/golter) -
+  Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Mar 31, 2026_<br />TUI file converter built with Go
+- [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) -
+  HTML - [Homepage](https://sametcn99.github.io/)<br />_Created: Jan 6, 2024 • Updated: Apr 5, 2026_<br />redirect to personal website
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 6, 2026_<br />No description provided.
 - [**MicroServiceLearn**](https://github.com/sametcn99/MicroServiceLearn) -
@@ -415,7 +416,7 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@octifakker**](https://github.com/octifakker) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 30, 2026)_
 
 <details>
-  <summary>Show 10 more stargazers...</summary>
+  <summary>Show 9 more stargazers...</summary>
 
 - [**@faustovo2003-commits**](https://github.com/faustovo2003-commits) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 29, 2026)_
 - [**@Danilarious**](https://github.com/Danilarious) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 28, 2026)_
@@ -426,5 +427,4 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@koolay**](https://github.com/koolay) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 16, 2026)_
 - [**@Naedri**](https://github.com/Naedri) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 14, 2026)_
 - [**@kimatata-brother**](https://github.com/kimatata-brother) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 11, 2026)_
-- [**@OneCreek**](https://github.com/OneCreek) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Mar 7, 2026)_
 </details>
