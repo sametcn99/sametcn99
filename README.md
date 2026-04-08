@@ -133,15 +133,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [ersinkoc/project-architect](https://github.com/ersinkoc/project-architect)** _(Apr 8, 2026)_
 - **Starred [KDE/krunner](https://github.com/KDE/krunner)** _(Apr 7, 2026)_
 - **Starred [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)** _(Apr 7, 2026)_
 - **Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)** _(Apr 7, 2026)_
 - **Starred [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW)** _(Apr 7, 2026)_
-- **Starred [ashley-ha/goodclaude](https://github.com/ashley-ha/goodclaude)** _(Apr 7, 2026)_
 
 <details>
   <summary>Show 76 more starred repositories...</summary>
 
+- **Starred [ashley-ha/goodclaude](https://github.com/ashley-ha/goodclaude)** _(Apr 7, 2026)_
 - **Starred [aygunbayirdev/ECommerceStock](https://github.com/aygunbayirdev/ECommerceStock)** _(Apr 6, 2026)_
 - **Starred [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)** _(Apr 6, 2026)_
 - **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
@@ -217,7 +218,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 - **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
-- **Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** _(Mar 9, 2026)_
 
 </details>
 
