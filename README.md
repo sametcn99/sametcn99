@@ -89,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 168                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 60                                      |
 | **Active Repositories:**   | 53                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -268,12 +268,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 8, 2026_<br />No description provided.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★1 -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 8, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 7, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 7, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -313,6 +313,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★1 -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 8, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) ★1 -
   C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
 - [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) ★1 -
@@ -333,10 +335,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★1 -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 5, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 7, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 8, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 6, 2026_<br />No description provided.
 - [**open-github-dev**](https://github.com/sametcn99/open-github-dev) -
