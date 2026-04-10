@@ -89,9 +89,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 170                                     |
-| **Commits (7d):**          | 30+                                     |
-| **Total Repositories:**    | 60                                      |
-| **Active Repositories:**   | 53                                      |
+| **Commits (7d):**          | 50+                                     |
+| **Total Repositories:**    | 61                                      |
+| **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -125,7 +125,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 ### Comments
 
 - **Commented on issue [[Feature Request] Add a way to sync events from and to CalDAV server](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 27, 2026)_
-- **Commented on issue [[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 11, 2026)_
 
 ### Releases
 
@@ -133,15 +132,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
 - **Starred [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)** _(Apr 9, 2026)_
 - **Starred [ersinkoc/project-architect](https://github.com/ersinkoc/project-architect)** _(Apr 8, 2026)_
 - **Starred [KDE/krunner](https://github.com/KDE/krunner)** _(Apr 7, 2026)_
 - **Starred [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)** _(Apr 7, 2026)_
-- **Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)** _(Apr 7, 2026)_
 
 <details>
-  <summary>Show 77 more starred repositories...</summary>
+  <summary>Show 78 more starred repositories...</summary>
 
+- **Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)** _(Apr 7, 2026)_
 - **Starred [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW)** _(Apr 7, 2026)_
 - **Starred [ashley-ha/goodclaude](https://github.com/ashley-ha/goodclaude)** _(Apr 7, 2026)_
 - **Starred [aygunbayirdev/ECommerceStock](https://github.com/aygunbayirdev/ECommerceStock)** _(Apr 6, 2026)_
@@ -224,15 +224,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Public in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case)** _(Apr 9, 2026)_
 - **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/MicroServiceLearn](https://github.com/sametcn99/MicroServiceLearn)** _(Mar 25, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 24, 2026)_
 
 <details>
-  <summary>Show 7 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
+- **Created branch &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 24, 2026)_
 - **Closed issue [#3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/3) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Discussion in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
@@ -269,12 +270,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 10, 2026_<br />No description provided.
+- [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
+  TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 9, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 9, 2026_<br />No description provided.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★1 -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 8, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 
 ### Active Repositories
 
@@ -290,7 +291,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 47 more repositories...</summary>
+  <summary>Show 48 more repositories...</summary>
 
 - [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
@@ -337,7 +338,9 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 9, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 10, 2026_<br />No description provided.
+- [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
+  TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 8, 2026_<br />No description provided.
 - [**open-github-dev**](https://github.com/sametcn99/open-github-dev) -
@@ -420,7 +423,7 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@Maiturin**](https://github.com/Maiturin) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 6, 2026)_
 
 <details>
-  <summary>Show 13 more stargazers...</summary>
+  <summary>Show 12 more stargazers...</summary>
 
 - [**@developer239**](https://github.com/developer239) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 5, 2026)_
 - [**@freddymu**](https://github.com/freddymu) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 4, 2026)_
@@ -434,5 +437,4 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@yangranger**](https://github.com/yangranger) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 19, 2026)_
 - [**@koolay**](https://github.com/koolay) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 16, 2026)_
 - [**@Naedri**](https://github.com/Naedri) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 14, 2026)_
-- [**@kimatata-brother**](https://github.com/kimatata-brother) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 11, 2026)_
 </details>
