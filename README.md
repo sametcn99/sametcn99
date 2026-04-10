@@ -88,7 +88,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 170                                     |
+| **Total Stars Earned:**    | 171                                     |
 | **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
@@ -293,10 +293,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 <details>
   <summary>Show 48 more repositories...</summary>
 
+- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★8 -
+  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★7 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
@@ -416,15 +416,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thank you to everyone who starred my repositories in the last month! Your support is much appreciated.
 
+- [**@elartix**](https://github.com/elartix) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 10, 2026)_
 - [**@qiuhq-9527**](https://github.com/qiuhq-9527) starred [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) _(Apr 9, 2026)_
 - [**@lt-flan**](https://github.com/lt-flan) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 9, 2026)_
 - [**@liushoukun**](https://github.com/liushoukun) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 - [**@yangzupan**](https://github.com/yangzupan) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
-- [**@Maiturin**](https://github.com/Maiturin) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 6, 2026)_
 
 <details>
-  <summary>Show 12 more stargazers...</summary>
+  <summary>Show 13 more stargazers...</summary>
 
+- [**@Maiturin**](https://github.com/Maiturin) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 6, 2026)_
 - [**@developer239**](https://github.com/developer239) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 5, 2026)_
 - [**@freddymu**](https://github.com/freddymu) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 4, 2026)_
 - [**@dnaka91**](https://github.com/dnaka91) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 2, 2026)_
