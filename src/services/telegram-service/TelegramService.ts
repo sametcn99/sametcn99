@@ -26,16 +26,18 @@ export class TelegramService {
 			return;
 		}
 
-		let message = "🌟 <b>GitHub Profile Update</b> 🌟\n\n";
-
 		if (
 			addedStargazers.length === 0 &&
 			removedStargazers.length === 0 &&
 			newIssues.length === 0
 		) {
-			message +=
-				"✅ GitHub Action executed successfully and README updated (No new changes).\n\n";
+			console.log(
+				"No new stargazers or issues to report. Skipping Telegram notification.",
+			);
+			return;
 		}
+
+		let message = "🌟 <b>GitHub Profile Update</b> 🌟\n\n";
 
 		if (addedStargazers.length > 0) {
 			message += "✅ <b>New Stargazers:</b>\n";
@@ -99,18 +101,20 @@ export class TelegramService {
 			return;
 		}
 
+		if (followedAccounts.length === 0) {
+			console.log(
+				"No new followers to catch up. Skipping Telegram notification.",
+			);
+			return;
+		}
+
 		let message = "👥 <b>GitHub Follow-back Update</b> 👥\n\n";
 
-		if (followedAccounts.length === 0) {
-			message +=
-				"✅ Follow-back script executed successfully (No new followers to catch up).\n\n";
-		} else {
-			message += "🤝 <b>New accounts followed:</b>\n";
-			for (const account of followedAccounts) {
-				message += `- <a href="https://github.com/${account.login}">${this.escapeHtml(account.login)}</a> (${this.escapeHtml(account.type)})\n`;
-			}
-			message += "\n";
+		message += "🤝 <b>New accounts followed:</b>\n";
+		for (const account of followedAccounts) {
+			message += `- <a href="https://github.com/${account.login}">${this.escapeHtml(account.login)}</a> (${this.escapeHtml(account.type)})\n`;
 		}
+		message += "\n";
 
 		try {
 			const response = await fetch(
