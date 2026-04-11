@@ -139,7 +139,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 81 more starred repositories...</summary>
 
 - **Starred [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)** _(Apr 9, 2026)_
 - **Starred [ersinkoc/project-architect](https://github.com/ersinkoc/project-architect)** _(Apr 8, 2026)_
@@ -222,7 +222,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 - **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
-- **Starred [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)** _(Mar 12, 2026)_
 
 </details>
 
