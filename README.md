@@ -89,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 171                                     |
-| **Commits (7d):**          | 50+                                     |
+| **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -132,15 +132,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)** _(Apr 10, 2026)_
+- **Starred [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas)** _(Apr 10, 2026)_
 - **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
 - **Starred [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)** _(Apr 9, 2026)_
 - **Starred [ersinkoc/project-architect](https://github.com/ersinkoc/project-architect)** _(Apr 8, 2026)_
-- **Starred [KDE/krunner](https://github.com/KDE/krunner)** _(Apr 7, 2026)_
-- **Starred [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)** _(Apr 7, 2026)_
 
 <details>
-  <summary>Show 78 more starred repositories...</summary>
+  <summary>Show 80 more starred repositories...</summary>
 
+- **Starred [KDE/krunner](https://github.com/KDE/krunner)** _(Apr 7, 2026)_
+- **Starred [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)** _(Apr 7, 2026)_
 - **Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)** _(Apr 7, 2026)_
 - **Starred [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW)** _(Apr 7, 2026)_
 - **Starred [ashley-ha/goodclaude](https://github.com/ashley-ha/goodclaude)** _(Apr 7, 2026)_
