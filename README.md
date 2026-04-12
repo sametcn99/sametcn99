@@ -139,7 +139,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas)** _(Apr 10, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 81 more starred repositories...</summary>
 
 - **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
 - **Starred [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)** _(Apr 9, 2026)_
@@ -222,7 +222,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
 - **Starred [f/appetit](https://github.com/f/appetit)** _(Mar 13, 2026)_
 - **Starred [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
-- **Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)** _(Mar 12, 2026)_
 
 </details>
 
@@ -274,12 +273,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 12, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 11, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 11, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -341,10 +340,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 12, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 11, 2026_<br />No description provided.
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
   TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />WibeSoft Backend Case study
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
