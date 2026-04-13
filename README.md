@@ -89,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 172                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -111,14 +111,13 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Merged pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 
 <details>
-  <summary>Show 6 more pull requests...</summary>
+  <summary>Show 5 more pull requests...</summary>
 
 - **Opened pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 - **Opened pull request [#42](https://github.com/f/wvw.dev/pull/42) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 16, 2026)_
 - **Merged pull request [#21](https://github.com/f/wvw.dev/pull/21) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 - **Opened pull request [#21](https://github.com/f/wvw.dev/pull/21) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 - **Merged pull request [#11](https://github.com/f/wvw.dev/pull/11) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
-- **Opened pull request [#11](https://github.com/f/wvw.dev/pull/11) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 
 </details>
 
@@ -233,7 +232,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;main&#x60; in [sametcn99/MicroServiceLearn](https://github.com/sametcn99/MicroServiceLearn)** _(Mar 25, 2026)_
 
 <details>
-  <summary>Show 8 more other activity...</summary>
+  <summary>Show 6 more other activity...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 24, 2026)_
 - **Closed issue [#3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/3) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
@@ -241,8 +240,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
-- **Forked [f/wvw.dev](https://github.com/f/wvw.dev) to [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev)** _(Mar 13, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps)** _(Mar 13, 2026)_
 
 </details>
 
