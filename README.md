@@ -111,13 +111,12 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Merged pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 
 <details>
-  <summary>Show 5 more pull requests...</summary>
+  <summary>Show 4 more pull requests...</summary>
 
 - **Opened pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 - **Opened pull request [#42](https://github.com/f/wvw.dev/pull/42) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 16, 2026)_
 - **Merged pull request [#21](https://github.com/f/wvw.dev/pull/21) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 - **Opened pull request [#21](https://github.com/f/wvw.dev/pull/21) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
-- **Merged pull request [#11](https://github.com/f/wvw.dev/pull/11) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 13, 2026)_
 
 </details>
 
@@ -138,7 +137,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)** _(Apr 10, 2026)_
 
 <details>
-  <summary>Show 80 more starred repositories...</summary>
+  <summary>Show 78 more starred repositories...</summary>
 
 - **Starred [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas)** _(Apr 10, 2026)_
 - **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
@@ -218,8 +217,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 - **Starred [karpathy/jobs](https://github.com/karpathy/jobs)** _(Mar 17, 2026)_
 - **Starred [k-eren-k/GemBot-AI-Automation-Free](https://github.com/k-eren-k/GemBot-AI-Automation-Free)** _(Mar 15, 2026)_
-- **Starred [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx)** _(Mar 13, 2026)_
-- **Starred [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** _(Mar 13, 2026)_
 
 </details>
 
@@ -269,10 +266,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 13, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 12, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 12, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
 
@@ -337,7 +334,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 12, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 13, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
