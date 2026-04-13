@@ -111,12 +111,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Merged pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 
 <details>
-  <summary>Show 4 more pull requests...</summary>
+  <summary>Show 2 more pull requests...</summary>
 
 - **Opened pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 - **Opened pull request [#42](https://github.com/f/wvw.dev/pull/42) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 16, 2026)_
-- **Merged pull request [#21](https://github.com/f/wvw.dev/pull/21) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
-- **Opened pull request [#21](https://github.com/f/wvw.dev/pull/21) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 14, 2026)_
 
 </details>
 
@@ -130,15 +128,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)** _(Apr 13, 2026)_
 - **Starred [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint)** _(Apr 12, 2026)_
 - **Starred [cihann/juliterm](https://github.com/cihann/juliterm)** _(Apr 11, 2026)_
 - **Starred [shenfurkan/Fezadan](https://github.com/shenfurkan/Fezadan)** _(Apr 11, 2026)_
 - **Starred [robinebers/openusage](https://github.com/robinebers/openusage)** _(Apr 11, 2026)_
-- **Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)** _(Apr 10, 2026)_
 
 <details>
-  <summary>Show 78 more starred repositories...</summary>
+  <summary>Show 79 more starred repositories...</summary>
 
+- **Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)** _(Apr 10, 2026)_
 - **Starred [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas)** _(Apr 10, 2026)_
 - **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
 - **Starred [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)** _(Apr 9, 2026)_
