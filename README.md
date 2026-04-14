@@ -128,15 +128,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** _(Apr 13, 2026)_
+- **Starred [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** _(Apr 13, 2026)_
 - **Starred [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)** _(Apr 13, 2026)_
 - **Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)** _(Apr 13, 2026)_
 - **Starred [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint)** _(Apr 12, 2026)_
-- **Starred [cihann/juliterm](https://github.com/cihann/juliterm)** _(Apr 11, 2026)_
-- **Starred [shenfurkan/Fezadan](https://github.com/shenfurkan/Fezadan)** _(Apr 11, 2026)_
 
 <details>
-  <summary>Show 80 more starred repositories...</summary>
+  <summary>Show 82 more starred repositories...</summary>
 
+- **Starred [cihann/juliterm](https://github.com/cihann/juliterm)** _(Apr 11, 2026)_
+- **Starred [shenfurkan/Fezadan](https://github.com/shenfurkan/Fezadan)** _(Apr 11, 2026)_
 - **Starred [robinebers/openusage](https://github.com/robinebers/openusage)** _(Apr 11, 2026)_
 - **Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)** _(Apr 10, 2026)_
 - **Starred [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas)** _(Apr 10, 2026)_
@@ -419,7 +421,7 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@liushoukun**](https://github.com/liushoukun) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 
 <details>
-  <summary>Show 14 more stargazers...</summary>
+  <summary>Show 13 more stargazers...</summary>
 
 - [**@yangzupan**](https://github.com/yangzupan) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 - [**@Maiturin**](https://github.com/Maiturin) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 6, 2026)_
@@ -434,5 +436,4 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@RazorSiM**](https://github.com/RazorSiM) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 20, 2026)_
 - [**@yangranger**](https://github.com/yangranger) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 19, 2026)_
 - [**@koolay**](https://github.com/koolay) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 16, 2026)_
-- [**@Naedri**](https://github.com/Naedri) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 14, 2026)_
 </details>
