@@ -154,7 +154,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)** _(Apr 6, 2026)_
 - **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
 - **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
-- **Starred [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude)** _(Apr 6, 2026)_
+- **Starred [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip)** _(Apr 6, 2026)_
 - **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
 - **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
 - **Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** _(Apr 5, 2026)_
