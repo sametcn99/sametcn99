@@ -111,10 +111,9 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Merged pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
 
 <details>
-  <summary>Show 2 more pull requests...</summary>
+  <summary>Show 1 more pull requests...</summary>
 
 - **Opened pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
-- **Opened pull request [#42](https://github.com/f/wvw.dev/pull/42) in [f/wvw.dev](https://github.com/f/wvw.dev)** _(Mar 16, 2026)_
 
 </details>
 
