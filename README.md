@@ -127,15 +127,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [yusufipk/OpenFrame](https://github.com/yusufipk/OpenFrame)** _(Apr 15, 2026)_
+- **Starred [MuratDincc/interview-topics-turkish](https://github.com/MuratDincc/interview-topics-turkish)** _(Apr 15, 2026)_
 - **Starred [getsentry/sentry](https://github.com/getsentry/sentry)** _(Apr 15, 2026)_
 - **Starred [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)** _(Apr 14, 2026)_
 - **Starred [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** _(Apr 13, 2026)_
-- **Starred [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** _(Apr 13, 2026)_
-- **Starred [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)** _(Apr 13, 2026)_
 
 <details>
-  <summary>Show 83 more starred repositories...</summary>
+  <summary>Show 85 more starred repositories...</summary>
 
+- **Starred [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** _(Apr 13, 2026)_
+- **Starred [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)** _(Apr 13, 2026)_
 - **Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)** _(Apr 13, 2026)_
 - **Starred [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint)** _(Apr 12, 2026)_
 - **Starred [cihann/juliterm](https://github.com/cihann/juliterm)** _(Apr 11, 2026)_
@@ -231,14 +233,13 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;main&#x60; in [sametcn99/MicroServiceLearn](https://github.com/sametcn99/MicroServiceLearn)** _(Mar 25, 2026)_
 
 <details>
-  <summary>Show 6 more other activity...</summary>
+  <summary>Show 5 more other activity...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 24, 2026)_
 - **Closed issue [#3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/3) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Discussion in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
-- **Opened issue [#18](https://github.com/ownpilot/OwnPilot/issues/18) in [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot)** _(Mar 16, 2026)_
 
 </details>
 
