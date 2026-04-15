@@ -128,15 +128,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [getsentry/sentry](https://github.com/getsentry/sentry)** _(Apr 15, 2026)_
 - **Starred [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)** _(Apr 14, 2026)_
 - **Starred [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** _(Apr 13, 2026)_
 - **Starred [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** _(Apr 13, 2026)_
 - **Starred [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)** _(Apr 13, 2026)_
-- **Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)** _(Apr 13, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 83 more starred repositories...</summary>
 
+- **Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)** _(Apr 13, 2026)_
 - **Starred [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint)** _(Apr 12, 2026)_
 - **Starred [cihann/juliterm](https://github.com/cihann/juliterm)** _(Apr 11, 2026)_
 - **Starred [shenfurkan/Fezadan](https://github.com/shenfurkan/Fezadan)** _(Apr 11, 2026)_
@@ -268,10 +269,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 15, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 14, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 14, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
 
@@ -336,7 +337,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 14, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 15, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
