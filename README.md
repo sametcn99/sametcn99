@@ -422,7 +422,7 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@liushoukun**](https://github.com/liushoukun) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 
 <details>
-  <summary>Show 13 more stargazers...</summary>
+  <summary>Show 12 more stargazers...</summary>
 
 - [**@yangzupan**](https://github.com/yangzupan) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 - [**@Maiturin**](https://github.com/Maiturin) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 6, 2026)_
@@ -436,5 +436,4 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@0x596F**](https://github.com/0x596F) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 25, 2026)_
 - [**@RazorSiM**](https://github.com/RazorSiM) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 20, 2026)_
 - [**@yangranger**](https://github.com/yangranger) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 19, 2026)_
-- [**@koolay**](https://github.com/koolay) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 16, 2026)_
 </details>
