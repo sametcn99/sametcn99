@@ -89,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 172                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 7                                       |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -108,14 +108,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Opened pull request [#11](https://github.com/sametcn99/booking-calendar/pull/11) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Merged pull request [#10](https://github.com/sametcn99/booking-calendar/pull/10) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Opened pull request [#10](https://github.com/sametcn99/booking-calendar/pull/10) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
-- **Merged pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
-
-<details>
-  <summary>Show 1 more pull requests...</summary>
-
-- **Opened pull request [#9](https://github.com/sametcn99/booking-calendar/pull/9) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 16, 2026)_
-
-</details>
 
 ### Comments
 
