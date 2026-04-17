@@ -126,7 +126,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** _(Apr 13, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 81 more starred repositories...</summary>
 
 - **Starred [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** _(Apr 13, 2026)_
 - **Starred [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)** _(Apr 13, 2026)_
@@ -209,7 +209,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)** _(Mar 18, 2026)_
 - **Starred [Dokploy/mcp](https://github.com/Dokploy/mcp)** _(Mar 18, 2026)_
 - **Starred [Elagoht/cvgo](https://github.com/Elagoht/cvgo)** _(Mar 18, 2026)_
-- **Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** _(Mar 18, 2026)_
 
 </details>
 
