@@ -89,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 172                                     |
-| **Commits (7d):**          | 7                                       |
+| **Commits (7d):**          | 1                                       |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
