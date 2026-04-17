@@ -126,7 +126,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** _(Apr 13, 2026)_
 
 <details>
-  <summary>Show 84 more starred repositories...</summary>
+  <summary>Show 82 more starred repositories...</summary>
 
 - **Starred [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** _(Apr 13, 2026)_
 - **Starred [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)** _(Apr 13, 2026)_
@@ -210,8 +210,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Dokploy/mcp](https://github.com/Dokploy/mcp)** _(Mar 18, 2026)_
 - **Starred [Elagoht/cvgo](https://github.com/Elagoht/cvgo)** _(Mar 18, 2026)_
 - **Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** _(Mar 18, 2026)_
-- **Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)** _(Mar 17, 2026)_
-- **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 
 </details>
 
@@ -224,13 +222,12 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;main&#x60; in [sametcn99/MicroServiceLearn](https://github.com/sametcn99/MicroServiceLearn)** _(Mar 25, 2026)_
 
 <details>
-  <summary>Show 5 more other activity...</summary>
+  <summary>Show 4 more other activity...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 24, 2026)_
 - **Closed issue [#3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/3) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Discussion in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Mar 23, 2026)_
 - **Created branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 18, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 17, 2026)_
 
 </details>
 
@@ -260,10 +257,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 17, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 16, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 16, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
 
@@ -328,7 +325,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 16, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 17, 2026_<br />No description provided.
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
