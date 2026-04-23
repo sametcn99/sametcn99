@@ -90,7 +90,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 172                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 63                                      |
 | **Active Repositories:**   | 56                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -120,15 +120,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration)** _(Apr 23, 2026)_
+- **Starred [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)** _(Apr 23, 2026)_
 - **Starred [DucPhamNgoc08/CodeVisualizer](https://github.com/DucPhamNgoc08/CodeVisualizer)** _(Apr 22, 2026)_
 - **Starred [GitchatSH/gitchat_extension](https://github.com/GitchatSH/gitchat_extension)** _(Apr 22, 2026)_
 - **Starred [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt)** _(Apr 21, 2026)_
-- **Starred [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** _(Apr 21, 2026)_
-- **Starred [postgis/postgis](https://github.com/postgis/postgis)** _(Apr 20, 2026)_
 
 <details>
-  <summary>Show 76 more starred repositories...</summary>
+  <summary>Show 78 more starred repositories...</summary>
 
+- **Starred [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** _(Apr 21, 2026)_
+- **Starred [postgis/postgis](https://github.com/postgis/postgis)** _(Apr 20, 2026)_
 - **Starred [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** _(Apr 20, 2026)_
 - **Starred [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)** _(Apr 20, 2026)_
 - **Starred [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)** _(Apr 20, 2026)_
