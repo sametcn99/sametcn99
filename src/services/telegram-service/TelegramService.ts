@@ -93,6 +93,7 @@ export class TelegramService {
 
 	async sendFollowMessage(
 		followedAccounts: { login: string; type: string }[],
+		sourceDescription = "accounts",
 	): Promise<void> {
 		if (!this.botToken || !this.chatId) {
 			console.log(
@@ -103,14 +104,14 @@ export class TelegramService {
 
 		if (followedAccounts.length === 0) {
 			console.log(
-				"No new followers to catch up. Skipping Telegram notification.",
+				`No new ${sourceDescription} to follow. Skipping Telegram notification.`,
 			);
 			return;
 		}
 
-		let message = "👥 <b>GitHub Follow-back Update</b> 👥\n\n";
+		let message = "👥 <b>GitHub Follow Update</b> 👥\n\n";
 
-		message += "🤝 <b>New accounts followed:</b>\n";
+		message += `🤝 <b>New ${this.escapeHtml(sourceDescription)} followed:</b>\n`;
 		for (const account of followedAccounts) {
 			message += `- <a href="https://github.com/${account.login}">${this.escapeHtml(account.login)}</a> (${this.escapeHtml(account.type)})\n`;
 		}
@@ -137,7 +138,7 @@ export class TelegramService {
 				const errorText = await response.text();
 				console.error("Failed to send Telegram message:", errorText);
 			} else {
-				console.log("Successfully sent Telegram follow-back notification.");
+				console.log("Successfully sent Telegram follow notification.");
 			}
 		} catch (error) {
 			console.error("Error sending Telegram message:", error);

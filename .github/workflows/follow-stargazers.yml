@@ -1,8 +1,6 @@
-name: Auto Follow Back Followers
+name: Follow Repository Stargazers
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch:
     inputs:
       dry_run:
@@ -10,10 +8,10 @@ on:
         required: false
         default: true
         type: boolean
-      follow_back_limit:
-        description: Optional limit for manual runs
+      follow_limit:
+        description: Optional limit for a manual run
         required: false
-        default: ''
+        default: ""
         type: string
 
 concurrency:
@@ -21,9 +19,9 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  follow-back:
+  follow-stargazers:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     permissions:
       contents: read
     env:
@@ -40,21 +38,22 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
-      - name: Validate follow-back token
+      - name: Validate follow token
         env:
           FOLLOW_BACK_TOKEN: ${{ secrets.FOLLOW_BACK_TOKEN }}
         run: |
           if [ -z "$FOLLOW_BACK_TOKEN" ]; then
             echo "Missing repository secret: FOLLOW_BACK_TOKEN"
             echo "Use a classic PAT with user:follow or a fine-grained PAT with Followers: write."
+            echo "If you want private repository stargazers included, the token also needs access to those repositories."
             exit 1
           fi
 
-      - name: Follow back new followers
+      - name: Follow unique stargazers
         env:
           FOLLOW_BACK_TOKEN: ${{ secrets.FOLLOW_BACK_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
-          FOLLOW_BACK_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.follow_back_limit || '' }}
-        run: bun run follow-back
+          DRY_RUN: ${{ inputs.dry_run }}
+          FOLLOW_LIMIT: ${{ inputs.follow_limit }}
+        run: bun run follow-stargazers
