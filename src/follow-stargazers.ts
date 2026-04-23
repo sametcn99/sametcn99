@@ -103,14 +103,14 @@ async function fetchUniqueStargazers(
 		}
 
 		try {
-			const stargazers = await octokit.paginate(
+			const stargazers = (await octokit.paginate(
 				octokit.rest.activity.listStargazersForRepo,
 				{
 					owner: repository.owner.login,
 					repo: repository.name,
 					per_page: 100,
 				},
-			) as Stargazer[];
+			)) as Stargazer[];
 
 			for (const stargazer of stargazers) {
 				if (stargazersByLogin.has(stargazer.login)) {
@@ -190,7 +190,10 @@ async function main(): Promise<void> {
 		`Options: dryRun=${isDryRun}, includeBots=${includeBots}, limit=${limit ?? "none"}, delayMs=${delayMs}`,
 	);
 
-	const repositories = await fetchOwnedRepositories(octokit, authenticatedUser.login);
+	const repositories = await fetchOwnedRepositories(
+		octokit,
+		authenticatedUser.login,
+	);
 	const [stargazers, followingLogins] = await Promise.all([
 		fetchUniqueStargazers(octokit, repositories),
 		fetchFollowing(octokit),

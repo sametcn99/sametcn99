@@ -62,6 +62,7 @@ activity.others.length)}}
 {{#if stargazers.length}}
 - [Recent Stargazers](#recent-stargazers)
 {{/if}}
+- [Automated Workflows](#automated-workflows)
 
 ## Tech Stack
 
@@ -372,3 +373,11 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 </details>
 {{/if}}
 {{/if}}
+
+## Automated Workflows
+
+This GitHub profile is maintained and powered by several automated GitHub Actions to keep the repository fresh and engage with the community:
+
+- **[Update Profile README](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/update-readme.yml)**: Regularly fetches my latest GitHub activity, blog posts, and repository stats to keep this README automatically updated via a daily cron schedule.
+- **[Auto Follow Back](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-back.yml)**: A scheduled workflow that automatically checks my recent followers and follows them back to return the favor.
+- **[Stargazer Follow](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-stargazers.yml)**: A weekly automated workflow that finds users who recently starred my repositories and follows them to show appreciation.
