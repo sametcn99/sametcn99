@@ -127,7 +127,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt)** _(Apr 21, 2026)_
 
 <details>
-  <summary>Show 78 more starred repositories...</summary>
+  <summary>Show 77 more starred repositories...</summary>
 
 - **Starred [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** _(Apr 21, 2026)_
 - **Starred [postgis/postgis](https://github.com/postgis/postgis)** _(Apr 20, 2026)_
@@ -206,7 +206,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)** _(Mar 24, 2026)_
 - **Starred [uwaserver/uwas](https://github.com/uwaserver/uwas)** _(Mar 24, 2026)_
 - **Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** _(Mar 24, 2026)_
-- **Starred [nestjs/nestjs.com](https://github.com/nestjs/nestjs.com)** _(Mar 24, 2026)_
 
 </details>
 
