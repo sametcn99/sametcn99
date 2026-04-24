@@ -127,7 +127,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt)** _(Apr 21, 2026)_
 
 <details>
-  <summary>Show 77 more starred repositories...</summary>
+  <summary>Show 70 more starred repositories...</summary>
 
 - **Starred [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** _(Apr 21, 2026)_
 - **Starred [postgis/postgis](https://github.com/postgis/postgis)** _(Apr 20, 2026)_
@@ -199,13 +199,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)** _(Mar 25, 2026)_
 - **Starred [plantuml/plantuml](https://github.com/plantuml/plantuml)** _(Mar 25, 2026)_
 - **Starred [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 25, 2026)_
-- **Starred [badursun/terlik.js](https://github.com/badursun/terlik.js)** _(Mar 24, 2026)_
-- **Starred [neondatabase/neon](https://github.com/neondatabase/neon)** _(Mar 24, 2026)_
-- **Starred [directus/directus](https://github.com/directus/directus)** _(Mar 24, 2026)_
-- **Starred [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)** _(Mar 24, 2026)_
-- **Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)** _(Mar 24, 2026)_
-- **Starred [uwaserver/uwas](https://github.com/uwaserver/uwas)** _(Mar 24, 2026)_
-- **Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** _(Mar 24, 2026)_
 
 </details>
 
@@ -252,12 +245,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 24, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 23, 2026_<br />actively developing
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★54 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 23, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 23, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -319,10 +312,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 24, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 23, 2026_<br />actively developing
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 23, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 23, 2026_<br />actively developing
 - [**MicroServiceLearn**](https://github.com/sametcn99/MicroServiceLearn) -
