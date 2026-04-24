@@ -122,15 +122,26 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
+- **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
+- **Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)** _(Apr 24, 2026)_
+- **Starred [PostHog/posthog](https://github.com/PostHog/posthog)** _(Apr 24, 2026)_
+- **Starred [google/osv-scanner](https://github.com/google/osv-scanner)** _(Apr 24, 2026)_
+
+<details>
+  <summary>Show 81 more starred repositories...</summary>
+
+- **Starred [github/explore](https://github.com/github/explore)** _(Apr 24, 2026)_
+- **Starred [github/codeql](https://github.com/github/codeql)** _(Apr 24, 2026)_
+- **Starred [github/roadmap](https://github.com/github/roadmap)** _(Apr 24, 2026)_
+- **Starred [github/spec-kit](https://github.com/github/spec-kit)** _(Apr 24, 2026)_
+- **Starred [github/gh-aw-mcpg](https://github.com/github/gh-aw-mcpg)** _(Apr 24, 2026)_
+- **Starred [github/gh-aw](https://github.com/github/gh-aw)** _(Apr 24, 2026)_
 - **Starred [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration)** _(Apr 23, 2026)_
 - **Starred [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)** _(Apr 23, 2026)_
 - **Starred [DucPhamNgoc08/CodeVisualizer](https://github.com/DucPhamNgoc08/CodeVisualizer)** _(Apr 22, 2026)_
 - **Starred [GitchatSH/gitchat_extension](https://github.com/GitchatSH/gitchat_extension)** _(Apr 22, 2026)_
 - **Starred [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt)** _(Apr 21, 2026)_
-
-<details>
-  <summary>Show 70 more starred repositories...</summary>
-
 - **Starred [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** _(Apr 21, 2026)_
 - **Starred [postgis/postgis](https://github.com/postgis/postgis)** _(Apr 20, 2026)_
 - **Starred [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** _(Apr 20, 2026)_
