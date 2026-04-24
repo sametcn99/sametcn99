@@ -89,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 172                                     |
+| **Total Stars Earned:**    | 173                                     |
 | **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 63                                      |
 | **Active Repositories:**   | 56                                      |
@@ -211,11 +211,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 
 <details>
-  <summary>Show 3 more other activity...</summary>
+  <summary>Show 2 more other activity...</summary>
 
 - **Deleted branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/MicroServiceLearn](https://github.com/sametcn99/MicroServiceLearn)** _(Mar 25, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Mar 24, 2026)_
 
 </details>
 
@@ -227,6 +226,7 @@ A quick overview of ongoing discussions, tracked bugs, and feature requests acro
 
 Active issues I am currently tracking or planning to work on.
 
+- [**Support adapting the toolbar button tooltip text to VitePress’s multilingual setup.**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Apr 24, 2026)_
 - [**[Feature Request] Add a way to sync events from and to CalDAV server**](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Mar 27, 2026)_
 - [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
 - [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
@@ -245,16 +245,16 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 24, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 23, 2026_<br />actively developing
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★54 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 23, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★54 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★55 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 23, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
@@ -283,7 +283,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★3 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 23, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★2 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★2 -
@@ -395,15 +395,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thank you to everyone who starred my repositories in the last month! Your support is much appreciated.
 
+- [**@ajiho**](https://github.com/ajiho) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 24, 2026)_
 - [**@donovinsims**](https://github.com/donovinsims) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 22, 2026)_
 - [**@elartix**](https://github.com/elartix) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 10, 2026)_
 - [**@qiuhq-9527**](https://github.com/qiuhq-9527) starred [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) _(Apr 9, 2026)_
 - [**@lt-flan**](https://github.com/lt-flan) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 9, 2026)_
-- [**@liushoukun**](https://github.com/liushoukun) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 
 <details>
-  <summary>Show 10 more stargazers...</summary>
+  <summary>Show 11 more stargazers...</summary>
 
+- [**@liushoukun**](https://github.com/liushoukun) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 - [**@yangzupan**](https://github.com/yangzupan) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 - [**@Maiturin**](https://github.com/Maiturin) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 6, 2026)_
 - [**@developer239**](https://github.com/developer239) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 5, 2026)_
