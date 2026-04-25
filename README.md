@@ -129,7 +129,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 81 more starred repositories...</summary>
 
 - **Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)** _(Apr 24, 2026)_
 - **Starred [PostHog/posthog](https://github.com/PostHog/posthog)** _(Apr 24, 2026)_
@@ -212,7 +212,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Mar 27, 2026)_
 - **Starred [boltgolt/howdy](https://github.com/boltgolt/howdy)** _(Mar 27, 2026)_
 - **Starred [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api)** _(Mar 26, 2026)_
-- **Starred [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)** _(Mar 25, 2026)_
 
 </details>
 
@@ -225,11 +224,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 
 <details>
-  <summary>Show 3 more other activity...</summary>
+  <summary>Show 2 more other activity...</summary>
 
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/MicroServiceLearn](https://github.com/sametcn99/MicroServiceLearn)** _(Mar 25, 2026)_
 
 </details>
 
@@ -241,6 +239,7 @@ A quick overview of ongoing discussions, tracked bugs, and feature requests acro
 
 Active issues I am currently tracking or planning to work on.
 
+- [**&#x60;tooltips.copyCode&#x60; doesn’t seem to be working.**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/9) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Apr 25, 2026)_
 - [**[Feature Request] Add a way to sync events from and to CalDAV server**](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Mar 27, 2026)_
 - [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
 - [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
@@ -259,12 +258,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 25, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★55 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 24, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 ### Active Repositories
 
@@ -297,7 +296,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★3 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★2 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★2 -
