@@ -90,7 +90,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 173                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 63                                      |
 | **Active Repositories:**   | 56                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -112,6 +112,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Comments
 
+- **Commented on issue [&#x60;tooltips.copyCode&#x60; doesn’t seem to be working.](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/9) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 25, 2026)_
 - **Commented on issue [Support adapting the toolbar button tooltip text to VitePress’s multilingual setup.](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Commented on issue [Diagram disappears after zooming out from fullscreen](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/7) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Commented on issue [[Feature Request] Add a way to sync events from and to CalDAV server](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Mar 27, 2026)_
@@ -122,15 +123,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [google/skills](https://github.com/google/skills)** _(Apr 25, 2026)_
 - **Starred [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy)** _(Apr 25, 2026)_
 - **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
 - **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
 - **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
-- **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
 
 <details>
-  <summary>Show 81 more starred repositories...</summary>
+  <summary>Show 82 more starred repositories...</summary>
 
+- **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
 - **Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)** _(Apr 24, 2026)_
 - **Starred [PostHog/posthog](https://github.com/PostHog/posthog)** _(Apr 24, 2026)_
 - **Starred [google/osv-scanner](https://github.com/google/osv-scanner)** _(Apr 24, 2026)_
@@ -258,17 +260,17 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★55 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 25, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 25, 2026_<br />No description provided.
-- [**application-tracker**](https://github.com/sametcn99/application-tracker) -
-  TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
 
 ### Active Repositories
 
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★55 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 24, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 25, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
 - [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★14 -
