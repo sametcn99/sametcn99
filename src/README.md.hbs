@@ -89,7 +89,7 @@ activity.others.length)}}
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 {{#each posts.recent}}
-- [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
+- [**{{title}}**]({{url}}){{#if publishedDate}} *(published: {{publishedDate}}{{#if updatedDate}} • updated: {{updatedDate}}{{/if}})*{{/if}}<br />{{summary}}
 {{/each}}
 
 {{#if posts.older.length}}
@@ -97,7 +97,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
   <summary>Show {{posts.older.length}} more posts...</summary>
 
   {{#each posts.older}}
-  - [**{{title}}**]({{url}}){{dateStr}}<br />{{summary}}
+  - [**{{title}}**]({{url}}){{#if publishedDate}} *(published: {{publishedDate}}{{#if updatedDate}} • updated: {{updatedDate}}{{/if}})*{{/if}}<br />{{summary}}
   {{/each}}
 </details>
 {{/if}}

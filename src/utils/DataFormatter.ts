@@ -5,7 +5,8 @@ export interface FormattedPost {
 	title: string;
 	url: string;
 	summary: string;
-	dateStr: string;
+	publishedDate: string;
+	updatedDate: string;
 }
 
 /** Shape used by the template when rendering repository information. */
@@ -349,16 +350,19 @@ export class DataFormatter {
 		});
 
 		const format = (item: FeedItem): FormattedPost => {
-			const date = item.date_published
+			const publishedDate = item.date_published
 				? formatDateLong(item.date_published)
 				: "";
-			const dateStr = date ? ` *(${date})*` : "";
+			const updatedDate = item.date_modified
+				? formatDateLong(item.date_modified)
+				: "";
 
 			return {
 				title: item.title,
 				url: item.url,
 				summary: item.summary,
-				dateStr,
+				publishedDate,
+				updatedDate,
 			};
 		};
 
