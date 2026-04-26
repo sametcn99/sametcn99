@@ -91,8 +91,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 173                                     |
 | **Commits (7d):**          | 40+                                     |
-| **Total Repositories:**    | 63                                      |
-| **Active Repositories:**   | 56                                      |
+| **Total Repositories:**    | 64                                      |
+| **Active Repositories:**   | 57                                      |
 | **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -123,15 +123,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [openlayers/openlayers](https://github.com/openlayers/openlayers)** _(Apr 25, 2026)_
 - **Starred [google/skills](https://github.com/google/skills)** _(Apr 25, 2026)_
 - **Starred [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy)** _(Apr 25, 2026)_
 - **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
 - **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
-- **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 83 more starred repositories...</summary>
 
+- **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
 - **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
 - **Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)** _(Apr 24, 2026)_
 - **Starred [PostHog/posthog](https://github.com/PostHog/posthog)** _(Apr 24, 2026)_
@@ -219,15 +220,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;master&#x60; in [sametcn99/openlayers-dotnet-test](https://github.com/sametcn99/openlayers-dotnet-test)** _(Apr 25, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Public in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker)** _(Apr 21, 2026)_
 - **Public in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case)** _(Apr 9, 2026)_
-- **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 
 <details>
-  <summary>Show 2 more other activity...</summary>
+  <summary>Show 3 more other activity...</summary>
 
+- **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 
@@ -260,12 +262,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**openlayers-dotnet-test**](https://github.com/sametcn99/openlayers-dotnet-test) -
+  C#<br />_Created: Apr 25, 2026 • Updated: Apr 25, 2026_<br />No description provided.
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★55 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 25, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 25, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -281,7 +283,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 50 more repositories...</summary>
+  <summary>Show 51 more repositories...</summary>
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★9 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -327,6 +329,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**openlayers-dotnet-test**](https://github.com/sametcn99/openlayers-dotnet-test) -
+  C#<br />_Created: Apr 25, 2026 • Updated: Apr 25, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 25, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
