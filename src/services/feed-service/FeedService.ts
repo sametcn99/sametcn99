@@ -20,6 +20,7 @@ export class FeedService implements IDataFetcher<FeedItem[]> {
 					title: item.title || "Untitled",
 					summary: item.summary || item.content_text || "",
 					date_published: item.date_published,
+					date_modified: item.date_modified,
 				}))
 				.filter((item) => item.url !== "");
 		} catch (error) {

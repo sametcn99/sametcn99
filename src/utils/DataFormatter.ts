@@ -330,10 +330,21 @@ export class DataFormatter {
 		recent: FormattedPost[];
 		older: FormattedPost[];
 	} {
-		// Ensure posts are ordered newest -> oldest based on `date_published`.
+		const getSortTime = (item: FeedItem): number => {
+			const publishedAt = item.date_published
+				? new Date(item.date_published).getTime()
+				: 0;
+			const updatedAt = item.date_modified
+				? new Date(item.date_modified).getTime()
+				: 0;
+
+			return Math.max(publishedAt, updatedAt);
+		};
+
+		// Ensure posts are ordered newest -> oldest based on publish/update time.
 		const sorted = posts.slice().sort((a, b) => {
-			const ta = new Date(a.date_published || 0).getTime();
-			const tb = new Date(b.date_published || 0).getTime();
+			const ta = getSortTime(a);
+			const tb = getSortTime(b);
 			return tb - ta;
 		});
 

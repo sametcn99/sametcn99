@@ -6,6 +6,7 @@ type FeedItem = {
 	title: string;
 	summary: string;
 	date_published?: string;
+	date_modified?: string;
 };
 
 /** Aggregated counts surfaced to the README template. */
