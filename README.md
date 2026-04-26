@@ -419,7 +419,7 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@lt-flan**](https://github.com/lt-flan) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 9, 2026)_
 
 <details>
-  <summary>Show 10 more stargazers...</summary>
+  <summary>Show 9 more stargazers...</summary>
 
 - [**@liushoukun**](https://github.com/liushoukun) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 - [**@yangzupan**](https://github.com/yangzupan) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
@@ -430,7 +430,6 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@octifakker**](https://github.com/octifakker) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 30, 2026)_
 - [**@faustovo2003-commits**](https://github.com/faustovo2003-commits) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 29, 2026)_
 - [**@Danilarious**](https://github.com/Danilarious) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 28, 2026)_
-- [**@SiberizmBey**](https://github.com/SiberizmBey) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 27, 2026)_
 </details>
 
 ## Automated Workflows
