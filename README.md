@@ -130,7 +130,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 81 more starred repositories...</summary>
 
 - **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
 - **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
@@ -213,7 +213,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)** _(Mar 28, 2026)_
 - **Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)** _(Mar 27, 2026)_
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Mar 27, 2026)_
-- **Starred [boltgolt/howdy](https://github.com/boltgolt/howdy)** _(Mar 27, 2026)_
 
 </details>
 
