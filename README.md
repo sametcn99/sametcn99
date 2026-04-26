@@ -220,7 +220,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
-- **Created branch &#x60;master&#x60; in [sametcn99/openlayers-dotnet-test](https://github.com/sametcn99/openlayers-dotnet-test)** _(Apr 25, 2026)_
+- **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 25, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Public in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker)** _(Apr 21, 2026)_
@@ -243,7 +243,6 @@ A quick overview of ongoing discussions, tracked bugs, and feature requests acro
 
 Active issues I am currently tracking or planning to work on.
 
-- [**&#x60;tooltips.copyCode&#x60; doesn’t seem to be working.**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/9) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Apr 25, 2026)_
 - [**[Feature Request] Add a way to sync events from and to CalDAV server**](https://github.com/sametcn99/booking-calendar/issues/2) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Mar 27, 2026)_
 - [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
 - [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
@@ -262,12 +261,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
-- [**openlayers-dotnet-test**](https://github.com/sametcn99/openlayers-dotnet-test) -
-  C#<br />_Created: Apr 25, 2026 • Updated: Apr 25, 2026_<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 26, 2026_<br />No description provided.
+- [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) -
+  C#<br />_Created: Apr 25, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★55 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 25, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -329,10 +328,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
-- [**openlayers-dotnet-test**](https://github.com/sametcn99/openlayers-dotnet-test) -
-  C#<br />_Created: Apr 25, 2026 • Updated: Apr 25, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 25, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 26, 2026_<br />No description provided.
+- [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) -
+  C#<br />_Created: Apr 25, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
