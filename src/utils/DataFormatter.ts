@@ -56,6 +56,9 @@ export class DataFormatter {
 			case "DeleteEvent":
 				activity = DataFormatter.formatDeleteEvent(event, repoName, repoUrl);
 				break;
+			case "PushEvent":
+				activity = DataFormatter.formatPushEvent(event, repoName, repoUrl);
+				break;
 			case "IssuesEvent":
 				activity = DataFormatter.formatIssuesEvent(event, repoName, repoUrl);
 				break;
@@ -109,6 +112,7 @@ export class DataFormatter {
 	 * Categorizes and formats events into groups for the README.
 	 */
 	static prepareActivityData(events: GitHubEvent[]): {
+		pushes: { visible: string[]; hidden: string[]; length: number };
 		pullRequests: { visible: string[]; hidden: string[]; length: number };
 		comments: { visible: string[]; hidden: string[]; length: number };
 		releases: { visible: string[]; hidden: string[]; length: number };
@@ -116,6 +120,7 @@ export class DataFormatter {
 		others: { visible: string[]; hidden: string[]; length: number };
 	} {
 		const groups = {
+			pushes: [] as string[],
 			pullRequests: [] as string[],
 			comments: [] as string[],
 			releases: [] as string[],
@@ -123,14 +128,14 @@ export class DataFormatter {
 			others: [] as string[],
 		};
 
-		// Filter out push events as they are too noisy and often not informative in a README
-		const relevantEvents = events.filter((e) => e.type !== "PushEvent");
-
-		for (const event of relevantEvents) {
+		for (const event of events) {
 			const formatted = DataFormatter.formatActivity(event);
 			if (!formatted) continue;
 
 			switch (event.type) {
+				case "PushEvent":
+					groups.pushes.push(formatted);
+					break;
 				case "PullRequestEvent":
 				case "PullRequestReviewEvent":
 					groups.pullRequests.push(formatted);
@@ -160,6 +165,7 @@ export class DataFormatter {
 		};
 
 		return {
+			pushes: splitGroup(groups.pushes, 5),
 			pullRequests: splitGroup(groups.pullRequests, 5),
 			comments: splitGroup(groups.comments, 5),
 			releases: splitGroup(groups.releases, 5),
@@ -408,6 +414,80 @@ export class DataFormatter {
 			return `Deleted ${refType} \`${ref}\` in [${repoName}](${repoUrl})`;
 		}
 		return "";
+	}
+
+	/** Describes commits pushed to a repository branch. */
+	private static formatPushEvent(
+		event: GitHubEvent,
+		repoName: string,
+		repoUrl: string,
+	): string {
+		if (event.payload) {
+			const payload = event.payload as {
+				size?: number;
+				distinct_size?: number;
+				ref?: string;
+				head?: string;
+				before?: string;
+				commits?: { sha?: string; message?: string; url?: string }[];
+			};
+			if (!payload.ref && !payload.head && !payload.commits?.length) {
+				return "";
+			}
+
+			const branch = payload.ref
+				? payload.ref.replace(/^refs\/(heads|tags)\//, "")
+				: "unknown ref";
+			const commits = payload.commits ?? [];
+			const commitCount =
+				payload.size ?? payload.distinct_size ?? commits.length;
+			const commitWord = commitCount === 1 ? "commit" : "commits";
+			const pushAction =
+				commitCount > 0 ? `Pushed ${commitCount} ${commitWord}` : "Pushed";
+			const commitLinks = commits.slice(0, 3).map((commit) => {
+				const message = DataFormatter.formatCommitMessage(commit.message);
+				const commitUrl = commit.sha
+					? `${repoUrl}/commit/${commit.sha}`
+					: commit.url
+						? commit.url
+								.replace("api.github.com/repos", "github.com")
+								.replace("/commits/", "/commit/")
+						: "";
+
+				return commitUrl ? `[${message}](${commitUrl})` : message;
+			});
+			const hiddenCommitCount = Math.max(commitCount - commitLinks.length, 0);
+			let commitSummary = "";
+			if (commitLinks.length) {
+				commitSummary = `: ${commitLinks.join(", ")}${hiddenCommitCount > 0 ? ` and ${hiddenCommitCount} more` : ""}`;
+			} else if (payload.head) {
+				const shortHead = payload.head.slice(0, 7);
+				const hasCompareRange =
+					payload.before && !DataFormatter.isZeroSha(payload.before);
+				commitSummary = hasCompareRange
+					? `: [${payload.before?.slice(0, 7)}...${shortHead}](${repoUrl}/compare/${payload.before}...${payload.head})`
+					: `: [${shortHead}](${repoUrl}/commit/${payload.head})`;
+			}
+
+			return `${pushAction} to \`${branch}\` in [${repoName}](${repoUrl})${commitSummary}`;
+		}
+		return "";
+	}
+
+	/** Identifies the all-zero SHA GitHub uses when a ref has no previous commit. */
+	private static isZeroSha(sha: string): boolean {
+		return /^0+$/.test(sha);
+	}
+
+	/** Keeps pushed commit messages compact and Markdown-link safe. */
+	private static formatCommitMessage(message: string | undefined): string {
+		const firstLine = message?.split("\n")[0]?.trim() || "commit";
+		const compact =
+			firstLine.length > 72 ? `${firstLine.slice(0, 69).trim()}...` : firstLine;
+		return compact
+			.replace(/\\/g, "\\\\")
+			.replace(/\[/g, "\\[")
+			.replace(/\]/g, "\\]");
 	}
 
 	/** Describes issues lifecycle events. */

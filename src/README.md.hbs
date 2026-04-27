@@ -16,9 +16,12 @@ grow.
 - [Latest Writing](#latest-writing)
 {{/if}}
 - [GitHub Snapshot](#github-snapshot)
-{{#if (any activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
+{{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
 activity.others.length)}}
 - [Recent GitHub Activity](#recent-github-activity)
+  {{#if activity.pushes.length}}
+  - [Pushes](#pushes)
+  {{/if}}
   {{#if activity.pullRequests.length}}
   - [Pull Requests](#pull-requests)
   {{/if}}
@@ -117,12 +120,30 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | **Top Languages:** | {{stats.topLanguages}} |
 | **Account Age:** | {{stats.accountAge}} |
 
-{{#if (any activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
+{{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
 activity.others.length)}}
 
 ## Recent GitHub Activity
 
 Recent public activity across pull requests, releases, discussions, and other open-source work.
+
+{{#if activity.pushes.length}}
+### Pushes
+{{#each activity.pushes.visible}}
+- {{this}}
+{{/each}}
+{{#if activity.pushes.hidden.length}}
+
+<details>
+  <summary>Show {{activity.pushes.hidden.length}} more pushes...</summary>
+
+  {{#each activity.pushes.hidden}}
+  - {{this}}
+  {{/each}}
+
+</details>
+{{/if}}
+{{/if}}
 
 {{#if activity.pullRequests.length}}
 ### Pull Requests
