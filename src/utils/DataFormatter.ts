@@ -29,16 +29,6 @@ export interface FormattedIssue {
 	dateStr: string;
 }
 
-/** Shape used by the template when rendering a recent stargazer. */
-export interface FormattedStargazer {
-	username: string;
-	avatarUrl: string;
-	profileUrl: string;
-	starredAt: string;
-	repoName: string;
-	repoUrl: string;
-}
-
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
 export class DataFormatter {
 	/** Formats GitHub activity events into readable Markdown snippets. */
@@ -646,46 +636,5 @@ export class DataFormatter {
 			return `Added @${member?.login} as collaborator to [${repoName}](${repoUrl})`;
 		}
 		return "";
-	}
-
-	/** Formats a raw stargazer object into the template shape. */
-	static formatStargazer(stargazer: {
-		starred_at: string;
-		user: { login: string; avatar_url: string; html_url: string };
-		repo?: string;
-	}): FormattedStargazer {
-		const repoName = stargazer.repo || "a repository";
-		return {
-			username: stargazer.user.login,
-			avatarUrl: stargazer.user.avatar_url,
-			profileUrl: stargazer.user.html_url,
-			repoName,
-			repoUrl: stargazer.repo
-				? `https://github.com/sametcn99/${stargazer.repo}`
-				: "",
-			starredAt: stargazer.starred_at
-				? formatDateLong(stargazer.starred_at)
-				: "Recently",
-		};
-	}
-
-	/** Prepares stargazer data, extracting the top 5 for display. */
-	static prepareRecentStargazersData(
-		stargazers: {
-			starred_at: string;
-			user: { login: string; avatar_url: string; html_url: string };
-			repo?: string;
-		}[],
-	): {
-		visible: FormattedStargazer[];
-		hidden: FormattedStargazer[];
-		length: number;
-	} {
-		const formatted = stargazers.map((s) => DataFormatter.formatStargazer(s));
-		return {
-			visible: formatted.slice(0, 5),
-			hidden: formatted.slice(5),
-			length: formatted.length,
-		};
 	}
 }

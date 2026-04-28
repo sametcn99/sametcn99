@@ -1,7 +1,6 @@
 import Handlebars from "handlebars";
 import { FeedService } from "./services/feed-service/FeedService";
 import { GitHubDataProvider } from "./services/github-service/GitHubDataProvider";
-import type { RawStargazer } from "./services/github-service/RecentStargazersFetcher";
 import { TelegramService } from "./services/telegram-service/TelegramService";
 import { DataFormatter } from "./utils/DataFormatter";
 
@@ -50,8 +49,6 @@ class Application {
 		const issuesPromise = this.githubProvider.fetchOpenIssues(reposDataPromise);
 		const userProfilePromise = this.githubProvider.fetchProfile();
 		const workflowPromise = this.githubProvider.fetchWorkflow();
-		const stargazersPromise =
-			this.githubProvider.fetchRecentStargazers(reposDataPromise);
 
 		const userStatsPromise = this.githubProvider.fetchUserStats(
 			reposDataPromise,
@@ -66,7 +63,6 @@ class Application {
 			userProfile,
 			workflowData,
 			userStats,
-			stargazers,
 		] = await Promise.all([
 			recentPostsPromise,
 			reposDataPromise,
@@ -75,14 +71,12 @@ class Application {
 			userProfilePromise,
 			workflowPromise,
 			userStatsPromise,
-			stargazersPromise,
 		]);
 
 		if (!userProfile) {
 			throw new Error("Failed to fetch user profile");
 		}
 
-		const previousStargazers: RawStargazer[] = [];
 		const previousIssueUrls: Set<string> = new Set();
 
 		try {
@@ -90,24 +84,9 @@ class Application {
 			if (await readmeFile.exists()) {
 				const readmeContent = await readmeFile.text();
 
-				const stargazerRegex =
-					/- \[\*\*@(.+?)\*\*\]\(([^)]+)\) starred \[\*\*(.+?)\*\*\]/g;
-				let match: RegExpExecArray | null;
-				// biome-ignore lint/suspicious/noAssignInExpressions: standard regex loop
-				while ((match = stargazerRegex.exec(readmeContent)) !== null) {
-					previousStargazers.push({
-						user: {
-							login: match[1] ?? "",
-							html_url: match[2] ?? "",
-							avatar_url: "",
-						},
-						repo: match[3] ?? "",
-						starred_at: "",
-					});
-				}
-
 				const issueRegex =
 					/- \[\*\*(.+?)\*\*\]\((https:\/\/github\.com\/[^/]+\/[^/]+\/issues\/\d+)\)/g;
+				let match: RegExpExecArray | null;
 				// biome-ignore lint/suspicious/noAssignInExpressions: standard regex loop
 				while ((match = issueRegex.exec(readmeContent)) !== null) {
 					previousIssueUrls.add(match[2] ?? "");
@@ -117,13 +96,6 @@ class Application {
 			console.error("Failed to read previous state from README", e);
 		}
 
-		const addedStargazers = stargazers.filter(
-			(s) => !previousStargazers.some((p) => p.user.login === s.user.login),
-		);
-		const removedStargazers = previousStargazers.filter(
-			(p) => !stargazers.some((s) => s.user.login === p.user.login),
-		);
-
 		const newIssues = openIssues.filter(
 			(issue) => !previousIssueUrls.has(issue.html_url),
 		);
@@ -132,11 +104,7 @@ class Application {
 			process.env.TELEGRAM_BOT_TOKEN,
 			process.env.TELEGRAM_CHAT_ID,
 		);
-		await telegramService.sendChangeMessage(
-			addedStargazers,
-			removedStargazers,
-			newIssues,
-		);
+		await telegramService.sendChangeMessage(newIssues);
 
 		const templateSource = await Bun.file("src/README.md.hbs").text();
 		const template = Handlebars.compile(templateSource);
@@ -160,7 +128,6 @@ class Application {
 			stats: userStats,
 			repos: DataFormatter.prepareRepoData(reposData),
 			workflow,
-			stargazers: DataFormatter.prepareRecentStargazersData(stargazers),
 			generatedAt: new Date().toUTCString(),
 		};
 

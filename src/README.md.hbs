@@ -55,10 +55,6 @@ activity.others.length)}}
   - [Archived Repositories](#archived-repositories)
   {{/if}}
 {{/if}}
-{{#if stargazers.length}}
-- [Recent Stargazers](#recent-stargazers)
-{{/if}}
-- [Automated Workflows](#automated-workflows)
 
 ## Tech Stack
 
@@ -360,26 +356,6 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 {{/if}}
 {{/if}}
 {{/if}}
-{{#if stargazers.length}}
-
-## Recent Stargazers
-
-Thank you to everyone who starred my repositories in the last month! Your support is much appreciated.
-
-{{#each stargazers.visible}}
-- [**@{{username}}**]({{profileUrl}}) starred [**{{repoName}}**]({{repoUrl}}) *({{starredAt}})*
-{{/each}}
-
-{{#if stargazers.hidden.length}}
-<details>
-  <summary>Show {{stargazers.hidden.length}} more stargazers...</summary>
-
-  {{#each stargazers.hidden}}
-  - [**@{{username}}**]({{profileUrl}}) starred [**{{repoName}}**]({{repoUrl}}) *({{starredAt}})*
-  {{/each}}
-</details>
-{{/if}}
-{{/if}}
 
 ## Automated Workflows
 
@@ -387,4 +363,3 @@ This GitHub profile is maintained and powered by several automated GitHub Action
 
 - **[Update Profile README](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/update-readme.yml)**: Regularly fetches my latest GitHub activity, blog posts, and repository stats to keep this README automatically updated via a daily cron schedule.
 - **[Auto Follow Back](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-back.yml)**: A scheduled workflow that automatically checks my recent followers and follows them back to return the favor.
-- **[Stargazer Follow](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-stargazers.yml)**: A weekly automated workflow that finds users who recently starred my repositories and follows them to show appreciation.

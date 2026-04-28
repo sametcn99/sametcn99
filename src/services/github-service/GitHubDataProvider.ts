@@ -3,10 +3,6 @@ import { EventFetcher } from "./EventFetcher";
 import { GitHubService } from "./GitHubService";
 import { OpenIssueFetcher } from "./OpenIssueFetcher";
 import { ProfileFetcher } from "./ProfileFetcher";
-import {
-	type RawStargazer,
-	RecentStargazersFetcher,
-} from "./RecentStargazersFetcher";
 import { RepositoryFetcher } from "./RepositoryFetcher";
 import { UserStatsFetcher } from "./UserStatsFetcher";
 import { WorkflowFetcher } from "./WorkflowFetcher";
@@ -53,18 +49,6 @@ export class GitHubDataProvider {
 	/** Fetches the most recent workflow run for the repo matching the username. */
 	async fetchWorkflow(): Promise<WorkflowRun | null> {
 		const fetcher = new WorkflowFetcher(this.service, this.octokit);
-		return fetcher.fetch();
-	}
-
-	/** Fetches the most recent stargazers across top repositories. */
-	async fetchRecentStargazers(
-		reposData: Promise<Repository[]>,
-	): Promise<RawStargazer[]> {
-		const fetcher = new RecentStargazersFetcher(
-			this.service,
-			this.octokit,
-			reposData,
-		);
 		return fetcher.fetch();
 	}
 

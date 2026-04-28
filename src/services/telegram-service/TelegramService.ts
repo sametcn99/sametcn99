@@ -1,5 +1,3 @@
-import type { RawStargazer } from "../github-service/RecentStargazersFetcher";
-
 export class TelegramService {
 	constructor(
 		private readonly botToken?: string,
@@ -15,8 +13,6 @@ export class TelegramService {
 	}
 
 	async sendChangeMessage(
-		addedStargazers: RawStargazer[],
-		removedStargazers: RawStargazer[],
 		newIssues: { title: string; html_url: string }[],
 	): Promise<void> {
 		if (!this.botToken || !this.chatId) {
@@ -26,42 +22,17 @@ export class TelegramService {
 			return;
 		}
 
-		if (
-			addedStargazers.length === 0 &&
-			removedStargazers.length === 0 &&
-			newIssues.length === 0
-		) {
-			console.log(
-				"No new stargazers or issues to report. Skipping Telegram notification.",
-			);
+		if (newIssues.length === 0) {
+			console.log("No new issues to report. Skipping Telegram notification.");
 			return;
 		}
 
-		let message = "🌟 <b>GitHub Profile Update</b> 🌟\n\n";
-
-		if (addedStargazers.length > 0) {
-			message += "✅ <b>New Stargazers:</b>\n";
-			for (const stargazer of addedStargazers) {
-				message += `- <a href="${stargazer.user.html_url}">${this.escapeHtml(stargazer.user.login)}</a> on <i>${this.escapeHtml(stargazer.repo)}</i>\n`;
-			}
-			message += "\n";
+		let message = "🐛 <b>GitHub Profile Update</b> 🐛\n\n";
+		message += "<b>New Open Issues:</b>\n";
+		for (const issue of newIssues) {
+			message += `- <a href="${issue.html_url}">${this.escapeHtml(issue.title)}</a>\n`;
 		}
-
-		if (removedStargazers.length > 0) {
-			message += "❌ <b>Removed/Expired Stargazers:</b>\n";
-			for (const stargazer of removedStargazers) {
-				message += `- <a href="${stargazer.user.html_url}">${this.escapeHtml(stargazer.user.login)}</a> on <i>${this.escapeHtml(stargazer.repo)}</i>\n`;
-			}
-			message += "\n";
-		}
-
-		if (newIssues.length > 0) {
-			message += "🐛 <b>New Open Issues:</b>\n";
-			for (const issue of newIssues) {
-				message += `- <a href="${issue.html_url}">${this.escapeHtml(issue.title)}</a>\n`;
-			}
-			message += "\n";
-		}
+		message += "\n";
 
 		try {
 			const response = await fetch(
