@@ -46,12 +46,11 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**Golter**](https://sametcc.me/project/golter) _(published: Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
 
 <details>
-  <summary>Show 21 more posts...</summary>
+  <summary>Show 20 more posts...</summary>
 
 - [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
 - [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(published: Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
 - [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(published: Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
-- [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) _(published: Dec 17, 2025)_<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
 - [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) _(published: Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
 - [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) _(published: Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
 - [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) _(published: Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
@@ -76,7 +75,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 156                                     |
-| **Commits (7d):**          | 40+                                     |
+| **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -91,15 +90,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...0bde0cb](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...0bde0cbbe1f0f78d23857cad5278599831647394)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b09c864...f847697](https://github.com/sametcn99/sametcn99/compare/b09c864bce37e4c4a3da717a281c4785ae052a02...f847697b8e671ffa99d0b26d87794babda161ed9)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4ac087d...5630abc](https://github.com/sametcn99/sametcn99/compare/4ac087d5e277000d1a447008e3a98958a030deb0...5630abc6d0eba10c26d2e975af11fcaf447bcc48)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [77db73b...c6f2b14](https://github.com/sametcn99/sametcn99/compare/77db73bb1bab9f422301ae3086ed3f9c47cfa8c7...c6f2b1480fbbc3aaf8c3f8c32364619165be61a0)** _(Apr 27, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo): [5208280...224b4fc](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo/compare/52082801d1d336680a7cee28227c438baa0c3123...224b4fc6e76ada2164baca7c1fa98931a2ac25ee)** _(Apr 26, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d2ac9db...a451a45](https://github.com/sametcn99/sametcn99/compare/d2ac9dbdfba4838359e678f269714723044a5eaa...a451a452a7a23c1c1979b2d9102516ed50a2700f)** _(Apr 26, 2026)_
 
 <details>
-  <summary>Show 82 more pushes...</summary>
+  <summary>Show 83 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d2ac9db...a451a45](https://github.com/sametcn99/sametcn99/compare/d2ac9dbdfba4838359e678f269714723044a5eaa...a451a452a7a23c1c1979b2d9102516ed50a2700f)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0857d11...d2ac9db](https://github.com/sametcn99/sametcn99/compare/0857d11527aa21a6e8888c4b95a2dc89b6e78462...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [a1e573b...d2ac9db](https://github.com/sametcn99/sametcn99/compare/a1e573b4533dd2a8eac7320c6435c34c0605acc7...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [06a9ee2...fd624b6](https://github.com/sametcn99/personal-website-blazor/compare/06a9ee29637fc8cdb986e010f2d451d063b92886...fd624b67b60031ddd659abbc5d6e3f1321e47af9)** _(Apr 26, 2026)_
@@ -331,12 +331,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 28, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 28, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 28, 2026_<br />No description provided.
-- [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) ★1 -
-  C#<br />_Created: Apr 26, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -388,6 +388,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 28, 2026_<br />No description provided.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) -
@@ -402,8 +404,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 28, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 26, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
