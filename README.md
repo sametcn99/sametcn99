@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
-- [Engineering Principles](#engineering-principles)
 - [Latest Writing](#latest-writing)
 - [GitHub Snapshot](#github-snapshot)
 - [Recent GitHub Activity](#recent-github-activity)
@@ -92,15 +91,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b09c864...f847697](https://github.com/sametcn99/sametcn99/compare/b09c864bce37e4c4a3da717a281c4785ae052a02...f847697b8e671ffa99d0b26d87794babda161ed9)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4ac087d...5630abc](https://github.com/sametcn99/sametcn99/compare/4ac087d5e277000d1a447008e3a98958a030deb0...5630abc6d0eba10c26d2e975af11fcaf447bcc48)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [77db73b...c6f2b14](https://github.com/sametcn99/sametcn99/compare/77db73bb1bab9f422301ae3086ed3f9c47cfa8c7...c6f2b1480fbbc3aaf8c3f8c32364619165be61a0)** _(Apr 27, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo): [5208280...224b4fc](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo/compare/52082801d1d336680a7cee28227c438baa0c3123...224b4fc6e76ada2164baca7c1fa98931a2ac25ee)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d2ac9db...a451a45](https://github.com/sametcn99/sametcn99/compare/d2ac9dbdfba4838359e678f269714723044a5eaa...a451a452a7a23c1c1979b2d9102516ed50a2700f)** _(Apr 26, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0857d11...d2ac9db](https://github.com/sametcn99/sametcn99/compare/0857d11527aa21a6e8888c4b95a2dc89b6e78462...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
 
 <details>
-  <summary>Show 81 more pushes...</summary>
+  <summary>Show 82 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0857d11...d2ac9db](https://github.com/sametcn99/sametcn99/compare/0857d11527aa21a6e8888c4b95a2dc89b6e78462...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [a1e573b...d2ac9db](https://github.com/sametcn99/sametcn99/compare/a1e573b4533dd2a8eac7320c6435c34c0605acc7...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [06a9ee2...fd624b6](https://github.com/sametcn99/personal-website-blazor/compare/06a9ee29637fc8cdb986e010f2d451d063b92886...fd624b67b60031ddd659abbc5d6e3f1321e47af9)** _(Apr 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest): [6eecc1c...c0bcefc](https://github.com/sametcn99/OpenLayersDotnetTest/compare/6eecc1c68a57b59e9e1617b8e97f8ed048b7870a...c0bcefc627c7d23ca9e010d57dd179c1073230a1)** _(Apr 26, 2026)_
