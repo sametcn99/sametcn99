@@ -1,9 +1,3 @@
-# Hi,
-
-I build software across **frontend**, **backend**, and **DevOps** with a strong bias toward maintainability, clear
-architecture, and reliable delivery. My focus is shipping production-ready systems that stay understandable as they
-grow.
-
 [Website](https://sametcc.me) · [Project Board](https://github.com/users/sametcn99/projects/9) ·
 [LinkedIn](https://sametcc.me/link/linkedin) · [Telegram](https://sametcc.me/link/telegram) ·
 [Mail](https://sametcc.me/link/mail)
@@ -35,19 +29,12 @@ grow.
 | Area            | Technologies                                        |
 | :-------------- | :-------------------------------------------------- |
 | **Frontend**    | React, Next.js, Vue, Blazor, TypeScript, JavaScript |
-| **Backend**     | .NET, NestJS, Node.js, Bun, C#                      |
+| **Backend**     | .NET, NestJS, Node.js, Bun                          |
 | **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB                |
 | **DevOps**      | GitHub Actions, Docker, Coolify                     |
 | **Desktop**     | Electron, .NET MAUI, .NET Windows Forms             |
 | **Languages**   | C#, TypeScript, JavaScript, Python                  |
 | **Environment** | Fedora KDE                                          |
-
-## Engineering Principles
-
-- Prefer clean, readable code over clever shortcuts
-- Optimize for long-term maintainability, not short-term convenience
-- Automate repetitive development and deployment work
-- Keep learning, refining workflows, and improving delivery quality
 
 ## Latest Writing
 
@@ -89,10 +76,10 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 175                                     |
-| **Commits (7d):**          | 50+                                     |
-| **Total Repositories:**    | 65                                      |
-| **Active Repositories:**   | 58                                      |
+| **Total Stars Earned:**    | 156                                     |
+| **Commits (7d):**          | 40+                                     |
+| **Total Repositories:**    | 61                                      |
+| **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -105,15 +92,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4ac087d...5630abc](https://github.com/sametcn99/sametcn99/compare/4ac087d5e277000d1a447008e3a98958a030deb0...5630abc6d0eba10c26d2e975af11fcaf447bcc48)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [77db73b...c6f2b14](https://github.com/sametcn99/sametcn99/compare/77db73bb1bab9f422301ae3086ed3f9c47cfa8c7...c6f2b1480fbbc3aaf8c3f8c32364619165be61a0)** _(Apr 27, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo): [5208280...224b4fc](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo/compare/52082801d1d336680a7cee28227c438baa0c3123...224b4fc6e76ada2164baca7c1fa98931a2ac25ee)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d2ac9db...a451a45](https://github.com/sametcn99/sametcn99/compare/d2ac9dbdfba4838359e678f269714723044a5eaa...a451a452a7a23c1c1979b2d9102516ed50a2700f)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0857d11...d2ac9db](https://github.com/sametcn99/sametcn99/compare/0857d11527aa21a6e8888c4b95a2dc89b6e78462...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [a1e573b...d2ac9db](https://github.com/sametcn99/sametcn99/compare/a1e573b4533dd2a8eac7320c6435c34c0605acc7...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
 
 <details>
-  <summary>Show 100 more pushes...</summary>
+  <summary>Show 81 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [a1e573b...d2ac9db](https://github.com/sametcn99/sametcn99/compare/a1e573b4533dd2a8eac7320c6435c34c0605acc7...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [06a9ee2...fd624b6](https://github.com/sametcn99/personal-website-blazor/compare/06a9ee29637fc8cdb986e010f2d451d063b92886...fd624b67b60031ddd659abbc5d6e3f1321e47af9)** _(Apr 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest): [6eecc1c...c0bcefc](https://github.com/sametcn99/OpenLayersDotnetTest/compare/6eecc1c68a57b59e9e1617b8e97f8ed048b7870a...c0bcefc627c7d23ca9e010d57dd179c1073230a1)** _(Apr 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest): [698f020...6eecc1c](https://github.com/sametcn99/OpenLayersDotnetTest/compare/698f0204ecfaee06ec1c82b88514f4e65630d6c9...6eecc1c68a57b59e9e1617b8e97f8ed048b7870a)** _(Apr 26, 2026)_
@@ -157,14 +145,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [875572c...93b483d](https://github.com/sametcn99/wibesoft-backend-case/compare/875572c4cf3d1debbd5a08775696bd9dcd983b54...93b483d06da92906477ff2e57c849da590b659de)** _(Apr 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [3dcac9f...875572c](https://github.com/sametcn99/wibesoft-backend-case/compare/3dcac9fb526a0d53f98c64ed3ffd164c91821f19...875572c4cf3d1debbd5a08775696bd9dcd983b54)** _(Apr 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [61b1604...3dcac9f](https://github.com/sametcn99/wibesoft-backend-case/compare/61b1604b50c6cc9b17296c073297f20254a97db9...3dcac9fb526a0d53f98c64ed3ffd164c91821f19)** _(Apr 10, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [adceeb6...393f5ab](https://github.com/sametcn99/maalesef-tr/compare/adceeb60c2282061344ce340c2705e9734bb49a9...393f5ab9cb567f01794505eccf1611e2ec68984e)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fa3931a...10b2091](https://github.com/sametcn99/personal-website-blazor/compare/fa3931a53a4827f4aec96e4985452e489d46dbe9...10b2091ff7de02e07e4ecb63cbdf133b9dcf2cfe)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [34b3c6e...fa3931a](https://github.com/sametcn99/personal-website-blazor/compare/34b3c6ec86e56a2434b1ce1c8f88059bfa598c5f...fa3931a53a4827f4aec96e4985452e489d46dbe9)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [c899b6f...adceeb6](https://github.com/sametcn99/maalesef-tr/compare/c899b6f01a22ee34d5c74a3bdfddb9282a9c3ac1...adceeb60c2282061344ce340c2705e9734bb49a9)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [23038cf...c899b6f](https://github.com/sametcn99/maalesef-tr/compare/23038cf8b594543891deb7b16d5a5faf65d95dda...c899b6f01a22ee34d5c74a3bdfddb9282a9c3ac1)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [babd7f3...23038cf](https://github.com/sametcn99/maalesef-tr/compare/babd7f35b05c56a20e43643e7d595690a9f8eaa4...23038cf8b594543891deb7b16d5a5faf65d95dda)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [35176c5...babd7f3](https://github.com/sametcn99/maalesef-tr/compare/35176c5a8ee9826c83c4a0f1f64353db98179456...babd7f35b05c56a20e43643e7d595690a9f8eaa4)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a007665...35176c5](https://github.com/sametcn99/maalesef-tr/compare/a007665d3cce4812e40649816418d2a473ff4a17...35176c5a8ee9826c83c4a0f1f64353db98179456)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7ce0b3e...34b3c6e](https://github.com/sametcn99/personal-website-blazor/compare/7ce0b3edffdc3c8ba12d75bf5faef512fa3b9fba...34b3c6ec86e56a2434b1ce1c8f88059bfa598c5f)** _(Apr 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4f2ed2b...7ce0b3e](https://github.com/sametcn99/personal-website-blazor/compare/4f2ed2b101c00a0623e13761416c3ac11f28740c...7ce0b3edffdc3c8ba12d75bf5faef512fa3b9fba)** _(Apr 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [566216f...aa271d3](https://github.com/sametcn99/sametcn99/compare/566216fc000c8aad79b74077ea31e0db2d8d157c...aa271d3e60968f705d91de2077dcc2a13832a879)** _(Apr 6, 2026)_
@@ -175,23 +157,9 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0b1faeb...31da868](https://github.com/sametcn99/sametcn99/compare/0b1faeb349d1636f2abc4233228df5383358498e...31da868760266ca8f5fe392bd0be18648fc30940)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [cc2799e...935fd21](https://github.com/sametcn99/sametcn99/compare/cc2799ee2d9969175d8e4f474a9b02396b84043d...935fd212bef19fd2d71de2a4f911051b1e373faa)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [ee4c523...3dd86f0](https://github.com/sametcn99/sametcn99/compare/ee4c523543259b8ba06b3766c74dcf6410f7b634...3dd86f0fffb3e8330c969321029e877a2d60f75f)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [1ae78d6...a007665](https://github.com/sametcn99/maalesef-tr/compare/1ae78d67830ade204fa12bb32034f4e3d89679bf...a007665d3cce4812e40649816418d2a473ff4a17)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [aff540c...1ae78d6](https://github.com/sametcn99/maalesef-tr/compare/aff540c6213692b3cf65e544a008a3ca31b47aee...1ae78d67830ade204fa12bb32034f4e3d89679bf)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [acc1914...aff540c](https://github.com/sametcn99/maalesef-tr/compare/acc1914be4f663cbb02a447dae29e94c2be0d374...aff540c6213692b3cf65e544a008a3ca31b47aee)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [1fab3e0...acc1914](https://github.com/sametcn99/maalesef-tr/compare/1fab3e0c39a36c897a06c490551a0ee351ae3463...acc1914be4f663cbb02a447dae29e94c2be0d374)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [bb6407a...1fab3e0](https://github.com/sametcn99/maalesef-tr/compare/bb6407a889e0a8d1630f001bbc3d25aa67618d64...1fab3e0c39a36c897a06c490551a0ee351ae3463)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [c8641ab...bb6407a](https://github.com/sametcn99/maalesef-tr/compare/c8641aba1ed5fafcdb5e25b7268148ce9cd57f45...bb6407a889e0a8d1630f001bbc3d25aa67618d64)** _(Apr 5, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [3a6a2ed...089e656](https://github.com/sametcn99/wvw.dev/compare/3a6a2ed468f7179c420f21608557f95edf5f4cb4...089e656443bc7a13eb7c13b937c96b38859ed9ac)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99.github.io](https://github.com/sametcn99/sametcn99.github.io): [29167fa...6066d54](https://github.com/sametcn99/sametcn99.github.io/compare/29167fa95f67144dd8780221797606cb55a05bcf...6066d5446c1a2f653233709a616e361cc8515395)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99.github.io](https://github.com/sametcn99/sametcn99.github.io): [9e811be...29167fa](https://github.com/sametcn99/sametcn99.github.io/compare/9e811be96913b2ac7ae06aab32570eff380d5a96...29167fa95f67144dd8780221797606cb55a05bcf)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [5b0a1a3...c8641ab](https://github.com/sametcn99/maalesef-tr/compare/5b0a1a3aad52f464f98255975e996a5762209cba...c8641aba1ed5fafcdb5e25b7268148ce9cd57f45)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [6af5c26...5b0a1a3](https://github.com/sametcn99/maalesef-tr/compare/6af5c26e4f523a1f3c1c6f676010c4c187e26290...5b0a1a3aad52f464f98255975e996a5762209cba)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [058297d...6af5c26](https://github.com/sametcn99/maalesef-tr/compare/058297de92923f2be8df3ec099147d4682b84e42...6af5c26e4f523a1f3c1c6f676010c4c187e26290)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [7503051...058297d](https://github.com/sametcn99/maalesef-tr/compare/7503051afc0ffc0bd221481ea154d0321f9e14a2...058297de92923f2be8df3ec099147d4682b84e42)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [5e1bc76...7503051](https://github.com/sametcn99/maalesef-tr/compare/5e1bc762558eb99f8ca27300fde76d6b84a0e648...7503051afc0ffc0bd221481ea154d0321f9e14a2)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [46508b0...5e1bc76](https://github.com/sametcn99/maalesef-tr/compare/46508b0d987e58e28cf3ed018d9ca5e93664cb1b...5e1bc762558eb99f8ca27300fde76d6b84a0e648)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [54d85e3...46508b0](https://github.com/sametcn99/maalesef-tr/compare/54d85e3c8a4f06cc3f4a5f456f46852a6e65557d...46508b0d987e58e28cf3ed018d9ca5e93664cb1b)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [865bd8e...54d85e3](https://github.com/sametcn99/maalesef-tr/compare/865bd8edef2ecf270bb877fe7d3ed42cc1ae4e7e...54d85e3c8a4f06cc3f4a5f456f46852a6e65557d)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [3c1e291...c992a7e](https://github.com/sametcn99/booking-calendar/compare/3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81...c992a7e901defbcd79bd11cdc3f101e4d703901d)** _(Apr 4, 2026)_
 - **Pushed to &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [f62ab0e...17b8bd3](https://github.com/sametcn99/booking-calendar/compare/f62ab0e25bfbc180149a8ab30ebd24fe4648bf88...17b8bd3fe6aeea267076938bdaea500adf789675)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [97e6267...3c1e291](https://github.com/sametcn99/booking-calendar/compare/97e6267e648897c96b06e10e678f5d1df260c0d3...3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81)** _(Apr 4, 2026)_
@@ -232,15 +200,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [gastownhall/beads](https://github.com/gastownhall/beads)** _(Apr 28, 2026)_
 - **Starred [openlayers/openlayers](https://github.com/openlayers/openlayers)** _(Apr 25, 2026)_
 - **Starred [google/skills](https://github.com/google/skills)** _(Apr 25, 2026)_
 - **Starred [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy)** _(Apr 25, 2026)_
 - **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
-- **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
 
 <details>
-  <summary>Show 77 more starred repositories...</summary>
+  <summary>Show 75 more starred repositories...</summary>
 
+- **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
 - **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
 - **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
 - **Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)** _(Apr 24, 2026)_
@@ -315,9 +284,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal-js](https://github.com/fal-ai/fal-js)** _(Mar 29, 2026)_
 - **Starred [fal-ai/fal](https://github.com/fal-ai/fal)** _(Mar 29, 2026)_
-- **Starred [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio)** _(Mar 28, 2026)_
-- **Starred [chenglou/pretext](https://github.com/chenglou/pretext)** _(Mar 28, 2026)_
-- **Starred [cobaltdb/cobaltdb](https://github.com/cobaltdb/cobaltdb)** _(Mar 28, 2026)_
 
 </details>
 
@@ -366,9 +332,9 @@ A curated view of recent work, actively maintained projects, forks, and archived
 ### Recently Updated
 
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 27, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 28, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 27, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 28, 2026_<br />No description provided.
 - [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) ★1 -
   C#<br />_Created: Apr 26, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 
@@ -376,68 +342,66 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★55 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 25, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
+- [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★18 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
-- [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★14 -
+- [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★13 -
   C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
-- [**env-protector**](https://github.com/sametcn99/env-protector) ★14 -
+- [**env-protector**](https://github.com/sametcn99/env-protector) ★13 -
   TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector)<br />_Created: Sep 14, 2024 • Updated: Jan 12, 2026_<br />Protect your secrets from being exposed
-- [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template) ★11 -
+- [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template) ★10 -
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 52 more repositories...</summary>
+  <summary>Show 48 more repositories...</summary>
 
-- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★9 -
+- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★8 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
+- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
+- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★6 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
-- [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
+- [**HTWind**](https://github.com/sametcn99/HTWind) ★5 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
-- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★5 -
+- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★3 -
+- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 27, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★2 -
-  TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
-- [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★2 -
-  TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 28, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Mar 24, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+- [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★1 -
+  TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
+- [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★1 -
+  TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
 - [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) ★1 -
   C#<br />_Created: Apr 25, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 - [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) ★1 -
   C#<br />_Created: Apr 26, 2026 • Updated: Apr 26, 2026_<br />No description provided.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) ★1 -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 8, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) ★1 -
   C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
-- [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) ★1 -
-  TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />This is a simple rock-paper-scissors game built with React and Next.js. The game is played against the computer using the React Context.
 - [**code-nest-web**](https://github.com/sametcn99/code-nest-web) ★1 -
   TypeScript - [Homepage](https://code-nest-web-samets-projects-538a8f28.vercel.app)<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
-- [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) ★1 -
-  JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**BlogAPIDotnet**](https://github.com/sametcn99/BlogAPIDotnet) ★1 -
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) ★1 -
-  JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
-- [**catchapage**](https://github.com/sametcn99/catchapage) ★1 -
-  TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
-- [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) ★1 -
-  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
-- [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) ★1 -
+- [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
+  JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) -
+  TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />No description provided.
+- [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**catchapage**](https://github.com/sametcn99/catchapage) -
+  TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
+- [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) -
+  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
+- [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) -
+  JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 27, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 28, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 26, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
@@ -452,8 +416,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />WibeSoft Backend Case study
 - [**open-github-dev**](https://github.com/sametcn99/open-github-dev) -
   JavaScript<br />_Created: Dec 20, 2023 • Updated: Dec 20, 2023_<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
-- [**altinsaray-ds**](https://github.com/sametcn99/altinsaray-ds) -
-  TypeScript - [Homepage](https://altinsaray-ds.vercel.app)<br />_Created: May 17, 2024 • Updated: May 23, 2024_<br />Altın Saray Wedding Hall Website
 - [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) -
   C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
 - [**node-genius-lyrics-gui**](https://github.com/sametcn99/node-genius-lyrics-gui) -
@@ -474,8 +436,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 - [**vitepress-mermaid-renderer-web**](https://github.com/sametcn99/vitepress-mermaid-renderer-web) -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
-- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
-  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
 - [**personal-website**](https://github.com/sametcn99/personal-website) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
 - [**golter-web**](https://github.com/sametcn99/golter-web) -
@@ -489,9 +449,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) -
   HTML - [Homepage](https://sametcn99.github.io/)<br />_Created: Jan 6, 2024 • Updated: Apr 5, 2026_<br />redirect to personal website
 - [**ArcDrop**](https://github.com/sametcn99/ArcDrop) -
-  C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
-- [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
-HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
+C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
 </details>
 
 ### Forked Repositories
@@ -519,15 +477,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thank you to everyone who starred my repositories in the last month! Your support is much appreciated.
 
+- [**@hyossing**](https://github.com/hyossing) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 27, 2026)_
 - [**@toxy4ny**](https://github.com/toxy4ny) starred [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) _(Apr 27, 2026)_
 - [**@ajiho**](https://github.com/ajiho) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 24, 2026)_
 - [**@donovinsims**](https://github.com/donovinsims) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 22, 2026)_
 - [**@elartix**](https://github.com/elartix) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 10, 2026)_
-- [**@qiuhq-9527**](https://github.com/qiuhq-9527) starred [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) _(Apr 9, 2026)_
 
 <details>
   <summary>Show 9 more stargazers...</summary>
 
+- [**@qiuhq-9527**](https://github.com/qiuhq-9527) starred [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) _(Apr 9, 2026)_
 - [**@lt-flan**](https://github.com/lt-flan) starred [**booking-calendar**](https://github.com/sametcn99/booking-calendar) _(Apr 9, 2026)_
 - [**@liushoukun**](https://github.com/liushoukun) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
 - [**@yangzupan**](https://github.com/yangzupan) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 7, 2026)_
@@ -536,7 +495,6 @@ Thank you to everyone who starred my repositories in the last month! Your suppor
 - [**@freddymu**](https://github.com/freddymu) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 4, 2026)_
 - [**@dnaka91**](https://github.com/dnaka91) starred [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 2, 2026)_
 - [**@octifakker**](https://github.com/octifakker) starred [**HTWind**](https://github.com/sametcn99/HTWind) _(Mar 30, 2026)_
-- [**@faustovo2003-commits**](https://github.com/faustovo2003-commits) starred [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) _(Mar 29, 2026)_
 </details>
 
 ## Automated Workflows
