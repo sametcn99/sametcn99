@@ -41,19 +41,14 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**GitHub Repo TUI Cloner (PowerShell)**](https://sametcc.me/gist/git-clone-repo-tui) _(published: Feb 19, 2026)_<br />An interactive PowerShell script to fetch and clone your owned GitHub repositories using a terminal UI (TUI).
 - [**TypeSpec for .NET and Next.js Teams**](https://sametcc.me/gist/typespec-for-dotnet-nextjs) _(published: Feb 19, 2026)_<br />Practical TypeSpec workflow for contract-first API design with ASP.NET Core and Next.js, including OpenAPI generation and typed client usage.
 - [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(published: Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
-- [**Golter**](https://sametcc.me/project/golter) _(published: Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
+- [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
 
 <details>
-  <summary>Show 20 more posts...</summary>
+  <summary>Show 13 more posts...</summary>
 
-- [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
 - [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(published: Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
 - [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(published: Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
 - [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) _(published: Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
-- [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) _(published: Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
-- [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) _(published: Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
-- [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) _(published: Mar 15, 2025)_<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
-- [**Env Protector**](https://sametcc.me/project/env-protector) _(published: Sep 14, 2024)_<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive data, providing confirmation prompts before opening, and allowing users to manage environment variables without exposing their contents.
 - [**Using JSON Schema in VS Code**](https://sametcc.me/gist/using-json-schema-in-vscode) _(published: Aug 25, 2024)_<br />Step-by-step guide to implementing JSON Schema validation in VS Code for automatic error detection and IntelliSense support.
 - [**TypeScript Types and Utility Types**](https://sametcc.me/gist/typescript-types) _(published: Aug 25, 2024)_<br />Complete guide to TypeScript&#x27;s built-in utility types, advanced type transformations, and custom type definitions for robust type safety.
 - [**Using Glob Patterns in TypeScript Projects**](https://sametcc.me/gist/typescript-glob-patterns) _(published: Aug 25, 2024)_<br />Comprehensive guide to glob patterns in TypeScript with detailed character explanations, examples, and practical applications for file matching.
@@ -64,8 +59,6 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**Script Gists**](https://sametcc.me/gist/scripts-gist) _(published: Aug 25, 2024)_<br />Collection of useful development scripts including Prettier setup, Git utilities, and automation tools for modern development workflows.
 - [**Running Scripts in Linux**](https://sametcc.me/gist/running-scripts-in-linux) _(published: Aug 25, 2024)_<br />Essential guide to running scripts in Linux including permissions, execution methods, and best practices for shell scripting.
 - [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) _(published: Aug 25, 2024)_<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
-- [**Electron Widgets**](https://sametcc.me/project/electron-widgets) _(published: Mar 25, 2024)_<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
-- [**Resume Builder**](https://sametcc.me/project/resume-builder) _(published: Jan 12, 2023)_<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
 </details>
 
 ## GitHub Snapshot
@@ -88,15 +81,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ef69e86...607fb2a](https://github.com/sametcn99/personal-website-blazor/compare/ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa...607fb2aeabcbc1c2fbd29b43c25fb517c3b1ea30)** _(Apr 28, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [32da7c7...ef69e86](https://github.com/sametcn99/personal-website-blazor/compare/32da7c7c47f46169c8725e25bc05ba884a691cda...ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa)** _(Apr 28, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0bde0cb...32da7c7](https://github.com/sametcn99/personal-website-blazor/compare/0bde0cbbe1f0f78d23857cad5278599831647394...32da7c7c47f46169c8725e25bc05ba884a691cda)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [fb4e414...e4ced00](https://github.com/sametcn99/sametcn99/compare/fb4e414cae89bdbbe3cde23b2b675e986f08520d...e4ced0065662000352838adf4c333a1398b7ea53)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...0bde0cb](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...0bde0cbbe1f0f78d23857cad5278599831647394)** _(Apr 28, 2026)_
+
+<details>
+  <summary>Show 87 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b09c864...f847697](https://github.com/sametcn99/sametcn99/compare/b09c864bce37e4c4a3da717a281c4785ae052a02...f847697b8e671ffa99d0b26d87794babda161ed9)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4ac087d...5630abc](https://github.com/sametcn99/sametcn99/compare/4ac087d5e277000d1a447008e3a98958a030deb0...5630abc6d0eba10c26d2e975af11fcaf447bcc48)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [77db73b...c6f2b14](https://github.com/sametcn99/sametcn99/compare/77db73bb1bab9f422301ae3086ed3f9c47cfa8c7...c6f2b1480fbbc3aaf8c3f8c32364619165be61a0)** _(Apr 27, 2026)_
-
-<details>
-  <summary>Show 84 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo): [5208280...224b4fc](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo/compare/52082801d1d336680a7cee28227c438baa0c3123...224b4fc6e76ada2164baca7c1fa98931a2ac25ee)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d2ac9db...a451a45](https://github.com/sametcn99/sametcn99/compare/d2ac9dbdfba4838359e678f269714723044a5eaa...a451a452a7a23c1c1979b2d9102516ed50a2700f)** _(Apr 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0857d11...d2ac9db](https://github.com/sametcn99/sametcn99/compare/0857d11527aa21a6e8888c4b95a2dc89b6e78462...d2ac9dbdfba4838359e678f269714723044a5eaa)** _(Apr 26, 2026)_
