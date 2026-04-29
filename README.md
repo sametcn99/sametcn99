@@ -66,7 +66,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 156                                     |
-| **Commits (7d):**          | 50+                                     |
+| **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 61                                      |
 | **Active Repositories:**   | 54                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -88,7 +88,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...0bde0cb](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...0bde0cbbe1f0f78d23857cad5278599831647394)** _(Apr 28, 2026)_
 
 <details>
-  <summary>Show 86 more pushes...</summary>
+  <summary>Show 84 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b09c864...f847697](https://github.com/sametcn99/sametcn99/compare/b09c864bce37e4c4a3da717a281c4785ae052a02...f847697b8e671ffa99d0b26d87794babda161ed9)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4ac087d...5630abc](https://github.com/sametcn99/sametcn99/compare/4ac087d5e277000d1a447008e3a98958a030deb0...5630abc6d0eba10c26d2e975af11fcaf447bcc48)** _(Apr 28, 2026)_
@@ -174,8 +174,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [4d95c4f...95022ff](https://github.com/sametcn99/golter/compare/4d95c4fc7e393b9378cb9b55190056545fd02d1e...95022ffa03499ff2d45963971d96e88e58ad3514)** _(Mar 30, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [6617a89...4d95c4f](https://github.com/sametcn99/golter/compare/6617a896c408c0ea3537ee54ae4fc4c4b21e4d9b...4d95c4fc7e393b9378cb9b55190056545fd02d1e)** _(Mar 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [ff91c90...710d7d7](https://github.com/sametcn99/sametcn99/compare/ff91c901b8855863916bcce3d4c4d5b22047d7f4...710d7d711ab8c2e3650ed0f9db1d84d9b2768cd3)** _(Mar 30, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [b9c7293...860301d](https://github.com/sametcn99/gh-block-spam-accounts/compare/b9c72939be866e791df6567d9937709ba9bf99e3...860301dc8026c7b96fbabb765edc0777259e65dd)** _(Mar 29, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3cf6c9d...dcf58cf](https://github.com/sametcn99/personal-website-blazor/compare/3cf6c9d1190b5c55deaac18c7fc53658cea15af7...dcf58cf27b5f50f1be3a751bf16bff772d61b3e8)** _(Mar 29, 2026)_
 
 </details>
 
@@ -194,15 +192,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)** _(Apr 28, 2026)_
 - **Starred [gastownhall/beads](https://github.com/gastownhall/beads)** _(Apr 28, 2026)_
 - **Starred [openlayers/openlayers](https://github.com/openlayers/openlayers)** _(Apr 25, 2026)_
 - **Starred [google/skills](https://github.com/google/skills)** _(Apr 25, 2026)_
 - **Starred [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy)** _(Apr 25, 2026)_
-- **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
 
 <details>
-  <summary>Show 75 more starred repositories...</summary>
+  <summary>Show 74 more starred repositories...</summary>
 
+- **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
 - **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
 - **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
 - **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
@@ -276,8 +275,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [anthropics/skills](https://github.com/anthropics/skills)** _(Mar 30, 2026)_
 - **Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** _(Mar 29, 2026)_
 - **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
-- **Starred [fal-ai/fal-js](https://github.com/fal-ai/fal-js)** _(Mar 29, 2026)_
-- **Starred [fal-ai/fal](https://github.com/fal-ai/fal)** _(Mar 29, 2026)_
 
 </details>
 
