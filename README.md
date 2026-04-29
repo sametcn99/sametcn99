@@ -199,7 +199,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy)** _(Apr 25, 2026)_
 
 <details>
-  <summary>Show 74 more starred repositories...</summary>
+  <summary>Show 73 more starred repositories...</summary>
 
 - **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
 - **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
@@ -274,7 +274,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [umami-software/umami](https://github.com/umami-software/umami)** _(Mar 30, 2026)_
 - **Starred [anthropics/skills](https://github.com/anthropics/skills)** _(Mar 30, 2026)_
 - **Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** _(Mar 29, 2026)_
-- **Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)** _(Mar 29, 2026)_
 
 </details>
 
@@ -321,12 +320,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 29, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 28, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 28, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 28, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -378,6 +377,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 29, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 28, 2026_<br />No description provided.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
@@ -392,8 +393,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) -
   JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 28, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
