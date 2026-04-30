@@ -88,7 +88,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [32da7c7...ef69e86](https://github.com/sametcn99/personal-website-blazor/compare/32da7c7c47f46169c8725e25bc05ba884a691cda...ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa)** _(Apr 28, 2026)_
 
 <details>
-  <summary>Show 87 more pushes...</summary>
+  <summary>Show 85 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0bde0cb...32da7c7](https://github.com/sametcn99/personal-website-blazor/compare/0bde0cbbe1f0f78d23857cad5278599831647394...32da7c7c47f46169c8725e25bc05ba884a691cda)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [fb4e414...e4ced00](https://github.com/sametcn99/sametcn99/compare/fb4e414cae89bdbbe3cde23b2b675e986f08520d...e4ced0065662000352838adf4c333a1398b7ea53)** _(Apr 28, 2026)_
@@ -175,8 +175,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [95022ff...57c4459](https://github.com/sametcn99/golter/compare/95022ffa03499ff2d45963971d96e88e58ad3514...57c445939b3c5239bb327420a09c99ce7a929929)** _(Mar 31, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer): [7fb6d1f...3adbe7d](https://github.com/sametcn99/mermaid-viewer/compare/7fb6d1f70f93deb55caf2bcbb1dfcacbfe05124d...3adbe7d6fde85b5028cbc0c10ae13699b521a479)** _(Mar 30, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [4d95c4f...95022ff](https://github.com/sametcn99/golter/compare/4d95c4fc7e393b9378cb9b55190056545fd02d1e...95022ffa03499ff2d45963971d96e88e58ad3514)** _(Mar 30, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [6617a89...4d95c4f](https://github.com/sametcn99/golter/compare/6617a896c408c0ea3537ee54ae4fc4c4b21e4d9b...4d95c4fc7e393b9378cb9b55190056545fd02d1e)** _(Mar 30, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [ff91c90...710d7d7](https://github.com/sametcn99/sametcn99/compare/ff91c901b8855863916bcce3d4c4d5b22047d7f4...710d7d711ab8c2e3650ed0f9db1d84d9b2768cd3)** _(Mar 30, 2026)_
 
 </details>
 
@@ -195,15 +193,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [sablierapp/sablier](https://github.com/sablierapp/sablier)** _(Apr 30, 2026)_
 - **Starred [orhun/ratty](https://github.com/orhun/ratty)** _(Apr 29, 2026)_
 - **Starred [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus)** _(Apr 29, 2026)_
 - **Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)** _(Apr 29, 2026)_
 - **Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** _(Apr 29, 2026)_
-- **Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)** _(Apr 28, 2026)_
 
 <details>
-  <summary>Show 76 more starred repositories...</summary>
+  <summary>Show 74 more starred repositories...</summary>
 
+- **Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)** _(Apr 28, 2026)_
 - **Starred [gastownhall/beads](https://github.com/gastownhall/beads)** _(Apr 28, 2026)_
 - **Starred [openlayers/openlayers](https://github.com/openlayers/openlayers)** _(Apr 25, 2026)_
 - **Starred [google/skills](https://github.com/google/skills)** _(Apr 25, 2026)_
@@ -277,9 +276,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [vim/vim](https://github.com/vim/vim)** _(Apr 2, 2026)_
 - **Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** _(Apr 2, 2026)_
 - **Starred [needim/ned.im](https://github.com/needim/ned.im)** _(Mar 30, 2026)_
-- **Starred [go-task/task](https://github.com/go-task/task)** _(Mar 30, 2026)_
-- **Starred [umami-software/umami](https://github.com/umami-software/umami)** _(Mar 30, 2026)_
-- **Starred [anthropics/skills](https://github.com/anthropics/skills)** _(Mar 30, 2026)_
 
 </details>
 
@@ -326,12 +322,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 30, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 29, 2026_<br />actively developing
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 29, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -383,10 +379,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 30, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 29, 2026_<br />actively developing
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 29, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 28, 2026_<br />No description provided.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
