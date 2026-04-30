@@ -41,14 +41,20 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**GitHub Repo TUI Cloner (PowerShell)**](https://sametcc.me/gist/git-clone-repo-tui) _(published: Feb 19, 2026)_<br />An interactive PowerShell script to fetch and clone your owned GitHub repositories using a terminal UI (TUI).
 - [**TypeSpec for .NET and Next.js Teams**](https://sametcc.me/gist/typespec-for-dotnet-nextjs) _(published: Feb 19, 2026)_<br />Practical TypeSpec workflow for contract-first API design with ASP.NET Core and Next.js, including OpenAPI generation and typed client usage.
 - [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(published: Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
-- [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
+- [**Golter**](https://sametcc.me/project/golter) _(published: Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
 
 <details>
-  <summary>Show 13 more posts...</summary>
+  <summary>Show 21 more posts...</summary>
 
+- [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
 - [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(published: Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
 - [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(published: Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
+- [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) _(published: Dec 17, 2025)_<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
 - [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) _(published: Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
+- [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) _(published: Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
+- [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) _(published: Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
+- [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) _(published: Mar 15, 2025)_<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
+- [**Env Protector**](https://sametcc.me/project/env-protector) _(published: Sep 14, 2024)_<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive data, providing confirmation prompts before opening, and allowing users to manage environment variables without exposing their contents.
 - [**Using JSON Schema in VS Code**](https://sametcc.me/gist/using-json-schema-in-vscode) _(published: Aug 25, 2024)_<br />Step-by-step guide to implementing JSON Schema validation in VS Code for automatic error detection and IntelliSense support.
 - [**TypeScript Types and Utility Types**](https://sametcc.me/gist/typescript-types) _(published: Aug 25, 2024)_<br />Complete guide to TypeScript&#x27;s built-in utility types, advanced type transformations, and custom type definitions for robust type safety.
 - [**Using Glob Patterns in TypeScript Projects**](https://sametcc.me/gist/typescript-glob-patterns) _(published: Aug 25, 2024)_<br />Comprehensive guide to glob patterns in TypeScript with detailed character explanations, examples, and practical applications for file matching.
@@ -59,6 +65,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**Script Gists**](https://sametcc.me/gist/scripts-gist) _(published: Aug 25, 2024)_<br />Collection of useful development scripts including Prettier setup, Git utilities, and automation tools for modern development workflows.
 - [**Running Scripts in Linux**](https://sametcc.me/gist/running-scripts-in-linux) _(published: Aug 25, 2024)_<br />Essential guide to running scripts in Linux including permissions, execution methods, and best practices for shell scripting.
 - [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) _(published: Aug 25, 2024)_<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
+- [**Electron Widgets**](https://sametcc.me/project/electron-widgets) _(published: Mar 25, 2024)_<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
+- [**Resume Builder**](https://sametcc.me/project/resume-builder) _(published: Jan 12, 2023)_<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
 </details>
 
 ## GitHub Snapshot
@@ -67,8 +75,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 156                                     |
 | **Commits (7d):**          | 30+                                     |
-| **Total Repositories:**    | 61                                      |
-| **Active Repositories:**   | 54                                      |
+| **Total Repositories:**    | 64                                      |
+| **Active Repositories:**   | 57                                      |
 | **Forked Repositories:**   | 7                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -81,15 +89,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [607fb2a...fd624b6](https://github.com/sametcn99/personal-website-blazor/compare/607fb2aeabcbc1c2fbd29b43c25fb517c3b1ea30...fd624b67b60031ddd659abbc5d6e3f1321e47af9)** _(Apr 30, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [639bc9f...99dba3f](https://github.com/sametcn99/hiretea/compare/639bc9f029483dfcbbecf582189befe58d60f2f6...99dba3f1ac92399f2613b0a2e9c62d000a13de41)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0c389e5...e358171](https://github.com/sametcn99/hiretea/compare/0c389e5c8543b817c4046dac573ec12026ebb681...e358171abc56515159b13c955d9aa87bc385ac46)** _(Apr 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ef69e86...607fb2a](https://github.com/sametcn99/personal-website-blazor/compare/ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa...607fb2aeabcbc1c2fbd29b43c25fb517c3b1ea30)** _(Apr 28, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [32da7c7...ef69e86](https://github.com/sametcn99/personal-website-blazor/compare/32da7c7c47f46169c8725e25bc05ba884a691cda...ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa)** _(Apr 28, 2026)_
 
 <details>
-  <summary>Show 83 more pushes...</summary>
+  <summary>Show 100 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [32da7c7...ef69e86](https://github.com/sametcn99/personal-website-blazor/compare/32da7c7c47f46169c8725e25bc05ba884a691cda...ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0bde0cb...32da7c7](https://github.com/sametcn99/personal-website-blazor/compare/0bde0cbbe1f0f78d23857cad5278599831647394...32da7c7c47f46169c8725e25bc05ba884a691cda)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [fb4e414...e4ced00](https://github.com/sametcn99/sametcn99/compare/fb4e414cae89bdbbe3cde23b2b675e986f08520d...e4ced0065662000352838adf4c333a1398b7ea53)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...0bde0cb](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...0bde0cbbe1f0f78d23857cad5278599831647394)** _(Apr 28, 2026)_
@@ -143,8 +152,14 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [875572c...93b483d](https://github.com/sametcn99/wibesoft-backend-case/compare/875572c4cf3d1debbd5a08775696bd9dcd983b54...93b483d06da92906477ff2e57c849da590b659de)** _(Apr 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [3dcac9f...875572c](https://github.com/sametcn99/wibesoft-backend-case/compare/3dcac9fb526a0d53f98c64ed3ffd164c91821f19...875572c4cf3d1debbd5a08775696bd9dcd983b54)** _(Apr 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [61b1604...3dcac9f](https://github.com/sametcn99/wibesoft-backend-case/compare/61b1604b50c6cc9b17296c073297f20254a97db9...3dcac9fb526a0d53f98c64ed3ffd164c91821f19)** _(Apr 10, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [adceeb6...393f5ab](https://github.com/sametcn99/maalesef-tr/compare/adceeb60c2282061344ce340c2705e9734bb49a9...393f5ab9cb567f01794505eccf1611e2ec68984e)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fa3931a...10b2091](https://github.com/sametcn99/personal-website-blazor/compare/fa3931a53a4827f4aec96e4985452e489d46dbe9...10b2091ff7de02e07e4ecb63cbdf133b9dcf2cfe)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [34b3c6e...fa3931a](https://github.com/sametcn99/personal-website-blazor/compare/34b3c6ec86e56a2434b1ce1c8f88059bfa598c5f...fa3931a53a4827f4aec96e4985452e489d46dbe9)** _(Apr 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [c899b6f...adceeb6](https://github.com/sametcn99/maalesef-tr/compare/c899b6f01a22ee34d5c74a3bdfddb9282a9c3ac1...adceeb60c2282061344ce340c2705e9734bb49a9)** _(Apr 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [23038cf...c899b6f](https://github.com/sametcn99/maalesef-tr/compare/23038cf8b594543891deb7b16d5a5faf65d95dda...c899b6f01a22ee34d5c74a3bdfddb9282a9c3ac1)** _(Apr 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [babd7f3...23038cf](https://github.com/sametcn99/maalesef-tr/compare/babd7f35b05c56a20e43643e7d595690a9f8eaa4...23038cf8b594543891deb7b16d5a5faf65d95dda)** _(Apr 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [35176c5...babd7f3](https://github.com/sametcn99/maalesef-tr/compare/35176c5a8ee9826c83c4a0f1f64353db98179456...babd7f35b05c56a20e43643e7d595690a9f8eaa4)** _(Apr 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a007665...35176c5](https://github.com/sametcn99/maalesef-tr/compare/a007665d3cce4812e40649816418d2a473ff4a17...35176c5a8ee9826c83c4a0f1f64353db98179456)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7ce0b3e...34b3c6e](https://github.com/sametcn99/personal-website-blazor/compare/7ce0b3edffdc3c8ba12d75bf5faef512fa3b9fba...34b3c6ec86e56a2434b1ce1c8f88059bfa598c5f)** _(Apr 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4f2ed2b...7ce0b3e](https://github.com/sametcn99/personal-website-blazor/compare/4f2ed2b101c00a0623e13761416c3ac11f28740c...7ce0b3edffdc3c8ba12d75bf5faef512fa3b9fba)** _(Apr 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [566216f...aa271d3](https://github.com/sametcn99/sametcn99/compare/566216fc000c8aad79b74077ea31e0db2d8d157c...aa271d3e60968f705d91de2077dcc2a13832a879)** _(Apr 6, 2026)_
@@ -155,9 +170,23 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0b1faeb...31da868](https://github.com/sametcn99/sametcn99/compare/0b1faeb349d1636f2abc4233228df5383358498e...31da868760266ca8f5fe392bd0be18648fc30940)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [cc2799e...935fd21](https://github.com/sametcn99/sametcn99/compare/cc2799ee2d9969175d8e4f474a9b02396b84043d...935fd212bef19fd2d71de2a4f911051b1e373faa)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [ee4c523...3dd86f0](https://github.com/sametcn99/sametcn99/compare/ee4c523543259b8ba06b3766c74dcf6410f7b634...3dd86f0fffb3e8330c969321029e877a2d60f75f)** _(Apr 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [1ae78d6...a007665](https://github.com/sametcn99/maalesef-tr/compare/1ae78d67830ade204fa12bb32034f4e3d89679bf...a007665d3cce4812e40649816418d2a473ff4a17)** _(Apr 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [aff540c...1ae78d6](https://github.com/sametcn99/maalesef-tr/compare/aff540c6213692b3cf65e544a008a3ca31b47aee...1ae78d67830ade204fa12bb32034f4e3d89679bf)** _(Apr 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [acc1914...aff540c](https://github.com/sametcn99/maalesef-tr/compare/acc1914be4f663cbb02a447dae29e94c2be0d374...aff540c6213692b3cf65e544a008a3ca31b47aee)** _(Apr 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [1fab3e0...acc1914](https://github.com/sametcn99/maalesef-tr/compare/1fab3e0c39a36c897a06c490551a0ee351ae3463...acc1914be4f663cbb02a447dae29e94c2be0d374)** _(Apr 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [bb6407a...1fab3e0](https://github.com/sametcn99/maalesef-tr/compare/bb6407a889e0a8d1630f001bbc3d25aa67618d64...1fab3e0c39a36c897a06c490551a0ee351ae3463)** _(Apr 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [c8641ab...bb6407a](https://github.com/sametcn99/maalesef-tr/compare/c8641aba1ed5fafcdb5e25b7268148ce9cd57f45...bb6407a889e0a8d1630f001bbc3d25aa67618d64)** _(Apr 5, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [3a6a2ed...089e656](https://github.com/sametcn99/wvw.dev/compare/3a6a2ed468f7179c420f21608557f95edf5f4cb4...089e656443bc7a13eb7c13b937c96b38859ed9ac)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99.github.io](https://github.com/sametcn99/sametcn99.github.io): [29167fa...6066d54](https://github.com/sametcn99/sametcn99.github.io/compare/29167fa95f67144dd8780221797606cb55a05bcf...6066d5446c1a2f653233709a616e361cc8515395)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99.github.io](https://github.com/sametcn99/sametcn99.github.io): [9e811be...29167fa](https://github.com/sametcn99/sametcn99.github.io/compare/9e811be96913b2ac7ae06aab32570eff380d5a96...29167fa95f67144dd8780221797606cb55a05bcf)** _(Apr 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [5b0a1a3...c8641ab](https://github.com/sametcn99/maalesef-tr/compare/5b0a1a3aad52f464f98255975e996a5762209cba...c8641aba1ed5fafcdb5e25b7268148ce9cd57f45)** _(Apr 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [6af5c26...5b0a1a3](https://github.com/sametcn99/maalesef-tr/compare/6af5c26e4f523a1f3c1c6f676010c4c187e26290...5b0a1a3aad52f464f98255975e996a5762209cba)** _(Apr 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [058297d...6af5c26](https://github.com/sametcn99/maalesef-tr/compare/058297de92923f2be8df3ec099147d4682b84e42...6af5c26e4f523a1f3c1c6f676010c4c187e26290)** _(Apr 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [7503051...058297d](https://github.com/sametcn99/maalesef-tr/compare/7503051afc0ffc0bd221481ea154d0321f9e14a2...058297de92923f2be8df3ec099147d4682b84e42)** _(Apr 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [5e1bc76...7503051](https://github.com/sametcn99/maalesef-tr/compare/5e1bc762558eb99f8ca27300fde76d6b84a0e648...7503051afc0ffc0bd221481ea154d0321f9e14a2)** _(Apr 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [46508b0...5e1bc76](https://github.com/sametcn99/maalesef-tr/compare/46508b0d987e58e28cf3ed018d9ca5e93664cb1b...5e1bc762558eb99f8ca27300fde76d6b84a0e648)** _(Apr 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [54d85e3...46508b0](https://github.com/sametcn99/maalesef-tr/compare/54d85e3c8a4f06cc3f4a5f456f46852a6e65557d...46508b0d987e58e28cf3ed018d9ca5e93664cb1b)** _(Apr 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [865bd8e...54d85e3](https://github.com/sametcn99/maalesef-tr/compare/865bd8edef2ecf270bb877fe7d3ed42cc1ae4e7e...54d85e3c8a4f06cc3f4a5f456f46852a6e65557d)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [3c1e291...c992a7e](https://github.com/sametcn99/booking-calendar/compare/3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81...c992a7e901defbcd79bd11cdc3f101e4d703901d)** _(Apr 4, 2026)_
 - **Pushed to &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [f62ab0e...17b8bd3](https://github.com/sametcn99/booking-calendar/compare/f62ab0e25bfbc180149a8ab30ebd24fe4648bf88...17b8bd3fe6aeea267076938bdaea500adf789675)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [97e6267...3c1e291](https://github.com/sametcn99/booking-calendar/compare/97e6267e648897c96b06e10e678f5d1df260c0d3...3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81)** _(Apr 4, 2026)_
@@ -169,10 +198,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [435b2dd...fcd9b93](https://github.com/sametcn99/sametcn99/compare/435b2dd848ed18d24b6b57a40ec65d4c46e47ccf...fcd9b93f635219b6f02ab19f8bd8209cbd7e8222)** _(Apr 2, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [120204c...3a6a2ed](https://github.com/sametcn99/wvw.dev/compare/120204cb289f2cbdc1cc85dfc7f7a2cc5e5cd10a...3a6a2ed468f7179c420f21608557f95edf5f4cb4)** _(Apr 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d6f8af4...bdeacff](https://github.com/sametcn99/sametcn99/compare/d6f8af4d6874fa1b9903227c3e19d8dfbf755549...bdeacff866dc535fe6b3b5f18987bf3a3ff886ec)** _(Apr 1, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [4187b9b...d94b517](https://github.com/sametcn99/golter/compare/4187b9bd62f44fc889c058dfdfe5bdc0741892bc...d94b517a930753ea0866d3a7cc9bfd55d9261746)** _(Mar 31, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [58ad825...4187b9b](https://github.com/sametcn99/golter/compare/58ad825f1d6e1c1deba13a3403098dfa1a1cf51b...4187b9bd62f44fc889c058dfdfe5bdc0741892bc)** _(Mar 31, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [57c4459...58ad825](https://github.com/sametcn99/golter/compare/57c445939b3c5239bb327420a09c99ce7a929929...58ad825f1d6e1c1deba13a3403098dfa1a1cf51b)** _(Mar 31, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [95022ff...57c4459](https://github.com/sametcn99/golter/compare/95022ffa03499ff2d45963971d96e88e58ad3514...57c445939b3c5239bb327420a09c99ce7a929929)** _(Mar 31, 2026)_
 
 </details>
 
@@ -278,15 +303,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Public in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 1, 2025)_
+- **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
+- **Public in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo)** _(Apr 26, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 25, 2026)_
+
+<details>
+  <summary>Show 7 more other activity...</summary>
+
 - **Closed issue [#8](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Public in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker)** _(Apr 21, 2026)_
-
-<details>
-  <summary>Show 4 more other activity...</summary>
-
 - **Public in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case)** _(Apr 9, 2026)_
 - **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
@@ -319,12 +347,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 30, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 30, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 30, 2026_<br />No description provided.
-- [**hiretea**](https://github.com/sametcn99/hiretea) -
-  TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 29, 2026_<br />actively developing
 
 ### Active Repositories
 
@@ -340,7 +368,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 48 more repositories...</summary>
+  <summary>Show 51 more repositories...</summary>
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★8 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -376,12 +404,18 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 30, 2026_<br />No description provided.
+- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
+  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 29, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
+  HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 30, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 29, 2026_<br />actively developing
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 28, 2026_<br />No description provided.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
   JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
 - [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) -
