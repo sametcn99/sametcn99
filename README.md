@@ -88,7 +88,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [32da7c7...ef69e86](https://github.com/sametcn99/personal-website-blazor/compare/32da7c7c47f46169c8725e25bc05ba884a691cda...ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa)** _(Apr 28, 2026)_
 
 <details>
-  <summary>Show 85 more pushes...</summary>
+  <summary>Show 83 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0bde0cb...32da7c7](https://github.com/sametcn99/personal-website-blazor/compare/0bde0cbbe1f0f78d23857cad5278599831647394...32da7c7c47f46169c8725e25bc05ba884a691cda)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [fb4e414...e4ced00](https://github.com/sametcn99/sametcn99/compare/fb4e414cae89bdbbe3cde23b2b675e986f08520d...e4ced0065662000352838adf4c333a1398b7ea53)** _(Apr 28, 2026)_
@@ -173,8 +173,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [58ad825...4187b9b](https://github.com/sametcn99/golter/compare/58ad825f1d6e1c1deba13a3403098dfa1a1cf51b...4187b9bd62f44fc889c058dfdfe5bdc0741892bc)** _(Mar 31, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [57c4459...58ad825](https://github.com/sametcn99/golter/compare/57c445939b3c5239bb327420a09c99ce7a929929...58ad825f1d6e1c1deba13a3403098dfa1a1cf51b)** _(Mar 31, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [95022ff...57c4459](https://github.com/sametcn99/golter/compare/95022ffa03499ff2d45963971d96e88e58ad3514...57c445939b3c5239bb327420a09c99ce7a929929)** _(Mar 31, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer): [7fb6d1f...3adbe7d](https://github.com/sametcn99/mermaid-viewer/compare/7fb6d1f70f93deb55caf2bcbb1dfcacbfe05124d...3adbe7d6fde85b5028cbc0c10ae13699b521a479)** _(Mar 30, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [4d95c4f...95022ff](https://github.com/sametcn99/golter/compare/4d95c4fc7e393b9378cb9b55190056545fd02d1e...95022ffa03499ff2d45963971d96e88e58ad3514)** _(Mar 30, 2026)_
 
 </details>
 
@@ -200,7 +198,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** _(Apr 29, 2026)_
 
 <details>
-  <summary>Show 74 more starred repositories...</summary>
+  <summary>Show 73 more starred repositories...</summary>
 
 - **Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)** _(Apr 28, 2026)_
 - **Starred [gastownhall/beads](https://github.com/gastownhall/beads)** _(Apr 28, 2026)_
@@ -275,7 +273,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)** _(Apr 2, 2026)_
 - **Starred [vim/vim](https://github.com/vim/vim)** _(Apr 2, 2026)_
 - **Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** _(Apr 2, 2026)_
-- **Starred [needim/ned.im](https://github.com/needim/ned.im)** _(Mar 30, 2026)_
 
 </details>
 
@@ -322,12 +319,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 30, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 30, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 29, 2026_<br />actively developing
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -358,7 +355,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 30, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
