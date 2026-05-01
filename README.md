@@ -216,15 +216,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [loofiboss-bit/plasma-ai-usage-monitor](https://github.com/loofiboss-bit/plasma-ai-usage-monitor)** _(May 1, 2026)_
 - **Starred [nuxt/nuxt](https://github.com/nuxt/nuxt)** _(Apr 30, 2026)_
 - **Starred [sablierapp/sablier](https://github.com/sablierapp/sablier)** _(Apr 30, 2026)_
 - **Starred [orhun/ratty](https://github.com/orhun/ratty)** _(Apr 29, 2026)_
 - **Starred [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus)** _(Apr 29, 2026)_
-- **Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)** _(Apr 29, 2026)_
 
 <details>
-  <summary>Show 74 more starred repositories...</summary>
+  <summary>Show 75 more starred repositories...</summary>
 
+- **Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)** _(Apr 29, 2026)_
 - **Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** _(Apr 29, 2026)_
 - **Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)** _(Apr 28, 2026)_
 - **Starred [gastownhall/beads](https://github.com/gastownhall/beads)** _(Apr 28, 2026)_
@@ -348,12 +349,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 1, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 30, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Apr 30, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 30, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -405,6 +406,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 1, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 30, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
@@ -413,8 +416,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 29, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
   HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Apr 30, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Apr 29, 2026_<br />actively developing
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
