@@ -74,7 +74,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 156                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 64                                      |
 | **Active Repositories:**   | 57                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -216,15 +216,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [nuxt/nuxt](https://github.com/nuxt/nuxt)** _(Apr 30, 2026)_
 - **Starred [sablierapp/sablier](https://github.com/sablierapp/sablier)** _(Apr 30, 2026)_
 - **Starred [orhun/ratty](https://github.com/orhun/ratty)** _(Apr 29, 2026)_
 - **Starred [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus)** _(Apr 29, 2026)_
 - **Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)** _(Apr 29, 2026)_
-- **Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** _(Apr 29, 2026)_
 
 <details>
-  <summary>Show 73 more starred repositories...</summary>
+  <summary>Show 74 more starred repositories...</summary>
 
+- **Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** _(Apr 29, 2026)_
 - **Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)** _(Apr 28, 2026)_
 - **Starred [gastownhall/beads](https://github.com/gastownhall/beads)** _(Apr 28, 2026)_
 - **Starred [openlayers/openlayers](https://github.com/openlayers/openlayers)** _(Apr 25, 2026)_
