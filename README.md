@@ -89,15 +89,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [9cc350c...a5ee4df](https://github.com/sametcn99/maalesef-tr/compare/9cc350c35671ec775d59dfe9c63dbf7db61caa59...a5ee4df36d84fe8f519f0e54236a5c278a7fdb70)** _(May 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...2f97161](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...2f971610395b21b5e806daa343c5e20c766890a0)** _(May 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [99dba3f...79b9946](https://github.com/sametcn99/hiretea/compare/99dba3f1ac92399f2613b0a2e9c62d000a13de41...79b9946445b3e79bd2c49d681eb05b31ea81fdfd)** _(May 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [607fb2a...fd624b6](https://github.com/sametcn99/personal-website-blazor/compare/607fb2aeabcbc1c2fbd29b43c25fb517c3b1ea30...fd624b67b60031ddd659abbc5d6e3f1321e47af9)** _(Apr 30, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [639bc9f...99dba3f](https://github.com/sametcn99/hiretea/compare/639bc9f029483dfcbbecf582189befe58d60f2f6...99dba3f1ac92399f2613b0a2e9c62d000a13de41)** _(Apr 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0c389e5...e358171](https://github.com/sametcn99/hiretea/compare/0c389e5c8543b817c4046dac573ec12026ebb681...e358171abc56515159b13c955d9aa87bc385ac46)** _(Apr 29, 2026)_
 
 <details>
-  <summary>Show 101 more pushes...</summary>
+  <summary>Show 103 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0c389e5...e358171](https://github.com/sametcn99/hiretea/compare/0c389e5c8543b817c4046dac573ec12026ebb681...e358171abc56515159b13c955d9aa87bc385ac46)** _(Apr 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ef69e86...607fb2a](https://github.com/sametcn99/personal-website-blazor/compare/ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa...607fb2aeabcbc1c2fbd29b43c25fb517c3b1ea30)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [32da7c7...ef69e86](https://github.com/sametcn99/personal-website-blazor/compare/32da7c7c47f46169c8725e25bc05ba884a691cda...ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0bde0cb...32da7c7](https://github.com/sametcn99/personal-website-blazor/compare/0bde0cbbe1f0f78d23857cad5278599831647394...32da7c7c47f46169c8725e25bc05ba884a691cda)** _(Apr 28, 2026)_
@@ -217,15 +219,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [vercel/chat](https://github.com/vercel/chat)** _(May 1, 2026)_
 - **Starred [lsd-rs/lsd](https://github.com/lsd-rs/lsd)** _(May 1, 2026)_
 - **Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)** _(May 1, 2026)_
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
-- **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 84 more starred repositories...</summary>
+  <summary>Show 85 more starred repositories...</summary>
 
+- **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
 - **Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)** _(May 1, 2026)_
 - **Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** _(May 1, 2026)_
 - **Starred [microsoft/terminal](https://github.com/microsoft/terminal)** _(May 1, 2026)_
@@ -359,12 +362,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 1, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: May 1, 2026_<br />actively developing
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 1, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 1, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -416,16 +419,16 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 1, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: May 1, 2026_<br />actively developing
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 1, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Apr 30, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Apr 29, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
   HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
