@@ -96,7 +96,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [639bc9f...99dba3f](https://github.com/sametcn99/hiretea/compare/639bc9f029483dfcbbecf582189befe58d60f2f6...99dba3f1ac92399f2613b0a2e9c62d000a13de41)** _(Apr 29, 2026)_
 
 <details>
-  <summary>Show 102 more pushes...</summary>
+  <summary>Show 101 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0c389e5...e358171](https://github.com/sametcn99/hiretea/compare/0c389e5c8543b817c4046dac573ec12026ebb681...e358171abc56515159b13c955d9aa87bc385ac46)** _(Apr 29, 2026)_
@@ -199,7 +199,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [926597b...8183b97](https://github.com/sametcn99/sametcn99/compare/926597b82d55201752e803abf06c606acdf51298...8183b97c0bc198379e887b2ed8889b43a8ddf71d)** _(Apr 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [cc95272...6348c8c](https://github.com/sametcn99/sametcn99/compare/cc952724e94ca87434a12bf36cafe9b579a66ed3...6348c8cb47f59ac7d5fc3ede5878feefaed2c5b3)** _(Apr 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [435b2dd...fcd9b93](https://github.com/sametcn99/sametcn99/compare/435b2dd848ed18d24b6b57a40ec65d4c46e47ccf...fcd9b93f635219b6f02ab19f8bd8209cbd7e8222)** _(Apr 2, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [120204c...3a6a2ed](https://github.com/sametcn99/wvw.dev/compare/120204cb289f2cbdc1cc85dfc7f7a2cc5e5cd10a...3a6a2ed468f7179c420f21608557f95edf5f4cb4)** _(Apr 1, 2026)_
 
 </details>
 
@@ -361,12 +360,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 2, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 1, 2026_<br />No description provided.
-- [**hiretea**](https://github.com/sametcn99/hiretea) -
-  TypeScript<br />_Created: Apr 13, 2026 • Updated: May 1, 2026_<br />actively developing
 
 ### Active Repositories
 
@@ -418,14 +417,14 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 2, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 1, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: May 1, 2026_<br />actively developing
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 1, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Feb 6, 2026_<br />No description provided.
 - [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
