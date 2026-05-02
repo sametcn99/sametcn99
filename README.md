@@ -217,15 +217,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [f/sign-ai-media](https://github.com/f/sign-ai-media)** _(May 2, 2026)_
 - **Starred [vercel/chat](https://github.com/vercel/chat)** _(May 1, 2026)_
 - **Starred [lsd-rs/lsd](https://github.com/lsd-rs/lsd)** _(May 1, 2026)_
 - **Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)** _(May 1, 2026)_
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
-- **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 85 more starred repositories...</summary>
+  <summary>Show 86 more starred repositories...</summary>
 
+- **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
 - **Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)** _(May 1, 2026)_
 - **Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** _(May 1, 2026)_
