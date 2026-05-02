@@ -73,8 +73,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 156                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Total Stars Earned:**    | 157                                     |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 64                                      |
 | **Active Repositories:**   | 57                                      |
 | **Forked Repositories:**   | 7                                       |
@@ -96,7 +96,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [639bc9f...99dba3f](https://github.com/sametcn99/hiretea/compare/639bc9f029483dfcbbecf582189befe58d60f2f6...99dba3f1ac92399f2613b0a2e9c62d000a13de41)** _(Apr 29, 2026)_
 
 <details>
-  <summary>Show 103 more pushes...</summary>
+  <summary>Show 102 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0c389e5...e358171](https://github.com/sametcn99/hiretea/compare/0c389e5c8543b817c4046dac573ec12026ebb681...e358171abc56515159b13c955d9aa87bc385ac46)** _(Apr 29, 2026)_
@@ -200,7 +200,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [cc95272...6348c8c](https://github.com/sametcn99/sametcn99/compare/cc952724e94ca87434a12bf36cafe9b579a66ed3...6348c8cb47f59ac7d5fc3ede5878feefaed2c5b3)** _(Apr 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [435b2dd...fcd9b93](https://github.com/sametcn99/sametcn99/compare/435b2dd848ed18d24b6b57a40ec65d4c46e47ccf...fcd9b93f635219b6f02ab19f8bd8209cbd7e8222)** _(Apr 2, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [120204c...3a6a2ed](https://github.com/sametcn99/wvw.dev/compare/120204cb289f2cbdc1cc85dfc7f7a2cc5e5cd10a...3a6a2ed468f7179c420f21608557f95edf5f4cb4)** _(Apr 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d6f8af4...bdeacff](https://github.com/sametcn99/sametcn99/compare/d6f8af4d6874fa1b9903227c3e19d8dfbf755549...bdeacff866dc535fe6b3b5f18987bf3a3ff886ec)** _(Apr 1, 2026)_
 
 </details>
 
@@ -395,10 +394,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 1, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 1, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
