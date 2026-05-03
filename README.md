@@ -96,7 +96,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [639bc9f...99dba3f](https://github.com/sametcn99/hiretea/compare/639bc9f029483dfcbbecf582189befe58d60f2f6...99dba3f1ac92399f2613b0a2e9c62d000a13de41)** _(Apr 29, 2026)_
 
 <details>
-  <summary>Show 101 more pushes...</summary>
+  <summary>Show 96 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0c389e5...e358171](https://github.com/sametcn99/hiretea/compare/0c389e5c8543b817c4046dac573ec12026ebb681...e358171abc56515159b13c955d9aa87bc385ac46)** _(Apr 29, 2026)_
@@ -194,11 +194,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [f62ab0e...17b8bd3](https://github.com/sametcn99/booking-calendar/compare/f62ab0e25bfbc180149a8ab30ebd24fe4648bf88...17b8bd3fe6aeea267076938bdaea500adf789675)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [97e6267...3c1e291](https://github.com/sametcn99/booking-calendar/compare/97e6267e648897c96b06e10e678f5d1df260c0d3...3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [d2ab469...97e6267](https://github.com/sametcn99/booking-calendar/compare/d2ab4695ff5ad5ea5616e7ba34b7f9ba9aed18f7...97e6267e648897c96b06e10e678f5d1df260c0d3)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [eaa2f56...2e5ec8f](https://github.com/sametcn99/sametcn99/compare/eaa2f564475bd91a15cb4485a7f499942d5d3fc3...2e5ec8f02a08d05702313c5d7056a3d5b802309c)** _(Apr 3, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [8183b97...f7155fb](https://github.com/sametcn99/sametcn99/compare/8183b97c0bc198379e887b2ed8889b43a8ddf71d...f7155fb82fb944e9158b94083e5314284958cf53)** _(Apr 3, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [926597b...8183b97](https://github.com/sametcn99/sametcn99/compare/926597b82d55201752e803abf06c606acdf51298...8183b97c0bc198379e887b2ed8889b43a8ddf71d)** _(Apr 3, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [cc95272...6348c8c](https://github.com/sametcn99/sametcn99/compare/cc952724e94ca87434a12bf36cafe9b579a66ed3...6348c8cb47f59ac7d5fc3ede5878feefaed2c5b3)** _(Apr 3, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [435b2dd...fcd9b93](https://github.com/sametcn99/sametcn99/compare/435b2dd848ed18d24b6b57a40ec65d4c46e47ccf...fcd9b93f635219b6f02ab19f8bd8209cbd7e8222)** _(Apr 2, 2026)_
 
 </details>
 
@@ -224,7 +219,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 80 more starred repositories...</summary>
+  <summary>Show 79 more starred repositories...</summary>
 
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
@@ -305,7 +300,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [solidjs/solid-docs](https://github.com/solidjs/solid-docs)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid-router](https://github.com/solidjs/solid-router)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid](https://github.com/solidjs/solid)** _(Apr 3, 2026)_
-- **Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)** _(Apr 2, 2026)_
 
 </details>
 
@@ -355,10 +349,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 3, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 2, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 
@@ -389,7 +383,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 2, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
