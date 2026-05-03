@@ -219,7 +219,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 79 more starred repositories...</summary>
+  <summary>Show 75 more starred repositories...</summary>
 
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
@@ -296,10 +296,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [linrunner/TLP](https://github.com/linrunner/TLP)** _(Apr 4, 2026)_
 - **Starred [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI)** _(Apr 4, 2026)_
 - **Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)** _(Apr 3, 2026)_
-- **Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)** _(Apr 3, 2026)_
-- **Starred [solidjs/solid-docs](https://github.com/solidjs/solid-docs)** _(Apr 3, 2026)_
-- **Starred [solidjs/solid-router](https://github.com/solidjs/solid-router)** _(Apr 3, 2026)_
-- **Starred [solidjs/solid](https://github.com/solidjs/solid)** _(Apr 3, 2026)_
 
 </details>
 
