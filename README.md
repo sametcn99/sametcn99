@@ -224,7 +224,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 86 more starred repositories...</summary>
+  <summary>Show 80 more starred repositories...</summary>
 
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
@@ -306,12 +306,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [solidjs/solid-router](https://github.com/solidjs/solid-router)** _(Apr 3, 2026)_
 - **Starred [solidjs/solid](https://github.com/solidjs/solid)** _(Apr 3, 2026)_
 - **Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)** _(Apr 2, 2026)_
-- **Starred [containerd/containerd](https://github.com/containerd/containerd)** _(Apr 2, 2026)_
-- **Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)** _(Apr 2, 2026)_
-- **Starred [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid)** _(Apr 2, 2026)_
-- **Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)** _(Apr 2, 2026)_
-- **Starred [vim/vim](https://github.com/vim/vim)** _(Apr 2, 2026)_
-- **Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** _(Apr 2, 2026)_
 
 </details>
 
@@ -361,10 +355,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 3, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 2, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 2, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 
@@ -419,7 +413,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 2, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 3, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
