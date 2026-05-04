@@ -20,6 +20,7 @@
   - [Recently Updated](#recently-updated)
   - [Active Repositories](#active-repositories)
   - [Forked Repositories](#forked-repositories)
+- [Automated Workflows](#automated-workflows)
 
 ## Tech Stack
 
@@ -37,15 +38,16 @@
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 
+- [**How to Synchronize Obsidian Vault Using Git (PC + Android)**](https://sametcc.me/gist/how-to-synchronize-obsidian-vault-using-git) _(published: May 5, 2026)_<br />A comprehensive, step-by-step guide on synchronizing your Obsidian vault across PC and Android devices using Git, covering setup, workflow, conflict resolution, and best practices.
 - [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated: Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
 - [**GitHub Repo TUI Cloner (PowerShell)**](https://sametcc.me/gist/git-clone-repo-tui) _(published: Feb 19, 2026)_<br />An interactive PowerShell script to fetch and clone your owned GitHub repositories using a terminal UI (TUI).
 - [**TypeSpec for .NET and Next.js Teams**](https://sametcc.me/gist/typespec-for-dotnet-nextjs) _(published: Feb 19, 2026)_<br />Practical TypeSpec workflow for contract-first API design with ASP.NET Core and Next.js, including OpenAPI generation and typed client usage.
 - [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(published: Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
-- [**Golter**](https://sametcc.me/project/golter) _(published: Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
 
 <details>
-  <summary>Show 21 more posts...</summary>
+  <summary>Show 22 more posts...</summary>
 
+- [**Golter**](https://sametcc.me/project/golter) _(published: Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
 - [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
 - [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(published: Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
 - [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(published: Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
@@ -89,15 +91,20 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [142ce0c...8c03344](https://github.com/sametcn99/sametcn99/compare/142ce0c82bba2ffd16b3d62724b5d7a95dc436d4...8c033440c374bb0756b3ba1227dd806123b853c1)** _(May 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [2a9064a...cfc00be](https://github.com/sametcn99/sametcn99/compare/2a9064abba6b72ce9759836cef8a7fff9335078a...cfc00be5a0799c659024101febc7b601e3923e9a)** _(May 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [e243b8c...8595dba](https://github.com/sametcn99/personal-website-blazor/compare/e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8...8595dba56f5eb5855b861360b051eac9c0b3af71)** _(May 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c66c0c3...e243b8c](https://github.com/sametcn99/personal-website-blazor/compare/c66c0c3daa5678fedcafc7b915df2d7d5a526ea7...e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8)** _(May 4, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c706c21...c66c0c3](https://github.com/sametcn99/personal-website-blazor/compare/c706c21c6084cd9d38dbf51c7c1bca95dc2b5530...c66c0c3daa5678fedcafc7b915df2d7d5a526ea7)** _(May 4, 2026)_
+
+<details>
+  <summary>Show 99 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f97161...c706c21](https://github.com/sametcn99/personal-website-blazor/compare/2f971610395b21b5e806daa343c5e20c766890a0...c706c21c6084cd9d38dbf51c7c1bca95dc2b5530)** _(May 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [9cc350c...a5ee4df](https://github.com/sametcn99/maalesef-tr/compare/9cc350c35671ec775d59dfe9c63dbf7db61caa59...a5ee4df36d84fe8f519f0e54236a5c278a7fdb70)** _(May 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...2f97161](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...2f971610395b21b5e806daa343c5e20c766890a0)** _(May 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [99dba3f...79b9946](https://github.com/sametcn99/hiretea/compare/99dba3f1ac92399f2613b0a2e9c62d000a13de41...79b9946445b3e79bd2c49d681eb05b31ea81fdfd)** _(May 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [607fb2a...fd624b6](https://github.com/sametcn99/personal-website-blazor/compare/607fb2aeabcbc1c2fbd29b43c25fb517c3b1ea30...fd624b67b60031ddd659abbc5d6e3f1321e47af9)** _(Apr 30, 2026)_
-
-<details>
-  <summary>Show 96 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [639bc9f...99dba3f](https://github.com/sametcn99/hiretea/compare/639bc9f029483dfcbbecf582189befe58d60f2f6...99dba3f1ac92399f2613b0a2e9c62d000a13de41)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0c389e5...e358171](https://github.com/sametcn99/hiretea/compare/0c389e5c8543b817c4046dac573ec12026ebb681...e358171abc56515159b13c955d9aa87bc385ac46)** _(Apr 29, 2026)_
@@ -192,8 +199,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [54d85e3...46508b0](https://github.com/sametcn99/maalesef-tr/compare/54d85e3c8a4f06cc3f4a5f456f46852a6e65557d...46508b0d987e58e28cf3ed018d9ca5e93664cb1b)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [865bd8e...54d85e3](https://github.com/sametcn99/maalesef-tr/compare/865bd8edef2ecf270bb877fe7d3ed42cc1ae4e7e...54d85e3c8a4f06cc3f4a5f456f46852a6e65557d)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [3c1e291...c992a7e](https://github.com/sametcn99/booking-calendar/compare/3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81...c992a7e901defbcd79bd11cdc3f101e4d703901d)** _(Apr 4, 2026)_
-- **Pushed to &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [f62ab0e...17b8bd3](https://github.com/sametcn99/booking-calendar/compare/f62ab0e25bfbc180149a8ab30ebd24fe4648bf88...17b8bd3fe6aeea267076938bdaea500adf789675)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [97e6267...3c1e291](https://github.com/sametcn99/booking-calendar/compare/97e6267e648897c96b06e10e678f5d1df260c0d3...3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81)** _(Apr 4, 2026)_
 
 </details>
 
@@ -210,15 +215,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [termux/termux-packages](https://github.com/termux/termux-packages)** _(May 4, 2026)_
 - **Starred [f/sign-ai-media](https://github.com/f/sign-ai-media)** _(May 2, 2026)_
 - **Starred [vercel/chat](https://github.com/vercel/chat)** _(May 1, 2026)_
 - **Starred [lsd-rs/lsd](https://github.com/lsd-rs/lsd)** _(May 1, 2026)_
 - **Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)** _(May 1, 2026)_
-- **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 71 more starred repositories...</summary>
+  <summary>Show 72 more starred repositories...</summary>
 
+- **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
 - **Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)** _(May 1, 2026)_
@@ -302,14 +308,13 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 25, 2026)_
 
 <details>
-  <summary>Show 6 more other activity...</summary>
+  <summary>Show 5 more other activity...</summary>
 
 - **Closed issue [#8](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Public in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker)** _(Apr 21, 2026)_
 - **Public in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case)** _(Apr 9, 2026)_
 - **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
-- **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 
 </details>
 
@@ -338,12 +343,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 4, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 4, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 3, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -395,10 +400,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 4, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 4, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 3, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
@@ -490,5 +495,6 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 This GitHub profile is maintained and powered by several automated GitHub Actions to keep the repository fresh and engage with the community:
 
-- **[Update Profile README](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/update-readme.yml)**: Regularly fetches my latest GitHub activity, blog posts, and repository stats to keep this README automatically updated via a daily cron schedule.
-- **[Auto Follow Back](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-back.yml)**: A scheduled workflow that automatically checks my recent followers and follows them back to return the favor.
+- **[Update Profile README](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/update-readme.yml)**: Regularly fetches my latest GitHub activity, blog posts, and repository stats to keep this README automatically updated via a daily cron schedule. Sends Telegram notifications when new open issues are detected.
+- **[Auto Follow Back](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-back.yml)**: A scheduled workflow that automatically checks my recent followers and follows them back to return the favor. Sends Telegram notifications with a summary of followed accounts.
+- **[Follow Stargazers](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-stargazers.yml)**: A weekly workflow that follows users who star my repositories to engage with and appreciate community support. Sends Telegram notifications listing newly followed stargazers.
