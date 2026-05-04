@@ -220,7 +220,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 75 more starred repositories...</summary>
+  <summary>Show 74 more starred repositories...</summary>
 
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
@@ -296,7 +296,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)** _(Apr 4, 2026)_
 - **Starred [linrunner/TLP](https://github.com/linrunner/TLP)** _(Apr 4, 2026)_
 - **Starred [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI)** _(Apr 4, 2026)_
-- **Starred [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)** _(Apr 3, 2026)_
 
 </details>
 
@@ -346,12 +345,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 4, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 3, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 3, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -403,10 +402,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 4, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 3, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 3, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
