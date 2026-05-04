@@ -96,7 +96,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [607fb2a...fd624b6](https://github.com/sametcn99/personal-website-blazor/compare/607fb2aeabcbc1c2fbd29b43c25fb517c3b1ea30...fd624b67b60031ddd659abbc5d6e3f1321e47af9)** _(Apr 30, 2026)_
 
 <details>
-  <summary>Show 97 more pushes...</summary>
+  <summary>Show 96 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [639bc9f...99dba3f](https://github.com/sametcn99/hiretea/compare/639bc9f029483dfcbbecf582189befe58d60f2f6...99dba3f1ac92399f2613b0a2e9c62d000a13de41)** _(Apr 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e358171...639bc9f](https://github.com/sametcn99/hiretea/compare/e358171abc56515159b13c955d9aa87bc385ac46...639bc9f029483dfcbbecf582189befe58d60f2f6)** _(Apr 29, 2026)_
@@ -194,7 +194,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [3c1e291...c992a7e](https://github.com/sametcn99/booking-calendar/compare/3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81...c992a7e901defbcd79bd11cdc3f101e4d703901d)** _(Apr 4, 2026)_
 - **Pushed to &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [f62ab0e...17b8bd3](https://github.com/sametcn99/booking-calendar/compare/f62ab0e25bfbc180149a8ab30ebd24fe4648bf88...17b8bd3fe6aeea267076938bdaea500adf789675)** _(Apr 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [97e6267...3c1e291](https://github.com/sametcn99/booking-calendar/compare/97e6267e648897c96b06e10e678f5d1df260c0d3...3c1e291eb2d7f9fe8d1c94c4cac4c1830f407e81)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [d2ab469...97e6267](https://github.com/sametcn99/booking-calendar/compare/d2ab4695ff5ad5ea5616e7ba34b7f9ba9aed18f7...97e6267e648897c96b06e10e678f5d1df260c0d3)** _(Apr 4, 2026)_
 
 </details>
 
@@ -202,8 +201,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 - **Merged pull request [#11](https://github.com/sametcn99/booking-calendar/pull/11) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Opened pull request [#11](https://github.com/sametcn99/booking-calendar/pull/11) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
-- **Merged pull request [#10](https://github.com/sametcn99/booking-calendar/pull/10) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
-- **Opened pull request [#10](https://github.com/sametcn99/booking-calendar/pull/10) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 
 ### Comments
 
@@ -220,7 +217,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 
 <details>
-  <summary>Show 74 more starred repositories...</summary>
+  <summary>Show 71 more starred repositories...</summary>
 
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
@@ -293,9 +290,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
 - **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
 - **Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** _(Apr 5, 2026)_
-- **Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)** _(Apr 4, 2026)_
-- **Starred [linrunner/TLP](https://github.com/linrunner/TLP)** _(Apr 4, 2026)_
-- **Starred [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI)** _(Apr 4, 2026)_
 
 </details>
 
@@ -308,7 +302,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 25, 2026)_
 
 <details>
-  <summary>Show 7 more other activity...</summary>
+  <summary>Show 6 more other activity...</summary>
 
 - **Closed issue [#8](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
@@ -316,7 +310,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Public in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case)** _(Apr 9, 2026)_
 - **Created branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 - **Deleted branch &#x60;dev&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
-- **Deleted branch &#x60;caldav&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 4, 2026)_
 
 </details>
 
