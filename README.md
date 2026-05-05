@@ -97,7 +97,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c66c0c3...e243b8c](https://github.com/sametcn99/personal-website-blazor/compare/c66c0c3daa5678fedcafc7b915df2d7d5a526ea7...e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8)** _(May 4, 2026)_
 
 <details>
-  <summary>Show 95 more pushes...</summary>
+  <summary>Show 89 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c706c21...c66c0c3](https://github.com/sametcn99/personal-website-blazor/compare/c706c21c6084cd9d38dbf51c7c1bca95dc2b5530...c66c0c3daa5678fedcafc7b915df2d7d5a526ea7)** _(May 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f97161...c706c21](https://github.com/sametcn99/personal-website-blazor/compare/2f971610395b21b5e806daa343c5e20c766890a0...c706c21c6084cd9d38dbf51c7c1bca95dc2b5530)** _(May 3, 2026)_
@@ -188,12 +188,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [bb6407a...1fab3e0](https://github.com/sametcn99/maalesef-tr/compare/bb6407a889e0a8d1630f001bbc3d25aa67618d64...1fab3e0c39a36c897a06c490551a0ee351ae3463)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [c8641ab...bb6407a](https://github.com/sametcn99/maalesef-tr/compare/c8641aba1ed5fafcdb5e25b7268148ce9cd57f45...bb6407a889e0a8d1630f001bbc3d25aa67618d64)** _(Apr 5, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [3a6a2ed...089e656](https://github.com/sametcn99/wvw.dev/compare/3a6a2ed468f7179c420f21608557f95edf5f4cb4...089e656443bc7a13eb7c13b937c96b38859ed9ac)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99.github.io](https://github.com/sametcn99/sametcn99.github.io): [29167fa...6066d54](https://github.com/sametcn99/sametcn99.github.io/compare/29167fa95f67144dd8780221797606cb55a05bcf...6066d5446c1a2f653233709a616e361cc8515395)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99.github.io](https://github.com/sametcn99/sametcn99.github.io): [9e811be...29167fa](https://github.com/sametcn99/sametcn99.github.io/compare/9e811be96913b2ac7ae06aab32570eff380d5a96...29167fa95f67144dd8780221797606cb55a05bcf)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [5b0a1a3...c8641ab](https://github.com/sametcn99/maalesef-tr/compare/5b0a1a3aad52f464f98255975e996a5762209cba...c8641aba1ed5fafcdb5e25b7268148ce9cd57f45)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [6af5c26...5b0a1a3](https://github.com/sametcn99/maalesef-tr/compare/6af5c26e4f523a1f3c1c6f676010c4c187e26290...5b0a1a3aad52f464f98255975e996a5762209cba)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [058297d...6af5c26](https://github.com/sametcn99/maalesef-tr/compare/058297de92923f2be8df3ec099147d4682b84e42...6af5c26e4f523a1f3c1c6f676010c4c187e26290)** _(Apr 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [7503051...058297d](https://github.com/sametcn99/maalesef-tr/compare/7503051afc0ffc0bd221481ea154d0321f9e14a2...058297de92923f2be8df3ec099147d4682b84e42)** _(Apr 4, 2026)_
 
 </details>
 
@@ -337,12 +331,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 5, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 5, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 5, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -371,7 +365,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 5, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
