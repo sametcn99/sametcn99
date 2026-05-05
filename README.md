@@ -215,15 +215,20 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [openai/gpt-oss](https://github.com/openai/gpt-oss)** _(May 4, 2026)_
+- **Starred [simonw/llm](https://github.com/simonw/llm)** _(May 4, 2026)_
+- **Starred [karpathy/llm-council](https://github.com/karpathy/llm-council)** _(May 4, 2026)_
+- **Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** _(May 4, 2026)_
+- **Starred [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian)** _(May 4, 2026)_
+
+<details>
+  <summary>Show 77 more starred repositories...</summary>
+
 - **Starred [termux/termux-packages](https://github.com/termux/termux-packages)** _(May 4, 2026)_
 - **Starred [f/sign-ai-media](https://github.com/f/sign-ai-media)** _(May 2, 2026)_
 - **Starred [vercel/chat](https://github.com/vercel/chat)** _(May 1, 2026)_
 - **Starred [lsd-rs/lsd](https://github.com/lsd-rs/lsd)** _(May 1, 2026)_
 - **Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)** _(May 1, 2026)_
-
-<details>
-  <summary>Show 72 more starred repositories...</summary>
-
 - **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
 - **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
 - **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
