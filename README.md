@@ -74,7 +74,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 159                                     |
+| **Total Stars Earned:**    | 160                                     |
 | **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 64                                      |
 | **Active Repositories:**   | 57                                      |
@@ -347,7 +347,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 <details>
   <summary>Show 51 more repositories...</summary>
 
-- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★8 -
+- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★9 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
 - [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
