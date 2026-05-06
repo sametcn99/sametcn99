@@ -188,15 +188,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [imputnet/helium-linux](https://github.com/imputnet/helium-linux)** _(May 6, 2026)_
 - **Starred [servo/servo](https://github.com/servo/servo)** _(May 6, 2026)_
 - **Starred [golang/go](https://github.com/golang/go)** _(May 6, 2026)_
 - **Starred [ghostery/adblocker](https://github.com/ghostery/adblocker)** _(May 6, 2026)_
 - **Starred [brave/brave-browser](https://github.com/brave/brave-browser)** _(May 6, 2026)_
-- **Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)** _(May 6, 2026)_
 
 <details>
-  <summary>Show 81 more starred repositories...</summary>
+  <summary>Show 82 more starred repositories...</summary>
 
+- **Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)** _(May 6, 2026)_
 - **Starred [fastlane/fastlane](https://github.com/fastlane/fastlane)** _(May 6, 2026)_
 - **Starred [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)** _(May 6, 2026)_
 - **Starred [openai/gpt-oss](https://github.com/openai/gpt-oss)** _(May 4, 2026)_
