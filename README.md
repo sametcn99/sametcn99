@@ -74,7 +74,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 158                                     |
+| **Total Stars Earned:**    | 159                                     |
 | **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 64                                      |
 | **Active Repositories:**   | 57                                      |
@@ -97,7 +97,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c66c0c3...e243b8c](https://github.com/sametcn99/personal-website-blazor/compare/c66c0c3daa5678fedcafc7b915df2d7d5a526ea7...e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8)** _(May 4, 2026)_
 
 <details>
-  <summary>Show 87 more pushes...</summary>
+  <summary>Show 78 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c706c21...c66c0c3](https://github.com/sametcn99/personal-website-blazor/compare/c706c21c6084cd9d38dbf51c7c1bca95dc2b5530...c66c0c3daa5678fedcafc7b915df2d7d5a526ea7)** _(May 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f97161...c706c21](https://github.com/sametcn99/personal-website-blazor/compare/2f971610395b21b5e806daa343c5e20c766890a0...c706c21c6084cd9d38dbf51c7c1bca95dc2b5530)** _(May 3, 2026)_
@@ -177,15 +177,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [3f867a3...d2daa60](https://github.com/sametcn99/sametcn99/compare/3f867a35040613da0cf0fe2db5e8bd3bfd9034e6...d2daa6094756c00432629ac3a95f9c06a9534586)** _(Apr 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4978044...4f2ed2b](https://github.com/sametcn99/personal-website-blazor/compare/4978044f81a1922f6a6f60324cbaf4794d0f6e41...4f2ed2b101c00a0623e13761416c3ac11f28740c)** _(Apr 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dcf58cf...4978044](https://github.com/sametcn99/personal-website-blazor/compare/dcf58cf27b5f50f1be3a751bf16bff772d61b3e8...4978044f81a1922f6a6f60324cbaf4794d0f6e41)** _(Apr 6, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [5f2a9b5...a5782ae](https://github.com/sametcn99/sametcn99/compare/5f2a9b500431f9b1ce0b9b2f9b6b43bf6fe4c82e...a5782ae54f80f777de1b76fc48e503a05eb66dc3)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0b1faeb...31da868](https://github.com/sametcn99/sametcn99/compare/0b1faeb349d1636f2abc4233228df5383358498e...31da868760266ca8f5fe392bd0be18648fc30940)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [cc2799e...935fd21](https://github.com/sametcn99/sametcn99/compare/cc2799ee2d9969175d8e4f474a9b02396b84043d...935fd212bef19fd2d71de2a4f911051b1e373faa)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [ee4c523...3dd86f0](https://github.com/sametcn99/sametcn99/compare/ee4c523543259b8ba06b3766c74dcf6410f7b634...3dd86f0fffb3e8330c969321029e877a2d60f75f)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [1ae78d6...a007665](https://github.com/sametcn99/maalesef-tr/compare/1ae78d67830ade204fa12bb32034f4e3d89679bf...a007665d3cce4812e40649816418d2a473ff4a17)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [aff540c...1ae78d6](https://github.com/sametcn99/maalesef-tr/compare/aff540c6213692b3cf65e544a008a3ca31b47aee...1ae78d67830ade204fa12bb32034f4e3d89679bf)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [acc1914...aff540c](https://github.com/sametcn99/maalesef-tr/compare/acc1914be4f663cbb02a447dae29e94c2be0d374...aff540c6213692b3cf65e544a008a3ca31b47aee)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [1fab3e0...acc1914](https://github.com/sametcn99/maalesef-tr/compare/1fab3e0c39a36c897a06c490551a0ee351ae3463...acc1914be4f663cbb02a447dae29e94c2be0d374)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [bb6407a...1fab3e0](https://github.com/sametcn99/maalesef-tr/compare/bb6407a889e0a8d1630f001bbc3d25aa67618d64...1fab3e0c39a36c897a06c490551a0ee351ae3463)** _(Apr 5, 2026)_
 
 </details>
 
@@ -197,15 +188,22 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [servo/servo](https://github.com/servo/servo)** _(May 6, 2026)_
+- **Starred [golang/go](https://github.com/golang/go)** _(May 6, 2026)_
+- **Starred [ghostery/adblocker](https://github.com/ghostery/adblocker)** _(May 6, 2026)_
+- **Starred [brave/brave-browser](https://github.com/brave/brave-browser)** _(May 6, 2026)_
+- **Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)** _(May 6, 2026)_
+
+<details>
+  <summary>Show 81 more starred repositories...</summary>
+
+- **Starred [fastlane/fastlane](https://github.com/fastlane/fastlane)** _(May 6, 2026)_
+- **Starred [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)** _(May 6, 2026)_
 - **Starred [openai/gpt-oss](https://github.com/openai/gpt-oss)** _(May 4, 2026)_
 - **Starred [simonw/llm](https://github.com/simonw/llm)** _(May 4, 2026)_
 - **Starred [karpathy/llm-council](https://github.com/karpathy/llm-council)** _(May 4, 2026)_
 - **Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** _(May 4, 2026)_
 - **Starred [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian)** _(May 4, 2026)_
-
-<details>
-  <summary>Show 74 more starred repositories...</summary>
-
 - **Starred [termux/termux-packages](https://github.com/termux/termux-packages)** _(May 4, 2026)_
 - **Starred [f/sign-ai-media](https://github.com/f/sign-ai-media)** _(May 2, 2026)_
 - **Starred [vercel/chat](https://github.com/vercel/chat)** _(May 1, 2026)_
@@ -326,10 +324,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 6, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 5, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 5, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 5, 2026_<br />No description provided.
 
@@ -351,10 +349,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★8 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
+  TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★6 -
-  TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★5 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
@@ -384,7 +382,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 5, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 6, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 5, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
