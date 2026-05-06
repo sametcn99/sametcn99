@@ -97,7 +97,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c66c0c3...e243b8c](https://github.com/sametcn99/personal-website-blazor/compare/c66c0c3daa5678fedcafc7b915df2d7d5a526ea7...e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8)** _(May 4, 2026)_
 
 <details>
-  <summary>Show 89 more pushes...</summary>
+  <summary>Show 87 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c706c21...c66c0c3](https://github.com/sametcn99/personal-website-blazor/compare/c706c21c6084cd9d38dbf51c7c1bca95dc2b5530...c66c0c3daa5678fedcafc7b915df2d7d5a526ea7)** _(May 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f97161...c706c21](https://github.com/sametcn99/personal-website-blazor/compare/2f971610395b21b5e806daa343c5e20c766890a0...c706c21c6084cd9d38dbf51c7c1bca95dc2b5530)** _(May 3, 2026)_
@@ -186,8 +186,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [acc1914...aff540c](https://github.com/sametcn99/maalesef-tr/compare/acc1914be4f663cbb02a447dae29e94c2be0d374...aff540c6213692b3cf65e544a008a3ca31b47aee)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [1fab3e0...acc1914](https://github.com/sametcn99/maalesef-tr/compare/1fab3e0c39a36c897a06c490551a0ee351ae3463...acc1914be4f663cbb02a447dae29e94c2be0d374)** _(Apr 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [bb6407a...1fab3e0](https://github.com/sametcn99/maalesef-tr/compare/bb6407a889e0a8d1630f001bbc3d25aa67618d64...1fab3e0c39a36c897a06c490551a0ee351ae3463)** _(Apr 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [c8641ab...bb6407a](https://github.com/sametcn99/maalesef-tr/compare/c8641aba1ed5fafcdb5e25b7268148ce9cd57f45...bb6407a889e0a8d1630f001bbc3d25aa67618d64)** _(Apr 5, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [3a6a2ed...089e656](https://github.com/sametcn99/wvw.dev/compare/3a6a2ed468f7179c420f21608557f95edf5f4cb4...089e656443bc7a13eb7c13b937c96b38859ed9ac)** _(Apr 5, 2026)_
 
 </details>
 
@@ -206,7 +204,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian)** _(May 4, 2026)_
 
 <details>
-  <summary>Show 77 more starred repositories...</summary>
+  <summary>Show 74 more starred repositories...</summary>
 
 - **Starred [termux/termux-packages](https://github.com/termux/termux-packages)** _(May 4, 2026)_
 - **Starred [f/sign-ai-media](https://github.com/f/sign-ai-media)** _(May 2, 2026)_
@@ -282,9 +280,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
 - **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
 - **Starred [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip)** _(Apr 6, 2026)_
-- **Starred [containers/podman](https://github.com/containers/podman)** _(Apr 5, 2026)_
-- **Starred [containers/podman-tui](https://github.com/containers/podman-tui)** _(Apr 5, 2026)_
-- **Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** _(Apr 5, 2026)_
 
 </details>
 
