@@ -97,7 +97,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c66c0c3...e243b8c](https://github.com/sametcn99/personal-website-blazor/compare/c66c0c3daa5678fedcafc7b915df2d7d5a526ea7...e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8)** _(May 4, 2026)_
 
 <details>
-  <summary>Show 78 more pushes...</summary>
+  <summary>Show 74 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c706c21...c66c0c3](https://github.com/sametcn99/personal-website-blazor/compare/c706c21c6084cd9d38dbf51c7c1bca95dc2b5530...c66c0c3daa5678fedcafc7b915df2d7d5a526ea7)** _(May 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f97161...c706c21](https://github.com/sametcn99/personal-website-blazor/compare/2f971610395b21b5e806daa343c5e20c766890a0...c706c21c6084cd9d38dbf51c7c1bca95dc2b5530)** _(May 3, 2026)_
@@ -173,10 +173,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a007665...35176c5](https://github.com/sametcn99/maalesef-tr/compare/a007665d3cce4812e40649816418d2a473ff4a17...35176c5a8ee9826c83c4a0f1f64353db98179456)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7ce0b3e...34b3c6e](https://github.com/sametcn99/personal-website-blazor/compare/7ce0b3edffdc3c8ba12d75bf5faef512fa3b9fba...34b3c6ec86e56a2434b1ce1c8f88059bfa598c5f)** _(Apr 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4f2ed2b...7ce0b3e](https://github.com/sametcn99/personal-website-blazor/compare/4f2ed2b101c00a0623e13761416c3ac11f28740c...7ce0b3edffdc3c8ba12d75bf5faef512fa3b9fba)** _(Apr 6, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [566216f...aa271d3](https://github.com/sametcn99/sametcn99/compare/566216fc000c8aad79b74077ea31e0db2d8d157c...aa271d3e60968f705d91de2077dcc2a13832a879)** _(Apr 6, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [3f867a3...d2daa60](https://github.com/sametcn99/sametcn99/compare/3f867a35040613da0cf0fe2db5e8bd3bfd9034e6...d2daa6094756c00432629ac3a95f9c06a9534586)** _(Apr 6, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4978044...4f2ed2b](https://github.com/sametcn99/personal-website-blazor/compare/4978044f81a1922f6a6f60324cbaf4794d0f6e41...4f2ed2b101c00a0623e13761416c3ac11f28740c)** _(Apr 6, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dcf58cf...4978044](https://github.com/sametcn99/personal-website-blazor/compare/dcf58cf27b5f50f1be3a751bf16bff772d61b3e8...4978044f81a1922f6a6f60324cbaf4794d0f6e41)** _(Apr 6, 2026)_
 
 </details>
 
@@ -188,15 +184,20 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [libredirect/instances](https://github.com/libredirect/instances)** _(May 6, 2026)_
+- **Starred [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors)** _(May 6, 2026)_
+- **Starred [vercel/fun](https://github.com/vercel/fun)** _(May 6, 2026)_
+- **Starred [metabase/metabase](https://github.com/metabase/metabase)** _(May 6, 2026)_
+- **Starred [opencontainers/image-spec](https://github.com/opencontainers/image-spec)** _(May 6, 2026)_
+
+<details>
+  <summary>Show 84 more starred repositories...</summary>
+
 - **Starred [imputnet/helium-linux](https://github.com/imputnet/helium-linux)** _(May 6, 2026)_
 - **Starred [servo/servo](https://github.com/servo/servo)** _(May 6, 2026)_
 - **Starred [golang/go](https://github.com/golang/go)** _(May 6, 2026)_
 - **Starred [ghostery/adblocker](https://github.com/ghostery/adblocker)** _(May 6, 2026)_
 - **Starred [brave/brave-browser](https://github.com/brave/brave-browser)** _(May 6, 2026)_
-
-<details>
-  <summary>Show 82 more starred repositories...</summary>
-
 - **Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)** _(May 6, 2026)_
 - **Starred [fastlane/fastlane](https://github.com/fastlane/fastlane)** _(May 6, 2026)_
 - **Starred [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)** _(May 6, 2026)_
@@ -276,9 +277,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ashley-ha/goodclaude](https://github.com/ashley-ha/goodclaude)** _(Apr 7, 2026)_
 - **Starred [aygunbayirdev/ECommerceStock](https://github.com/aygunbayirdev/ECommerceStock)** _(Apr 6, 2026)_
 - **Starred [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)** _(Apr 6, 2026)_
-- **Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)** _(Apr 6, 2026)_
-- **Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)** _(Apr 6, 2026)_
-- **Starred [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip)** _(Apr 6, 2026)_
 
 </details>
 
