@@ -97,7 +97,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [2a9064a...cfc00be](https://github.com/sametcn99/sametcn99/compare/2a9064abba6b72ce9759836cef8a7fff9335078a...cfc00be5a0799c659024101febc7b601e3923e9a)** _(May 4, 2026)_
 
 <details>
-  <summary>Show 75 more pushes...</summary>
+  <summary>Show 74 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [e243b8c...8595dba](https://github.com/sametcn99/personal-website-blazor/compare/e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8...8595dba56f5eb5855b861360b051eac9c0b3af71)** _(May 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c66c0c3...e243b8c](https://github.com/sametcn99/personal-website-blazor/compare/c66c0c3daa5678fedcafc7b915df2d7d5a526ea7...e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8)** _(May 4, 2026)_
@@ -173,7 +173,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [babd7f3...23038cf](https://github.com/sametcn99/maalesef-tr/compare/babd7f35b05c56a20e43643e7d595690a9f8eaa4...23038cf8b594543891deb7b16d5a5faf65d95dda)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [35176c5...babd7f3](https://github.com/sametcn99/maalesef-tr/compare/35176c5a8ee9826c83c4a0f1f64353db98179456...babd7f35b05c56a20e43643e7d595690a9f8eaa4)** _(Apr 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a007665...35176c5](https://github.com/sametcn99/maalesef-tr/compare/a007665d3cce4812e40649816418d2a473ff4a17...35176c5a8ee9826c83c4a0f1f64353db98179456)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7ce0b3e...34b3c6e](https://github.com/sametcn99/personal-website-blazor/compare/7ce0b3edffdc3c8ba12d75bf5faef512fa3b9fba...34b3c6ec86e56a2434b1ce1c8f88059bfa598c5f)** _(Apr 6, 2026)_
 
 </details>
 
@@ -325,12 +324,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 7, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 7, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -359,7 +358,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 7, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
