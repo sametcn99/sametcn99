@@ -74,7 +74,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 160                                     |
+| **Total Stars Earned:**    | 161                                     |
 | **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 66                                      |
 | **Active Repositories:**   | 58                                      |
@@ -348,7 +348,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**HTWind**](https://github.com/sametcn99/HTWind) ★5 -
+- [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Mar 15, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
