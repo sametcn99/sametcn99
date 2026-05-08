@@ -194,7 +194,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors)** _(May 6, 2026)_
 
 <details>
-  <summary>Show 83 more starred repositories...</summary>
+  <summary>Show 82 more starred repositories...</summary>
 
 - **Starred [vercel/fun](https://github.com/vercel/fun)** _(May 6, 2026)_
 - **Starred [metabase/metabase](https://github.com/metabase/metabase)** _(May 6, 2026)_
@@ -278,7 +278,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ersinkoc/project-architect](https://github.com/ersinkoc/project-architect)** _(Apr 8, 2026)_
 - **Starred [KDE/krunner](https://github.com/KDE/krunner)** _(Apr 7, 2026)_
 - **Starred [vinceliuice/ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde)** _(Apr 7, 2026)_
-- **Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)** _(Apr 7, 2026)_
 
 </details>
 
@@ -327,12 +326,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 8, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 7, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 7, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -384,10 +383,10 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 8, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 7, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 5, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
