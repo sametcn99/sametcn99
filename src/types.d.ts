@@ -26,6 +26,16 @@ type UserStats = {
 type Repository =
 	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
 
+/** Stargazer shape returned when listing stargazers with star+json media type. */
+type Stargazer = {
+	login: string;
+	avatar_url: string;
+	html_url: string;
+	starred_at: string | null;
+	repo_name: string;
+	repo_html_url: string;
+};
+
 /** Activity payload returned when listing public events for a user. */
 type GitHubEvent =
 	import("@octokit/rest").RestEndpointMethodTypes["activity"]["listPublicEventsForUser"]["response"]["data"][number];

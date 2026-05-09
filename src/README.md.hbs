@@ -55,6 +55,9 @@ activity.others.length)}}
   - [Archived Repositories](#archived-repositories)
   {{/if}}
 {{/if}}
+{{#if stargazers.length}}
+- [Recent Stargazers](#recent-stargazers)
+{{/if}}
 - [Automated Workflows](#automated-workflows)
 
 ## Tech Stack
@@ -358,6 +361,26 @@ dateStr}}<br />*{{dateStr}}*{{/if}}<br />{{description}}
 {{/if}}
 {{/if}}
 
+{{#if stargazers.length}}
+## Recent Stargazers
+
+Thanks to everyone who has starred my repositories. Here are the most recent supporters:
+
+{{#each stargazers.visible}}
+- **[@{{login}}]({{html_url}})** starred **[{{repoName}}]({{repoUrl}})** {{#if starredAt}}*({{starredAt}})*{{/if}}
+{{/each}}
+
+{{#if stargazers.hidden.length}}
+<details>
+  <summary>Show {{stargazers.hidden.length}} more stargazers...</summary>
+
+  {{#each stargazers.hidden}}
+  - **[@{{login}}]({{html_url}})** starred **[{{repoName}}]({{repoUrl}})** {{#if starredAt}}*({{starredAt}})*{{/if}}
+  {{/each}}
+</details>
+{{/if}}
+
+{{/if}}
 ## Automated Workflows
 
 This GitHub profile is maintained and powered by several automated GitHub Actions to keep the repository fresh and engage with the community:

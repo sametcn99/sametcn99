@@ -4,6 +4,7 @@ import { GitHubService } from "./GitHubService";
 import { OpenIssueFetcher } from "./OpenIssueFetcher";
 import { ProfileFetcher } from "./ProfileFetcher";
 import { RepositoryFetcher } from "./RepositoryFetcher";
+import { StargazerFetcher } from "./StargazerFetcher";
 import { UserStatsFetcher } from "./UserStatsFetcher";
 import { WorkflowFetcher } from "./WorkflowFetcher";
 
@@ -49,6 +50,14 @@ export class GitHubDataProvider {
 	/** Fetches the most recent workflow run for the repo matching the username. */
 	async fetchWorkflow(): Promise<WorkflowRun | null> {
 		const fetcher = new WorkflowFetcher(this.service, this.octokit);
+		return fetcher.fetch();
+	}
+
+	/** Fetches unique stargazers across owned repos, sorted by most recent. */
+	async fetchStargazers(
+		reposData: Promise<Repository[]>,
+	): Promise<Stargazer[]> {
+		const fetcher = new StargazerFetcher(this.octokit, reposData);
 		return fetcher.fetch();
 	}
 

@@ -20,6 +20,16 @@ export interface FormattedRepo {
 	homepage?: string | null;
 }
 
+/** Shape used by the template when rendering stargazers. */
+export interface FormattedStargazer {
+	login: string;
+	avatar_url: string;
+	html_url: string;
+	starredAt: string;
+	repoName: string;
+	repoUrl: string;
+}
+
 /** Shape used by the template when rendering issues. */
 export interface FormattedIssue {
 	title: string;
@@ -223,6 +233,31 @@ export class DataFormatter {
 			helpWanted: formatAndSplit(helpWantedIssues),
 			otherOpen: formatAndSplit(otherIssues),
 			hasAny: issues.length > 0,
+		};
+	}
+
+	/**
+	 * Splits stargazers into visible (latest 5) and remaining hidden for the template.
+	 */
+	static prepareStargazersData(stargazers: Stargazer[]): {
+		visible: FormattedStargazer[];
+		hidden: FormattedStargazer[];
+		length: number;
+	} {
+		const format = (entry: Stargazer): FormattedStargazer => ({
+			login: entry.login,
+			avatar_url: entry.avatar_url,
+			html_url: entry.html_url,
+			starredAt: entry.starred_at ? formatDateLong(entry.starred_at) : "",
+			repoName: entry.repo_name,
+			repoUrl: entry.repo_html_url,
+		});
+
+		const formatted = stargazers.map(format);
+		return {
+			visible: formatted.slice(0, 5),
+			hidden: formatted.slice(5),
+			length: formatted.length,
 		};
 	}
 
