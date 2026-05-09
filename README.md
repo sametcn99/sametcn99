@@ -97,7 +97,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [9ae4483...09bcbbb](https://github.com/sametcn99/libredirect-instances-list/compare/9ae448357f6207735ec37115f3db7101843cc98a...09bcbbb83b91818a952844035d66278e55ed1679)** _(May 7, 2026)_
 
 <details>
-  <summary>Show 72 more pushes...</summary>
+  <summary>Show 69 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8595dba...1d99ee7](https://github.com/sametcn99/personal-website-blazor/compare/8595dba56f5eb5855b861360b051eac9c0b3af71...1d99ee7625745314176a3bcc44f6f4eb2f3eb1a9)** _(May 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [142ce0c...8c03344](https://github.com/sametcn99/sametcn99/compare/142ce0c82bba2ffd16b3d62724b5d7a95dc436d4...8c033440c374bb0756b3ba1227dd806123b853c1)** _(May 4, 2026)_
@@ -168,9 +168,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [875572c...93b483d](https://github.com/sametcn99/wibesoft-backend-case/compare/875572c4cf3d1debbd5a08775696bd9dcd983b54...93b483d06da92906477ff2e57c849da590b659de)** _(Apr 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [3dcac9f...875572c](https://github.com/sametcn99/wibesoft-backend-case/compare/3dcac9fb526a0d53f98c64ed3ffd164c91821f19...875572c4cf3d1debbd5a08775696bd9dcd983b54)** _(Apr 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [61b1604...3dcac9f](https://github.com/sametcn99/wibesoft-backend-case/compare/61b1604b50c6cc9b17296c073297f20254a97db9...3dcac9fb526a0d53f98c64ed3ffd164c91821f19)** _(Apr 10, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [adceeb6...393f5ab](https://github.com/sametcn99/maalesef-tr/compare/adceeb60c2282061344ce340c2705e9734bb49a9...393f5ab9cb567f01794505eccf1611e2ec68984e)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fa3931a...10b2091](https://github.com/sametcn99/personal-website-blazor/compare/fa3931a53a4827f4aec96e4985452e489d46dbe9...10b2091ff7de02e07e4ecb63cbdf133b9dcf2cfe)** _(Apr 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [34b3c6e...fa3931a](https://github.com/sametcn99/personal-website-blazor/compare/34b3c6ec86e56a2434b1ce1c8f88059bfa598c5f...fa3931a53a4827f4aec96e4985452e489d46dbe9)** _(Apr 8, 2026)_
 
 </details>
 
@@ -189,7 +186,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors)** _(May 6, 2026)_
 
 <details>
-  <summary>Show 80 more starred repositories...</summary>
+  <summary>Show 79 more starred repositories...</summary>
 
 - **Starred [vercel/fun](https://github.com/vercel/fun)** _(May 6, 2026)_
 - **Starred [metabase/metabase](https://github.com/metabase/metabase)** _(May 6, 2026)_
@@ -270,7 +267,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas)** _(Apr 10, 2026)_
 - **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
 - **Starred [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)** _(Apr 9, 2026)_
-- **Starred [ersinkoc/project-architect](https://github.com/ersinkoc/project-architect)** _(Apr 8, 2026)_
 
 </details>
 
