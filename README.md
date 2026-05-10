@@ -99,7 +99,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [10f4032...d9a188b](https://github.com/sametcn99/orhan-elektronik/compare/10f40327c13a861244f208a9d026ab7edb2807ad...d9a188b7af6df9d5b1e536c5ad4abd111ff70461)** _(May 9, 2026)_
 
 <details>
-  <summary>Show 76 more pushes...</summary>
+  <summary>Show 75 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [844085f...10f4032](https://github.com/sametcn99/orhan-elektronik/compare/844085fb0cfc418b8697b59946c784eb11050fab...10f40327c13a861244f208a9d026ab7edb2807ad)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0afd48b...844085f](https://github.com/sametcn99/orhan-elektronik/compare/0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c...844085fb0cfc418b8697b59946c784eb11050fab)** _(May 9, 2026)_
@@ -176,7 +176,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [10b2091...06a9ee2](https://github.com/sametcn99/personal-website-blazor/compare/10b2091ff7de02e07e4ecb63cbdf133b9dcf2cfe...06a9ee29637fc8cdb986e010f2d451d063b92886)** _(Apr 17, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [d94b517...3d67f56](https://github.com/sametcn99/golter/compare/d94b517a930753ea0866d3a7cc9bfd55d9261746...3d67f562b03e4fb8d542537ec69b8b20e909fb51)** _(Apr 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [fb6c6df...90fb302](https://github.com/sametcn99/sametcn99/compare/fb6c6df4cf3bd6dda9921852459ffd4626f136f3...90fb302d06e16e9c7d99477e768843d92a9ae0c3)** _(Apr 10, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [93b483d...44b9833](https://github.com/sametcn99/wibesoft-backend-case/compare/93b483d06da92906477ff2e57c849da590b659de...44b983391d10c89be66040edd024354a714e21fd)** _(Apr 10, 2026)_
 
 </details>
 
