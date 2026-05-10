@@ -99,7 +99,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [10f4032...d9a188b](https://github.com/sametcn99/orhan-elektronik/compare/10f40327c13a861244f208a9d026ab7edb2807ad...d9a188b7af6df9d5b1e536c5ad4abd111ff70461)** _(May 9, 2026)_
 
 <details>
-  <summary>Show 79 more pushes...</summary>
+  <summary>Show 76 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [844085f...10f4032](https://github.com/sametcn99/orhan-elektronik/compare/844085fb0cfc418b8697b59946c784eb11050fab...10f40327c13a861244f208a9d026ab7edb2807ad)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0afd48b...844085f](https://github.com/sametcn99/orhan-elektronik/compare/0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c...844085fb0cfc418b8697b59946c784eb11050fab)** _(May 9, 2026)_
@@ -177,9 +177,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [d94b517...3d67f56](https://github.com/sametcn99/golter/compare/d94b517a930753ea0866d3a7cc9bfd55d9261746...3d67f562b03e4fb8d542537ec69b8b20e909fb51)** _(Apr 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [fb6c6df...90fb302](https://github.com/sametcn99/sametcn99/compare/fb6c6df4cf3bd6dda9921852459ffd4626f136f3...90fb302d06e16e9c7d99477e768843d92a9ae0c3)** _(Apr 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [93b483d...44b9833](https://github.com/sametcn99/wibesoft-backend-case/compare/93b483d06da92906477ff2e57c849da590b659de...44b983391d10c89be66040edd024354a714e21fd)** _(Apr 10, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [875572c...93b483d](https://github.com/sametcn99/wibesoft-backend-case/compare/875572c4cf3d1debbd5a08775696bd9dcd983b54...93b483d06da92906477ff2e57c849da590b659de)** _(Apr 10, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [3dcac9f...875572c](https://github.com/sametcn99/wibesoft-backend-case/compare/3dcac9fb526a0d53f98c64ed3ffd164c91821f19...875572c4cf3d1debbd5a08775696bd9dcd983b54)** _(Apr 10, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [61b1604...3dcac9f](https://github.com/sametcn99/wibesoft-backend-case/compare/61b1604b50c6cc9b17296c073297f20254a97db9...3dcac9fb526a0d53f98c64ed3ffd164c91821f19)** _(Apr 10, 2026)_
 
 </details>
 
@@ -202,7 +199,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** _(May 7, 2026)_
 
 <details>
-  <summary>Show 80 more starred repositories...</summary>
+  <summary>Show 79 more starred repositories...</summary>
 
 - **Starred [libredirect/instances](https://github.com/libredirect/instances)** _(May 6, 2026)_
 - **Starred [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors)** _(May 6, 2026)_
@@ -283,7 +280,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [robinebers/openusage](https://github.com/robinebers/openusage)** _(Apr 11, 2026)_
 - **Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)** _(Apr 10, 2026)_
 - **Starred [kodzamani/DevAtlas](https://github.com/kodzamani/DevAtlas)** _(Apr 10, 2026)_
-- **Starred [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits)** _(Apr 10, 2026)_
 
 </details>
 
@@ -296,7 +292,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(May 7, 2026)_
 
 <details>
-  <summary>Show 9 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
 - **Public in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 1, 2025)_
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
@@ -306,7 +302,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Closed issue [#8](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Public in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker)** _(Apr 21, 2026)_
-- **Public in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case)** _(Apr 9, 2026)_
 
 </details>
 
@@ -335,12 +330,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 10, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 10, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: May 9, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 9, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -369,7 +364,7 @@ A curated view of recent work, actively maintained projects, forks, and archived
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 9, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 10, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
