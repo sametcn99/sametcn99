@@ -9,6 +9,7 @@
 - [GitHub Snapshot](#github-snapshot)
 - [Recent GitHub Activity](#recent-github-activity)
   - [Pushes](#pushes)
+  - [Pull Requests](#pull-requests)
   - [Comments](#comments)
   - [Starred Repositories](#starred-repositories)
   - [Other Activity](#other-activity)
@@ -77,9 +78,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 162                                     |
 | **Commits (7d):**          | 20+                                     |
-| **Total Repositories:**    | 66                                      |
+| **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 58                                      |
-| **Forked Repositories:**   | 8                                       |
+| **Forked Repositories:**   | 9                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
@@ -91,15 +92,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/Kuran](https://github.com/sametcn99/Kuran): [303b958...544ade8](https://github.com/sametcn99/Kuran/compare/303b958a7084f62ac5b0aa036c20e05d07e5d656...544ade8e9ecc00f14eeb3d606acee5014a0525e5)** _(May 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [58a75b0...0a6006e](https://github.com/sametcn99/orhan-elektronik/compare/58a75b08ab551c6b51fa698acd504dde5a38f1be...0a6006e3159a5e7e4c521914519107d90dcb5b5b)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [f85e5e9...58a75b0](https://github.com/sametcn99/orhan-elektronik/compare/f85e5e957166a0b113ef8a494d0133fd1e7afd35...58a75b08ab551c6b51fa698acd504dde5a38f1be)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [d9a188b...f85e5e9](https://github.com/sametcn99/orhan-elektronik/compare/d9a188b7af6df9d5b1e536c5ad4abd111ff70461...f85e5e957166a0b113ef8a494d0133fd1e7afd35)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [10f4032...d9a188b](https://github.com/sametcn99/orhan-elektronik/compare/10f40327c13a861244f208a9d026ab7edb2807ad...d9a188b7af6df9d5b1e536c5ad4abd111ff70461)** _(May 9, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [844085f...10f4032](https://github.com/sametcn99/orhan-elektronik/compare/844085fb0cfc418b8697b59946c784eb11050fab...10f40327c13a861244f208a9d026ab7edb2807ad)** _(May 9, 2026)_
 
 <details>
-  <summary>Show 78 more pushes...</summary>
+  <summary>Show 79 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [844085f...10f4032](https://github.com/sametcn99/orhan-elektronik/compare/844085fb0cfc418b8697b59946c784eb11050fab...10f40327c13a861244f208a9d026ab7edb2807ad)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0afd48b...844085f](https://github.com/sametcn99/orhan-elektronik/compare/0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c...844085fb0cfc418b8697b59946c784eb11050fab)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [268a480...0afd48b](https://github.com/sametcn99/orhan-elektronik/compare/268a480c2c82cc056b251447101a45c0bb34e647...0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [03d9451...268a480](https://github.com/sametcn99/orhan-elektronik/compare/03d9451c221d9fcc2853dbab4057d4431defe607...268a480c2c82cc056b251447101a45c0bb34e647)** _(May 9, 2026)_
@@ -180,6 +182,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/wibesoft-backend-case](https://github.com/sametcn99/wibesoft-backend-case): [61b1604...3dcac9f](https://github.com/sametcn99/wibesoft-backend-case/compare/61b1604b50c6cc9b17296c073297f20254a97db9...3dcac9fb526a0d53f98c64ed3ffd164c91821f19)** _(Apr 10, 2026)_
 
 </details>
+
+### Pull Requests
+
+- **Opened pull request [#53](https://github.com/diyanet-bid/Kuran/pull/53) in [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran)** _(May 10, 2026)_
 
 ### Comments
 
@@ -283,15 +289,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Forked [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran) to [sametcn99/Kuran](https://github.com/sametcn99/Kuran)** _(May 10, 2026)_
 - **Deleted branch &#x60;vercel/react-server-components-cve-vu-1rxemo&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(May 9, 2026)_
 - **Deleted branch &#x60;test&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(May 9, 2026)_
 - **Forked [libredirect/instances](https://github.com/libredirect/instances) to [sametcn99/instances](https://github.com/sametcn99/instances)** _(May 7, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(May 7, 2026)_
-- **Public in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 1, 2025)_
 
 <details>
-  <summary>Show 8 more other activity...</summary>
+  <summary>Show 9 more other activity...</summary>
 
+- **Public in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 1, 2025)_
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 - **Public in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo)** _(Apr 26, 2026)_
@@ -328,12 +335,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 10, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: May 9, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 9, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 9, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -385,12 +392,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 10, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: May 9, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 9, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
@@ -459,15 +466,17 @@ C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description pro
 
 ### Forked Repositories
 
+- [**Kuran**](https://github.com/sametcn99/Kuran) -
+  TypeScript<br />_Created: May 10, 2026 • Updated: May 10, 2026_<br />No description provided.
 - [**instances**](https://github.com/sametcn99/instances) - [Homepage](https://raw.githubusercontent.com/libredirect/instances/main/data.json)<br />_Created: May 7, 2026 • Updated: May 6, 2026_<br />Automated instances list for LibRedirect
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
   JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: Apr 5, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
-- [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) -
-  JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 
 <details>
-  <summary>Show 5 more repositories...</summary>
+  <summary>Show 6 more repositories...</summary>
 
+- [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) -
+  JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 - [**crono-event**](https://github.com/sametcn99/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
 - [**letterboxd-api**](https://github.com/sametcn99/letterboxd-api) -
   Python - [Homepage](https://letterboxd-api-zeta.vercel.app)<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
