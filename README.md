@@ -197,7 +197,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [minios-linux/minios-live](https://github.com/minios-linux/minios-live)** _(May 7, 2026)_
 
 <details>
-  <summary>Show 78 more starred repositories...</summary>
+  <summary>Show 77 more starred repositories...</summary>
 
 - **Starred [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** _(May 7, 2026)_
 - **Starred [libredirect/instances](https://github.com/libredirect/instances)** _(May 6, 2026)_
@@ -276,7 +276,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint)** _(Apr 12, 2026)_
 - **Starred [cihann/juliterm](https://github.com/cihann/juliterm)** _(Apr 11, 2026)_
 - **Starred [shenfurkan/Fezadan](https://github.com/shenfurkan/Fezadan)** _(Apr 11, 2026)_
-- **Starred [robinebers/openusage](https://github.com/robinebers/openusage)** _(Apr 11, 2026)_
 
 </details>
 
