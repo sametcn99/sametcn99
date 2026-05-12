@@ -34,21 +34,22 @@
 | **Desktop**     | [Electron](https://www.electronjs.org), [.NET MAUI](https://learn.microsoft.com/dotnet/maui), [.NET Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)                                                                                      |
 | **Languages**   | [C#](https://learn.microsoft.com/dotnet/csharp), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), [Python](https://www.python.org)                                                             |
 | **Environment** | [Fedora KDE](https://fedoraproject.org/spins/kde)                                                                                                                                                                                                            |
-| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai)                                                                        |
+| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai), [Oh My OpenAgent](https://ohmyopenagent.com)                          |
 
 ## Latest Writing
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 
+- [**shadcn Theme Configuration for MUI**](https://sametcc.me/gist/shadcn-ui-for-mui) _(published: May 13, 2026)_<br />A complete MUI dark theme configuration styled to resemble shadcn&#x27;s default dark theme, mapping zinc color tokens to MUI palette, typography, and component overrides.
 - [**How to Synchronize Obsidian Vault Using Git (PC + Android)**](https://sametcc.me/gist/how-to-synchronize-obsidian-vault-using-git) _(published: May 5, 2026)_<br />A comprehensive, step-by-step guide on synchronizing your Obsidian vault across PC and Android devices using Git, covering setup, workflow, conflict resolution, and best practices.
 - [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated: Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
 - [**GitHub Repo TUI Cloner (PowerShell)**](https://sametcc.me/gist/git-clone-repo-tui) _(published: Feb 19, 2026)_<br />An interactive PowerShell script to fetch and clone your owned GitHub repositories using a terminal UI (TUI).
 - [**TypeSpec for .NET and Next.js Teams**](https://sametcc.me/gist/typespec-for-dotnet-nextjs) _(published: Feb 19, 2026)_<br />Practical TypeSpec workflow for contract-first API design with ASP.NET Core and Next.js, including OpenAPI generation and typed client usage.
-- [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(published: Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
 
 <details>
-  <summary>Show 22 more posts...</summary>
+  <summary>Show 23 more posts...</summary>
 
+- [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(published: Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
 - [**Golter**](https://sametcc.me/project/golter) _(published: Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
 - [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
 - [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(published: Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
@@ -93,15 +94,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [860301d...0aeb0cb](https://github.com/sametcn99/gh-block-spam-accounts/compare/860301dc8026c7b96fbabb765edc0777259e65dd...0aeb0cb163237c1c9962daff5e96d6e2e04cb9e8)** _(May 12, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1d99ee7...5076624](https://github.com/sametcn99/personal-website-blazor/compare/1d99ee7625745314176a3bcc44f6f4eb2f3eb1a9...507662409c2234318b44a1907d27c9948c7d7598)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1c57575...afb99d7](https://github.com/sametcn99/sametcn99/compare/1c57575e8be4b27964164f2d763edd599f6c5a76...afb99d7357f80544663a0f99a305950c261cfd40)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [0aeb0cb...1ac7c82](https://github.com/sametcn99/gh-block-spam-accounts/compare/0aeb0cb163237c1c9962daff5e96d6e2e04cb9e8...1ac7c8275eeba23765e49973af2c025e35735164)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c6c5525...68d2505](https://github.com/sametcn99/sametcn99/compare/c6c55256acf50f52bc6ea07d82234404e8f53411...68d25056891766e18f76da76e01d912201b1f417)** _(May 12, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [06dd103...09b5e04](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/06dd1030b09bf04d283b327e7e40f07ad4c941b4...09b5e04de448440ba428a48397aeaf267f4d94dd)** _(May 12, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cad5e25...06dd103](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cad5e25172229a5067144f2c8aac9e4e6f36d228...06dd1030b09bf04d283b327e7e40f07ad4c941b4)** _(May 12, 2026)_
 
 <details>
-  <summary>Show 78 more pushes...</summary>
+  <summary>Show 80 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [06dd103...09b5e04](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/06dd1030b09bf04d283b327e7e40f07ad4c941b4...09b5e04de448440ba428a48397aeaf267f4d94dd)** _(May 12, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cad5e25...06dd103](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cad5e25172229a5067144f2c8aac9e4e6f36d228...06dd1030b09bf04d283b327e7e40f07ad4c941b4)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/Kuran](https://github.com/sametcn99/Kuran): [303b958...544ade8](https://github.com/sametcn99/Kuran/compare/303b958a7084f62ac5b0aa036c20e05d07e5d656...544ade8e9ecc00f14eeb3d606acee5014a0525e5)** _(May 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [58a75b0...0a6006e](https://github.com/sametcn99/orhan-elektronik/compare/58a75b08ab551c6b51fa698acd504dde5a38f1be...0a6006e3159a5e7e4c521914519107d90dcb5b5b)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [f85e5e9...58a75b0](https://github.com/sametcn99/orhan-elektronik/compare/f85e5e957166a0b113ef8a494d0133fd1e7afd35...58a75b08ab551c6b51fa698acd504dde5a38f1be)** _(May 9, 2026)_
@@ -332,12 +335,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 12, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: May 12, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★56 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: May 12, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 12, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -389,6 +392,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 12, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: May 12, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
@@ -401,8 +406,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 5, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
   TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
