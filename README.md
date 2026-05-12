@@ -99,7 +99,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [10f4032...d9a188b](https://github.com/sametcn99/orhan-elektronik/compare/10f40327c13a861244f208a9d026ab7edb2807ad...d9a188b7af6df9d5b1e536c5ad4abd111ff70461)** _(May 9, 2026)_
 
 <details>
-  <summary>Show 74 more pushes...</summary>
+  <summary>Show 73 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [844085f...10f4032](https://github.com/sametcn99/orhan-elektronik/compare/844085fb0cfc418b8697b59946c784eb11050fab...10f40327c13a861244f208a9d026ab7edb2807ad)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0afd48b...844085f](https://github.com/sametcn99/orhan-elektronik/compare/0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c...844085fb0cfc418b8697b59946c784eb11050fab)** _(May 9, 2026)_
@@ -174,7 +174,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [8e5c457...4ecdee5](https://github.com/sametcn99/application-tracker/compare/8e5c457e3f9b04cde208e2ff2f241140867db20c...4ecdee530f3513a18e956ee33abc8c1a91d19d61)** _(Apr 22, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [f1b0878...8e5c457](https://github.com/sametcn99/application-tracker/compare/f1b0878a2325db27058e0a61027f3994be11ccf1...8e5c457e3f9b04cde208e2ff2f241140867db20c)** _(Apr 22, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [10b2091...06a9ee2](https://github.com/sametcn99/personal-website-blazor/compare/10b2091ff7de02e07e4ecb63cbdf133b9dcf2cfe...06a9ee29637fc8cdb986e010f2d451d063b92886)** _(Apr 17, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [d94b517...3d67f56](https://github.com/sametcn99/golter/compare/d94b517a930753ea0866d3a7cc9bfd55d9261746...3d67f562b03e4fb8d542537ec69b8b20e909fb51)** _(Apr 11, 2026)_
 
 </details>
 
@@ -197,7 +196,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [minios-linux/minios-live](https://github.com/minios-linux/minios-live)** _(May 7, 2026)_
 
 <details>
-  <summary>Show 77 more starred repositories...</summary>
+  <summary>Show 76 more starred repositories...</summary>
 
 - **Starred [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** _(May 7, 2026)_
 - **Starred [libredirect/instances](https://github.com/libredirect/instances)** _(May 6, 2026)_
@@ -275,7 +274,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)** _(Apr 13, 2026)_
 - **Starred [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint)** _(Apr 12, 2026)_
 - **Starred [cihann/juliterm](https://github.com/cihann/juliterm)** _(Apr 11, 2026)_
-- **Starred [shenfurkan/Fezadan](https://github.com/shenfurkan/Fezadan)** _(Apr 11, 2026)_
 
 </details>
 
