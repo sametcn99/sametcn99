@@ -25,15 +25,16 @@
 
 ## Tech Stack
 
-| Area            | Technologies                                        |
-| :-------------- | :-------------------------------------------------- |
-| **Frontend**    | React, Next.js, Vue, Blazor, TypeScript, JavaScript |
-| **Backend**     | .NET, NestJS, Node.js, Bun                          |
-| **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB                |
-| **DevOps**      | GitHub Actions, Docker, Coolify                     |
-| **Desktop**     | Electron, .NET MAUI, .NET Windows Forms             |
-| **Languages**   | C#, TypeScript, JavaScript, Python                  |
-| **Environment** | Fedora KDE                                          |
+| Area            | Technologies                                                                                                                                                                                                                                                 |
+| :-------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) |
+| **Backend**     | [.NET](https://dotnet.microsoft.com), [NestJS](https://nestjs.com), [Node.js](https://nodejs.org), [Bun](https://bun.sh)                                                                                                                                     |
+| **Data**        | [PostgreSQL](https://www.postgresql.org), [MS SQL](https://www.microsoft.com/sql-server), [SQLite](https://www.sqlite.org), [InfluxDB](https://www.influxdata.com)                                                                                           |
+| **DevOps**      | [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com), [Coolify](https://coolify.io)                                                                                                                                       |
+| **Desktop**     | [Electron](https://www.electronjs.org), [.NET MAUI](https://learn.microsoft.com/dotnet/maui), [.NET Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)                                                                                      |
+| **Languages**   | [C#](https://learn.microsoft.com/dotnet/csharp), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), [Python](https://www.python.org)                                                             |
+| **Environment** | [Fedora KDE](https://fedoraproject.org/spins/kde)                                                                                                                                                                                                            |
+| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai)                                                                        |
 
 ## Latest Writing
 
@@ -77,7 +78,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 162                                     |
-| **Commits (7d):**          | 10+                                     |
+| **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 58                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -92,15 +93,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1c57575...afb99d7](https://github.com/sametcn99/sametcn99/compare/1c57575e8be4b27964164f2d763edd599f6c5a76...afb99d7357f80544663a0f99a305950c261cfd40)** _(May 12, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [0aeb0cb...1ac7c82](https://github.com/sametcn99/gh-block-spam-accounts/compare/0aeb0cb163237c1c9962daff5e96d6e2e04cb9e8...1ac7c8275eeba23765e49973af2c025e35735164)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c6c5525...68d2505](https://github.com/sametcn99/sametcn99/compare/c6c55256acf50f52bc6ea07d82234404e8f53411...68d25056891766e18f76da76e01d912201b1f417)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [06dd103...09b5e04](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/06dd1030b09bf04d283b327e7e40f07ad4c941b4...09b5e04de448440ba428a48397aeaf267f4d94dd)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cad5e25...06dd103](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cad5e25172229a5067144f2c8aac9e4e6f36d228...06dd1030b09bf04d283b327e7e40f07ad4c941b4)** _(May 12, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/Kuran](https://github.com/sametcn99/Kuran): [303b958...544ade8](https://github.com/sametcn99/Kuran/compare/303b958a7084f62ac5b0aa036c20e05d07e5d656...544ade8e9ecc00f14eeb3d606acee5014a0525e5)** _(May 10, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [58a75b0...0a6006e](https://github.com/sametcn99/orhan-elektronik/compare/58a75b08ab551c6b51fa698acd504dde5a38f1be...0a6006e3159a5e7e4c521914519107d90dcb5b5b)** _(May 9, 2026)_
 
 <details>
-  <summary>Show 76 more pushes...</summary>
+  <summary>Show 78 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/Kuran](https://github.com/sametcn99/Kuran): [303b958...544ade8](https://github.com/sametcn99/Kuran/compare/303b958a7084f62ac5b0aa036c20e05d07e5d656...544ade8e9ecc00f14eeb3d606acee5014a0525e5)** _(May 10, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [58a75b0...0a6006e](https://github.com/sametcn99/orhan-elektronik/compare/58a75b08ab551c6b51fa698acd504dde5a38f1be...0a6006e3159a5e7e4c521914519107d90dcb5b5b)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [f85e5e9...58a75b0](https://github.com/sametcn99/orhan-elektronik/compare/f85e5e957166a0b113ef8a494d0133fd1e7afd35...58a75b08ab551c6b51fa698acd504dde5a38f1be)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [d9a188b...f85e5e9](https://github.com/sametcn99/orhan-elektronik/compare/d9a188b7af6df9d5b1e536c5ad4abd111ff70461...f85e5e957166a0b113ef8a494d0133fd1e7afd35)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [10f4032...d9a188b](https://github.com/sametcn99/orhan-elektronik/compare/10f40327c13a861244f208a9d026ab7edb2807ad...d9a188b7af6df9d5b1e536c5ad4abd111ff70461)** _(May 9, 2026)_
@@ -193,15 +196,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [H2Shami/opencode-helicone-session](https://github.com/H2Shami/opencode-helicone-session)** _(May 12, 2026)_
 - **Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** _(May 10, 2026)_
 - **Starred [agama-project/agama](https://github.com/agama-project/agama)** _(May 9, 2026)_
 - **Starred [roadkell/ascii-logos](https://github.com/roadkell/ascii-logos)** _(May 9, 2026)_
 - **Starred [withoutboats/notty](https://github.com/withoutboats/notty)** _(May 7, 2026)_
-- **Starred [minios-linux/minios-live](https://github.com/minios-linux/minios-live)** _(May 7, 2026)_
 
 <details>
-  <summary>Show 75 more starred repositories...</summary>
+  <summary>Show 76 more starred repositories...</summary>
 
+- **Starred [minios-linux/minios-live](https://github.com/minios-linux/minios-live)** _(May 7, 2026)_
 - **Starred [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** _(May 7, 2026)_
 - **Starred [libredirect/instances](https://github.com/libredirect/instances)** _(May 6, 2026)_
 - **Starred [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors)** _(May 6, 2026)_
