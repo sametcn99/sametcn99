@@ -92,15 +92,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [06dd103...09b5e04](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/06dd1030b09bf04d283b327e7e40f07ad4c941b4...09b5e04de448440ba428a48397aeaf267f4d94dd)** _(May 12, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cad5e25...06dd103](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cad5e25172229a5067144f2c8aac9e4e6f36d228...06dd1030b09bf04d283b327e7e40f07ad4c941b4)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/Kuran](https://github.com/sametcn99/Kuran): [303b958...544ade8](https://github.com/sametcn99/Kuran/compare/303b958a7084f62ac5b0aa036c20e05d07e5d656...544ade8e9ecc00f14eeb3d606acee5014a0525e5)** _(May 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [58a75b0...0a6006e](https://github.com/sametcn99/orhan-elektronik/compare/58a75b08ab551c6b51fa698acd504dde5a38f1be...0a6006e3159a5e7e4c521914519107d90dcb5b5b)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [f85e5e9...58a75b0](https://github.com/sametcn99/orhan-elektronik/compare/f85e5e957166a0b113ef8a494d0133fd1e7afd35...58a75b08ab551c6b51fa698acd504dde5a38f1be)** _(May 9, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [d9a188b...f85e5e9](https://github.com/sametcn99/orhan-elektronik/compare/d9a188b7af6df9d5b1e536c5ad4abd111ff70461...f85e5e957166a0b113ef8a494d0133fd1e7afd35)** _(May 9, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [10f4032...d9a188b](https://github.com/sametcn99/orhan-elektronik/compare/10f40327c13a861244f208a9d026ab7edb2807ad...d9a188b7af6df9d5b1e536c5ad4abd111ff70461)** _(May 9, 2026)_
 
 <details>
-  <summary>Show 73 more pushes...</summary>
+  <summary>Show 75 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [d9a188b...f85e5e9](https://github.com/sametcn99/orhan-elektronik/compare/d9a188b7af6df9d5b1e536c5ad4abd111ff70461...f85e5e957166a0b113ef8a494d0133fd1e7afd35)** _(May 9, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [10f4032...d9a188b](https://github.com/sametcn99/orhan-elektronik/compare/10f40327c13a861244f208a9d026ab7edb2807ad...d9a188b7af6df9d5b1e536c5ad4abd111ff70461)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [844085f...10f4032](https://github.com/sametcn99/orhan-elektronik/compare/844085fb0cfc418b8697b59946c784eb11050fab...10f40327c13a861244f208a9d026ab7edb2807ad)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0afd48b...844085f](https://github.com/sametcn99/orhan-elektronik/compare/0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c...844085fb0cfc418b8697b59946c784eb11050fab)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [268a480...0afd48b](https://github.com/sametcn99/orhan-elektronik/compare/268a480c2c82cc056b251447101a45c0bb34e647...0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c)** _(May 9, 2026)_
@@ -183,6 +185,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Comments
 
+- **Commented on issue [How does one stop line number being rendered by default?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/10) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 12, 2026)_
 - **Commented on issue [&#x60;tooltips.copyCode&#x60; doesn’t seem to be working.](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/9) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 25, 2026)_
 - **Commented on issue [Support adapting the toolbar button tooltip text to VitePress’s multilingual setup.](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **Commented on issue [Diagram disappears after zooming out from fullscreen](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/7) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
@@ -278,15 +281,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Closed issue [#10](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/10) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 12, 2026)_
 - **Forked [diyanet-bid/Kuran](https://github.com/diyanet-bid/Kuran) to [sametcn99/Kuran](https://github.com/sametcn99/Kuran)** _(May 10, 2026)_
 - **Deleted branch &#x60;vercel/react-server-components-cve-vu-1rxemo&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(May 9, 2026)_
 - **Deleted branch &#x60;test&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(May 9, 2026)_
 - **Forked [libredirect/instances](https://github.com/libredirect/instances) to [sametcn99/instances](https://github.com/sametcn99/instances)** _(May 7, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(May 7, 2026)_
 
 <details>
-  <summary>Show 8 more other activity...</summary>
+  <summary>Show 9 more other activity...</summary>
 
+- **Created branch &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(May 7, 2026)_
 - **Public in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik)** _(Jan 1, 2025)_
 - **Public in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr)** _(Feb 12, 2026)_
 - **Public in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
@@ -306,7 +310,6 @@ A quick overview of ongoing discussions, tracked bugs, and feature requests acro
 
 Active issues I am currently tracking or planning to work on.
 
-- [**How does one stop line number being rendered by default?**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/10) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated May 12, 2026)_
 - [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
 - [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
 - [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 11, 2026)_
@@ -324,17 +327,17 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★56 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: May 12, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 12, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 12, 2026_<br />No description provided.
-- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
-  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: May 9, 2026_<br />No description provided.
 
 ### Active Repositories
 
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★56 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Apr 25, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: May 12, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
 - [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★13 -
