@@ -208,15 +208,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)** _(May 14, 2026)_
+- **Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)** _(May 14, 2026)_
+- **Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** _(May 14, 2026)_
 - **Starred [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)** _(May 14, 2026)_
 - **Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)** _(May 14, 2026)_
+
+<details>
+  <summary>Show 80 more starred repositories...</summary>
+
 - **Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** _(May 14, 2026)_
 - **Starred [manatools/dnfdragora](https://github.com/manatools/dnfdragora)** _(May 13, 2026)_
 - **Starred [gioui/gio](https://github.com/gioui/gio)** _(May 12, 2026)_
-
-<details>
-  <summary>Show 77 more starred repositories...</summary>
-
 - **Starred [vugu/vugu](https://github.com/vugu/vugu)** _(May 12, 2026)_
 - **Starred [H2Shami/opencode-helicone-session](https://github.com/H2Shami/opencode-helicone-session)** _(May 12, 2026)_
 - **Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** _(May 10, 2026)_
