@@ -208,15 +208,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** _(May 14, 2026)_
 - **Starred [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)** _(May 14, 2026)_
 - **Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)** _(May 14, 2026)_
 - **Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** _(May 14, 2026)_
 - **Starred [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)** _(May 14, 2026)_
-- **Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)** _(May 14, 2026)_
 
 <details>
   <summary>Show 80 more starred repositories...</summary>
 
+- **Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)** _(May 14, 2026)_
 - **Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** _(May 14, 2026)_
 - **Starred [manatools/dnfdragora](https://github.com/manatools/dnfdragora)** _(May 13, 2026)_
 - **Starred [gioui/gio](https://github.com/gioui/gio)** _(May 12, 2026)_
@@ -296,7 +297,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [yusufipk/OpenFrame](https://github.com/yusufipk/OpenFrame)** _(Apr 15, 2026)_
 - **Starred [MuratDincc/interview-topics-turkish](https://github.com/MuratDincc/interview-topics-turkish)** _(Apr 15, 2026)_
 - **Starred [getsentry/sentry](https://github.com/getsentry/sentry)** _(Apr 15, 2026)_
-- **Starred [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)** _(Apr 14, 2026)_
 
 </details>
 
