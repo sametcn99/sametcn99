@@ -79,7 +79,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 162                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 58                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -94,15 +94,20 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [c3584e5...28eb3ed](https://github.com/sametcn99/application-tracker/compare/c3584e545a53e1304a06045804ad39fbf1e344b9...28eb3ed49376a845f424fbdede0f5829b0d2b660)** _(May 13, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [a6b4164...c3584e5](https://github.com/sametcn99/application-tracker/compare/a6b4164c84c20dcf4072abf51e0c258a03e7368c...c3584e545a53e1304a06045804ad39fbf1e344b9)** _(May 13, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [825c4f7...a6b4164](https://github.com/sametcn99/application-tracker/compare/825c4f788b7df26e466e836a440c03a79beb9adf...a6b4164c84c20dcf4072abf51e0c258a03e7368c)** _(May 13, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [edf7d1b...825c4f7](https://github.com/sametcn99/application-tracker/compare/edf7d1b7a49c261b852f34b1676e6d8cc10af0ff...825c4f788b7df26e466e836a440c03a79beb9adf)** _(May 13, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cd23915...edf7d1b](https://github.com/sametcn99/application-tracker/compare/cd23915fd788f11a0328e3b412a1a47f338eff49...edf7d1b7a49c261b852f34b1676e6d8cc10af0ff)** _(May 13, 2026)_
+
+<details>
+  <summary>Show 89 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d3e445c...6f6198e](https://github.com/sametcn99/personal-website-blazor/compare/d3e445ccc2c9eca1fe0c1fbf4babd1092e02dc69...6f6198ec0daedb86ff8b9173d3f321f73a0377cc)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0ca23b9...d3e445c](https://github.com/sametcn99/personal-website-blazor/compare/0ca23b9d4aa7d7d6fe6095e54066823e7223a649...d3e445ccc2c9eca1fe0c1fbf4babd1092e02dc69)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [68f7827...643d304](https://github.com/sametcn99/sametcn99/compare/68f78270f69c87f89d6dc4db14fe6e862071d428...643d3046f34b661d484e4e34dea1da3635ad28ec)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5076624...0ca23b9](https://github.com/sametcn99/personal-website-blazor/compare/507662409c2234318b44a1907d27c9948c7d7598...0ca23b9d4aa7d7d6fe6095e54066823e7223a649)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [860301d...0aeb0cb](https://github.com/sametcn99/gh-block-spam-accounts/compare/860301dc8026c7b96fbabb765edc0777259e65dd...0aeb0cb163237c1c9962daff5e96d6e2e04cb9e8)** _(May 12, 2026)_
-
-<details>
-  <summary>Show 84 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1d99ee7...5076624](https://github.com/sametcn99/personal-website-blazor/compare/1d99ee7625745314176a3bcc44f6f4eb2f3eb1a9...507662409c2234318b44a1907d27c9948c7d7598)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1c57575...afb99d7](https://github.com/sametcn99/sametcn99/compare/1c57575e8be4b27964164f2d763edd599f6c5a76...afb99d7357f80544663a0f99a305950c261cfd40)** _(May 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [0aeb0cb...1ac7c82](https://github.com/sametcn99/gh-block-spam-accounts/compare/0aeb0cb163237c1c9962daff5e96d6e2e04cb9e8...1ac7c8275eeba23765e49973af2c025e35735164)** _(May 12, 2026)_
@@ -210,7 +215,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** _(May 10, 2026)_
 
 <details>
-  <summary>Show 78 more starred repositories...</summary>
+  <summary>Show 76 more starred repositories...</summary>
 
 - **Starred [agama-project/agama](https://github.com/agama-project/agama)** _(May 9, 2026)_
 - **Starred [roadkell/ascii-logos](https://github.com/roadkell/ascii-logos)** _(May 9, 2026)_
@@ -288,8 +293,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)** _(Apr 14, 2026)_
 - **Starred [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** _(Apr 13, 2026)_
 - **Starred [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** _(Apr 13, 2026)_
-- **Starred [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)** _(Apr 13, 2026)_
-- **Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)** _(Apr 13, 2026)_
 
 </details>
 
@@ -341,12 +344,12 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 ### Recently Updated
 
+- [**application-tracker**](https://github.com/sametcn99/application-tracker) -
+  TypeScript<br />_Created: Apr 21, 2026 • Updated: May 13, 2026_<br />self-hosted job search operating system
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 13, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 13, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 12, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -398,6 +401,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**application-tracker**](https://github.com/sametcn99/application-tracker) -
+  TypeScript<br />_Created: Apr 21, 2026 • Updated: May 13, 2026_<br />self-hosted job search operating system
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 13, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
@@ -408,8 +413,6 @@ A curated view of recent work, actively maintained projects, forks, and archived
   TypeScript<br />_Created: Apr 13, 2026 • Updated: May 1, 2026_<br />Hiretea is a self-hosted platform for running technical assessments end to end
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: May 9, 2026_<br />No description provided.
-- [**application-tracker**](https://github.com/sametcn99/application-tracker) -
-  TypeScript<br />_Created: Apr 21, 2026 • Updated: Apr 25, 2026_<br />self-hosted job search operating system
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
