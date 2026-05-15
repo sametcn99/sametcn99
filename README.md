@@ -213,15 +213,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
 - **Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** _(May 14, 2026)_
 - **Starred [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)** _(May 14, 2026)_
 - **Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)** _(May 14, 2026)_
 - **Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** _(May 14, 2026)_
-- **Starred [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)** _(May 14, 2026)_
 
 <details>
-  <summary>Show 79 more starred repositories...</summary>
+  <summary>Show 80 more starred repositories...</summary>
 
+- **Starred [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)** _(May 14, 2026)_
 - **Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)** _(May 14, 2026)_
 - **Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** _(May 14, 2026)_
 - **Starred [manatools/dnfdragora](https://github.com/manatools/dnfdragora)** _(May 13, 2026)_
