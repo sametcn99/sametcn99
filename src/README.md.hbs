@@ -42,6 +42,9 @@ activity.others.length)}}
 {{/if}}
 {{#if repos}}
 - [Repository Highlights](#repository-highlights)
+  {{#if releases.length}}
+  - [Releases](#releases)
+  {{/if}}
   {{#if repos.recentlyUpdated.length}}
   - [Recently Updated](#recently-updated)
   {{/if}}
@@ -58,6 +61,7 @@ activity.others.length)}}
 {{#if stargazers.length}}
 - [Recent Stargazers](#recent-stargazers)
 {{/if}}
+
 - [Automated Workflows](#automated-workflows)
 
 ## Tech Stack
@@ -283,6 +287,27 @@ If you landed here while looking for something to contribute, these are the issu
 
 A curated view of recent work, actively maintained projects, forks, and archived repositories kept for reference.
 
+{{#if releases.length}}
+## Releases
+
+Recent releases across my repositories:
+
+{{#each releases.visible}}
+- [**{{name}}**]({{html_url}}) — [{{repoName}}]({{repoUrl}}) {{#if publishedAt}}*({{publishedAt}})*{{/if}}{{#if isPrerelease}} ⚠️ pre-release{{/if}}
+{{/each}}
+
+{{#if releases.hidden.length}}
+<details>
+  <summary>Show {{releases.hidden.length}} more releases...</summary>
+
+  {{#each releases.hidden}}
+  - [**{{name}}**]({{html_url}}) — [{{repoName}}]({{repoUrl}}) {{#if publishedAt}}*({{publishedAt}})*{{/if}}{{#if isPrerelease}} ⚠️ pre-release{{/if}}
+  {{/each}}
+</details>
+{{/if}}
+
+{{/if}}
+
 {{#if repos.recentlyUpdated.length}}
 
 ### Recently Updated
@@ -383,6 +408,7 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 {{/if}}
 
 {{/if}}
+
 ## Automated Workflows
 
 This GitHub profile is maintained and powered by several automated GitHub Actions to keep the repository fresh and engage with the community:

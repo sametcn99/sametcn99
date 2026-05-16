@@ -30,6 +30,17 @@ export interface FormattedStargazer {
 	repoUrl: string;
 }
 
+/** Shape used by the template when rendering releases. */
+export interface FormattedRelease {
+	repoName: string;
+	repoUrl: string;
+	tagName: string;
+	name: string;
+	html_url: string;
+	publishedAt: string;
+	isPrerelease: boolean;
+}
+
 /** Shape used by the template when rendering issues. */
 export interface FormattedIssue {
 	title: string;
@@ -254,6 +265,32 @@ export class DataFormatter {
 		});
 
 		const formatted = stargazers.map(format);
+		return {
+			visible: formatted.slice(0, 5),
+			hidden: formatted.slice(5),
+			length: formatted.length,
+		};
+	}
+
+	/**
+	 * Splits releases into visible (latest 5) and remaining hidden for the template.
+	 */
+	static prepareReleasesData(releases: Release[]): {
+		visible: FormattedRelease[];
+		hidden: FormattedRelease[];
+		length: number;
+	} {
+		const format = (entry: Release): FormattedRelease => ({
+			repoName: entry.repo_name,
+			repoUrl: entry.repo_html_url,
+			tagName: entry.tag_name,
+			name: entry.release_name,
+			html_url: entry.html_url,
+			publishedAt: entry.published_at ? formatDateLong(entry.published_at) : "",
+			isPrerelease: entry.is_prerelease,
+		});
+
+		const formatted = releases.map(format);
 		return {
 			visible: formatted.slice(0, 5),
 			hidden: formatted.slice(5),

@@ -26,6 +26,21 @@ type UserStats = {
 type Repository =
 	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
 
+/** Release payload returned when listing releases for a repo. */
+type GitHubRelease =
+	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listReleases"]["response"]["data"][number];
+
+/** Normalised release shape used in the template. */
+type Release = {
+	repo_name: string;
+	repo_html_url: string;
+	tag_name: string;
+	release_name: string;
+	html_url: string;
+	published_at: string | null;
+	is_prerelease: boolean;
+};
+
 /** Stargazer shape returned when listing stargazers with star+json media type. */
 type Stargazer = {
 	login: string;

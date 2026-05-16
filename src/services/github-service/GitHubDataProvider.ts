@@ -3,6 +3,7 @@ import { EventFetcher } from "./EventFetcher";
 import { GitHubService } from "./GitHubService";
 import { OpenIssueFetcher } from "./OpenIssueFetcher";
 import { ProfileFetcher } from "./ProfileFetcher";
+import { ReleaseFetcher } from "./ReleaseFetcher";
 import { RepositoryFetcher } from "./RepositoryFetcher";
 import { StargazerFetcher } from "./StargazerFetcher";
 import { UserStatsFetcher } from "./UserStatsFetcher";
@@ -58,6 +59,12 @@ export class GitHubDataProvider {
 		reposData: Promise<Repository[]>,
 	): Promise<Stargazer[]> {
 		const fetcher = new StargazerFetcher(this.octokit, reposData);
+		return fetcher.fetch();
+	}
+
+	/** Fetches releases across owned repos, sorted by most recent. */
+	async fetchReleases(reposData: Promise<Repository[]>): Promise<Release[]> {
+		const fetcher = new ReleaseFetcher(this.octokit, reposData);
 		return fetcher.fetch();
 	}
 
