@@ -240,15 +240,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)** _(May 17, 2026)_
 - **Starred [Dokploy/templates](https://github.com/Dokploy/templates)** _(May 16, 2026)_
 - **Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)** _(May 16, 2026)_
 - **Starred [f/pressmind](https://github.com/f/pressmind)** _(May 16, 2026)_
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
-- **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
 
 <details>
-  <summary>Show 82 more starred repositories...</summary>
+  <summary>Show 83 more starred repositories...</summary>
 
+- **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
 - **Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** _(May 14, 2026)_
 - **Starred [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)** _(May 14, 2026)_
 - **Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)** _(May 14, 2026)_
