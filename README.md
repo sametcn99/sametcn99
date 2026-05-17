@@ -96,15 +96,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [61c5c57...40b843f](https://github.com/sametcn99/computer-science-resources/compare/61c5c57058d49642c2b0d1bb4c14bd8e7f1eccfa...40b843f8a2302718feac9ff68102f50df2aed338)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [6e211a9...61c5c57](https://github.com/sametcn99/computer-science-resources/compare/6e211a9e790a501db41d8c36795bbadabb56b4ee...61c5c57058d49642c2b0d1bb4c14bd8e7f1eccfa)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [c075a1e...6e211a9](https://github.com/sametcn99/computer-science-resources/compare/c075a1edecce2f425a9a2d549de165386c49f412...6e211a9e790a501db41d8c36795bbadabb56b4ee)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [d42b4d3...c075a1e](https://github.com/sametcn99/computer-science-resources/compare/d42b4d34494fdf20f9a91c5da1280f8806c992a5...c075a1edecce2f425a9a2d549de165386c49f412)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [a3f22cc...d42b4d3](https://github.com/sametcn99/computer-science-resources/compare/a3f22cc64cd42928beea3b0b8c753775aab373f8...d42b4d34494fdf20f9a91c5da1280f8806c992a5)** _(May 16, 2026)_
+
+<details>
+  <summary>Show 119 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [a7b4a21...a3f22cc](https://github.com/sametcn99/computer-science-resources/compare/a7b4a217e8ea898400a2ad40300196165eb34576...a3f22cc64cd42928beea3b0b8c753775aab373f8)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [3b225f0...a7b4a21](https://github.com/sametcn99/computer-science-resources/compare/3b225f066387ae82315c736127fa6adac74dc3ab...a7b4a217e8ea898400a2ad40300196165eb34576)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [ca08661...3b225f0](https://github.com/sametcn99/computer-science-resources/compare/ca0866104328352d5765746c07b9167bda275167...3b225f066387ae82315c736127fa6adac74dc3ab)** _(May 16, 2026)_
-
-<details>
-  <summary>Show 116 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [cdbeb01...ca08661](https://github.com/sametcn99/computer-science-resources/compare/cdbeb01dd612509012f83a7093730a6c4bf65ff9...ca0866104328352d5765746c07b9167bda275167)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [ff2cbb1...cdbeb01](https://github.com/sametcn99/computer-science-resources/compare/ff2cbb1a86942975da14088047240ebb191ed384...cdbeb01dd612509012f83a7093730a6c4bf65ff9)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [6d73ac1...ff2cbb1](https://github.com/sametcn99/computer-science-resources/compare/6d73ac103c2ab509589b599a5a280e1346e4ef96...ff2cbb1a86942975da14088047240ebb191ed384)** _(May 16, 2026)_
@@ -415,12 +418,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 17, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) ★1 -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 17, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: May 16, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 16, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -477,7 +480,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 16, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 17, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: May 15, 2026_<br />self-hosted job search operating system
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
