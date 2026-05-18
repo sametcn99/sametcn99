@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 167                                     |
-| **Commits (7d):**          | 50+                                     |
+| **Commits (7d):**          | 60+                                     |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -96,15 +96,25 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2daf861...103cad2](https://github.com/sametcn99/personal-website-blazor/compare/2daf861abd8c97271b9f16e9ec339163471ee02d...103cad20ce47fcdfcf7e244bddb3954404b43145)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [038aafc...2daf861](https://github.com/sametcn99/personal-website-blazor/compare/038aafcde95613f9ec9e8212d21d3e6d915aa843...2daf861abd8c97271b9f16e9ec339163471ee02d)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c101173...038aafc](https://github.com/sametcn99/personal-website-blazor/compare/c10117325f1358660f7d252b12a12ff944b27a07...038aafcde95613f9ec9e8212d21d3e6d915aa843)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
+
+<details>
+  <summary>Show 129 more pushes...</summary>
+
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5a831be...b22f212](https://github.com/sametcn99/personal-website-blazor/compare/5a831be38c3a03ea525faf330ebcbe11cf95703a...b22f212b9ea068607e1c4fc266ec9a5ff12e9264)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c1dc10...5a831be](https://github.com/sametcn99/personal-website-blazor/compare/9c1dc101d77327579ba2fe0d746d3574b962b783...5a831be38c3a03ea525faf330ebcbe11cf95703a)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [69885ed...9c1dc10](https://github.com/sametcn99/personal-website-blazor/compare/69885eda75d20bad00d31f78450500ac53ec560e...9c1dc101d77327579ba2fe0d746d3574b962b783)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6f0c60c...69885ed](https://github.com/sametcn99/personal-website-blazor/compare/6f0c60c3eb7b0aefe6f98fe1f77d2d1b82883bf2...69885eda75d20bad00d31f78450500ac53ec560e)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [edf0ee0...6f0c60c](https://github.com/sametcn99/personal-website-blazor/compare/edf0ee099b765d1c5781ad8b2b7db5f877ac22c4...6f0c60c3eb7b0aefe6f98fe1f77d2d1b82883bf2)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [61c5c57...40b843f](https://github.com/sametcn99/computer-science-resources/compare/61c5c57058d49642c2b0d1bb4c14bd8e7f1eccfa...40b843f8a2302718feac9ff68102f50df2aed338)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [6e211a9...61c5c57](https://github.com/sametcn99/computer-science-resources/compare/6e211a9e790a501db41d8c36795bbadabb56b4ee...61c5c57058d49642c2b0d1bb4c14bd8e7f1eccfa)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [c075a1e...6e211a9](https://github.com/sametcn99/computer-science-resources/compare/c075a1edecce2f425a9a2d549de165386c49f412...6e211a9e790a501db41d8c36795bbadabb56b4ee)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [d42b4d3...c075a1e](https://github.com/sametcn99/computer-science-resources/compare/d42b4d34494fdf20f9a91c5da1280f8806c992a5...c075a1edecce2f425a9a2d549de165386c49f412)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [a3f22cc...d42b4d3](https://github.com/sametcn99/computer-science-resources/compare/a3f22cc64cd42928beea3b0b8c753775aab373f8...d42b4d34494fdf20f9a91c5da1280f8806c992a5)** _(May 16, 2026)_
-
-<details>
-  <summary>Show 119 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [a7b4a21...a3f22cc](https://github.com/sametcn99/computer-science-resources/compare/a7b4a217e8ea898400a2ad40300196165eb34576...a3f22cc64cd42928beea3b0b8c753775aab373f8)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [3b225f0...a7b4a21](https://github.com/sametcn99/computer-science-resources/compare/3b225f066387ae82315c736127fa6adac74dc3ab...a7b4a217e8ea898400a2ad40300196165eb34576)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [ca08661...3b225f0](https://github.com/sametcn99/computer-science-resources/compare/ca0866104328352d5765746c07b9167bda275167...3b225f066387ae82315c736127fa6adac74dc3ab)** _(May 16, 2026)_
@@ -419,12 +429,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 17, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 17, 2026_<br />No description provided.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) ★1 -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 17, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 
 ### Active Repositories
 
@@ -460,10 +470,10 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) ★1 -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 17, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) ★1 -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 16, 2026_<br />No description provided.
 - [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★1 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★1 -
