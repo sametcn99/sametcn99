@@ -256,7 +256,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 80 more starred repositories...</summary>
+  <summary>Show 79 more starred repositories...</summary>
 
 - **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
 - **Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** _(May 14, 2026)_
@@ -337,7 +337,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [GitchatSH/gitchat_extension](https://github.com/GitchatSH/gitchat_extension)** _(Apr 22, 2026)_
 - **Starred [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt)** _(Apr 21, 2026)_
 - **Starred [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** _(Apr 21, 2026)_
-- **Starred [postgis/postgis](https://github.com/postgis/postgis)** _(Apr 20, 2026)_
 
 </details>
 
@@ -425,10 +424,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 21, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 20, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 20, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
 
@@ -483,7 +482,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 20, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 21, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
