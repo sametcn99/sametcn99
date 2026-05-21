@@ -256,7 +256,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 83 more starred repositories...</summary>
+  <summary>Show 80 more starred repositories...</summary>
 
 - **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
 - **Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** _(May 14, 2026)_
@@ -338,9 +338,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt)** _(Apr 21, 2026)_
 - **Starred [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** _(Apr 21, 2026)_
 - **Starred [postgis/postgis](https://github.com/postgis/postgis)** _(Apr 20, 2026)_
-- **Starred [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** _(Apr 20, 2026)_
-- **Starred [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)** _(Apr 20, 2026)_
-- **Starred [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)** _(Apr 20, 2026)_
 
 </details>
 
