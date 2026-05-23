@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 162                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -256,7 +256,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 77 more starred repositories...</summary>
+  <summary>Show 76 more starred repositories...</summary>
 
 - **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
 - **Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** _(May 14, 2026)_
@@ -334,7 +334,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration)** _(Apr 23, 2026)_
 - **Starred [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)** _(Apr 23, 2026)_
 - **Starred [DucPhamNgoc08/CodeVisualizer](https://github.com/DucPhamNgoc08/CodeVisualizer)** _(Apr 22, 2026)_
-- **Starred [GitchatSH/gitchat_extension](https://github.com/GitchatSH/gitchat_extension)** _(Apr 22, 2026)_
 
 </details>
 
