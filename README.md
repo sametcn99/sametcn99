@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 162                                     |
-| **Commits (7d):**          | 10+                                     |
+| **Commits (7d):**          | 0                                       |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
 
 <details>
-  <summary>Show 118 more pushes...</summary>
+  <summary>Show 114 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5a831be...b22f212](https://github.com/sametcn99/personal-website-blazor/compare/5a831be38c3a03ea525faf330ebcbe11cf95703a...b22f212b9ea068607e1c4fc266ec9a5ff12e9264)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c1dc10...5a831be](https://github.com/sametcn99/personal-website-blazor/compare/9c1dc101d77327579ba2fe0d746d3574b962b783...5a831be38c3a03ea525faf330ebcbe11cf95703a)** _(May 17, 2026)_
@@ -219,10 +219,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [ab2d45e...84d6b92](https://github.com/sametcn99/hiretea/compare/ab2d45e0b1b80e0ab9dc7c6d598557dfed90158e...84d6b9294897ad416bf8cb5b789d2e7d5c0765ac)** _(Apr 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f71bb84...ab2d45e](https://github.com/sametcn99/hiretea/compare/f71bb843e6a1651fb5c5222bf944c3219dd31f6a...ab2d45e0b1b80e0ab9dc7c6d598557dfed90158e)** _(Apr 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [3aed218...f71bb84](https://github.com/sametcn99/hiretea/compare/3aed218d2b501ba7f4933ae14153c7ce3a588cf6...f71bb843e6a1651fb5c5222bf944c3219dd31f6a)** _(Apr 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4aea1b3...b93f2f2](https://github.com/sametcn99/sametcn99/compare/4aea1b35831698ba00df3d9a336ca64384dd88ba...b93f2f2e6db247754928d4348495004145027694)** _(Apr 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [11afc84...c0ccff5](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/11afc844a2cec1a9b41e299d72a7818445b8b712...c0ccff5ff4f3454f803779f2512c100371fe884f)** _(Apr 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [37e13bc...11afc84](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/37e13bcff3272cf78958e4496e2dd0fac2749bcd...11afc844a2cec1a9b41e299d72a7818445b8b712)** _(Apr 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [36646bb...37e13bc](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/36646bbc099f5191372ec0d55bacf7e2bacb5a05...37e13bcff3272cf78958e4496e2dd0fac2749bcd)** _(Apr 23, 2026)_
 
 </details>
 
@@ -246,7 +242,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [f/pressmind](https://github.com/f/pressmind)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 76 more starred repositories...</summary>
+  <summary>Show 74 more starred repositories...</summary>
 
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
 - **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
@@ -322,8 +318,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [github/spec-kit](https://github.com/github/spec-kit)** _(Apr 24, 2026)_
 - **Starred [github/gh-aw-mcpg](https://github.com/github/gh-aw-mcpg)** _(Apr 24, 2026)_
 - **Starred [github/gh-aw](https://github.com/github/gh-aw)** _(Apr 24, 2026)_
-- **Starred [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration)** _(Apr 23, 2026)_
-- **Starred [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)** _(Apr 23, 2026)_
 
 </details>
 
