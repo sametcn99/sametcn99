@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c101173...038aafc](https://github.com/sametcn99/personal-website-blazor/compare/c10117325f1358660f7d252b12a12ff944b27a07...038aafcde95613f9ec9e8212d21d3e6d915aa843)** _(May 17, 2026)_
 
 <details>
-  <summary>Show 110 more pushes...</summary>
+  <summary>Show 109 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
@@ -214,7 +214,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [1cf83b4...062ba8d](https://github.com/sametcn99/application-tracker/compare/1cf83b443e9d7fd6af931929428736a8e12b1496...062ba8da529736f13767d32529183cf5453c2d12)** _(Apr 24, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cd68136...1cf83b4](https://github.com/sametcn99/application-tracker/compare/cd68136f76cbf89943152b946d79e6a04bf3e8ba...1cf83b443e9d7fd6af931929428736a8e12b1496)** _(Apr 24, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cc6e41a...cd68136](https://github.com/sametcn99/application-tracker/compare/cc6e41a765a986eed8fcdcd1aef6e86618973162...cd68136f76cbf89943152b946d79e6a04bf3e8ba)** _(Apr 24, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [f7cde33...cc6e41a](https://github.com/sametcn99/application-tracker/compare/f7cde339f451292040031c2ae891eede99f5e0e0...cc6e41a765a986eed8fcdcd1aef6e86618973162)** _(Apr 24, 2026)_
 
 </details>
 
@@ -236,7 +235,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 75 more starred repositories...</summary>
+  <summary>Show 64 more starred repositories...</summary>
 
 - **Starred [f/pressmind](https://github.com/f/pressmind)** _(May 16, 2026)_
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
@@ -302,17 +301,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy)** _(Apr 25, 2026)_
 - **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
 - **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
-- **Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** _(Apr 24, 2026)_
-- **Starred [nextcloud/server](https://github.com/nextcloud/server)** _(Apr 24, 2026)_
-- **Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)** _(Apr 24, 2026)_
-- **Starred [PostHog/posthog](https://github.com/PostHog/posthog)** _(Apr 24, 2026)_
-- **Starred [google/osv-scanner](https://github.com/google/osv-scanner)** _(Apr 24, 2026)_
-- **Starred [github/explore](https://github.com/github/explore)** _(Apr 24, 2026)_
-- **Starred [github/codeql](https://github.com/github/codeql)** _(Apr 24, 2026)_
-- **Starred [github/roadmap](https://github.com/github/roadmap)** _(Apr 24, 2026)_
-- **Starred [github/spec-kit](https://github.com/github/spec-kit)** _(Apr 24, 2026)_
-- **Starred [github/gh-aw-mcpg](https://github.com/github/gh-aw-mcpg)** _(Apr 24, 2026)_
-- **Starred [github/gh-aw](https://github.com/github/gh-aw)** _(Apr 24, 2026)_
 
 </details>
 
@@ -397,12 +385,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 25, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -454,10 +442,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 25, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
