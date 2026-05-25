@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 162                                     |
-| **Commits (7d):**          | 0                                       |
+| **Commits (7d):**          | 1                                       |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -96,15 +96,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [40b843f...be566ab](https://github.com/sametcn99/computer-science-resources/compare/40b843f8a2302718feac9ff68102f50df2aed338...be566ab22b3e9c7722b1d2036129cc87ef73d0f1)** _(May 24, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [089e656...8962796](https://github.com/sametcn99/wvw.dev/compare/089e656443bc7a13eb7c13b937c96b38859ed9ac...896279665f731b8f01e6a7e1494a546178041a47)** _(May 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2daf861...103cad2](https://github.com/sametcn99/personal-website-blazor/compare/2daf861abd8c97271b9f16e9ec339163471ee02d...103cad20ce47fcdfcf7e244bddb3954404b43145)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [038aafc...2daf861](https://github.com/sametcn99/personal-website-blazor/compare/038aafcde95613f9ec9e8212d21d3e6d915aa843...2daf861abd8c97271b9f16e9ec339163471ee02d)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c101173...038aafc](https://github.com/sametcn99/personal-website-blazor/compare/c10117325f1358660f7d252b12a12ff944b27a07...038aafcde95613f9ec9e8212d21d3e6d915aa843)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
 
 <details>
   <summary>Show 110 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5a831be...b22f212](https://github.com/sametcn99/personal-website-blazor/compare/5a831be38c3a03ea525faf330ebcbe11cf95703a...b22f212b9ea068607e1c4fc266ec9a5ff12e9264)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c1dc10...5a831be](https://github.com/sametcn99/personal-website-blazor/compare/9c1dc101d77327579ba2fe0d746d3574b962b783...5a831be38c3a03ea525faf330ebcbe11cf95703a)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [69885ed...9c1dc10](https://github.com/sametcn99/personal-website-blazor/compare/69885eda75d20bad00d31f78450500ac53ec560e...9c1dc101d77327579ba2fe0d746d3574b962b783)** _(May 17, 2026)_
@@ -213,8 +215,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cd68136...1cf83b4](https://github.com/sametcn99/application-tracker/compare/cd68136f76cbf89943152b946d79e6a04bf3e8ba...1cf83b443e9d7fd6af931929428736a8e12b1496)** _(Apr 24, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cc6e41a...cd68136](https://github.com/sametcn99/application-tracker/compare/cc6e41a765a986eed8fcdcd1aef6e86618973162...cd68136f76cbf89943152b946d79e6a04bf3e8ba)** _(Apr 24, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [f7cde33...cc6e41a](https://github.com/sametcn99/application-tracker/compare/f7cde339f451292040031c2ae891eede99f5e0e0...cc6e41a765a986eed8fcdcd1aef6e86618973162)** _(Apr 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [51c1414...7bacd59](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/51c14140d9a76d093a6d30c92406f0e5de8819a5...7bacd593035c202a1a0daf90f8910de2794151ad)** _(Apr 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [c0ccff5...51c1414](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/c0ccff5ff4f3454f803779f2512c100371fe884f...51c14140d9a76d093a6d30c92406f0e5de8819a5)** _(Apr 24, 2026)_
 
 </details>
 
@@ -226,8 +226,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 - **Commented on issue [How does one stop line number being rendered by default?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/10) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 12, 2026)_
 - **Commented on issue [&#x60;tooltips.copyCode&#x60; doesn’t seem to be working.](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/9) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 25, 2026)_
-- **Commented on issue [Support adapting the toolbar button tooltip text to VitePress’s multilingual setup.](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
-- **Commented on issue [Diagram disappears after zooming out from fullscreen](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/7) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 
 ### Starred Repositories
 
@@ -327,7 +325,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Deleted tag &#x60;v1.1.6&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 13 more other activity...</summary>
+  <summary>Show 12 more other activity...</summary>
 
 - **Deleted tag &#x60;v1.1.5&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
 - **Closed issue [#10](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/10) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 12, 2026)_
@@ -341,7 +339,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Public in [sametcn99/htwind-lain-aesthetic-widget-pack](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack)** _(Feb 27, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo)** _(Apr 26, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 25, 2026)_
-- **Closed issue [#8](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/8) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 
 </details>
 
@@ -400,12 +397,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
+  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -457,12 +454,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
+  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 17, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: May 15, 2026_<br />self-hosted job search operating system
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
@@ -533,11 +530,11 @@ C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description pro
 
 ### Forked Repositories
 
+- [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
+  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 - [**Kuran**](https://github.com/sametcn99/Kuran) -
   TypeScript<br />_Created: May 10, 2026 • Updated: May 10, 2026_<br />No description provided.
 - [**instances**](https://github.com/sametcn99/instances) - [Homepage](https://raw.githubusercontent.com/libredirect/instances/main/data.json)<br />_Created: May 7, 2026 • Updated: May 6, 2026_<br />Automated instances list for LibRedirect
-- [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
-  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: Apr 5, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 
 <details>
   <summary>Show 6 more repositories...</summary>
