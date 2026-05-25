@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c101173...038aafc](https://github.com/sametcn99/personal-website-blazor/compare/c10117325f1358660f7d252b12a12ff944b27a07...038aafcde95613f9ec9e8212d21d3e6d915aa843)** _(May 17, 2026)_
 
 <details>
-  <summary>Show 109 more pushes...</summary>
+  <summary>Show 101 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
@@ -206,14 +206,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest): [d0a9aea...a9a1939](https://github.com/sametcn99/OpenLayersDotnetTest/compare/d0a9aea098d499af275991c1e3079224d2b0efbb...a9a1939677273c7489a8f3628a40d6d101d719a6)** _(Apr 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7278503...cad5e25](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/72785030c1fec94e9af158ca3d5e3dbe0d1fcb0c...cad5e25172229a5067144f2c8aac9e4e6f36d228)** _(Apr 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7bacd59...7278503](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7bacd593035c202a1a0daf90f8910de2794151ad...72785030c1fec94e9af158ca3d5e3dbe0d1fcb0c)** _(Apr 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [877b1b0...cd23915](https://github.com/sametcn99/application-tracker/compare/877b1b0a8bf5960e8870c1fd9061d3c5742bbbd8...cd23915fd788f11a0328e3b412a1a47f338eff49)** _(Apr 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [ccb5a8b...877b1b0](https://github.com/sametcn99/application-tracker/compare/ccb5a8b892160c57cc46ecb3f64b43df424c3e66...877b1b0a8bf5960e8870c1fd9061d3c5742bbbd8)** _(Apr 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [2de6167...ccb5a8b](https://github.com/sametcn99/application-tracker/compare/2de6167b453220131137af3c7a050750434ea7c4...ccb5a8b892160c57cc46ecb3f64b43df424c3e66)** _(Apr 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [4965904...2de6167](https://github.com/sametcn99/application-tracker/compare/49659046d33f896f3bfc6724e5d4d4a430c5fec8...2de6167b453220131137af3c7a050750434ea7c4)** _(Apr 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [062ba8d...4965904](https://github.com/sametcn99/application-tracker/compare/062ba8da529736f13767d32529183cf5453c2d12...49659046d33f896f3bfc6724e5d4d4a430c5fec8)** _(Apr 24, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [1cf83b4...062ba8d](https://github.com/sametcn99/application-tracker/compare/1cf83b443e9d7fd6af931929428736a8e12b1496...062ba8da529736f13767d32529183cf5453c2d12)** _(Apr 24, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cd68136...1cf83b4](https://github.com/sametcn99/application-tracker/compare/cd68136f76cbf89943152b946d79e6a04bf3e8ba...1cf83b443e9d7fd6af931929428736a8e12b1496)** _(Apr 24, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cc6e41a...cd68136](https://github.com/sametcn99/application-tracker/compare/cc6e41a765a986eed8fcdcd1aef6e86618973162...cd68136f76cbf89943152b946d79e6a04bf3e8ba)** _(Apr 24, 2026)_
 
 </details>
 
@@ -235,7 +227,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 64 more starred repositories...</summary>
+  <summary>Show 61 more starred repositories...</summary>
 
 - **Starred [f/pressmind](https://github.com/f/pressmind)** _(May 16, 2026)_
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
@@ -298,9 +290,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [gastownhall/beads](https://github.com/gastownhall/beads)** _(Apr 28, 2026)_
 - **Starred [openlayers/openlayers](https://github.com/openlayers/openlayers)** _(Apr 25, 2026)_
 - **Starred [google/skills](https://github.com/google/skills)** _(Apr 25, 2026)_
-- **Starred [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy)** _(Apr 25, 2026)_
-- **Starred [santifer/career-ops](https://github.com/santifer/career-ops)** _(Apr 25, 2026)_
-- **Starred [dagger/dagger](https://github.com/dagger/dagger)** _(Apr 24, 2026)_
 
 </details>
 
@@ -385,12 +374,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 25, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -419,7 +408,7 @@ Recent releases across my repositories:
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 24, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 25, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
