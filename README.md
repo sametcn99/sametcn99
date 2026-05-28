@@ -519,14 +519,12 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
 - **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
 - **[@chartchaser](https://github.com/chartchaser)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(May 6, 2026)_
-- **[@ferynnd](https://github.com/ferynnd)** starred **[nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase)** _(May 6, 2026)_
-- **[@Herzfinsternis](https://github.com/Herzfinsternis)** starred **[electron-widgets](https://github.com/sametcn99/electron-widgets)** _(May 4, 2026)_
+- **[@SamuelJBeer](https://github.com/SamuelJBeer)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(May 2, 2026)_
+- **[@hyossing](https://github.com/hyossing)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 27, 2026)_
 
 <details>
   <summary>Show 15 more stargazers...</summary>
 
-- **[@SamuelJBeer](https://github.com/SamuelJBeer)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(May 2, 2026)_
-- **[@hyossing](https://github.com/hyossing)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 27, 2026)_
 - **[@toxy4ny](https://github.com/toxy4ny)** starred **[OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 27, 2026)_
 - **[@ajiho](https://github.com/ajiho)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **[@donovinsims](https://github.com/donovinsims)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 22, 2026)_
@@ -540,6 +538,8 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@freddymu](https://github.com/freddymu)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 4, 2026)_
 - **[@dnaka91](https://github.com/dnaka91)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 2, 2026)_
 - **[@octifakker](https://github.com/octifakker)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(Mar 30, 2026)_
+- **[@faustovo2003-commits](https://github.com/faustovo2003-commits)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 29, 2026)_
+- **[@Danilarious](https://github.com/Danilarious)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 28, 2026)_
 </details>
 
 ## Automated Workflows
