@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c101173...038aafc](https://github.com/sametcn99/personal-website-blazor/compare/c10117325f1358660f7d252b12a12ff944b27a07...038aafcde95613f9ec9e8212d21d3e6d915aa843)** _(May 17, 2026)_
 
 <details>
-  <summary>Show 89 more pushes...</summary>
+  <summary>Show 86 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
@@ -191,9 +191,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [32da7c7...ef69e86](https://github.com/sametcn99/personal-website-blazor/compare/32da7c7c47f46169c8725e25bc05ba884a691cda...ef69e8616e83cdd8f18b9c0941de1bdaff0bb6fa)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0bde0cb...32da7c7](https://github.com/sametcn99/personal-website-blazor/compare/0bde0cbbe1f0f78d23857cad5278599831647394...32da7c7c47f46169c8725e25bc05ba884a691cda)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [fb4e414...e4ced00](https://github.com/sametcn99/sametcn99/compare/fb4e414cae89bdbbe3cde23b2b675e986f08520d...e4ced0065662000352838adf4c333a1398b7ea53)** _(Apr 28, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...0bde0cb](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...0bde0cbbe1f0f78d23857cad5278599831647394)** _(Apr 28, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b09c864...f847697](https://github.com/sametcn99/sametcn99/compare/b09c864bce37e4c4a3da717a281c4785ae052a02...f847697b8e671ffa99d0b26d87794babda161ed9)** _(Apr 28, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4ac087d...5630abc](https://github.com/sametcn99/sametcn99/compare/4ac087d5e277000d1a447008e3a98958a030deb0...5630abc6d0eba10c26d2e975af11fcaf447bcc48)** _(Apr 28, 2026)_
 
 </details>
 
@@ -519,12 +516,14 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
 - **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
 - **[@chartchaser](https://github.com/chartchaser)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(May 6, 2026)_
-- **[@SamuelJBeer](https://github.com/SamuelJBeer)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(May 2, 2026)_
-- **[@hyossing](https://github.com/hyossing)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 27, 2026)_
+- **[@ferynnd](https://github.com/ferynnd)** starred **[nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase)** _(May 6, 2026)_
+- **[@Herzfinsternis](https://github.com/Herzfinsternis)** starred **[electron-widgets](https://github.com/sametcn99/electron-widgets)** _(May 4, 2026)_
 
 <details>
   <summary>Show 15 more stargazers...</summary>
 
+- **[@SamuelJBeer](https://github.com/SamuelJBeer)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(May 2, 2026)_
+- **[@hyossing](https://github.com/hyossing)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 27, 2026)_
 - **[@toxy4ny](https://github.com/toxy4ny)** starred **[OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 27, 2026)_
 - **[@ajiho](https://github.com/ajiho)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
 - **[@donovinsims](https://github.com/donovinsims)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 22, 2026)_
@@ -538,8 +537,6 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@freddymu](https://github.com/freddymu)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 4, 2026)_
 - **[@dnaka91](https://github.com/dnaka91)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 2, 2026)_
 - **[@octifakker](https://github.com/octifakker)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(Mar 30, 2026)_
-- **[@faustovo2003-commits](https://github.com/faustovo2003-commits)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 29, 2026)_
-- **[@Danilarious](https://github.com/Danilarious)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Mar 28, 2026)_
 </details>
 
 ## Automated Workflows
