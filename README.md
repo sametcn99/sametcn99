@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c101173...038aafc](https://github.com/sametcn99/personal-website-blazor/compare/c10117325f1358660f7d252b12a12ff944b27a07...038aafcde95613f9ec9e8212d21d3e6d915aa843)** _(May 17, 2026)_
 
 <details>
-  <summary>Show 90 more pushes...</summary>
+  <summary>Show 89 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
@@ -194,7 +194,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...0bde0cb](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...0bde0cbbe1f0f78d23857cad5278599831647394)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b09c864...f847697](https://github.com/sametcn99/sametcn99/compare/b09c864bce37e4c4a3da717a281c4785ae052a02...f847697b8e671ffa99d0b26d87794babda161ed9)** _(Apr 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [4ac087d...5630abc](https://github.com/sametcn99/sametcn99/compare/4ac087d5e277000d1a447008e3a98958a030deb0...5630abc6d0eba10c26d2e975af11fcaf447bcc48)** _(Apr 28, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [77db73b...c6f2b14](https://github.com/sametcn99/sametcn99/compare/77db73bb1bab9f422301ae3086ed3f9c47cfa8c7...c6f2b1480fbbc3aaf8c3f8c32364619165be61a0)** _(Apr 27, 2026)_
 
 </details>
 
@@ -359,10 +358,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 28, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 27, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 27, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 
@@ -417,7 +416,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 27, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 28, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
