@@ -207,7 +207,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Dokploy/templates](https://github.com/Dokploy/templates)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 59 more starred repositories...</summary>
+  <summary>Show 58 more starred repositories...</summary>
 
 - **Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)** _(May 16, 2026)_
 - **Starred [f/pressmind](https://github.com/f/pressmind)** _(May 16, 2026)_
@@ -267,7 +267,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus)** _(Apr 29, 2026)_
 - **Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)** _(Apr 29, 2026)_
 - **Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** _(Apr 29, 2026)_
-- **Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)** _(Apr 28, 2026)_
 
 </details>
 
@@ -350,10 +349,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 29, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: May 28, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 28, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 
@@ -408,7 +407,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 28, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: May 29, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
