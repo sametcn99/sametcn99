@@ -204,7 +204,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)** _(May 17, 2026)_
 
 <details>
-  <summary>Show 55 more starred repositories...</summary>
+  <summary>Show 54 more starred repositories...</summary>
 
 - **Starred [Dokploy/templates](https://github.com/Dokploy/templates)** _(May 16, 2026)_
 - **Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)** _(May 16, 2026)_
@@ -260,7 +260,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** _(May 1, 2026)_
 - **Starred [loofiboss-bit/plasma-ai-usage-monitor](https://github.com/loofiboss-bit/plasma-ai-usage-monitor)** _(May 1, 2026)_
 - **Starred [nuxt/nuxt](https://github.com/nuxt/nuxt)** _(Apr 30, 2026)_
-- **Starred [sablierapp/sablier](https://github.com/sablierapp/sablier)** _(Apr 30, 2026)_
 
 </details>
 
