@@ -202,15 +202,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
 - **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
 - **Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)** _(May 29, 2026)_
 - **Starred [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr)** _(May 27, 2026)_
 - **Starred [mertskaplan/tweet2rss](https://github.com/mertskaplan/tweet2rss)** _(May 24, 2026)_
-- **Starred [decolua/9router](https://github.com/decolua/9router)** _(May 23, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 54 more starred repositories...</summary>
 
+- **Starred [decolua/9router](https://github.com/decolua/9router)** _(May 23, 2026)_
 - **Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)** _(May 17, 2026)_
 - **Starred [Dokploy/templates](https://github.com/Dokploy/templates)** _(May 16, 2026)_
 - **Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)** _(May 16, 2026)_
