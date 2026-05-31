@@ -209,7 +209,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [decolua/9router](https://github.com/decolua/9router)** _(May 23, 2026)_
 
 <details>
-  <summary>Show 54 more starred repositories...</summary>
+  <summary>Show 53 more starred repositories...</summary>
 
 - **Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)** _(May 17, 2026)_
 - **Starred [Dokploy/templates](https://github.com/Dokploy/templates)** _(May 16, 2026)_
@@ -264,7 +264,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** _(May 1, 2026)_
 - **Starred [microsoft/terminal](https://github.com/microsoft/terminal)** _(May 1, 2026)_
 - **Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** _(May 1, 2026)_
-- **Starred [loofiboss-bit/plasma-ai-usage-monitor](https://github.com/loofiboss-bit/plasma-ai-usage-monitor)** _(May 1, 2026)_
 
 </details>
 
