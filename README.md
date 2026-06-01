@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [3727a68...64da871](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/3727a681ab0359b19e6c393f0c9d3797577d79e7...64da8714c52773b95b111ff541ee64fa376ec629)** _(May 30, 2026)_
 
 <details>
-  <summary>Show 84 more pushes...</summary>
+  <summary>Show 82 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [09b5e04...3727a68](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/09b5e04de448440ba428a48397aeaf267f4d94dd...3727a681ab0359b19e6c393f0c9d3797577d79e7)** _(May 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [40b843f...be566ab](https://github.com/sametcn99/computer-science-resources/compare/40b843f8a2302718feac9ff68102f50df2aed338...be566ab22b3e9c7722b1d2036129cc87ef73d0f1)** _(May 24, 2026)_
@@ -187,8 +187,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c706c21...c66c0c3](https://github.com/sametcn99/personal-website-blazor/compare/c706c21c6084cd9d38dbf51c7c1bca95dc2b5530...c66c0c3daa5678fedcafc7b915df2d7d5a526ea7)** _(May 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f97161...c706c21](https://github.com/sametcn99/personal-website-blazor/compare/2f971610395b21b5e806daa343c5e20c766890a0...c706c21c6084cd9d38dbf51c7c1bca95dc2b5530)** _(May 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [9cc350c...a5ee4df](https://github.com/sametcn99/maalesef-tr/compare/9cc350c35671ec775d59dfe9c63dbf7db61caa59...a5ee4df36d84fe8f519f0e54236a5c278a7fdb70)** _(May 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fd624b6...2f97161](https://github.com/sametcn99/personal-website-blazor/compare/fd624b67b60031ddd659abbc5d6e3f1321e47af9...2f971610395b21b5e806daa343c5e20c766890a0)** _(May 1, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [99dba3f...79b9946](https://github.com/sametcn99/hiretea/compare/99dba3f1ac92399f2613b0a2e9c62d000a13de41...79b9946445b3e79bd2c49d681eb05b31ea81fdfd)** _(May 1, 2026)_
 
 </details>
 
@@ -202,15 +200,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
 - **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
 - **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
 - **Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)** _(May 29, 2026)_
 - **Starred [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr)** _(May 27, 2026)_
-- **Starred [mertskaplan/tweet2rss](https://github.com/mertskaplan/tweet2rss)** _(May 24, 2026)_
 
 <details>
-  <summary>Show 54 more starred repositories...</summary>
+  <summary>Show 46 more starred repositories...</summary>
 
+- **Starred [mertskaplan/tweet2rss](https://github.com/mertskaplan/tweet2rss)** _(May 24, 2026)_
 - **Starred [decolua/9router](https://github.com/decolua/9router)** _(May 23, 2026)_
 - **Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)** _(May 17, 2026)_
 - **Starred [Dokploy/templates](https://github.com/Dokploy/templates)** _(May 16, 2026)_
@@ -256,15 +255,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [termux/termux-packages](https://github.com/termux/termux-packages)** _(May 4, 2026)_
 - **Starred [f/sign-ai-media](https://github.com/f/sign-ai-media)** _(May 2, 2026)_
 - **Starred [vercel/chat](https://github.com/vercel/chat)** _(May 1, 2026)_
-- **Starred [lsd-rs/lsd](https://github.com/lsd-rs/lsd)** _(May 1, 2026)_
-- **Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)** _(May 1, 2026)_
-- **Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)** _(May 1, 2026)_
-- **Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)** _(May 1, 2026)_
-- **Starred [termux/termux-app](https://github.com/termux/termux-app)** _(May 1, 2026)_
-- **Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)** _(May 1, 2026)_
-- **Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** _(May 1, 2026)_
-- **Starred [microsoft/terminal](https://github.com/microsoft/terminal)** _(May 1, 2026)_
-- **Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** _(May 1, 2026)_
 
 </details>
 
