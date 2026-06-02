@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 161                                     |
-| **Commits (7d):**          | 7                                       |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -96,15 +96,23 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [0b5fdea...a749789](https://github.com/sametcn99/maalesef-tr/compare/0b5fdeab45a8a62958a2ad737960142ff6c53d17...a7497893c1e79f2d7dc2f3eace38c824356cf63a)** _(Jun 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [9dc0552...0b5fdea](https://github.com/sametcn99/maalesef-tr/compare/9dc05521a119a5fd25acd72c3ff9193bc86ad499...0b5fdeab45a8a62958a2ad737960142ff6c53d17)** _(Jun 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [fe88986...9dc0552](https://github.com/sametcn99/maalesef-tr/compare/fe88986a55e09d31626b2ce092e317c9e65347e6...9dc05521a119a5fd25acd72c3ff9193bc86ad499)** _(Jun 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9d11840...f01fdfc](https://github.com/sametcn99/personal-website-blazor/compare/9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7...f01fdfcf9af63b96fe2d35520e0e160201549293)** _(Jun 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a4eb0a4...9d11840](https://github.com/sametcn99/personal-website-blazor/compare/a4eb0a427228a636546b6c4db0caceabcb112321...9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7)** _(Jun 2, 2026)_
+
+<details>
+  <summary>Show 89 more pushes...</summary>
+
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a5ee4df...fe88986](https://github.com/sametcn99/maalesef-tr/compare/a5ee4df36d84fe8f519f0e54236a5c278a7fdb70...fe88986a55e09d31626b2ce092e317c9e65347e6)** _(Jun 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [103cad2...a4eb0a4](https://github.com/sametcn99/personal-website-blazor/compare/103cad20ce47fcdfcf7e244bddb3954404b43145...a4eb0a427228a636546b6c4db0caceabcb112321)** _(Jun 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [1ebf5e4...f681290](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/1ebf5e49857f76f1279e64657ec7f13ba12594d9...f681290102d540681681fcdf78a0e428d46dc7a7)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [43b467f...1ebf5e4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/43b467fc1e0f8e6c1fbedcacd52f924bc2fc342c...1ebf5e49857f76f1279e64657ec7f13ba12594d9)** _(May 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [ae57513...43b467f](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/ae575132a4f3c12f9690cc398714e0d254fc9e09...43b467fc1e0f8e6c1fbedcacd52f924bc2fc342c)** _(May 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [06a13ac...ae57513](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/06a13acb3d9fdf89bd6c09602b99a94979514c89...ae575132a4f3c12f9690cc398714e0d254fc9e09)** _(May 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [64da871...06a13ac](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/64da8714c52773b95b111ff541ee64fa376ec629...06a13acb3d9fdf89bd6c09602b99a94979514c89)** _(May 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [3727a68...64da871](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/3727a681ab0359b19e6c393f0c9d3797577d79e7...64da8714c52773b95b111ff541ee64fa376ec629)** _(May 30, 2026)_
-
-<details>
-  <summary>Show 81 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [09b5e04...3727a68](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/09b5e04de448440ba428a48397aeaf267f4d94dd...3727a681ab0359b19e6c393f0c9d3797577d79e7)** _(May 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [40b843f...be566ab](https://github.com/sametcn99/computer-science-resources/compare/40b843f8a2302718feac9ff68102f50df2aed338...be566ab22b3e9c7722b1d2036129cc87ef73d0f1)** _(May 24, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/wvw.dev](https://github.com/sametcn99/wvw.dev): [089e656...8962796](https://github.com/sametcn99/wvw.dev/compare/089e656443bc7a13eb7c13b937c96b38859ed9ac...896279665f731b8f01e6a7e1494a546178041a47)** _(May 24, 2026)_
@@ -199,15 +207,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [dmno-dev/varlock](https://github.com/dmno-dev/varlock)** _(Jun 2, 2026)_
 - **Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)** _(Jun 1, 2026)_
 - **Starred [huggingface/datasets](https://github.com/huggingface/datasets)** _(Jun 1, 2026)_
 - **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
 - **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
-- **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
 
 <details>
-  <summary>Show 50 more starred repositories...</summary>
+  <summary>Show 51 more starred repositories...</summary>
 
+- **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
 - **Starred [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker)** _(Jun 1, 2026)_
 - **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
 - **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
@@ -337,12 +346,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jun 2, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 2, 2026_<br />No description provided.
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★56 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jun 2, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 2, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 2, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -394,12 +403,14 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jun 2, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 2, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 2, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: May 17, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: May 15, 2026_<br />self-hosted job search operating system
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
@@ -410,8 +421,6 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: May 9, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: May 1, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
   HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
