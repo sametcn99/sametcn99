@@ -199,15 +199,21 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)** _(Jun 1, 2026)_
+- **Starred [huggingface/datasets](https://github.com/huggingface/datasets)** _(Jun 1, 2026)_
+- **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
+- **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
+- **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
+
+<details>
+  <summary>Show 50 more starred repositories...</summary>
+
+- **Starred [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker)** _(Jun 1, 2026)_
 - **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
 - **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
 - **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
 - **Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)** _(May 29, 2026)_
 - **Starred [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr)** _(May 27, 2026)_
-
-<details>
-  <summary>Show 45 more starred repositories...</summary>
-
 - **Starred [mertskaplan/tweet2rss](https://github.com/mertskaplan/tweet2rss)** _(May 24, 2026)_
 - **Starred [decolua/9router](https://github.com/decolua/9router)** _(May 23, 2026)_
 - **Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)** _(May 17, 2026)_
@@ -252,7 +258,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** _(May 4, 2026)_
 - **Starred [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian)** _(May 4, 2026)_
 - **Starred [termux/termux-packages](https://github.com/termux/termux-packages)** _(May 4, 2026)_
-- **Starred [f/sign-ai-media](https://github.com/f/sign-ai-media)** _(May 2, 2026)_
 
 </details>
 
