@@ -96,15 +96,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f01fdfc...67361eb](https://github.com/sametcn99/personal-website-blazor/compare/f01fdfcf9af63b96fe2d35520e0e160201549293...67361ebb53f2428de91a167e41587608ba91d385)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [0b5fdea...a749789](https://github.com/sametcn99/maalesef-tr/compare/0b5fdeab45a8a62958a2ad737960142ff6c53d17...a7497893c1e79f2d7dc2f3eace38c824356cf63a)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [9dc0552...0b5fdea](https://github.com/sametcn99/maalesef-tr/compare/9dc05521a119a5fd25acd72c3ff9193bc86ad499...0b5fdeab45a8a62958a2ad737960142ff6c53d17)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [fe88986...9dc0552](https://github.com/sametcn99/maalesef-tr/compare/fe88986a55e09d31626b2ce092e317c9e65347e6...9dc05521a119a5fd25acd72c3ff9193bc86ad499)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9d11840...f01fdfc](https://github.com/sametcn99/personal-website-blazor/compare/9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7...f01fdfcf9af63b96fe2d35520e0e160201549293)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a4eb0a4...9d11840](https://github.com/sametcn99/personal-website-blazor/compare/a4eb0a427228a636546b6c4db0caceabcb112321...9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7)** _(Jun 2, 2026)_
 
 <details>
-  <summary>Show 89 more pushes...</summary>
+  <summary>Show 90 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a4eb0a4...9d11840](https://github.com/sametcn99/personal-website-blazor/compare/a4eb0a427228a636546b6c4db0caceabcb112321...9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a5ee4df...fe88986](https://github.com/sametcn99/maalesef-tr/compare/a5ee4df36d84fe8f519f0e54236a5c278a7fdb70...fe88986a55e09d31626b2ce092e317c9e65347e6)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [103cad2...a4eb0a4](https://github.com/sametcn99/personal-website-blazor/compare/103cad20ce47fcdfcf7e244bddb3954404b43145...a4eb0a427228a636546b6c4db0caceabcb112321)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [1ebf5e4...f681290](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/1ebf5e49857f76f1279e64657ec7f13ba12594d9...f681290102d540681681fcdf78a0e428d46dc7a7)** _(Jun 2, 2026)_
@@ -207,15 +208,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [render-oss/skills](https://github.com/render-oss/skills)** _(Jun 2, 2026)_
 - **Starred [dmno-dev/varlock](https://github.com/dmno-dev/varlock)** _(Jun 2, 2026)_
 - **Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)** _(Jun 1, 2026)_
 - **Starred [huggingface/datasets](https://github.com/huggingface/datasets)** _(Jun 1, 2026)_
 - **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
-- **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
+- **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
 - **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
 - **Starred [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker)** _(Jun 1, 2026)_
 - **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
@@ -346,10 +348,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jun 2, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 2, 2026_<br />No description provided.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jun 2, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★56 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jun 2, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
@@ -403,10 +405,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jun 2, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 2, 2026_<br />No description provided.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jun 2, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 2, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
