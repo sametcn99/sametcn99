@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9d11840...f01fdfc](https://github.com/sametcn99/personal-website-blazor/compare/9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7...f01fdfcf9af63b96fe2d35520e0e160201549293)** _(Jun 2, 2026)_
 
 <details>
-  <summary>Show 87 more pushes...</summary>
+  <summary>Show 83 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a4eb0a4...9d11840](https://github.com/sametcn99/personal-website-blazor/compare/a4eb0a427228a636546b6c4db0caceabcb112321...9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a5ee4df...fe88986](https://github.com/sametcn99/maalesef-tr/compare/a5ee4df36d84fe8f519f0e54236a5c278a7fdb70...fe88986a55e09d31626b2ce092e317c9e65347e6)** _(Jun 2, 2026)_
@@ -188,10 +188,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [51c3f33...7bf044c](https://github.com/sametcn99/libredirect-instances-list/compare/51c3f33826988a666c5993713394a07ac94a7eab...7bf044ce89c810ba84a17daf8ffdca50e78b8bbb)** _(May 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [09bcbbb...51c3f33](https://github.com/sametcn99/libredirect-instances-list/compare/09bcbbb83b91818a952844035d66278e55ed1679...51c3f33826988a666c5993713394a07ac94a7eab)** _(May 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [9ae4483...09bcbbb](https://github.com/sametcn99/libredirect-instances-list/compare/9ae448357f6207735ec37115f3db7101843cc98a...09bcbbb83b91818a952844035d66278e55ed1679)** _(May 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8595dba...1d99ee7](https://github.com/sametcn99/personal-website-blazor/compare/8595dba56f5eb5855b861360b051eac9c0b3af71...1d99ee7625745314176a3bcc44f6f4eb2f3eb1a9)** _(May 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [142ce0c...8c03344](https://github.com/sametcn99/sametcn99/compare/142ce0c82bba2ffd16b3d62724b5d7a95dc436d4...8c033440c374bb0756b3ba1227dd806123b853c1)** _(May 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [2a9064a...cfc00be](https://github.com/sametcn99/sametcn99/compare/2a9064abba6b72ce9759836cef8a7fff9335078a...cfc00be5a0799c659024101febc7b601e3923e9a)** _(May 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [e243b8c...8595dba](https://github.com/sametcn99/personal-website-blazor/compare/e243b8cef0bdd47ba4a0bff533c0818eb2dae7c8...8595dba56f5eb5855b861360b051eac9c0b3af71)** _(May 4, 2026)_
 
 </details>
 
@@ -212,7 +208,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 46 more starred repositories...</summary>
 
 - **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
 - **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
@@ -260,11 +256,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)** _(May 6, 2026)_
 - **Starred [fastlane/fastlane](https://github.com/fastlane/fastlane)** _(May 6, 2026)_
 - **Starred [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)** _(May 6, 2026)_
-- **Starred [openai/gpt-oss](https://github.com/openai/gpt-oss)** _(May 4, 2026)_
-- **Starred [simonw/llm](https://github.com/simonw/llm)** _(May 4, 2026)_
-- **Starred [karpathy/llm-council](https://github.com/karpathy/llm-council)** _(May 4, 2026)_
-- **Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** _(May 4, 2026)_
-- **Starred [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian)** _(May 4, 2026)_
 
 </details>
 
@@ -344,10 +335,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 4, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 2, 2026_<br />No description provided.
 
@@ -378,7 +369,7 @@ Recent releases across my repositories:
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
