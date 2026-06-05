@@ -211,7 +211,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
 
 <details>
-  <summary>Show 46 more starred repositories...</summary>
+  <summary>Show 39 more starred repositories...</summary>
 
 - **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
 - **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
@@ -252,13 +252,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [metabase/metabase](https://github.com/metabase/metabase)** _(May 6, 2026)_
 - **Starred [opencontainers/image-spec](https://github.com/opencontainers/image-spec)** _(May 6, 2026)_
 - **Starred [imputnet/helium-linux](https://github.com/imputnet/helium-linux)** _(May 6, 2026)_
-- **Starred [servo/servo](https://github.com/servo/servo)** _(May 6, 2026)_
-- **Starred [golang/go](https://github.com/golang/go)** _(May 6, 2026)_
-- **Starred [ghostery/adblocker](https://github.com/ghostery/adblocker)** _(May 6, 2026)_
-- **Starred [brave/brave-browser](https://github.com/brave/brave-browser)** _(May 6, 2026)_
-- **Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)** _(May 6, 2026)_
-- **Starred [fastlane/fastlane](https://github.com/fastlane/fastlane)** _(May 6, 2026)_
-- **Starred [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)** _(May 6, 2026)_
 
 </details>
 
@@ -338,12 +331,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 5, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 5, 2026_<br />No description provided.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 5, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -372,7 +365,7 @@ Recent releases across my repositories:
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 4, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 5, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
