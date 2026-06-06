@@ -209,7 +209,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
 
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
 - **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
 - **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
@@ -243,7 +243,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [roadkell/ascii-logos](https://github.com/roadkell/ascii-logos)** _(May 9, 2026)_
 - **Starred [withoutboats/notty](https://github.com/withoutboats/notty)** _(May 7, 2026)_
 - **Starred [minios-linux/minios-live](https://github.com/minios-linux/minios-live)** _(May 7, 2026)_
-- **Starred [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** _(May 7, 2026)_
 
 </details>
 
