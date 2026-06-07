@@ -211,7 +211,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)** _(Jun 1, 2026)_
 
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
 - **Starred [huggingface/datasets](https://github.com/huggingface/datasets)** _(Jun 1, 2026)_
 - **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
@@ -245,7 +245,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** _(May 10, 2026)_
 - **Starred [agama-project/agama](https://github.com/agama-project/agama)** _(May 9, 2026)_
 - **Starred [roadkell/ascii-logos](https://github.com/roadkell/ascii-logos)** _(May 9, 2026)_
-- **Starred [withoutboats/notty](https://github.com/withoutboats/notty)** _(May 7, 2026)_
 
 </details>
 
@@ -323,12 +322,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 7, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 7, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 7, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -357,7 +356,7 @@ Recent releases across my repositories:
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 7, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
