@@ -10,7 +10,7 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 	async fetch(): Promise<Stargazer[]> {
 		const repos = await this.reposPromise;
 
-		const stargazersByLogin = new Map<string, Stargazer>();
+		const stargazersByCompositeKey = new Map<string, Stargazer>();
 
 		for (const repo of repos) {
 			if ((repo.stargazers_count ?? 0) === 0) {
@@ -36,9 +36,11 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 						continue;
 					}
 
+					const compositeKey = `${user.login}:${repo.name}`;
+
 					const starredAt =
 						"starred_at" in entry ? (entry.starred_at ?? null) : null;
-					const existing = stargazersByLogin.get(user.login);
+					const existing = stargazersByCompositeKey.get(compositeKey);
 
 					if (existing) {
 						const existingDate = existing.starred_at
@@ -50,7 +52,7 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 						}
 					}
 
-					stargazersByLogin.set(user.login, {
+					stargazersByCompositeKey.set(compositeKey, {
 						login: user.login,
 						avatar_url: user.avatar_url,
 						html_url: user.html_url,
@@ -67,7 +69,7 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 			}
 		}
 
-		return Array.from(stargazersByLogin.values())
+		return Array.from(stargazersByCompositeKey.values())
 			.sort((a, b) => {
 				const dateA = a.starred_at ? new Date(a.starred_at).getTime() : 0;
 				const dateB = b.starred_at ? new Date(b.starred_at).getTime() : 0;
