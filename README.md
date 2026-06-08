@@ -27,16 +27,16 @@
 
 ## Tech Stack
 
-| Area            | Technologies                                                                                                                                                                                                                                                 |
-| :-------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) |
-| **Backend**     | [.NET](https://dotnet.microsoft.com), [NestJS](https://nestjs.com), [Node.js](https://nodejs.org), [Bun](https://bun.sh)                                                                                                                                     |
-| **Data**        | [PostgreSQL](https://www.postgresql.org), [MS SQL](https://www.microsoft.com/sql-server), [SQLite](https://www.sqlite.org), [InfluxDB](https://www.influxdata.com)                                                                                           |
-| **DevOps**      | [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com), [Coolify](https://coolify.io)                                                                                                                                       |
-| **Desktop**     | [Electron](https://www.electronjs.org), [.NET MAUI](https://learn.microsoft.com/dotnet/maui), [.NET Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)                                                                                      |
-| **Languages**   | [C#](https://learn.microsoft.com/dotnet/csharp), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), [Python](https://www.python.org)                                                             |
-| **Environment** | [Fedora KDE](https://fedoraproject.org/spins/kde)                                                                                                                                                                                                            |
-| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai), [Oh My OpenAgent](https://ohmyopenagent.com)                          |
+| Area            | Technologies                                                                                                                                                                                                                        |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor),                                                                                      |
+| **Backend**     | [.NET](https://dotnet.microsoft.com), [NestJS](https://nestjs.com), [Node.js](https://nodejs.org), [Bun](https://bun.sh)                                                                                                            |
+| **Data**        | [PostgreSQL](https://www.postgresql.org), [MS SQL](https://www.microsoft.com/sql-server), [SQLite](https://www.sqlite.org), [InfluxDB](https://www.influxdata.com)                                                                  |
+| **DevOps**      | [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com), [Coolify](https://coolify.io)                                                                                                              |
+| **Desktop**     | [Electron](https://www.electronjs.org), [.NET MAUI](https://learn.microsoft.com/dotnet/maui), [.NET Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)                                                             |
+| **Languages**   | [C#](https://learn.microsoft.com/dotnet/csharp), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), [Python](https://www.python.org)                                    |
+| **Environment** | [Fedora KDE](https://fedoraproject.org/spins/kde)                                                                                                                                                                                   |
+| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai), [Oh My OpenAgent](https://ohmyopenagent.com) |
 
 ## Latest Writing
 
@@ -96,15 +96,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [70f1dc8...a948451](https://github.com/sametcn99/sametcn99/compare/70f1dc85d8fc2e1db083b3a9a81045f244202263...a948451413735e3b1dd4f3e2feab6713fd69ae19)** _(Jun 8, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1ba0c34...36a214d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e...36a214d8da075524d7c52efb82a42f00a64eb30d)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [fdbc45d...1ba0c34](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/fdbc45d625073142e65d24d1e8e38e2231268970...1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [50bc6c7...fdbc45d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/50bc6c79dae9d6e0cc7db34ebad1b59069986cf0...fdbc45d625073142e65d24d1e8e38e2231268970)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a9be1bb...50bc6c7](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a9be1bb5132e84f21ba618ede852fd461a5caf39...50bc6c79dae9d6e0cc7db34ebad1b59069986cf0)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [d51dac3...a9be1bb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/d51dac3b88a2ccb15567567fda978a4cbd01d363...a9be1bb5132e84f21ba618ede852fd461a5caf39)** _(Jun 7, 2026)_
 
 <details>
-  <summary>Show 88 more pushes...</summary>
+  <summary>Show 89 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [d51dac3...a9be1bb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/d51dac3b88a2ccb15567567fda978a4cbd01d363...a9be1bb5132e84f21ba618ede852fd461a5caf39)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bfa4fbc...d51dac3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bfa4fbcda3a5bd887b9a5b4236dcd0bfc9610e93...d51dac3b88a2ccb15567567fda978a4cbd01d363)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [40fdb2c...bfa4fbc](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/40fdb2c37f20387ba0c9fcc7c65ddf065919d60e...bfa4fbcda3a5bd887b9a5b4236dcd0bfc9610e93)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [6e2ae8e...40fdb2c](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/6e2ae8e3257f8368e125c9f7510b45d19dd448de...40fdb2c37f20387ba0c9fcc7c65ddf065919d60e)** _(Jun 5, 2026)_
@@ -206,15 +207,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
+- **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
 - **Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)** _(Jun 8, 2026)_
 - **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
 - **Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** _(Jun 8, 2026)_
-- **Starred [godotengine/godot](https://github.com/godotengine/godot)** _(Jun 8, 2026)_
-- **Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)** _(Jun 8, 2026)_
 
 <details>
-  <summary>Show 41 more starred repositories...</summary>
+  <summary>Show 43 more starred repositories...</summary>
 
+- **Starred [godotengine/godot](https://github.com/godotengine/godot)** _(Jun 8, 2026)_
+- **Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)** _(Jun 8, 2026)_
 - **Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)** _(Jun 8, 2026)_
 - **Starred [zedeus/nitter-proxy](https://github.com/zedeus/nitter-proxy)** _(Jun 8, 2026)_
 - **Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)** _(Jun 7, 2026)_
