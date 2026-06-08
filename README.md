@@ -206,15 +206,22 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)** _(Jun 8, 2026)_
+- **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
+- **Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** _(Jun 8, 2026)_
+- **Starred [godotengine/godot](https://github.com/godotengine/godot)** _(Jun 8, 2026)_
+- **Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)** _(Jun 8, 2026)_
+
+<details>
+  <summary>Show 41 more starred repositories...</summary>
+
+- **Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)** _(Jun 8, 2026)_
+- **Starred [zedeus/nitter-proxy](https://github.com/zedeus/nitter-proxy)** _(Jun 8, 2026)_
 - **Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)** _(Jun 7, 2026)_
 - **Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** _(Jun 7, 2026)_
 - **Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)** _(Jun 7, 2026)_
 - **Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)** _(Jun 6, 2026)_
 - **Starred [render-oss/skills](https://github.com/render-oss/skills)** _(Jun 2, 2026)_
-
-<details>
-  <summary>Show 34 more starred repositories...</summary>
-
 - **Starred [dmno-dev/varlock](https://github.com/dmno-dev/varlock)** _(Jun 2, 2026)_
 - **Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)** _(Jun 1, 2026)_
 - **Starred [huggingface/datasets](https://github.com/huggingface/datasets)** _(Jun 1, 2026)_
