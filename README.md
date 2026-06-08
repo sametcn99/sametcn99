@@ -29,7 +29,7 @@
 
 | Area            | Technologies                                                                                                                                                                                                                        |
 | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor),                                                                                      |
+| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor)                                                                                       |
 | **Backend**     | [.NET](https://dotnet.microsoft.com), [NestJS](https://nestjs.com), [Node.js](https://nodejs.org), [Bun](https://bun.sh)                                                                                                            |
 | **Data**        | [PostgreSQL](https://www.postgresql.org), [MS SQL](https://www.microsoft.com/sql-server), [SQLite](https://www.sqlite.org), [InfluxDB](https://www.influxdata.com)                                                                  |
 | **DevOps**      | [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com), [Coolify](https://coolify.io)                                                                                                              |
@@ -96,15 +96,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [e7b57d5...df178d7](https://github.com/sametcn99/sametcn99/compare/e7b57d56e8c500d28609215853ea7a7b542a6a1c...df178d7c80aa3e0a220635cb58d650eb407731af)** _(Jun 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1c10b71...b151f0a](https://github.com/sametcn99/sametcn99/compare/1c10b711512c77df686cf48d8bf3c1760afe25ff...b151f0a0b37a78cb35f63a41f72392a3dc55f305)** _(Jun 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [70f1dc8...a948451](https://github.com/sametcn99/sametcn99/compare/70f1dc85d8fc2e1db083b3a9a81045f244202263...a948451413735e3b1dd4f3e2feab6713fd69ae19)** _(Jun 8, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1ba0c34...36a214d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e...36a214d8da075524d7c52efb82a42f00a64eb30d)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [fdbc45d...1ba0c34](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/fdbc45d625073142e65d24d1e8e38e2231268970...1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [50bc6c7...fdbc45d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/50bc6c79dae9d6e0cc7db34ebad1b59069986cf0...fdbc45d625073142e65d24d1e8e38e2231268970)** _(Jun 7, 2026)_
 
 <details>
-  <summary>Show 90 more pushes...</summary>
+  <summary>Show 91 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [50bc6c7...fdbc45d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/50bc6c79dae9d6e0cc7db34ebad1b59069986cf0...fdbc45d625073142e65d24d1e8e38e2231268970)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a9be1bb...50bc6c7](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a9be1bb5132e84f21ba618ede852fd461a5caf39...50bc6c79dae9d6e0cc7db34ebad1b59069986cf0)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [d51dac3...a9be1bb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/d51dac3b88a2ccb15567567fda978a4cbd01d363...a9be1bb5132e84f21ba618ede852fd461a5caf39)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bfa4fbc...d51dac3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bfa4fbcda3a5bd887b9a5b4236dcd0bfc9610e93...d51dac3b88a2ccb15567567fda978a4cbd01d363)** _(Jun 7, 2026)_
