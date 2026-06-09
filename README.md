@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 162                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [fdbc45d...1ba0c34](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/fdbc45d625073142e65d24d1e8e38e2231268970...1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e)** _(Jun 7, 2026)_
 
 <details>
-  <summary>Show 91 more pushes...</summary>
+  <summary>Show 89 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [50bc6c7...fdbc45d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/50bc6c79dae9d6e0cc7db34ebad1b59069986cf0...fdbc45d625073142e65d24d1e8e38e2231268970)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a9be1bb...50bc6c7](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a9be1bb5132e84f21ba618ede852fd461a5caf39...50bc6c79dae9d6e0cc7db34ebad1b59069986cf0)** _(Jun 7, 2026)_
@@ -194,8 +194,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [844085f...10f4032](https://github.com/sametcn99/orhan-elektronik/compare/844085fb0cfc418b8697b59946c784eb11050fab...10f40327c13a861244f208a9d026ab7edb2807ad)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0afd48b...844085f](https://github.com/sametcn99/orhan-elektronik/compare/0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c...844085fb0cfc418b8697b59946c784eb11050fab)** _(May 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [268a480...0afd48b](https://github.com/sametcn99/orhan-elektronik/compare/268a480c2c82cc056b251447101a45c0bb34e647...0afd48bd15ccc740d950ec4a45429c7a4e2ffc7c)** _(May 9, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [03d9451...268a480](https://github.com/sametcn99/orhan-elektronik/compare/03d9451c221d9fcc2853dbab4057d4431defe607...268a480c2c82cc056b251447101a45c0bb34e647)** _(May 9, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [dc59f7a...0796024](https://github.com/sametcn99/sametcn99/compare/dc59f7abe49c8cbba97ffa96b272010145852fc4...0796024c6c56c0fdfbbbfb44c08000c07be41de1)** _(May 9, 2026)_
 
 </details>
 
@@ -209,15 +207,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
 - **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
 - **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
 - **Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)** _(Jun 8, 2026)_
 - **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
-- **Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** _(Jun 8, 2026)_
 
 <details>
   <summary>Show 43 more starred repositories...</summary>
 
+- **Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** _(Jun 8, 2026)_
 - **Starred [godotengine/godot](https://github.com/godotengine/godot)** _(Jun 8, 2026)_
 - **Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)** _(Jun 8, 2026)_
 - **Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)** _(Jun 8, 2026)_
@@ -260,7 +259,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [H2Shami/opencode-helicone-session](https://github.com/H2Shami/opencode-helicone-session)** _(May 12, 2026)_
 - **Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** _(May 10, 2026)_
 - **Starred [agama-project/agama](https://github.com/agama-project/agama)** _(May 9, 2026)_
-- **Starred [roadkell/ascii-logos](https://github.com/roadkell/ascii-logos)** _(May 9, 2026)_
 
 </details>
 
