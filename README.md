@@ -95,15 +95,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [36a214d...c6743be](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/36a214d8da075524d7c52efb82a42f00a64eb30d...c6743be914e5df36930cd9c6509aa3f212938fdd)** _(Jun 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [67361eb...a8efccd](https://github.com/sametcn99/personal-website-blazor/compare/67361ebb53f2428de91a167e41587608ba91d385...a8efccd9d77dc331156f9bbddc7a00bf11309031)** _(Jun 9, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [e7b57d5...df178d7](https://github.com/sametcn99/sametcn99/compare/e7b57d56e8c500d28609215853ea7a7b542a6a1c...df178d7c80aa3e0a220635cb58d650eb407731af)** _(Jun 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1c10b71...b151f0a](https://github.com/sametcn99/sametcn99/compare/1c10b711512c77df686cf48d8bf3c1760afe25ff...b151f0a0b37a78cb35f63a41f72392a3dc55f305)** _(Jun 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [70f1dc8...a948451](https://github.com/sametcn99/sametcn99/compare/70f1dc85d8fc2e1db083b3a9a81045f244202263...a948451413735e3b1dd4f3e2feab6713fd69ae19)** _(Jun 8, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1ba0c34...36a214d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e...36a214d8da075524d7c52efb82a42f00a64eb30d)** _(Jun 7, 2026)_
 
 <details>
-  <summary>Show 82 more pushes...</summary>
+  <summary>Show 83 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1ba0c34...36a214d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e...36a214d8da075524d7c52efb82a42f00a64eb30d)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [fdbc45d...1ba0c34](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/fdbc45d625073142e65d24d1e8e38e2231268970...1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [50bc6c7...fdbc45d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/50bc6c79dae9d6e0cc7db34ebad1b59069986cf0...fdbc45d625073142e65d24d1e8e38e2231268970)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a9be1bb...50bc6c7](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a9be1bb5132e84f21ba618ede852fd461a5caf39...50bc6c79dae9d6e0cc7db34ebad1b59069986cf0)** _(Jun 7, 2026)_
@@ -320,12 +321,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 9, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 9, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 9, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -358,7 +359,7 @@ Recent releases across my repositories:
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 7, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★1 -
