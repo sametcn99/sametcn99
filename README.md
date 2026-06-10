@@ -200,15 +200,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground)** _(Jun 10, 2026)_
 - **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
 - **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
 - **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
 - **Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)** _(Jun 8, 2026)_
-- **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
 
 <details>
-  <summary>Show 41 more starred repositories...</summary>
+  <summary>Show 42 more starred repositories...</summary>
 
+- **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
 - **Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** _(Jun 8, 2026)_
 - **Starred [godotengine/godot](https://github.com/godotengine/godot)** _(Jun 8, 2026)_
 - **Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)** _(Jun 8, 2026)_
