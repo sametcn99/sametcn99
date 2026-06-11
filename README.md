@@ -79,7 +79,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 162                                     |
+| **Total Stars Earned:**    | 163                                     |
 | **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 59                                      |
@@ -325,16 +325,16 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 11, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 11, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 10, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★57 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★58 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jun 2, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★18 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
@@ -359,7 +359,7 @@ Recent releases across my repositories:
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 10, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 11, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
@@ -484,15 +484,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thanks to everyone who has starred my repositories. Here are the most recent supporters:
 
+- **[@Jimco](https://github.com/Jimco)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 11, 2026)_
 - **[@luisfuturist](https://github.com/luisfuturist)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 6, 2026)_
 - **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
 - **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
 - **[@chartchaser](https://github.com/chartchaser)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(May 6, 2026)_
-- **[@ferynnd](https://github.com/ferynnd)** starred **[nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase)** _(May 6, 2026)_
 
 <details>
   <summary>Show 15 more stargazers...</summary>
 
+- **[@ferynnd](https://github.com/ferynnd)** starred **[nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase)** _(May 6, 2026)_
 - **[@Herzfinsternis](https://github.com/Herzfinsternis)** starred **[electron-widgets](https://github.com/sametcn99/electron-widgets)** _(May 4, 2026)_
 - **[@SamuelJBeer](https://github.com/SamuelJBeer)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(May 2, 2026)_
 - **[@hyossing](https://github.com/hyossing)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 27, 2026)_
@@ -507,7 +508,6 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@yangzupan](https://github.com/yangzupan)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 7, 2026)_
 - **[@Maiturin](https://github.com/Maiturin)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 6, 2026)_
 - **[@developer239](https://github.com/developer239)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 5, 2026)_
-- **[@freddymu](https://github.com/freddymu)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 4, 2026)_
 </details>
 
 ## Automated Workflows
