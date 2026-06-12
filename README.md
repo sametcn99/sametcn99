@@ -80,9 +80,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 164                                     |
 | **Commits (7d):**          | 20+                                     |
-| **Total Repositories:**    | 68                                      |
+| **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 59                                      |
-| **Forked Repositories:**   | 9                                       |
+| **Forked Repositories:**   | 8                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
@@ -441,15 +441,13 @@ C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description pro
 
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
   JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
-- [**Kuran**](https://github.com/sametcn99/Kuran) -
-  TypeScript<br />_Created: May 10, 2026 • Updated: May 10, 2026_<br />No description provided.
 - [**instances**](https://github.com/sametcn99/instances) - [Homepage](https://raw.githubusercontent.com/libredirect/instances/main/data.json)<br />_Created: May 7, 2026 • Updated: May 6, 2026_<br />Automated instances list for LibRedirect
-
-<details>
-  <summary>Show 6 more repositories...</summary>
-
 - [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) -
   JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
+
+<details>
+  <summary>Show 5 more repositories...</summary>
+
 - [**crono-event**](https://github.com/sametcn99/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
 - [**letterboxd-api**](https://github.com/sametcn99/letterboxd-api) -
   Python - [Homepage](https://letterboxd-api-zeta.vercel.app)<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
