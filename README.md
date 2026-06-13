@@ -101,7 +101,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [86a61cd...bc08f33](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/86a61cd0dd9c3b50fe31c0040835996fa0aecc71...bc08f33bf293a67aa84c1a7e3b990088eeefb16c)** _(Jun 10, 2026)_
 
 <details>
-  <summary>Show 78 more pushes...</summary>
+  <summary>Show 73 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [c6743be...86a61cd](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/c6743be914e5df36930cd9c6509aa3f212938fdd...86a61cd0dd9c3b50fe31c0040835996fa0aecc71)** _(Jun 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [36a214d...c6743be](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/36a214d8da075524d7c52efb82a42f00a64eb30d...c6743be914e5df36930cd9c6509aa3f212938fdd)** _(Jun 10, 2026)_
@@ -176,11 +176,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [adee6f8...f8f9d9b](https://github.com/sametcn99/application-tracker/compare/adee6f871e117c3998d7b0fd7b7a39bb9dd99599...f8f9d9b7cbaf655e8a5b7ae9df5e95eaf4f0db27)** _(May 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [344ee28...adee6f8](https://github.com/sametcn99/application-tracker/compare/344ee284ba2bd0d5bf12efec50e2ad9986b04d9e...adee6f871e117c3998d7b0fd7b7a39bb9dd99599)** _(May 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [28eb3ed...344ee28](https://github.com/sametcn99/application-tracker/compare/28eb3ed49376a845f424fbdede0f5829b0d2b660...344ee284ba2bd0d5bf12efec50e2ad9986b04d9e)** _(May 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [c3584e5...28eb3ed](https://github.com/sametcn99/application-tracker/compare/c3584e545a53e1304a06045804ad39fbf1e344b9...28eb3ed49376a845f424fbdede0f5829b0d2b660)** _(May 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [a6b4164...c3584e5](https://github.com/sametcn99/application-tracker/compare/a6b4164c84c20dcf4072abf51e0c258a03e7368c...c3584e545a53e1304a06045804ad39fbf1e344b9)** _(May 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [825c4f7...a6b4164](https://github.com/sametcn99/application-tracker/compare/825c4f788b7df26e466e836a440c03a79beb9adf...a6b4164c84c20dcf4072abf51e0c258a03e7368c)** _(May 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [edf7d1b...825c4f7](https://github.com/sametcn99/application-tracker/compare/edf7d1b7a49c261b852f34b1676e6d8cc10af0ff...825c4f788b7df26e466e836a440c03a79beb9adf)** _(May 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [cd23915...edf7d1b](https://github.com/sametcn99/application-tracker/compare/cd23915fd788f11a0328e3b412a1a47f338eff49...edf7d1b7a49c261b852f34b1676e6d8cc10af0ff)** _(May 13, 2026)_
 
 </details>
 
@@ -307,10 +302,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 13, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 13, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 12, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 11, 2026_<br />No description provided.
 
@@ -341,7 +336,7 @@ Recent releases across my repositories:
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 12, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 13, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
