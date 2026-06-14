@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 164                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 8                                       |
@@ -96,15 +96,25 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [c86dc86...3d40e27](https://github.com/sametcn99/orhan-elektronik/compare/c86dc8603c5b0e7fa9ad788fde9c89651154d866...3d40e271c9400937ac26561ab6ce61043372ba76)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [4348217...c86dc86](https://github.com/sametcn99/orhan-elektronik/compare/4348217b6f33ac0c48bf1a173beff1e657b8e4f5...c86dc8603c5b0e7fa9ad788fde9c89651154d866)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [1e5ade8...4348217](https://github.com/sametcn99/orhan-elektronik/compare/1e5ade8d68a3b8264e52557441868cf4f096bc00...4348217b6f33ac0c48bf1a173beff1e657b8e4f5)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [5b24810...1e5ade8](https://github.com/sametcn99/orhan-elektronik/compare/5b24810069ca0a7657481f6aa6a62b599be6773c...1e5ade8d68a3b8264e52557441868cf4f096bc00)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [106496b...5b24810](https://github.com/sametcn99/orhan-elektronik/compare/106496b7883d15c72700fe4cd20f214e4aca30e9...5b24810069ca0a7657481f6aa6a62b599be6773c)** _(Jun 14, 2026)_
+
+<details>
+  <summary>Show 91 more pushes...</summary>
+
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [c35c3df...106496b](https://github.com/sametcn99/orhan-elektronik/compare/c35c3dff369eeebf1819267fd3109e6a11afeded...106496b7883d15c72700fe4cd20f214e4aca30e9)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [9fb7232...c35c3df](https://github.com/sametcn99/orhan-elektronik/compare/9fb7232e0dc4a6804b82ec17ac88a32b374e20b8...c35c3dff369eeebf1819267fd3109e6a11afeded)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [22a38c7...9fb7232](https://github.com/sametcn99/orhan-elektronik/compare/22a38c7e9521f4e89de24ef72c4a3a79b5943ee2...9fb7232e0dc4a6804b82ec17ac88a32b374e20b8)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [b628402...22a38c7](https://github.com/sametcn99/orhan-elektronik/compare/b628402894d0d42f2e8cff3b3de08164476971bd...22a38c7e9521f4e89de24ef72c4a3a79b5943ee2)** _(Jun 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [a4220c8...b628402](https://github.com/sametcn99/orhan-elektronik/compare/a4220c8a59ea5c4dff1df7e2d3834686e5b9b666...b628402894d0d42f2e8cff3b3de08164476971bd)** _(Jun 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [7bac358...a4220c8](https://github.com/sametcn99/orhan-elektronik/compare/7bac35828e5fd2f0554192119a1a039b2b5fc99f...a4220c8a59ea5c4dff1df7e2d3834686e5b9b666)** _(Jun 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [17a155a...05dedb1](https://github.com/sametcn99/gh-block-spam-accounts/compare/17a155aff9ac0804754362af2a5a864f06758d49...05dedb1b2d3d180a200dd99798229f8450fed65b)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [0a8c138...17a155a](https://github.com/sametcn99/gh-block-spam-accounts/compare/0a8c138f681ab0720cfffb379a062515eb1a24e7...17a155aff9ac0804754362af2a5a864f06758d49)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1ac7c82...0a8c138](https://github.com/sametcn99/gh-block-spam-accounts/compare/1ac7c8275eeba23765e49973af2c025e35735164...0a8c138f681ab0720cfffb379a062515eb1a24e7)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [4351ad7...34cefb2](https://github.com/sametcn99/HTWind/compare/4351ad7d4cd87c2b4879a2f4cc8919f7c36f75c7...34cefb2b2c26c6ff17b0ef8406a13973d92e56de)** _(Jun 13, 2026)_
-
-<details>
-  <summary>Show 81 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [0ff25fa...7c36faf](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/0ff25faada96525798ef54f169583970cfc35ec3...7c36faf566f05ad80510ed499a1923d1fffd4c9e)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [10e0f83...0ff25fa](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/10e0f83bf96b0ad733463f37827cb2138c2d5cff...0ff25faada96525798ef54f169583970cfc35ec3)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [f681290...10e0f83](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/f681290102d540681681fcdf78a0e428d46dc7a7...10e0f83bf96b0ad733463f37827cb2138c2d5cff)** _(Jun 13, 2026)_
@@ -316,12 +326,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 14, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 13, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 13, 2026_<br />the missing html based widget manager created with .net
 
 ### Active Repositories
 
@@ -373,12 +383,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 14, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 13, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 13, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 9, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
