@@ -9,6 +9,7 @@
 - [GitHub Snapshot](#github-snapshot)
 - [Recent GitHub Activity](#recent-github-activity)
   - [Pushes](#pushes)
+  - [Pull Requests](#pull-requests)
   - [Comments](#comments)
   - [Starred Repositories](#starred-repositories)
   - [Other Activity](#other-activity)
@@ -95,15 +96,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [7bac358...a4220c8](https://github.com/sametcn99/orhan-elektronik/compare/7bac35828e5fd2f0554192119a1a039b2b5fc99f...a4220c8a59ea5c4dff1df7e2d3834686e5b9b666)** _(Jun 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [17a155a...05dedb1](https://github.com/sametcn99/gh-block-spam-accounts/compare/17a155aff9ac0804754362af2a5a864f06758d49...05dedb1b2d3d180a200dd99798229f8450fed65b)** _(Jun 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [0a8c138...17a155a](https://github.com/sametcn99/gh-block-spam-accounts/compare/0a8c138f681ab0720cfffb379a062515eb1a24e7...17a155aff9ac0804754362af2a5a864f06758d49)** _(Jun 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1ac7c82...0a8c138](https://github.com/sametcn99/gh-block-spam-accounts/compare/1ac7c8275eeba23765e49973af2c025e35735164...0a8c138f681ab0720cfffb379a062515eb1a24e7)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [4351ad7...34cefb2](https://github.com/sametcn99/HTWind/compare/4351ad7d4cd87c2b4879a2f4cc8919f7c36f75c7...34cefb2b2c26c6ff17b0ef8406a13973d92e56de)** _(Jun 13, 2026)_
+
+<details>
+  <summary>Show 81 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [0ff25fa...7c36faf](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/0ff25faada96525798ef54f169583970cfc35ec3...7c36faf566f05ad80510ed499a1923d1fffd4c9e)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [10e0f83...0ff25fa](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/10e0f83bf96b0ad733463f37827cb2138c2d5cff...0ff25faada96525798ef54f169583970cfc35ec3)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [f681290...10e0f83](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/f681290102d540681681fcdf78a0e428d46dc7a7...10e0f83bf96b0ad733463f37827cb2138c2d5cff)** _(Jun 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [a1758e3...7bac358](https://github.com/sametcn99/orhan-elektronik/compare/a1758e38ecd2f3e14b54b8abcb149f07d9e98b20...7bac35828e5fd2f0554192119a1a039b2b5fc99f)** _(Jun 11, 2026)_
-
-<details>
-  <summary>Show 77 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0a6006e...a1758e3](https://github.com/sametcn99/orhan-elektronik/compare/0a6006e3159a5e7e4c521914519107d90dcb5b5b...a1758e38ecd2f3e14b54b8abcb149f07d9e98b20)** _(Jun 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [037b452...916f632](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/037b452f535113763269a23d9648b5f5f83434e6...916f632ac5424b77e4c5e730fa88b5fb404ce1f5)** _(Jun 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bc08f33...037b452](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bc08f33bf293a67aa84c1a7e3b990088eeefb16c...037b452f535113763269a23d9648b5f5f83434e6)** _(Jun 10, 2026)_
@@ -184,6 +189,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 </details>
 
+### Pull Requests
+
+- **Closed pull request [#1](https://github.com/sametcn99/gh-block-spam-accounts/pull/1) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
+
 ### Comments
 
 - **Commented on issue [[codex] fix css export path](https://github.com/sametcn99/vitepress-mermaid-renderer/pull/11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 13, 2026)_
@@ -191,15 +200,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 - **Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** _(Jun 12, 2026)_
 - **Starred [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground)** _(Jun 10, 2026)_
 - **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
 - **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
-- **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
 
 <details>
-  <summary>Show 38 more starred repositories...</summary>
+  <summary>Show 33 more starred repositories...</summary>
 
+- **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
 - **Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)** _(Jun 8, 2026)_
 - **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
 - **Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** _(Jun 8, 2026)_
@@ -232,26 +242,21 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [f/pressmind](https://github.com/f/pressmind)** _(May 16, 2026)_
 - **Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)** _(May 16, 2026)_
 - **Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)** _(May 15, 2026)_
-- **Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** _(May 14, 2026)_
-- **Starred [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)** _(May 14, 2026)_
-- **Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)** _(May 14, 2026)_
-- **Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** _(May 14, 2026)_
-- **Starred [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)** _(May 14, 2026)_
-- **Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)** _(May 14, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Deleted branch &#x60;vercel/install-vercel-speed-insights-3zqqn7&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources)** _(May 16, 2026)_
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
 - **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
 - **Deleted tag &#x60;v1.1.6&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
-- **Deleted tag &#x60;v1.1.6&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
 
 <details>
-  <summary>Show 1 more other activity...</summary>
+  <summary>Show 2 more other activity...</summary>
 
+- **Deleted tag &#x60;v1.1.6&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
 - **Deleted tag &#x60;v1.1.5&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
 
 </details>
@@ -311,12 +316,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
+  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 13, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 13, 2026_<br />the missing html based widget manager created with .net
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★58 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jun 13, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 13, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -368,10 +373,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
+  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 13, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 13, 2026_<br />No description provided.
-- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
-  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 11, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 9, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
@@ -380,8 +387,6 @@ Recent releases across my repositories:
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: May 24, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: May 15, 2026_<br />self-hosted job search operating system
-- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: May 12, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: May 1, 2026_<br />Hiretea is a self-hosted platform for running technical assessments end to end
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
