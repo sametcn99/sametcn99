@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [3d40e27...aeb82db](https://github.com/sametcn99/orhan-elektronik/compare/3d40e271c9400937ac26561ab6ce61043372ba76...aeb82db6fbae063640aa1117d6f445e8ed841da8)** _(Jun 14, 2026)_
 
 <details>
-  <summary>Show 96 more pushes...</summary>
+  <summary>Show 91 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [c86dc86...3d40e27](https://github.com/sametcn99/orhan-elektronik/compare/c86dc8603c5b0e7fa9ad788fde9c89651154d866...3d40e271c9400937ac26561ab6ce61043372ba76)** _(Jun 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [4348217...c86dc86](https://github.com/sametcn99/orhan-elektronik/compare/4348217b6f33ac0c48bf1a173beff1e657b8e4f5...c86dc8603c5b0e7fa9ad788fde9c89651154d866)** _(Jun 14, 2026)_
@@ -196,11 +196,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9ae5d11...0563c92](https://github.com/sametcn99/personal-website-blazor/compare/9ae5d11de74483099a18e11bdecde48fdd4a3075...0563c9271df07a7c2a4260a8e28e7ea714ba8d5a)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [93f34e9...9ae5d11](https://github.com/sametcn99/personal-website-blazor/compare/93f34e9fca987be9202d87eec6b9b188b28c8964...9ae5d11de74483099a18e11bdecde48fdd4a3075)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6f6198e...93f34e9](https://github.com/sametcn99/personal-website-blazor/compare/6f6198ec0daedb86ff8b9173d3f321f73a0377cc...93f34e9fca987be9202d87eec6b9b188b28c8964)** _(May 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [73ab64d...9dd4979](https://github.com/sametcn99/application-tracker/compare/73ab64debb90154cd3c9da2a4f1db3a8140bad8a...9dd49796abc0dd3bdd42c4cfe7b6bcb25bc7cec5)** _(May 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [f8f9d9b...73ab64d](https://github.com/sametcn99/application-tracker/compare/f8f9d9b7cbaf655e8a5b7ae9df5e95eaf4f0db27...73ab64debb90154cd3c9da2a4f1db3a8140bad8a)** _(May 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [adee6f8...f8f9d9b](https://github.com/sametcn99/application-tracker/compare/adee6f871e117c3998d7b0fd7b7a39bb9dd99599...f8f9d9b7cbaf655e8a5b7ae9df5e95eaf4f0db27)** _(May 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [344ee28...adee6f8](https://github.com/sametcn99/application-tracker/compare/344ee284ba2bd0d5bf12efec50e2ad9986b04d9e...adee6f871e117c3998d7b0fd7b7a39bb9dd99599)** _(May 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/application-tracker](https://github.com/sametcn99/application-tracker): [28eb3ed...344ee28](https://github.com/sametcn99/application-tracker/compare/28eb3ed49376a845f424fbdede0f5829b0d2b660...344ee284ba2bd0d5bf12efec50e2ad9986b04d9e)** _(May 15, 2026)_
 
 </details>
 
@@ -215,15 +210,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
 - **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 - **Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** _(Jun 12, 2026)_
 - **Starred [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground)** _(Jun 10, 2026)_
 - **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
-- **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
 
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 34 more starred repositories...</summary>
 
+- **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
 - **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
 - **Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)** _(Jun 8, 2026)_
 - **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
