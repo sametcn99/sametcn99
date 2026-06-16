@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [c359c84...ef78059](https://github.com/sametcn99/orhan-elektronik/compare/c359c84b52ed03acfd8206bd9d6379bc1615175d...ef78059bdd563d2faac557e861fb881604b1eb89)** _(Jun 14, 2026)_
 
 <details>
-  <summary>Show 79 more pushes...</summary>
+  <summary>Show 69 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [034157a...c359c84](https://github.com/sametcn99/orhan-elektronik/compare/034157ab0abc91f06772a732893a8b310aeae22b...c359c84b52ed03acfd8206bd9d6379bc1615175d)** _(Jun 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [aeb82db...034157a](https://github.com/sametcn99/orhan-elektronik/compare/aeb82db6fbae063640aa1117d6f445e8ed841da8...034157ab0abc91f06772a732893a8b310aeae22b)** _(Jun 14, 2026)_
@@ -174,16 +174,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [69885ed...9c1dc10](https://github.com/sametcn99/personal-website-blazor/compare/69885eda75d20bad00d31f78450500ac53ec560e...9c1dc101d77327579ba2fe0d746d3574b962b783)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6f0c60c...69885ed](https://github.com/sametcn99/personal-website-blazor/compare/6f0c60c3eb7b0aefe6f98fe1f77d2d1b82883bf2...69885eda75d20bad00d31f78450500ac53ec560e)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [edf0ee0...6f0c60c](https://github.com/sametcn99/personal-website-blazor/compare/edf0ee099b765d1c5781ad8b2b7db5f877ac22c4...6f0c60c3eb7b0aefe6f98fe1f77d2d1b82883bf2)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [61c5c57...40b843f](https://github.com/sametcn99/computer-science-resources/compare/61c5c57058d49642c2b0d1bb4c14bd8e7f1eccfa...40b843f8a2302718feac9ff68102f50df2aed338)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [6e211a9...61c5c57](https://github.com/sametcn99/computer-science-resources/compare/6e211a9e790a501db41d8c36795bbadabb56b4ee...61c5c57058d49642c2b0d1bb4c14bd8e7f1eccfa)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [c075a1e...6e211a9](https://github.com/sametcn99/computer-science-resources/compare/c075a1edecce2f425a9a2d549de165386c49f412...6e211a9e790a501db41d8c36795bbadabb56b4ee)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [d42b4d3...c075a1e](https://github.com/sametcn99/computer-science-resources/compare/d42b4d34494fdf20f9a91c5da1280f8806c992a5...c075a1edecce2f425a9a2d549de165386c49f412)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [a3f22cc...d42b4d3](https://github.com/sametcn99/computer-science-resources/compare/a3f22cc64cd42928beea3b0b8c753775aab373f8...d42b4d34494fdf20f9a91c5da1280f8806c992a5)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [a7b4a21...a3f22cc](https://github.com/sametcn99/computer-science-resources/compare/a7b4a217e8ea898400a2ad40300196165eb34576...a3f22cc64cd42928beea3b0b8c753775aab373f8)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [3b225f0...a7b4a21](https://github.com/sametcn99/computer-science-resources/compare/3b225f066387ae82315c736127fa6adac74dc3ab...a7b4a217e8ea898400a2ad40300196165eb34576)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [ca08661...3b225f0](https://github.com/sametcn99/computer-science-resources/compare/ca0866104328352d5765746c07b9167bda275167...3b225f066387ae82315c736127fa6adac74dc3ab)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [cdbeb01...ca08661](https://github.com/sametcn99/computer-science-resources/compare/cdbeb01dd612509012f83a7093730a6c4bf65ff9...ca0866104328352d5765746c07b9167bda275167)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [ff2cbb1...cdbeb01](https://github.com/sametcn99/computer-science-resources/compare/ff2cbb1a86942975da14088047240ebb191ed384...cdbeb01dd612509012f83a7093730a6c4bf65ff9)** _(May 16, 2026)_
 
 </details>
 
@@ -298,12 +288,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 16, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 16, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 15, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -332,7 +322,7 @@ Recent releases across my repositories:
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 15, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 16, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
