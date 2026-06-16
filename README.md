@@ -188,15 +188,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
 - **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
 - **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
 - **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 - **Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** _(Jun 12, 2026)_
-- **Starred [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground)** _(Jun 10, 2026)_
 
 <details>
-  <summary>Show 30 more starred repositories...</summary>
+  <summary>Show 31 more starred repositories...</summary>
 
+- **Starred [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground)** _(Jun 10, 2026)_
 - **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
 - **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
 - **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
@@ -232,6 +233,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Deleted branch &#x60;vercel/install-vercel-web-analytics-ql9ffq&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 16, 2026)_
 - **Deleted branch &#x60;vercel/install-vercel-speed-insights-3zqqn7&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
 
 ## Project Issues
@@ -289,12 +291,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 16, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 16, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 16, 2026_<br />No description provided.
-- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 
 ### Active Repositories
 
@@ -349,7 +351,7 @@ Recent releases across my repositories:
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 16, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 16, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
