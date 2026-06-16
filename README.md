@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [c359c84...ef78059](https://github.com/sametcn99/orhan-elektronik/compare/c359c84b52ed03acfd8206bd9d6379bc1615175d...ef78059bdd563d2faac557e861fb881604b1eb89)** _(Jun 14, 2026)_
 
 <details>
-  <summary>Show 90 more pushes...</summary>
+  <summary>Show 79 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [034157a...c359c84](https://github.com/sametcn99/orhan-elektronik/compare/034157ab0abc91f06772a732893a8b310aeae22b...c359c84b52ed03acfd8206bd9d6379bc1615175d)** _(Jun 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [aeb82db...034157a](https://github.com/sametcn99/orhan-elektronik/compare/aeb82db6fbae063640aa1117d6f445e8ed841da8...034157ab0abc91f06772a732893a8b310aeae22b)** _(Jun 14, 2026)_
@@ -184,17 +184,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [ca08661...3b225f0](https://github.com/sametcn99/computer-science-resources/compare/ca0866104328352d5765746c07b9167bda275167...3b225f066387ae82315c736127fa6adac74dc3ab)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [cdbeb01...ca08661](https://github.com/sametcn99/computer-science-resources/compare/cdbeb01dd612509012f83a7093730a6c4bf65ff9...ca0866104328352d5765746c07b9167bda275167)** _(May 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [ff2cbb1...cdbeb01](https://github.com/sametcn99/computer-science-resources/compare/ff2cbb1a86942975da14088047240ebb191ed384...cdbeb01dd612509012f83a7093730a6c4bf65ff9)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [6d73ac1...ff2cbb1](https://github.com/sametcn99/computer-science-resources/compare/6d73ac103c2ab509589b599a5a280e1346e4ef96...ff2cbb1a86942975da14088047240ebb191ed384)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [39f1acb...6d73ac1](https://github.com/sametcn99/computer-science-resources/compare/39f1acb5edd113eab5d2b7b27baa4e98e64567e2...6d73ac103c2ab509589b599a5a280e1346e4ef96)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [1d210c5...39f1acb](https://github.com/sametcn99/computer-science-resources/compare/1d210c58e37a185ab410f4f601d613a60cbb3b38...39f1acb5edd113eab5d2b7b27baa4e98e64567e2)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [c2c2038...1d210c5](https://github.com/sametcn99/computer-science-resources/compare/c2c2038579773c3ebcaa038f014ccffe4d39680c...1d210c58e37a185ab410f4f601d613a60cbb3b38)** _(May 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [8683897...ad82e19](https://github.com/sametcn99/sametcn99/compare/86838977de9a2aa858afeb6ae9edffc0f52e0b22...ad82e198e1748bde538e320af85962d44b507d20)** _(May 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [909c04a...a93825c](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/909c04a132a35cc70c5b8e0120022b0aa9e01e7c...a93825c13b015d466ef01955cbbe389c79bc3948)** _(May 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [b992345...909c04a](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/b99234551caccbf2b6601558ac386f581b7d4041...909c04a132a35cc70c5b8e0120022b0aa9e01e7c)** _(May 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [affd0bd...b992345](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/affd0bdd968e3c4de5d8d4f03606d4a72c0d51c6...b99234551caccbf2b6601558ac386f581b7d4041)** _(May 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [ba40940...affd0bd](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/ba40940154e77218e14a279708f1f8c6a2baf83b...affd0bdd968e3c4de5d8d4f03606d4a72c0d51c6)** _(May 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [823ae92...ba40940](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/823ae92b8a3c5a52bfc26c4c96b92f246d3f92bf...ba40940154e77218e14a279708f1f8c6a2baf83b)** _(May 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [0d402d2...823ae92](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/0d402d21a9c2b0eb1716d2efb4e39b996f27dcea...823ae92b8a3c5a52bfc26c4c96b92f246d3f92bf)** _(May 16, 2026)_
 
 </details>
 
@@ -216,7 +205,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
 
 <details>
-  <summary>Show 31 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
 - **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
 - **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
@@ -247,26 +236,12 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [mertskaplan/tweet2rss](https://github.com/mertskaplan/tweet2rss)** _(May 24, 2026)_
 - **Starred [decolua/9router](https://github.com/decolua/9router)** _(May 23, 2026)_
 - **Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)** _(May 17, 2026)_
-- **Starred [Dokploy/templates](https://github.com/Dokploy/templates)** _(May 16, 2026)_
-- **Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)** _(May 16, 2026)_
 
 </details>
 
 ### Other Activity
 
 - **Deleted branch &#x60;vercel/install-vercel-speed-insights-3zqqn7&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources)** _(May 16, 2026)_
-- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
-- **Labeled issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
-- **Deleted tag &#x60;v1.1.6&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
-
-<details>
-  <summary>Show 2 more other activity...</summary>
-
-- **Deleted tag &#x60;v1.1.6&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
-- **Deleted tag &#x60;v1.1.5&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
-
-</details>
 
 ## Project Issues
 
@@ -323,12 +298,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 16, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 15, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 15, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -380,10 +355,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 16, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 15, 2026_<br />No description provided.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
