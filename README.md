@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [c359c84...ef78059](https://github.com/sametcn99/orhan-elektronik/compare/c359c84b52ed03acfd8206bd9d6379bc1615175d...ef78059bdd563d2faac557e861fb881604b1eb89)** _(Jun 14, 2026)_
 
 <details>
-  <summary>Show 69 more pushes...</summary>
+  <summary>Show 65 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [034157a...c359c84](https://github.com/sametcn99/orhan-elektronik/compare/034157ab0abc91f06772a732893a8b310aeae22b...c359c84b52ed03acfd8206bd9d6379bc1615175d)** _(Jun 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [aeb82db...034157a](https://github.com/sametcn99/orhan-elektronik/compare/aeb82db6fbae063640aa1117d6f445e8ed841da8...034157ab0abc91f06772a732893a8b310aeae22b)** _(Jun 14, 2026)_
@@ -170,10 +170,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7203926...c101173](https://github.com/sametcn99/personal-website-blazor/compare/7203926c6a04ccef43f31d9f1ace438fa15010c8...c10117325f1358660f7d252b12a12ff944b27a07)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b22f212...7203926](https://github.com/sametcn99/personal-website-blazor/compare/b22f212b9ea068607e1c4fc266ec9a5ff12e9264...7203926c6a04ccef43f31d9f1ace438fa15010c8)** _(May 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5a831be...b22f212](https://github.com/sametcn99/personal-website-blazor/compare/5a831be38c3a03ea525faf330ebcbe11cf95703a...b22f212b9ea068607e1c4fc266ec9a5ff12e9264)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c1dc10...5a831be](https://github.com/sametcn99/personal-website-blazor/compare/9c1dc101d77327579ba2fe0d746d3574b962b783...5a831be38c3a03ea525faf330ebcbe11cf95703a)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [69885ed...9c1dc10](https://github.com/sametcn99/personal-website-blazor/compare/69885eda75d20bad00d31f78450500ac53ec560e...9c1dc101d77327579ba2fe0d746d3574b962b783)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6f0c60c...69885ed](https://github.com/sametcn99/personal-website-blazor/compare/6f0c60c3eb7b0aefe6f98fe1f77d2d1b82883bf2...69885eda75d20bad00d31f78450500ac53ec560e)** _(May 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [edf0ee0...6f0c60c](https://github.com/sametcn99/personal-website-blazor/compare/edf0ee099b765d1c5781ad8b2b7db5f877ac22c4...6f0c60c3eb7b0aefe6f98fe1f77d2d1b82883bf2)** _(May 17, 2026)_
 
 </details>
 
@@ -291,12 +287,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 17, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 16, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 16, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 16, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -349,7 +345,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 16, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 17, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 16, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
