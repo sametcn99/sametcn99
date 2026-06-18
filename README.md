@@ -96,15 +96,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [4e4ad6d...1460d79](https://github.com/sametcn99/instaloader-api/compare/4e4ad6d92b3a856e9a5d47ae8e09a7727d1f46c5...1460d799f4a7c51db9959a58b93e46c1e653e04c)** _(Jun 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/catchapage](https://github.com/sametcn99/catchapage): [27792c1...fbc60d9](https://github.com/sametcn99/catchapage/compare/27792c1f12d8ae5c011bfc153329abb64f230b93...fbc60d99100fb7ed7ec2c965af48a00f883e77ed)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [87d696c...dc0eb74](https://github.com/sametcn99/computer-science-resources/compare/87d696cf7168abd017fd89e53a7e5b88b244f8c8...dc0eb74b646dfdb461d4c6515630a940a8357eb5)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [6f58fe2...87d696c](https://github.com/sametcn99/computer-science-resources/compare/6f58fe21c309cdbd74c5dca3558fd5a55c347fcf...87d696cf7168abd017fd89e53a7e5b88b244f8c8)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [83209e3...6f58fe2](https://github.com/sametcn99/computer-science-resources/compare/83209e3867da5a015e69fccf022cf88e096057ac...6f58fe21c309cdbd74c5dca3558fd5a55c347fcf)** _(Jun 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [be566ab...83209e3](https://github.com/sametcn99/computer-science-resources/compare/be566ab22b3e9c7722b1d2036129cc87ef73d0f1...83209e3867da5a015e69fccf022cf88e096057ac)** _(Jun 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [e7988eb...1186de9](https://github.com/sametcn99/gh-block-spam-accounts/compare/e7988eb785ced4683236123395ef7856e81717ac...1186de9d8de80f6640cc3ad5cc7701fcf0e49e41)** _(Jun 15, 2026)_
 
 <details>
-  <summary>Show 63 more pushes...</summary>
+  <summary>Show 65 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [be566ab...83209e3](https://github.com/sametcn99/computer-science-resources/compare/be566ab22b3e9c7722b1d2036129cc87ef73d0f1...83209e3867da5a015e69fccf022cf88e096057ac)** _(Jun 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [e7988eb...1186de9](https://github.com/sametcn99/gh-block-spam-accounts/compare/e7988eb785ced4683236123395ef7856e81717ac...1186de9d8de80f6640cc3ad5cc7701fcf0e49e41)** _(Jun 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [162d663...e7988eb](https://github.com/sametcn99/gh-block-spam-accounts/compare/162d663dfcc5107351f8fa6d4619493b401d982d...e7988eb785ced4683236123395ef7856e81717ac)** _(Jun 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [05dedb1...162d663](https://github.com/sametcn99/gh-block-spam-accounts/compare/05dedb1b2d3d180a200dd99798229f8450fed65b...162d663dfcc5107351f8fa6d4619493b401d982d)** _(Jun 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [ef78059...6dd39c9](https://github.com/sametcn99/orhan-elektronik/compare/ef78059bdd563d2faac557e861fb881604b1eb89...6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b)** _(Jun 14, 2026)_
@@ -182,15 +184,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [instaloader/instaloader](https://github.com/instaloader/instaloader)** _(Jun 18, 2026)_
 - **Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** _(Jun 16, 2026)_
 - **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
 - **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
 - **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
-- **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 
 <details>
-  <summary>Show 31 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
+- **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 - **Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** _(Jun 12, 2026)_
 - **Starred [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground)** _(Jun 10, 2026)_
 - **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
@@ -285,12 +288,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
+  Python<br />_Created: Jan 4, 2026 • Updated: Jun 18, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
+- [**catchapage**](https://github.com/sametcn99/catchapage) -
+  TypeScript<br />_Created: Nov 3, 2025 • Updated: Jun 18, 2026_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Jun 18, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 18, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 18, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -342,6 +345,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
+  Python<br />_Created: Jan 4, 2026 • Updated: Jun 18, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
+- [**catchapage**](https://github.com/sametcn99/catchapage) -
+  TypeScript<br />_Created: Nov 3, 2025 • Updated: Jun 18, 2026_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Jun 18, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**apps**](https://github.com/sametcn99/apps) -
@@ -368,8 +375,6 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />No description provided.
 - [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) -
   HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
-- [**catchapage**](https://github.com/sametcn99/catchapage) -
-  TypeScript<br />_Created: Nov 3, 2025 • Updated: Nov 4, 2025_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) -
   TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
 - [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) -
@@ -398,8 +403,6 @@ Recent releases across my repositories:
   TypeScript<br />_Created: Sep 6, 2025 • Updated: Sep 6, 2025_<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
 - [**xls-to-gantt**](https://github.com/sametcn99/xls-to-gantt) -
   TypeScript - [Homepage](https://xls-to-gantt.vercel.app)<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
-- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
-  Python<br />_Created: Jan 4, 2026 • Updated: Jan 6, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 - [**vitepress-mermaid-renderer-web**](https://github.com/sametcn99/vitepress-mermaid-renderer-web) -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
 - [**personal-website**](https://github.com/sametcn99/personal-website) -
