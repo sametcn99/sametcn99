@@ -290,12 +290,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 19, 2026_<br />No description provided.
 - [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
   Python<br />_Created: Jan 4, 2026 • Updated: Jun 18, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 - [**catchapage**](https://github.com/sametcn99/catchapage) -
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Jun 18, 2026_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Jun 18, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 
 ### Active Repositories
 
@@ -347,14 +347,14 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 19, 2026_<br />No description provided.
 - [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
   Python<br />_Created: Jan 4, 2026 • Updated: Jun 18, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 - [**catchapage**](https://github.com/sametcn99/catchapage) -
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Jun 18, 2026_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Jun 18, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 18, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 16, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
