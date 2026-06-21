@@ -80,8 +80,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 164                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Total Stars Earned:**    | 165                                     |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 8                                       |
@@ -331,6 +331,8 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+- [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★1 -
+  JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★1 -
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★1 -
@@ -367,8 +369,6 @@ Recent releases across my repositories:
   TypeScript<br />_Created: Apr 21, 2026 • Updated: May 15, 2026_<br />self-hosted job search operating system
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: May 1, 2026_<br />Hiretea is a self-hosted platform for running technical assessments end to end
-- [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) -
-  JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: May 7, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
   HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
 - [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
@@ -447,15 +447,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thanks to everyone who has starred my repositories. Here are the most recent supporters:
 
+- **[@Kensingtonn](https://github.com/Kensingtonn)** starred **[libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(Jun 20, 2026)_
 - **[@Java-Idl](https://github.com/Java-Idl)** starred **[mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jun 11, 2026)_
 - **[@Jimco](https://github.com/Jimco)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 11, 2026)_
 - **[@luisfuturist](https://github.com/luisfuturist)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 6, 2026)_
 - **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
-- **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
 
 <details>
   <summary>Show 15 more stargazers...</summary>
 
+- **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
 - **[@chartchaser](https://github.com/chartchaser)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(May 6, 2026)_
 - **[@ferynnd](https://github.com/ferynnd)** starred **[nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase)** _(May 6, 2026)_
 - **[@Herzfinsternis](https://github.com/Herzfinsternis)** starred **[electron-widgets](https://github.com/sametcn99/electron-widgets)** _(May 4, 2026)_
@@ -470,7 +471,6 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@lt-flan](https://github.com/lt-flan)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 9, 2026)_
 - **[@liushoukun](https://github.com/liushoukun)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 7, 2026)_
 - **[@yangzupan](https://github.com/yangzupan)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 7, 2026)_
-- **[@Maiturin](https://github.com/Maiturin)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 6, 2026)_
 </details>
 
 ## Automated Workflows
