@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 165                                     |
-| **Commits (7d):**          | 8                                       |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 8                                       |
@@ -96,15 +96,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1186de9...571aca7](https://github.com/sametcn99/gh-block-spam-accounts/compare/1186de9d8de80f6640cc3ad5cc7701fcf0e49e41...571aca7c8322c38ae3eaba1914c059f5ddff1818)** _(Jun 23, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5c142e3...4cb82ae](https://github.com/sametcn99/my-stars-atlas/compare/5c142e3efca989b5266b175b0dd54b9dd4b9a151...4cb82ae6a787d04ee37fd4619c269ea5747f4c54)** _(Jun 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [59d2627...6d07edf](https://github.com/sametcn99/instaloader-api/compare/59d26274f263baef6b92cba7ec5cdb66176a1f89...6d07edf73690350aa704b0e8d40a53c5ce809715)** _(Jun 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [1460d79...59d2627](https://github.com/sametcn99/instaloader-api/compare/1460d799f4a7c51db9959a58b93e46c1e653e04c...59d26274f263baef6b92cba7ec5cdb66176a1f89)** _(Jun 18, 2026)_
+
+<details>
+  <summary>Show 70 more pushes...</summary>
+
 - **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [4e4ad6d...1460d79](https://github.com/sametcn99/instaloader-api/compare/4e4ad6d92b3a856e9a5d47ae8e09a7727d1f46c5...1460d799f4a7c51db9959a58b93e46c1e653e04c)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/catchapage](https://github.com/sametcn99/catchapage): [27792c1...fbc60d9](https://github.com/sametcn99/catchapage/compare/27792c1f12d8ae5c011bfc153329abb64f230b93...fbc60d99100fb7ed7ec2c965af48a00f883e77ed)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [87d696c...dc0eb74](https://github.com/sametcn99/computer-science-resources/compare/87d696cf7168abd017fd89e53a7e5b88b244f8c8...dc0eb74b646dfdb461d4c6515630a940a8357eb5)** _(Jun 18, 2026)_
-
-<details>
-  <summary>Show 67 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [6f58fe2...87d696c](https://github.com/sametcn99/computer-science-resources/compare/6f58fe21c309cdbd74c5dca3558fd5a55c347fcf...87d696cf7168abd017fd89e53a7e5b88b244f8c8)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [83209e3...6f58fe2](https://github.com/sametcn99/computer-science-resources/compare/83209e3867da5a015e69fccf022cf88e096057ac...6f58fe21c309cdbd74c5dca3558fd5a55c347fcf)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [be566ab...83209e3](https://github.com/sametcn99/computer-science-resources/compare/be566ab22b3e9c7722b1d2036129cc87ef73d0f1...83209e3867da5a015e69fccf022cf88e096057ac)** _(Jun 18, 2026)_
@@ -293,12 +296,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 23, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 23, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 23, 2026_<br />No description provided.
-- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
-  Python<br />_Created: Jan 4, 2026 • Updated: Jun 18, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 
 ### Active Repositories
 
@@ -352,6 +355,8 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 23, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 23, 2026_<br />No description provided.
 - [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
@@ -360,8 +365,6 @@ Recent releases across my repositories:
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Jun 18, 2026_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Jun 18, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 16, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
