@@ -189,15 +189,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [ventoy/PXE](https://github.com/ventoy/PXE)** _(Jun 23, 2026)_
 - **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
 - **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
 - **Starred [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)** _(Jun 22, 2026)_
 - **Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)** _(Jun 22, 2026)_
-- **Starred [instaloader/instaloader](https://github.com/instaloader/instaloader)** _(Jun 18, 2026)_
 
 <details>
   <summary>Show 35 more starred repositories...</summary>
 
+- **Starred [instaloader/instaloader](https://github.com/instaloader/instaloader)** _(Jun 18, 2026)_
 - **Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** _(Jun 16, 2026)_
 - **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
 - **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
@@ -232,7 +233,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
 - **Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)** _(May 29, 2026)_
 - **Starred [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr)** _(May 27, 2026)_
-- **Starred [mertskaplan/tweet2rss](https://github.com/mertskaplan/tweet2rss)** _(May 24, 2026)_
 
 </details>
 
