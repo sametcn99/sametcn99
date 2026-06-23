@@ -186,15 +186,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
+- **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
+- **Starred [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)** _(Jun 22, 2026)_
 - **Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)** _(Jun 22, 2026)_
 - **Starred [instaloader/instaloader](https://github.com/instaloader/instaloader)** _(Jun 18, 2026)_
+
+<details>
+  <summary>Show 35 more starred repositories...</summary>
+
 - **Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** _(Jun 16, 2026)_
 - **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
 - **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
-
-<details>
-  <summary>Show 32 more starred repositories...</summary>
-
 - **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
 - **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 - **Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** _(Jun 12, 2026)_
