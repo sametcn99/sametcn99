@@ -80,7 +80,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 165                                     |
+| **Total Stars Earned:**    | 166                                     |
 | **Commits (7d):**          | 3                                       |
 | **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 59                                      |
@@ -304,7 +304,7 @@ Recent releases across my repositories:
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★58 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★59 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jun 13, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★18 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
@@ -452,15 +452,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thanks to everyone who has starred my repositories. Here are the most recent supporters:
 
+- **[@howlwindy](https://github.com/howlwindy)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 25, 2026)_
 - **[@Kensingtonn](https://github.com/Kensingtonn)** starred **[libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(Jun 20, 2026)_
 - **[@Java-Idl](https://github.com/Java-Idl)** starred **[mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jun 11, 2026)_
 - **[@Jimco](https://github.com/Jimco)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 11, 2026)_
 - **[@luisfuturist](https://github.com/luisfuturist)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 6, 2026)_
-- **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
 
 <details>
   <summary>Show 15 more stargazers...</summary>
 
+- **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
 - **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
 - **[@chartchaser](https://github.com/chartchaser)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(May 6, 2026)_
 - **[@ferynnd](https://github.com/ferynnd)** starred **[nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase)** _(May 6, 2026)_
@@ -475,7 +476,6 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@qiuhq-9527](https://github.com/qiuhq-9527)** starred **[mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Apr 9, 2026)_
 - **[@lt-flan](https://github.com/lt-flan)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 9, 2026)_
 - **[@liushoukun](https://github.com/liushoukun)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 7, 2026)_
-- **[@yangzupan](https://github.com/yangzupan)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 7, 2026)_
 </details>
 
 ## Automated Workflows
