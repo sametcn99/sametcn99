@@ -194,7 +194,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)** _(Jun 22, 2026)_
 
 <details>
-  <summary>Show 36 more starred repositories...</summary>
+  <summary>Show 35 more starred repositories...</summary>
 
 - **Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)** _(Jun 22, 2026)_
 - **Starred [instaloader/instaloader](https://github.com/instaloader/instaloader)** _(Jun 18, 2026)_
@@ -231,7 +231,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
 - **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
 - **Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)** _(May 29, 2026)_
-- **Starred [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr)** _(May 27, 2026)_
 
 </details>
 
