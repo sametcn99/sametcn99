@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 166                                     |
-| **Commits (7d):**          | 3                                       |
+| **Commits (7d):**          | 4                                       |
 | **Total Repositories:**    | 67                                      |
 | **Active Repositories:**   | 59                                      |
 | **Forked Repositories:**   | 8                                       |
@@ -96,15 +96,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1186de9...571aca7](https://github.com/sametcn99/gh-block-spam-accounts/compare/1186de9d8de80f6640cc3ad5cc7701fcf0e49e41...571aca7c8322c38ae3eaba1914c059f5ddff1818)** _(Jun 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5c142e3...4cb82ae](https://github.com/sametcn99/my-stars-atlas/compare/5c142e3efca989b5266b175b0dd54b9dd4b9a151...4cb82ae6a787d04ee37fd4619c269ea5747f4c54)** _(Jun 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [59d2627...6d07edf](https://github.com/sametcn99/instaloader-api/compare/59d26274f263baef6b92cba7ec5cdb66176a1f89...6d07edf73690350aa704b0e8d40a53c5ce809715)** _(Jun 18, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [1460d79...59d2627](https://github.com/sametcn99/instaloader-api/compare/1460d799f4a7c51db9959a58b93e46c1e653e04c...59d26274f263baef6b92cba7ec5cdb66176a1f89)** _(Jun 18, 2026)_
 
 <details>
-  <summary>Show 68 more pushes...</summary>
+  <summary>Show 69 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [1460d79...59d2627](https://github.com/sametcn99/instaloader-api/compare/1460d799f4a7c51db9959a58b93e46c1e653e04c...59d26274f263baef6b92cba7ec5cdb66176a1f89)** _(Jun 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [4e4ad6d...1460d79](https://github.com/sametcn99/instaloader-api/compare/4e4ad6d92b3a856e9a5d47ae8e09a7727d1f46c5...1460d799f4a7c51db9959a58b93e46c1e653e04c)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/catchapage](https://github.com/sametcn99/catchapage): [27792c1...fbc60d9](https://github.com/sametcn99/catchapage/compare/27792c1f12d8ae5c011bfc153329abb64f230b93...fbc60d99100fb7ed7ec2c965af48a00f883e77ed)** _(Jun 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [87d696c...dc0eb74](https://github.com/sametcn99/computer-science-resources/compare/87d696cf7168abd017fd89e53a7e5b88b244f8c8...dc0eb74b646dfdb461d4c6515630a940a8357eb5)** _(Jun 18, 2026)_
@@ -295,12 +296,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 27, 2026_<br />the missing html based widget manager created with .net
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 27, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 23, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 23, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -325,7 +326,7 @@ Recent releases across my repositories:
 - [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 13, 2026_<br />the missing html based widget manager created with .net
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 27, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
