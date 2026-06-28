@@ -196,7 +196,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
 
 <details>
-  <summary>Show 37 more starred repositories...</summary>
+  <summary>Show 36 more starred repositories...</summary>
 
 - **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
 - **Starred [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)** _(Jun 22, 2026)_
@@ -234,7 +234,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
 - **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
 - **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
-- **Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)** _(May 29, 2026)_
 
 </details>
 
