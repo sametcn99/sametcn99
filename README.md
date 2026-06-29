@@ -27,16 +27,16 @@
 
 ## Tech Stack
 
-| Area            | Technologies                                                                                                                                                                                                                                                                |
-| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor)                                                                                                                               |
-| **Backend**     | [.NET](https://dotnet.microsoft.com), [NestJS](https://nestjs.com), [Node.js](https://nodejs.org), [Bun](https://bun.sh)                                                                                                                                                    |
-| **Data**        | [PostgreSQL](https://www.postgresql.org), [MS SQL](https://www.microsoft.com/sql-server), [SQLite](https://www.sqlite.org), [InfluxDB](https://www.influxdata.com)                                                                                                          |
-| **DevOps**      | [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com), [Coolify](https://coolify.io)                                                                                                                                                      |
-| **Desktop**     | [Electron](https://www.electronjs.org), [.NET MAUI](https://learn.microsoft.com/dotnet/maui), [.NET Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)                                                                                                     |
-| **Languages**   | [C#](https://learn.microsoft.com/dotnet/csharp), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), [Python](https://www.python.org)                                                                            |
-| **Environment** | [Fedora KDE](https://fedoraproject.org/spins/kde)                                                                                                                                                                                                                           |
-| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai), [Oh My OpenAgent](https://ohmyopenagent.com), [OpenChamber](https://openchamber.dev) |
+| Area            | Technologies                                                                      |
+| :-------------- | :-------------------------------------------------------------------------------- |
+| **Frontend**    | React, Next.js, Vue, Blazor                                                       |
+| **Backend**     | .NET, NestJS, Node.js, Bun                                                        |
+| **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB                                              |
+| **DevOps**      | GitHub Actions, Docker, Coolify                                                   |
+| **Desktop**     | Electron, .NET MAUI, .NET Windows Forms                                           |
+| **Languages**   | C#, TypeScript, JavaScript, Python                                                |
+| **Environment** | Fedora KDE, Ubuntu GNOME, Windows                                                 |
+| **AI Tools**    | Opencode, GitHub Copilot, v0, OpenWebUI, OpenRouter, Oh My OpenAgent, OpenChamber |
 
 ## Latest Writing
 
@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 166                                     |
-| **Commits (7d):**          | 7                                       |
+| **Commits (7d):**          | 9                                       |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 60                                      |
 | **Forked Repositories:**   | 8                                       |
@@ -96,15 +96,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [98202f5...891394c](https://github.com/sametcn99/libredirect-instances-list/compare/98202f596b1a56ad08d49a05ceea41cf012b62f6...891394c70f596dbcce10ebbd69b7db648b9d0e5a)** _(Jun 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [f76d50f...98202f5](https://github.com/sametcn99/libredirect-instances-list/compare/f76d50f548efc0ba7208447202f5aeb56df30ea1...98202f596b1a56ad08d49a05ceea41cf012b62f6)** _(Jun 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 
 <details>
-  <summary>Show 73 more pushes...</summary>
+  <summary>Show 74 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1186de9...571aca7](https://github.com/sametcn99/gh-block-spam-accounts/compare/1186de9d8de80f6640cc3ad5cc7701fcf0e49e41...571aca7c8322c38ae3eaba1914c059f5ddff1818)** _(Jun 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5c142e3...4cb82ae](https://github.com/sametcn99/my-stars-atlas/compare/5c142e3efca989b5266b175b0dd54b9dd4b9a151...4cb82ae6a787d04ee37fd4619c269ea5747f4c54)** _(Jun 23, 2026)_
