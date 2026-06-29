@@ -299,10 +299,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 29, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★1 -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Jun 28, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 28, 2026_<br />No description provided.
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 27, 2026_<br />the missing html based widget manager created with .net
 
@@ -359,7 +359,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 28, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 29, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 23, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
