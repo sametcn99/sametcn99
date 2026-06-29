@@ -27,16 +27,16 @@
 
 ## Tech Stack
 
-| Area            | Technologies                                                                                                                                                                                                                        |
-| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor)                                                                                       |
-| **Backend**     | [.NET](https://dotnet.microsoft.com), [NestJS](https://nestjs.com), [Node.js](https://nodejs.org), [Bun](https://bun.sh)                                                                                                            |
-| **Data**        | [PostgreSQL](https://www.postgresql.org), [MS SQL](https://www.microsoft.com/sql-server), [SQLite](https://www.sqlite.org), [InfluxDB](https://www.influxdata.com)                                                                  |
-| **DevOps**      | [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com), [Coolify](https://coolify.io)                                                                                                              |
-| **Desktop**     | [Electron](https://www.electronjs.org), [.NET MAUI](https://learn.microsoft.com/dotnet/maui), [.NET Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)                                                             |
-| **Languages**   | [C#](https://learn.microsoft.com/dotnet/csharp), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), [Python](https://www.python.org)                                    |
-| **Environment** | [Fedora KDE](https://fedoraproject.org/spins/kde)                                                                                                                                                                                   |
-| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai), [Oh My OpenAgent](https://ohmyopenagent.com) |
+| Area            | Technologies                                                                                                                                                                                                                                                                |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**    | [React](https://react.dev), [Next.js](https://nextjs.org), [Vue](https://vuejs.org), [Blazor](https://learn.microsoft.com/aspnet/core/blazor)                                                                                                                               |
+| **Backend**     | [.NET](https://dotnet.microsoft.com), [NestJS](https://nestjs.com), [Node.js](https://nodejs.org), [Bun](https://bun.sh)                                                                                                                                                    |
+| **Data**        | [PostgreSQL](https://www.postgresql.org), [MS SQL](https://www.microsoft.com/sql-server), [SQLite](https://www.sqlite.org), [InfluxDB](https://www.influxdata.com)                                                                                                          |
+| **DevOps**      | [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com), [Coolify](https://coolify.io)                                                                                                                                                      |
+| **Desktop**     | [Electron](https://www.electronjs.org), [.NET MAUI](https://learn.microsoft.com/dotnet/maui), [.NET Windows Forms](https://learn.microsoft.com/dotnet/desktop/winforms)                                                                                                     |
+| **Languages**   | [C#](https://learn.microsoft.com/dotnet/csharp), [TypeScript](https://www.typescriptlang.org), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), [Python](https://www.python.org)                                                                            |
+| **Environment** | [Fedora KDE](https://fedoraproject.org/spins/kde)                                                                                                                                                                                                                           |
+| **AI Tools**    | [Opencode](https://opencode.ai), [GitHub Copilot](https://github.com/features/copilot), [v0](https://v0.dev), [OpenWebUI](https://openwebui.com), [OpenRouter](https://openrouter.ai), [Oh My OpenAgent](https://ohmyopenagent.com), [OpenChamber](https://openchamber.dev) |
 
 ## Latest Writing
 
@@ -82,8 +82,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 166                                     |
 | **Commits (7d):**          | 7                                       |
-| **Total Repositories:**    | 67                                      |
-| **Active Repositories:**   | 59                                      |
+| **Total Repositories:**    | 68                                      |
+| **Active Repositories:**   | 60                                      |
 | **Forked Repositories:**   | 8                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -96,15 +96,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [98202f5...891394c](https://github.com/sametcn99/libredirect-instances-list/compare/98202f596b1a56ad08d49a05ceea41cf012b62f6...891394c70f596dbcce10ebbd69b7db648b9d0e5a)** _(Jun 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [f76d50f...98202f5](https://github.com/sametcn99/libredirect-instances-list/compare/f76d50f548efc0ba7208447202f5aeb56df30ea1...98202f596b1a56ad08d49a05ceea41cf012b62f6)** _(Jun 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
 
 <details>
-  <summary>Show 72 more pushes...</summary>
+  <summary>Show 73 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1186de9...571aca7](https://github.com/sametcn99/gh-block-spam-accounts/compare/1186de9d8de80f6640cc3ad5cc7701fcf0e49e41...571aca7c8322c38ae3eaba1914c059f5ddff1818)** _(Jun 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5c142e3...4cb82ae](https://github.com/sametcn99/my-stars-atlas/compare/5c142e3efca989b5266b175b0dd54b9dd4b9a151...4cb82ae6a787d04ee37fd4619c269ea5747f4c54)** _(Jun 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/instaloader-api](https://github.com/sametcn99/instaloader-api): [59d2627...6d07edf](https://github.com/sametcn99/instaloader-api/compare/59d26274f263baef6b92cba7ec5cdb66176a1f89...6d07edf73690350aa704b0e8d40a53c5ce809715)** _(Jun 18, 2026)_
@@ -241,6 +242,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Public in [sametcn99/interview](https://github.com/sametcn99/interview)** _(May 24, 2026)_
 - **Deleted branch &#x60;vercel/install-vercel-web-analytics-ql9ffq&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 16, 2026)_
 - **Deleted branch &#x60;vercel/install-vercel-speed-insights-3zqqn7&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
 
@@ -320,7 +322,7 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 53 more repositories...</summary>
+  <summary>Show 54 more repositories...</summary>
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★9 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -358,6 +360,8 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**interview**](https://github.com/sametcn99/interview) -
+  C#<br />_Created: May 24, 2026 • Updated: May 24, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 29, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
