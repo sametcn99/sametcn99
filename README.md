@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
 
 <details>
-  <summary>Show 74 more pushes...</summary>
+  <summary>Show 68 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
@@ -173,12 +173,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a5ee4df...fe88986](https://github.com/sametcn99/maalesef-tr/compare/a5ee4df36d84fe8f519f0e54236a5c278a7fdb70...fe88986a55e09d31626b2ce092e317c9e65347e6)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [103cad2...a4eb0a4](https://github.com/sametcn99/personal-website-blazor/compare/103cad20ce47fcdfcf7e244bddb3954404b43145...a4eb0a427228a636546b6c4db0caceabcb112321)** _(Jun 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [1ebf5e4...f681290](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/1ebf5e49857f76f1279e64657ec7f13ba12594d9...f681290102d540681681fcdf78a0e428d46dc7a7)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [43b467f...1ebf5e4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/43b467fc1e0f8e6c1fbedcacd52f924bc2fc342c...1ebf5e49857f76f1279e64657ec7f13ba12594d9)** _(May 30, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [ae57513...43b467f](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/ae575132a4f3c12f9690cc398714e0d254fc9e09...43b467fc1e0f8e6c1fbedcacd52f924bc2fc342c)** _(May 30, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [06a13ac...ae57513](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/06a13acb3d9fdf89bd6c09602b99a94979514c89...ae575132a4f3c12f9690cc398714e0d254fc9e09)** _(May 30, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [64da871...06a13ac](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/64da8714c52773b95b111ff541ee64fa376ec629...06a13acb3d9fdf89bd6c09602b99a94979514c89)** _(May 30, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [3727a68...64da871](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/3727a681ab0359b19e6c393f0c9d3797577d79e7...64da8714c52773b95b111ff541ee64fa376ec629)** _(May 30, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [09b5e04...3727a68](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/09b5e04de448440ba428a48397aeaf267f4d94dd...3727a681ab0359b19e6c393f0c9d3797577d79e7)** _(May 30, 2026)_
 
 </details>
 
@@ -200,7 +194,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
 
 <details>
-  <summary>Show 36 more starred repositories...</summary>
+  <summary>Show 35 more starred repositories...</summary>
 
 - **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
 - **Starred [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)** _(Jun 22, 2026)_
@@ -237,7 +231,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [signerless/llm-checker](https://github.com/signerless/llm-checker)** _(Jun 1, 2026)_
 - **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
 - **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
-- **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
 
 </details>
 
@@ -302,10 +295,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 30, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 29, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★1 -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Jun 28, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 
@@ -361,10 +354,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 30, 2026_<br />No description provided.
 - [**interview**](https://github.com/sametcn99/interview) -
   C#<br />_Created: May 24, 2026 • Updated: May 24, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 29, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Jun 23, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
