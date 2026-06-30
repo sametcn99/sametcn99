@@ -81,7 +81,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 166                                     |
-| **Commits (7d):**          | 9                                       |
+| **Commits (7d):**          | 6                                       |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 60                                      |
 | **Forked Repositories:**   | 8                                       |
@@ -234,7 +234,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
 - **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
 - **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
-- **Starred [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker)** _(Jun 1, 2026)_
+- **Starred [signerless/llm-checker](https://github.com/signerless/llm-checker)** _(Jun 1, 2026)_
 - **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
 - **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
 - **Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** _(May 30, 2026)_
