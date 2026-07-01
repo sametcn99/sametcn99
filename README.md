@@ -80,7 +80,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 166                                     |
+| **Total Stars Earned:**    | 167                                     |
 | **Commits (7d):**          | 6                                       |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 60                                      |
@@ -327,12 +327,12 @@ Recent releases across my repositories:
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 27, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
+- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★3 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★2 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.deno.dev)<br />_Created: May 16, 2024 • Updated: Mar 14, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★1 -
@@ -453,15 +453,16 @@ Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your L
 
 Thanks to everyone who has starred my repositories. Here are the most recent supporters:
 
+- **[@realAzazello](https://github.com/realAzazello)** starred **[linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Jul 1, 2026)_
 - **[@howlwindy](https://github.com/howlwindy)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 25, 2026)_
 - **[@Kensingtonn](https://github.com/Kensingtonn)** starred **[libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(Jun 20, 2026)_
 - **[@Java-Idl](https://github.com/Java-Idl)** starred **[mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jun 11, 2026)_
 - **[@Jimco](https://github.com/Jimco)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 11, 2026)_
-- **[@luisfuturist](https://github.com/luisfuturist)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 6, 2026)_
 
 <details>
   <summary>Show 15 more stargazers...</summary>
 
+- **[@luisfuturist](https://github.com/luisfuturist)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 6, 2026)_
 - **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
 - **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
 - **[@chartchaser](https://github.com/chartchaser)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(May 6, 2026)_
@@ -476,7 +477,6 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 - **[@elartix](https://github.com/elartix)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 10, 2026)_
 - **[@qiuhq-9527](https://github.com/qiuhq-9527)** starred **[mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Apr 9, 2026)_
 - **[@lt-flan](https://github.com/lt-flan)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 9, 2026)_
-- **[@liushoukun](https://github.com/liushoukun)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 7, 2026)_
 </details>
 
 ## Automated Workflows
