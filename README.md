@@ -194,7 +194,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ventoy/PXE](https://github.com/ventoy/PXE)** _(Jun 23, 2026)_
 
 <details>
-  <summary>Show 36 more starred repositories...</summary>
+  <summary>Show 34 more starred repositories...</summary>
 
 - **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
 - **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
@@ -230,8 +230,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
 - **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
 - **Starred [signerless/llm-checker](https://github.com/signerless/llm-checker)** _(Jun 1, 2026)_
-- **Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** _(May 31, 2026)_
-- **Starred [sisyphos-ui/sisyphos-ui](https://github.com/sisyphos-ui/sisyphos-ui)** _(May 31, 2026)_
 
 </details>
 
@@ -297,7 +295,7 @@ Recent releases across my repositories:
 ### Recently Updated
 
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 30, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 1, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★1 -
@@ -356,7 +354,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jun 30, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 1, 2026_<br />No description provided.
 - [**interview**](https://github.com/sametcn99/interview) -
   C#<br />_Created: May 24, 2026 • Updated: May 24, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
