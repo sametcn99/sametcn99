@@ -194,7 +194,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ventoy/PXE](https://github.com/ventoy/PXE)** _(Jun 23, 2026)_
 
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 28 more starred repositories...</summary>
 
 - **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
 - **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
@@ -224,11 +224,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)** _(Jun 6, 2026)_
 - **Starred [render-oss/skills](https://github.com/render-oss/skills)** _(Jun 2, 2026)_
 - **Starred [dmno-dev/varlock](https://github.com/dmno-dev/varlock)** _(Jun 2, 2026)_
-- **Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)** _(Jun 1, 2026)_
-- **Starred [huggingface/datasets](https://github.com/huggingface/datasets)** _(Jun 1, 2026)_
-- **Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)** _(Jun 1, 2026)_
-- **Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)** _(Jun 1, 2026)_
-- **Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)** _(Jun 1, 2026)_
 
 </details>
 
