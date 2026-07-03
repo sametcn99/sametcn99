@@ -21,7 +21,6 @@
   - [Recently Updated](#recently-updated)
   - [Active Repositories](#active-repositories)
   - [Forked Repositories](#forked-repositories)
-- [Recent Stargazers](#recent-stargazers)
 
 - [Automated Workflows](#automated-workflows)
 
@@ -430,36 +429,6 @@ C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description pro
   TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
 - [**Letterboxd-to-IMDb**](https://github.com/sametcn99/Letterboxd-to-IMDb) -
 Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
-</details>
-
-## Recent Stargazers
-
-Thanks to everyone who has starred my repositories. Here are the most recent supporters:
-
-- **[@keatonp-inahoodie](https://github.com/keatonp-inahoodie)** starred **[libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(Jul 2, 2026)_
-- **[@realAzazello](https://github.com/realAzazello)** starred **[linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Jul 1, 2026)_
-- **[@howlwindy](https://github.com/howlwindy)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 25, 2026)_
-- **[@Kensingtonn](https://github.com/Kensingtonn)** starred **[libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(Jun 20, 2026)_
-- **[@Java-Idl](https://github.com/Java-Idl)** starred **[mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Jun 11, 2026)_
-
-<details>
-  <summary>Show 15 more stargazers...</summary>
-
-- **[@Jimco](https://github.com/Jimco)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 11, 2026)_
-- **[@luisfuturist](https://github.com/luisfuturist)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 6, 2026)_
-- **[@new1333](https://github.com/new1333)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 9, 2026)_
-- **[@lucxteng27](https://github.com/lucxteng27)** starred **[HTWind](https://github.com/sametcn99/HTWind)** _(May 8, 2026)_
-- **[@chartchaser](https://github.com/chartchaser)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(May 6, 2026)_
-- **[@ferynnd](https://github.com/ferynnd)** starred **[nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase)** _(May 6, 2026)_
-- **[@Herzfinsternis](https://github.com/Herzfinsternis)** starred **[electron-widgets](https://github.com/sametcn99/electron-widgets)** _(May 4, 2026)_
-- **[@SamuelJBeer](https://github.com/SamuelJBeer)** starred **[my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(May 2, 2026)_
-- **[@hyossing](https://github.com/hyossing)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 27, 2026)_
-- **[@toxy4ny](https://github.com/toxy4ny)** starred **[OpenLayersDotnetTest](https://github.com/sametcn99/OpenLayersDotnetTest)** _(Apr 27, 2026)_
-- **[@toxy4ny](https://github.com/toxy4ny)** starred **[OpenLayersPostgisDotnetReactDemo](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo)** _(Apr 27, 2026)_
-- **[@ajiho](https://github.com/ajiho)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
-- **[@donovinsims](https://github.com/donovinsims)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 22, 2026)_
-- **[@elartix](https://github.com/elartix)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Apr 10, 2026)_
-- **[@qiuhq-9527](https://github.com/qiuhq-9527)** starred **[mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Apr 9, 2026)_
 </details>
 
 ## Automated Workflows
