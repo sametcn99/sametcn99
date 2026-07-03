@@ -103,7 +103,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
 
 <details>
-  <summary>Show 68 more pushes...</summary>
+  <summary>Show 59 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
@@ -164,15 +164,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [6e2ae8e...40fdb2c](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/6e2ae8e3257f8368e125c9f7510b45d19dd448de...40fdb2c37f20387ba0c9fcc7c65ddf065919d60e)** _(Jun 5, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [7fd5d62...6e2ae8e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/7fd5d6268deb0a13a7220b18eae8a5cf1dbe1f3f...6e2ae8e3257f8368e125c9f7510b45d19dd448de)** _(Jun 5, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a93825c...7fd5d62](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a93825c13b015d466ef01955cbbe389c79bc3948...7fd5d6268deb0a13a7220b18eae8a5cf1dbe1f3f)** _(Jun 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f01fdfc...67361eb](https://github.com/sametcn99/personal-website-blazor/compare/f01fdfcf9af63b96fe2d35520e0e160201549293...67361ebb53f2428de91a167e41587608ba91d385)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [0b5fdea...a749789](https://github.com/sametcn99/maalesef-tr/compare/0b5fdeab45a8a62958a2ad737960142ff6c53d17...a7497893c1e79f2d7dc2f3eace38c824356cf63a)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [9dc0552...0b5fdea](https://github.com/sametcn99/maalesef-tr/compare/9dc05521a119a5fd25acd72c3ff9193bc86ad499...0b5fdeab45a8a62958a2ad737960142ff6c53d17)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [fe88986...9dc0552](https://github.com/sametcn99/maalesef-tr/compare/fe88986a55e09d31626b2ce092e317c9e65347e6...9dc05521a119a5fd25acd72c3ff9193bc86ad499)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9d11840...f01fdfc](https://github.com/sametcn99/personal-website-blazor/compare/9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7...f01fdfcf9af63b96fe2d35520e0e160201549293)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a4eb0a4...9d11840](https://github.com/sametcn99/personal-website-blazor/compare/a4eb0a427228a636546b6c4db0caceabcb112321...9d1184068a53a4bcbc9f7811e09b6194ec9eb3d7)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a5ee4df...fe88986](https://github.com/sametcn99/maalesef-tr/compare/a5ee4df36d84fe8f519f0e54236a5c278a7fdb70...fe88986a55e09d31626b2ce092e317c9e65347e6)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [103cad2...a4eb0a4](https://github.com/sametcn99/personal-website-blazor/compare/103cad20ce47fcdfcf7e244bddb3954404b43145...a4eb0a427228a636546b6c4db0caceabcb112321)** _(Jun 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [1ebf5e4...f681290](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/1ebf5e49857f76f1279e64657ec7f13ba12594d9...f681290102d540681681fcdf78a0e428d46dc7a7)** _(Jun 2, 2026)_
 
 </details>
 
@@ -194,7 +185,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ventoy/PXE](https://github.com/ventoy/PXE)** _(Jun 23, 2026)_
 
 <details>
-  <summary>Show 28 more starred repositories...</summary>
+  <summary>Show 26 more starred repositories...</summary>
 
 - **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
 - **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
@@ -222,8 +213,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** _(Jun 7, 2026)_
 - **Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)** _(Jun 7, 2026)_
 - **Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)** _(Jun 6, 2026)_
-- **Starred [render-oss/skills](https://github.com/render-oss/skills)** _(Jun 2, 2026)_
-- **Starred [dmno-dev/varlock](https://github.com/dmno-dev/varlock)** _(Jun 2, 2026)_
 
 </details>
 
@@ -289,7 +278,7 @@ Recent releases across my repositories:
 ### Recently Updated
 
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 2, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 3, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jun 29, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
@@ -348,7 +337,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 2, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 3, 2026_<br />No description provided.
 - [**interview**](https://github.com/sametcn99/interview) -
   C#<br />_Created: May 24, 2026 • Updated: May 24, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
