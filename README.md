@@ -80,7 +80,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 168                                     |
-| **Commits (7d):**          | 4                                       |
+| **Commits (7d):**          | 2                                       |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 60                                      |
 | **Forked Repositories:**   | 8                                       |
@@ -177,15 +177,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [nestjs/event-emitter](https://github.com/nestjs/event-emitter)** _(Jul 4, 2026)_
+- **Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)** _(Jul 4, 2026)_
+- **Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** _(Jul 4, 2026)_
 - **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 - **Starred [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml)** _(Jun 27, 2026)_
+
+<details>
+  <summary>Show 29 more starred repositories...</summary>
+
 - **Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)** _(Jun 27, 2026)_
 - **Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)** _(Jun 23, 2026)_
 - **Starred [ventoy/PXE](https://github.com/ventoy/PXE)** _(Jun 23, 2026)_
-
-<details>
-  <summary>Show 26 more starred repositories...</summary>
-
 - **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
 - **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
 - **Starred [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)** _(Jun 22, 2026)_
