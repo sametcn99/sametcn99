@@ -102,7 +102,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
 
 <details>
-  <summary>Show 59 more pushes...</summary>
+  <summary>Show 56 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
@@ -160,9 +160,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [d51dac3...a9be1bb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/d51dac3b88a2ccb15567567fda978a4cbd01d363...a9be1bb5132e84f21ba618ede852fd461a5caf39)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bfa4fbc...d51dac3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bfa4fbcda3a5bd887b9a5b4236dcd0bfc9610e93...d51dac3b88a2ccb15567567fda978a4cbd01d363)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [40fdb2c...bfa4fbc](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/40fdb2c37f20387ba0c9fcc7c65ddf065919d60e...bfa4fbcda3a5bd887b9a5b4236dcd0bfc9610e93)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [6e2ae8e...40fdb2c](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/6e2ae8e3257f8368e125c9f7510b45d19dd448de...40fdb2c37f20387ba0c9fcc7c65ddf065919d60e)** _(Jun 5, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [7fd5d62...6e2ae8e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/7fd5d6268deb0a13a7220b18eae8a5cf1dbe1f3f...6e2ae8e3257f8368e125c9f7510b45d19dd448de)** _(Jun 5, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a93825c...7fd5d62](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a93825c13b015d466ef01955cbbe389c79bc3948...7fd5d6268deb0a13a7220b18eae8a5cf1dbe1f3f)** _(Jun 5, 2026)_
 
 </details>
 
