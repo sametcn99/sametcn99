@@ -102,7 +102,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [f76d50f...98202f5](https://github.com/sametcn99/libredirect-instances-list/compare/f76d50f548efc0ba7208447202f5aeb56df30ea1...98202f596b1a56ad08d49a05ceea41cf012b62f6)** _(Jun 28, 2026)_
 
 <details>
-  <summary>Show 57 more pushes...</summary>
+  <summary>Show 52 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
@@ -156,11 +156,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [70f1dc8...a948451](https://github.com/sametcn99/sametcn99/compare/70f1dc85d8fc2e1db083b3a9a81045f244202263...a948451413735e3b1dd4f3e2feab6713fd69ae19)** _(Jun 8, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1ba0c34...36a214d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e...36a214d8da075524d7c52efb82a42f00a64eb30d)** _(Jun 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [fdbc45d...1ba0c34](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/fdbc45d625073142e65d24d1e8e38e2231268970...1ba0c3463c590b2edc179cfaa1ff3376f0b1d61e)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [50bc6c7...fdbc45d](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/50bc6c79dae9d6e0cc7db34ebad1b59069986cf0...fdbc45d625073142e65d24d1e8e38e2231268970)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a9be1bb...50bc6c7](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a9be1bb5132e84f21ba618ede852fd461a5caf39...50bc6c79dae9d6e0cc7db34ebad1b59069986cf0)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [d51dac3...a9be1bb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/d51dac3b88a2ccb15567567fda978a4cbd01d363...a9be1bb5132e84f21ba618ede852fd461a5caf39)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bfa4fbc...d51dac3](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bfa4fbcda3a5bd887b9a5b4236dcd0bfc9610e93...d51dac3b88a2ccb15567567fda978a4cbd01d363)** _(Jun 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [40fdb2c...bfa4fbc](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/40fdb2c37f20387ba0c9fcc7c65ddf065919d60e...bfa4fbcda3a5bd887b9a5b4236dcd0bfc9610e93)** _(Jun 7, 2026)_
 
 </details>
 
@@ -182,7 +177,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 
 <details>
-  <summary>Show 29 more starred repositories...</summary>
+  <summary>Show 28 more starred repositories...</summary>
 
 - **Starred [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml)** _(Jun 27, 2026)_
 - **Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)** _(Jun 27, 2026)_
@@ -212,7 +207,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [zedeus/nitter-proxy](https://github.com/zedeus/nitter-proxy)** _(Jun 8, 2026)_
 - **Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)** _(Jun 7, 2026)_
 - **Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** _(Jun 7, 2026)_
-- **Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)** _(Jun 7, 2026)_
 
 </details>
 
