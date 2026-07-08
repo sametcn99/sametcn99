@@ -168,15 +168,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [KubraNurGursoyyy/image-storage-together](https://github.com/KubraNurGursoyyy/image-storage-together)** _(Jul 8, 2026)_
 - **Starred [browserbase/stagehand](https://github.com/browserbase/stagehand)** _(Jul 5, 2026)_
 - **Starred [nestjs/event-emitter](https://github.com/nestjs/event-emitter)** _(Jul 4, 2026)_
 - **Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)** _(Jul 4, 2026)_
 - **Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** _(Jul 4, 2026)_
-- **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 
 <details>
-  <summary>Show 26 more starred repositories...</summary>
+  <summary>Show 27 more starred repositories...</summary>
 
+- **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 - **Starred [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml)** _(Jun 27, 2026)_
 - **Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)** _(Jun 27, 2026)_
 - **Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)** _(Jun 23, 2026)_
