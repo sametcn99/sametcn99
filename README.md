@@ -79,7 +79,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 168                                     |
+| **Total Stars Earned:**    | 165                                     |
 | **Commits (7d):**          | 1                                       |
 | **Total Repositories:**    | 68                                      |
 | **Active Repositories:**   | 60                                      |
@@ -292,7 +292,7 @@ Recent releases across my repositories:
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★9 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
+- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★7 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 - [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
@@ -314,10 +314,6 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
 - [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★1 -
   TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
-- [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) ★1 -
-  C#<br />_Created: Apr 25, 2026 • Updated: Apr 26, 2026_<br />No description provided.
-- [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) ★1 -
-  C#<br />_Created: Apr 26, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 - [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) ★1 -
   C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
 - [**code-nest-web**](https://github.com/sametcn99/code-nest-web) ★1 -
@@ -326,6 +322,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) -
+  C#<br />_Created: Apr 26, 2026 • Updated: Apr 26, 2026_<br />No description provided.
+- [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) -
+  C#<br />_Created: Apr 25, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 8, 2026_<br />No description provided.
 - [**interview**](https://github.com/sametcn99/interview) -
