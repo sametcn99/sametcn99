@@ -175,7 +175,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 
 <details>
-  <summary>Show 28 more starred repositories...</summary>
+  <summary>Show 26 more starred repositories...</summary>
 
 - **Starred [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml)** _(Jun 27, 2026)_
 - **Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)** _(Jun 27, 2026)_
@@ -203,8 +203,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)** _(Jun 8, 2026)_
 - **Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)** _(Jun 8, 2026)_
 - **Starred [zedeus/nitter-proxy](https://github.com/zedeus/nitter-proxy)** _(Jun 8, 2026)_
-- **Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)** _(Jun 7, 2026)_
-- **Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** _(Jun 7, 2026)_
 
 </details>
 
