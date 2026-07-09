@@ -175,7 +175,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** _(Jul 4, 2026)_
 
 <details>
-  <summary>Show 27 more starred repositories...</summary>
+  <summary>Show 20 more starred repositories...</summary>
 
 - **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 - **Starred [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml)** _(Jun 27, 2026)_
@@ -197,13 +197,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [tuna4ll/narcOs](https://github.com/tuna4ll/narcOs)** _(Jun 8, 2026)_
 - **Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** _(Jun 8, 2026)_
 - **Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** _(Jun 8, 2026)_
-- **Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)** _(Jun 8, 2026)_
-- **Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** _(Jun 8, 2026)_
-- **Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** _(Jun 8, 2026)_
-- **Starred [godotengine/godot](https://github.com/godotengine/godot)** _(Jun 8, 2026)_
-- **Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)** _(Jun 8, 2026)_
-- **Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)** _(Jun 8, 2026)_
-- **Starred [zedeus/nitter-proxy](https://github.com/zedeus/nitter-proxy)** _(Jun 8, 2026)_
 
 </details>
 
