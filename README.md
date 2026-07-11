@@ -80,7 +80,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 165                                     |
-| **Commits (7d):**          | 2                                       |
+| **Commits (7d):**          | 5                                       |
 | **Total Repositories:**    | 70                                      |
 | **Active Repositories:**   | 61                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -95,15 +95,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [504dd33...966292e](https://github.com/sametcn99/local-folder-file-explorer/compare/504dd330dd304f6878dfbd735e011c9cb98addc5...966292e395e5decc2ff557fc1fe0ade86724e815)** _(Jul 11, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [b347d69...504dd33](https://github.com/sametcn99/local-folder-file-explorer/compare/b347d69b73eab7c34516b072e3f96af43b791eb2...504dd330dd304f6878dfbd735e011c9cb98addc5)** _(Jul 11, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [cb014a7...b347d69](https://github.com/sametcn99/local-folder-file-explorer/compare/cb014a7e8dc26057ed8865684f1ec299043f8858...b347d69b73eab7c34516b072e3f96af43b791eb2)** _(Jul 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
+
+<details>
+  <summary>Show 44 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [98202f5...891394c](https://github.com/sametcn99/libredirect-instances-list/compare/98202f596b1a56ad08d49a05ceea41cf012b62f6...891394c70f596dbcce10ebbd69b7db648b9d0e5a)** _(Jun 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [f76d50f...98202f5](https://github.com/sametcn99/libredirect-instances-list/compare/f76d50f548efc0ba7208447202f5aeb56df30ea1...98202f596b1a56ad08d49a05ceea41cf012b62f6)** _(Jun 28, 2026)_
-
-<details>
-  <summary>Show 41 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [571aca7...70a697e](https://github.com/sametcn99/gh-block-spam-accounts/compare/571aca7c8322c38ae3eaba1914c059f5ddff1818...70a697ee813f7b534392a16b8eae1c7ec165072c)** _(Jun 23, 2026)_
@@ -159,15 +162,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)** _(Jul 11, 2026)_
 - **Starred [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 10, 2026)_
 - **Starred [jsvine/waybackpack](https://github.com/jsvine/waybackpack)** _(Jul 10, 2026)_
 - **Starred [soxoj/maigret](https://github.com/soxoj/maigret)** _(Jul 10, 2026)_
 - **Starred [amnottdevv/AtDork](https://github.com/amnottdevv/AtDork)** _(Jul 10, 2026)_
-- **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
 
 <details>
   <summary>Show 22 more starred repositories...</summary>
 
+- **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
 - **Starred [KubraNurGursoyyy/image-storage-together](https://github.com/KubraNurGursoyyy/image-storage-together)** _(Jul 8, 2026)_
 - **Starred [browserbase/stagehand](https://github.com/browserbase/stagehand)** _(Jul 5, 2026)_
 - **Starred [nestjs/event-emitter](https://github.com/nestjs/event-emitter)** _(Jul 4, 2026)_
@@ -189,7 +193,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
 - **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 - **Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** _(Jun 12, 2026)_
-- **Starred [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground)** _(Jun 10, 2026)_
 
 </details>
 
@@ -256,10 +259,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 11, 2026_<br />No description provided.
 - [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
   HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 10, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
@@ -311,10 +314,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 11, 2026_<br />No description provided.
 - [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
   HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 10, 2026_<br />No description provided.
 - [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) -
   C#<br />_Created: Apr 26, 2026 • Updated: Apr 26, 2026_<br />No description provided.
 - [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) -
