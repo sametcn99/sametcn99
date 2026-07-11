@@ -80,10 +80,10 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 165                                     |
-| **Commits (7d):**          | 1                                       |
-| **Total Repositories:**    | 68                                      |
-| **Active Repositories:**   | 60                                      |
-| **Forked Repositories:**   | 8                                       |
+| **Commits (7d):**          | 2                                       |
+| **Total Repositories:**    | 70                                      |
+| **Active Repositories:**   | 61                                      |
+| **Forked Repositories:**   | 9                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
 | **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
@@ -195,6 +195,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Forked [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader) to [sametcn99/python-wayback-machine-downloader](https://github.com/sametcn99/python-wayback-machine-downloader)** _(Jul 11, 2026)_
+- **Created branch &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer)** _(Jul 11, 2026)_
 - **Public in [sametcn99/interview](https://github.com/sametcn99/interview)** _(May 24, 2026)_
 - **Deleted branch &#x60;vercel/install-vercel-web-analytics-ql9ffq&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 16, 2026)_
 - **Deleted branch &#x60;vercel/install-vercel-speed-insights-3zqqn7&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
@@ -254,12 +256,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
+  HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 10, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
-  JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Jun 28, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 
 ### Active Repositories
 
@@ -275,7 +277,7 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 54 more repositories...</summary>
+  <summary>Show 55 more repositories...</summary>
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★9 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -309,6 +311,8 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
+  HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 10, 2026_<br />No description provided.
 - [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) -
@@ -389,15 +393,16 @@ C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description pro
 
 ### Forked Repositories
 
+- [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader)<br />_Created: Jul 11, 2026 • Updated: Jul 7, 2026_<br />Query and download archive.org as simple as possible.
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
   JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 - [**instances**](https://github.com/sametcn99/instances) - [Homepage](https://raw.githubusercontent.com/libredirect/instances/main/data.json)<br />_Created: May 7, 2026 • Updated: May 6, 2026_<br />Automated instances list for LibRedirect
-- [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) -
-  JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 
 <details>
-  <summary>Show 5 more repositories...</summary>
+  <summary>Show 6 more repositories...</summary>
 
+- [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) -
+  JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
 - [**crono-event**](https://github.com/sametcn99/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
 - [**letterboxd-api**](https://github.com/sametcn99/letterboxd-api) -
   Python - [Homepage](https://letterboxd-api-zeta.vercel.app)<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
