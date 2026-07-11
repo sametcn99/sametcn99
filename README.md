@@ -102,7 +102,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 
 <details>
-  <summary>Show 45 more pushes...</summary>
+  <summary>Show 43 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
@@ -147,8 +147,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [0ff25fa...7c36faf](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/0ff25faada96525798ef54f169583970cfc35ec3...7c36faf566f05ad80510ed499a1923d1fffd4c9e)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [10e0f83...0ff25fa](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/10e0f83bf96b0ad733463f37827cb2138c2d5cff...0ff25faada96525798ef54f169583970cfc35ec3)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [f681290...10e0f83](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/f681290102d540681681fcdf78a0e428d46dc7a7...10e0f83bf96b0ad733463f37827cb2138c2d5cff)** _(Jun 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [a1758e3...7bac358](https://github.com/sametcn99/orhan-elektronik/compare/a1758e38ecd2f3e14b54b8abcb149f07d9e98b20...7bac35828e5fd2f0554192119a1a039b2b5fc99f)** _(Jun 11, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [0a6006e...a1758e3](https://github.com/sametcn99/orhan-elektronik/compare/0a6006e3159a5e7e4c521914519107d90dcb5b5b...a1758e38ecd2f3e14b54b8abcb149f07d9e98b20)** _(Jun 11, 2026)_
 
 </details>
 
