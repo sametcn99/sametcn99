@@ -79,8 +79,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 165                                     |
-| **Commits (7d):**          | 6                                       |
+| **Total Stars Earned:**    | 178                                     |
+| **Commits (7d):**          | 5                                       |
 | **Total Repositories:**    | 70                                      |
 | **Active Repositories:**   | 61                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -270,41 +270,41 @@ Recent releases across my repositories:
   HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 11, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★59 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★60 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jun 13, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★18 -
+- [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
-- [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★13 -
+- [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★14 -
   C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
-- [**env-protector**](https://github.com/sametcn99/env-protector) ★13 -
+- [**env-protector**](https://github.com/sametcn99/env-protector) ★14 -
   TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector)<br />_Created: Sep 14, 2024 • Updated: Jan 12, 2026_<br />Protect your secrets from being exposed
-- [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template) ★10 -
+- [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template) ★11 -
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
   <summary>Show 55 more repositories...</summary>
 
-- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★9 -
+- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★10 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★7 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★7 -
+- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★8 -
   TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
-- [**HTWind**](https://github.com/sametcn99/HTWind) ★6 -
+- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
+  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+- [**HTWind**](https://github.com/sametcn99/HTWind) ★7 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 27, 2026_<br />the missing html based widget manager created with .net
-- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★4 -
+- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★5 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★3 -
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★3 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★3 -
+- [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
+- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
+  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jun 10, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Jun 28, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
