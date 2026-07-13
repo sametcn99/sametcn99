@@ -10,7 +10,6 @@
 - [Recent GitHub Activity](#recent-github-activity)
   - [Pushes](#pushes)
   - [Pull Requests](#pull-requests)
-  - [Comments](#comments)
   - [Starred Repositories](#starred-repositories)
   - [Other Activity](#other-activity)
 - [Project Issues](#project-issues)
@@ -102,7 +101,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 
 <details>
-  <summary>Show 43 more pushes...</summary>
+  <summary>Show 40 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
@@ -144,20 +143,12 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [0a8c138...17a155a](https://github.com/sametcn99/gh-block-spam-accounts/compare/0a8c138f681ab0720cfffb379a062515eb1a24e7...17a155aff9ac0804754362af2a5a864f06758d49)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1ac7c82...0a8c138](https://github.com/sametcn99/gh-block-spam-accounts/compare/1ac7c8275eeba23765e49973af2c025e35735164...0a8c138f681ab0720cfffb379a062515eb1a24e7)** _(Jun 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [4351ad7...34cefb2](https://github.com/sametcn99/HTWind/compare/4351ad7d4cd87c2b4879a2f4cc8919f7c36f75c7...34cefb2b2c26c6ff17b0ef8406a13973d92e56de)** _(Jun 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [0ff25fa...7c36faf](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/0ff25faada96525798ef54f169583970cfc35ec3...7c36faf566f05ad80510ed499a1923d1fffd4c9e)** _(Jun 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [10e0f83...0ff25fa](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/10e0f83bf96b0ad733463f37827cb2138c2d5cff...0ff25faada96525798ef54f169583970cfc35ec3)** _(Jun 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [f681290...10e0f83](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/f681290102d540681681fcdf78a0e428d46dc7a7...10e0f83bf96b0ad733463f37827cb2138c2d5cff)** _(Jun 13, 2026)_
 
 </details>
 
 ### Pull Requests
 
 - **Closed pull request [#1](https://github.com/sametcn99/gh-block-spam-accounts/pull/1) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
-
-### Comments
-
-- **Commented on issue [[codex] fix css export path](https://github.com/sametcn99/vitepress-mermaid-renderer/pull/11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 13, 2026)_
-- **Commented on issue [[codex] fix css export path](https://github.com/sametcn99/vitepress-mermaid-renderer/pull/11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 13, 2026)_
 
 ### Starred Repositories
 
