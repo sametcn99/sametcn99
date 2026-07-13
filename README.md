@@ -168,7 +168,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [amnottdevv/AtDork](https://github.com/amnottdevv/AtDork)** _(Jul 10, 2026)_
 
 <details>
-  <summary>Show 22 more starred repositories...</summary>
+  <summary>Show 21 more starred repositories...</summary>
 
 - **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
 - **Starred [KubraNurGursoyyy/image-storage-together](https://github.com/KubraNurGursoyyy/image-storage-together)** _(Jul 8, 2026)_
@@ -191,7 +191,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
 - **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
 - **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
-- **Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** _(Jun 12, 2026)_
 
 </details>
 
@@ -267,7 +266,7 @@ Recent releases across my repositories:
 ### Recently Updated
 
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 12, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 13, 2026_<br />No description provided.
 - [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
   HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
@@ -322,7 +321,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 12, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 13, 2026_<br />No description provided.
 - [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
   HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 - [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) -
