@@ -78,7 +78,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 178                                     |
-| **Commits (7d):**          | 5                                       |
+| **Commits (7d):**          | 6                                       |
 | **Total Repositories:**    | 70                                      |
 | **Active Repositories:**   | 61                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -93,15 +93,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [56101b6...52ab262](https://github.com/sametcn99/HTWind/compare/56101b62729d7f625c63f422f44eaed284c1cbd3...52ab2624b8f90adac42c90f809f402abc773ef26)** _(Jul 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [966292e...e15943c](https://github.com/sametcn99/local-folder-file-explorer/compare/966292e395e5decc2ff557fc1fe0ade86724e815...e15943c641391ef32ef1424fcaa75d0795f54f36)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [504dd33...966292e](https://github.com/sametcn99/local-folder-file-explorer/compare/504dd330dd304f6878dfbd735e011c9cb98addc5...966292e395e5decc2ff557fc1fe0ade86724e815)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [b347d69...504dd33](https://github.com/sametcn99/local-folder-file-explorer/compare/b347d69b73eab7c34516b072e3f96af43b791eb2...504dd330dd304f6878dfbd735e011c9cb98addc5)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [cb014a7...b347d69](https://github.com/sametcn99/local-folder-file-explorer/compare/cb014a7e8dc26057ed8865684f1ec299043f8858...b347d69b73eab7c34516b072e3f96af43b791eb2)** _(Jul 11, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 
 <details>
-  <summary>Show 25 more pushes...</summary>
+  <summary>Show 26 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [98202f5...891394c](https://github.com/sametcn99/libredirect-instances-list/compare/98202f596b1a56ad08d49a05ceea41cf012b62f6...891394c70f596dbcce10ebbd69b7db648b9d0e5a)** _(Jun 28, 2026)_
@@ -235,12 +236,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**HTWind**](https://github.com/sametcn99/HTWind) ★7 -
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jul 14, 2026_<br />the missing html based widget manager created with .net
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 14, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 13, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
-  HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 
 ### Active Repositories
 
@@ -265,7 +266,7 @@ Recent releases across my repositories:
 - [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★7 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jun 27, 2026_<br />the missing html based widget manager created with .net
+  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jul 14, 2026_<br />the missing html based widget manager created with .net
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★5 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
