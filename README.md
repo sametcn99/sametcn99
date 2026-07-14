@@ -9,7 +9,6 @@
 - [GitHub Snapshot](#github-snapshot)
 - [Recent GitHub Activity](#recent-github-activity)
   - [Pushes](#pushes)
-  - [Pull Requests](#pull-requests)
   - [Starred Repositories](#starred-repositories)
   - [Other Activity](#other-activity)
 - [Project Issues](#project-issues)
@@ -101,7 +100,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 
 <details>
-  <summary>Show 40 more pushes...</summary>
+  <summary>Show 36 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
@@ -139,16 +138,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [b628402...22a38c7](https://github.com/sametcn99/orhan-elektronik/compare/b628402894d0d42f2e8cff3b3de08164476971bd...22a38c7e9521f4e89de24ef72c4a3a79b5943ee2)** _(Jun 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [a4220c8...b628402](https://github.com/sametcn99/orhan-elektronik/compare/a4220c8a59ea5c4dff1df7e2d3834686e5b9b666...b628402894d0d42f2e8cff3b3de08164476971bd)** _(Jun 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [7bac358...a4220c8](https://github.com/sametcn99/orhan-elektronik/compare/7bac35828e5fd2f0554192119a1a039b2b5fc99f...a4220c8a59ea5c4dff1df7e2d3834686e5b9b666)** _(Jun 14, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [17a155a...05dedb1](https://github.com/sametcn99/gh-block-spam-accounts/compare/17a155aff9ac0804754362af2a5a864f06758d49...05dedb1b2d3d180a200dd99798229f8450fed65b)** _(Jun 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [0a8c138...17a155a](https://github.com/sametcn99/gh-block-spam-accounts/compare/0a8c138f681ab0720cfffb379a062515eb1a24e7...17a155aff9ac0804754362af2a5a864f06758d49)** _(Jun 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [1ac7c82...0a8c138](https://github.com/sametcn99/gh-block-spam-accounts/compare/1ac7c8275eeba23765e49973af2c025e35735164...0a8c138f681ab0720cfffb379a062515eb1a24e7)** _(Jun 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [4351ad7...34cefb2](https://github.com/sametcn99/HTWind/compare/4351ad7d4cd87c2b4879a2f4cc8919f7c36f75c7...34cefb2b2c26c6ff17b0ef8406a13973d92e56de)** _(Jun 13, 2026)_
 
 </details>
-
-### Pull Requests
-
-- **Closed pull request [#1](https://github.com/sametcn99/gh-block-spam-accounts/pull/1) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
 
 ### Starred Repositories
 
@@ -159,7 +150,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [amnottdevv/AtDork](https://github.com/amnottdevv/AtDork)** _(Jul 10, 2026)_
 
 <details>
-  <summary>Show 21 more starred repositories...</summary>
+  <summary>Show 20 more starred repositories...</summary>
 
 - **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
 - **Starred [KubraNurGursoyyy/image-storage-together](https://github.com/KubraNurGursoyyy/image-storage-together)** _(Jul 8, 2026)_
@@ -181,7 +172,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
 - **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
 - **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
-- **Starred [community/community](https://github.com/community/community)** _(Jun 13, 2026)_
 
 </details>
 
@@ -194,10 +184,9 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Public in [sametcn99/interview](https://github.com/sametcn99/interview)** _(May 24, 2026)_
 
 <details>
-  <summary>Show 2 more other activity...</summary>
+  <summary>Show 1 more other activity...</summary>
 
 - **Deleted branch &#x60;vercel/install-vercel-web-analytics-ql9ffq&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 16, 2026)_
-- **Deleted branch &#x60;vercel/install-vercel-speed-insights-3zqqn7&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 13, 2026)_
 
 </details>
 
@@ -256,10 +245,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 14, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 13, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 13, 2026_<br />No description provided.
 - [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
   HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 
@@ -312,7 +301,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 13, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 14, 2026_<br />No description provided.
 - [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
   HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
 - [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) -
