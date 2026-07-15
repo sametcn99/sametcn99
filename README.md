@@ -135,7 +135,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [soxoj/maigret](https://github.com/soxoj/maigret)** _(Jul 10, 2026)_
 
 <details>
-  <summary>Show 21 more starred repositories...</summary>
+  <summary>Show 20 more starred repositories...</summary>
 
 - **Starred [amnottdevv/AtDork](https://github.com/amnottdevv/AtDork)** _(Jul 10, 2026)_
 - **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
@@ -157,7 +157,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** _(Jun 16, 2026)_
 - **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
 - **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
-- **Starred [devbugra/stellar\_](https://github.com/devbugra/stellar_)** _(Jun 14, 2026)_
 
 </details>
 
