@@ -78,7 +78,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 178                                     |
-| **Commits (7d):**          | 9                                       |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 70                                      |
 | **Active Repositories:**   | 61                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -93,15 +93,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [9950860...dfa2947](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/99508608a1e608b0dcc983f106537b8b41c1fcc1...dfa2947abd6818526158829ab4bc6885264a006a)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [3fa4e57...9950860](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/3fa4e572f13d2f6270b0cd7f42228a99a3a19998...99508608a1e608b0dcc983f106537b8b41c1fcc1)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [4057916...3fa4e57](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/4057916eb4068147289db8acdc270d7fa3a46e54...3fa4e572f13d2f6270b0cd7f42228a99a3a19998)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7c36faf...4057916](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7c36faf566f05ad80510ed499a1923d1fffd4c9e...4057916eb4068147289db8acdc270d7fa3a46e54)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [56101b6...52ab262](https://github.com/sametcn99/HTWind/compare/56101b62729d7f625c63f422f44eaed284c1cbd3...52ab2624b8f90adac42c90f809f402abc773ef26)** _(Jul 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [966292e...e15943c](https://github.com/sametcn99/local-folder-file-explorer/compare/966292e395e5decc2ff557fc1fe0ade86724e815...e15943c641391ef32ef1424fcaa75d0795f54f36)** _(Jul 11, 2026)_
 
 <details>
-  <summary>Show 24 more pushes...</summary>
+  <summary>Show 25 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [966292e...e15943c](https://github.com/sametcn99/local-folder-file-explorer/compare/966292e395e5decc2ff557fc1fe0ade86724e815...e15943c641391ef32ef1424fcaa75d0795f54f36)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [504dd33...966292e](https://github.com/sametcn99/local-folder-file-explorer/compare/504dd330dd304f6878dfbd735e011c9cb98addc5...966292e395e5decc2ff557fc1fe0ade86724e815)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [b347d69...504dd33](https://github.com/sametcn99/local-folder-file-explorer/compare/b347d69b73eab7c34516b072e3f96af43b791eb2...504dd330dd304f6878dfbd735e011c9cb98addc5)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [cb014a7...b347d69](https://github.com/sametcn99/local-folder-file-explorer/compare/cb014a7e8dc26057ed8865684f1ec299043f8858...b347d69b73eab7c34516b072e3f96af43b791eb2)** _(Jul 11, 2026)_
@@ -131,15 +132,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** _(Jul 15, 2026)_
+- **Starred [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)** _(Jul 15, 2026)_
+- **Starred [dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)** _(Jul 15, 2026)_
+- **Starred [yiisoft/docs](https://github.com/yiisoft/docs)** _(Jul 15, 2026)_
 - **Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)** _(Jul 15, 2026)_
+
+<details>
+  <summary>Show 25 more starred repositories...</summary>
+
 - **Starred [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)** _(Jul 14, 2026)_
 - **Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)** _(Jul 11, 2026)_
 - **Starred [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 10, 2026)_
 - **Starred [jsvine/waybackpack](https://github.com/jsvine/waybackpack)** _(Jul 10, 2026)_
-
-<details>
-  <summary>Show 21 more starred repositories...</summary>
-
 - **Starred [soxoj/maigret](https://github.com/soxoj/maigret)** _(Jul 10, 2026)_
 - **Starred [amnottdevv/AtDork](https://github.com/amnottdevv/AtDork)** _(Jul 10, 2026)_
 - **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
