@@ -100,7 +100,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [cb014a7...b347d69](https://github.com/sametcn99/local-folder-file-explorer/compare/cb014a7e8dc26057ed8865684f1ec299043f8858...b347d69b73eab7c34516b072e3f96af43b791eb2)** _(Jul 11, 2026)_
 
 <details>
-  <summary>Show 26 more pushes...</summary>
+  <summary>Show 21 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
@@ -123,11 +123,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [e7988eb...1186de9](https://github.com/sametcn99/gh-block-spam-accounts/compare/e7988eb785ced4683236123395ef7856e81717ac...1186de9d8de80f6640cc3ad5cc7701fcf0e49e41)** _(Jun 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [162d663...e7988eb](https://github.com/sametcn99/gh-block-spam-accounts/compare/162d663dfcc5107351f8fa6d4619493b401d982d...e7988eb785ced4683236123395ef7856e81717ac)** _(Jun 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [05dedb1...162d663](https://github.com/sametcn99/gh-block-spam-accounts/compare/05dedb1b2d3d180a200dd99798229f8450fed65b...162d663dfcc5107351f8fa6d4619493b401d982d)** _(Jun 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [ef78059...6dd39c9](https://github.com/sametcn99/orhan-elektronik/compare/ef78059bdd563d2faac557e861fb881604b1eb89...6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b)** _(Jun 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [c359c84...ef78059](https://github.com/sametcn99/orhan-elektronik/compare/c359c84b52ed03acfd8206bd9d6379bc1615175d...ef78059bdd563d2faac557e861fb881604b1eb89)** _(Jun 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [034157a...c359c84](https://github.com/sametcn99/orhan-elektronik/compare/034157ab0abc91f06772a732893a8b310aeae22b...c359c84b52ed03acfd8206bd9d6379bc1615175d)** _(Jun 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [aeb82db...034157a](https://github.com/sametcn99/orhan-elektronik/compare/aeb82db6fbae063640aa1117d6f445e8ed841da8...034157ab0abc91f06772a732893a8b310aeae22b)** _(Jun 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [3d40e27...aeb82db](https://github.com/sametcn99/orhan-elektronik/compare/3d40e271c9400937ac26561ab6ce61043372ba76...aeb82db6fbae063640aa1117d6f445e8ed841da8)** _(Jun 14, 2026)_
 
 </details>
 
