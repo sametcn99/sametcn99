@@ -136,7 +136,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sanity-io/sanity](https://github.com/sanity-io/sanity)** _(Jul 16, 2026)_
 
 <details>
-  <summary>Show 30 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
 - **Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** _(Jul 15, 2026)_
 - **Starred [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)** _(Jul 15, 2026)_
@@ -167,7 +167,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [instaloader/instaloader](https://github.com/instaloader/instaloader)** _(Jun 18, 2026)_
 - **Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** _(Jun 16, 2026)_
 - **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
-- **Starred [Automattic/pressship](https://github.com/Automattic/pressship)** _(Jun 16, 2026)_
 
 </details>
 
