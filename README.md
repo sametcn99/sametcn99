@@ -136,7 +136,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sanity-io/sanity](https://github.com/sanity-io/sanity)** _(Jul 16, 2026)_
 
 <details>
-  <summary>Show 29 more starred repositories...</summary>
+  <summary>Show 28 more starred repositories...</summary>
 
 - **Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** _(Jul 15, 2026)_
 - **Starred [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)** _(Jul 15, 2026)_
@@ -166,7 +166,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)** _(Jun 22, 2026)_
 - **Starred [instaloader/instaloader](https://github.com/instaloader/instaloader)** _(Jun 18, 2026)_
 - **Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** _(Jun 16, 2026)_
-- **Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)** _(Jun 16, 2026)_
 
 </details>
 
@@ -177,13 +176,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Forked [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader) to [sametcn99/python-wayback-machine-downloader](https://github.com/sametcn99/python-wayback-machine-downloader)** _(Jul 11, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer)** _(Jul 11, 2026)_
 - **Public in [sametcn99/interview](https://github.com/sametcn99/interview)** _(May 24, 2026)_
-
-<details>
-  <summary>Show 1 more other activity...</summary>
-
-- **Deleted branch &#x60;vercel/install-vercel-web-analytics-ql9ffq&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Jun 16, 2026)_
-
-</details>
 
 ## Project Issues
 
