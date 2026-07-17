@@ -129,15 +129,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
 - **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Jul 16, 2026)_
 - **Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)** _(Jul 16, 2026)_
 - **Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)** _(Jul 16, 2026)_
-- **Starred [sanity-io/sanity](https://github.com/sanity-io/sanity)** _(Jul 16, 2026)_
 
 <details>
-  <summary>Show 27 more starred repositories...</summary>
+  <summary>Show 28 more starred repositories...</summary>
 
+- **Starred [sanity-io/sanity](https://github.com/sanity-io/sanity)** _(Jul 16, 2026)_
 - **Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** _(Jul 15, 2026)_
 - **Starred [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)** _(Jul 15, 2026)_
 - **Starred [dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)** _(Jul 15, 2026)_
