@@ -78,7 +78,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 178                                     |
-| **Commits (7d):**          | 5                                       |
+| **Commits (7d):**          | 9                                       |
 | **Total Repositories:**    | 70                                      |
 | **Active Repositories:**   | 61                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -93,15 +93,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/maalesef-tr](https://github.com/sametcn99/maalesef-tr): [a749789...141862e](https://github.com/sametcn99/maalesef-tr/compare/a7497893c1e79f2d7dc2f3eace38c824356cf63a...141862e80b6f006ea640dbfa5017751e2ba2f65e)** _(Jul 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b1331a1...9bde5e3](https://github.com/sametcn99/personal-website-blazor/compare/b1331a17a14d085e64551645cff73713af94292e...9bde5e33fec67f19e5f77d5fabfaa9e8695e2f0e)** _(Jul 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c333c63...b1331a1](https://github.com/sametcn99/personal-website-blazor/compare/c333c6332708563d00c9f3af3be779d4864f807e...b1331a17a14d085e64551645cff73713af94292e)** _(Jul 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a8efccd...c333c63](https://github.com/sametcn99/personal-website-blazor/compare/a8efccd9d77dc331156f9bbddc7a00bf11309031...c333c6332708563d00c9f3af3be779d4864f807e)** _(Jul 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [9950860...dfa2947](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/99508608a1e608b0dcc983f106537b8b41c1fcc1...dfa2947abd6818526158829ab4bc6885264a006a)** _(Jul 15, 2026)_
+
+<details>
+  <summary>Show 26 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [3fa4e57...9950860](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/3fa4e572f13d2f6270b0cd7f42228a99a3a19998...99508608a1e608b0dcc983f106537b8b41c1fcc1)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [4057916...3fa4e57](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/4057916eb4068147289db8acdc270d7fa3a46e54...3fa4e572f13d2f6270b0cd7f42228a99a3a19998)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7c36faf...4057916](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7c36faf566f05ad80510ed499a1923d1fffd4c9e...4057916eb4068147289db8acdc270d7fa3a46e54)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [56101b6...52ab262](https://github.com/sametcn99/HTWind/compare/56101b62729d7f625c63f422f44eaed284c1cbd3...52ab2624b8f90adac42c90f809f402abc773ef26)** _(Jul 14, 2026)_
-
-<details>
-  <summary>Show 22 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [966292e...e15943c](https://github.com/sametcn99/local-folder-file-explorer/compare/966292e395e5decc2ff557fc1fe0ade86724e815...e15943c641391ef32ef1424fcaa75d0795f54f36)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [504dd33...966292e](https://github.com/sametcn99/local-folder-file-explorer/compare/504dd330dd304f6878dfbd735e011c9cb98addc5...966292e395e5decc2ff557fc1fe0ade86724e815)** _(Jul 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [b347d69...504dd33](https://github.com/sametcn99/local-folder-file-explorer/compare/b347d69b73eab7c34516b072e3f96af43b791eb2...504dd330dd304f6878dfbd735e011c9cb98addc5)** _(Jul 11, 2026)_
@@ -129,15 +133,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [madskristensen/BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)** _(Jul 18, 2026)_
 - **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
 - **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Jul 16, 2026)_
 - **Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)** _(Jul 16, 2026)_
-- **Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)** _(Jul 16, 2026)_
 
 <details>
-  <summary>Show 28 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
+- **Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)** _(Jul 16, 2026)_
 - **Starred [sanity-io/sanity](https://github.com/sanity-io/sanity)** _(Jul 16, 2026)_
 - **Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** _(Jul 15, 2026)_
 - **Starred [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)** _(Jul 15, 2026)_
@@ -232,12 +237,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jul 18, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 18, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 18, 2026_<br />No description provided.
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★60 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jul 15, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**HTWind**](https://github.com/sametcn99/HTWind) ★7 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jul 14, 2026_<br />the missing html based widget manager created with .net
 
 ### Active Repositories
 
@@ -287,6 +292,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
+  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jul 18, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 18, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 18, 2026_<br />No description provided.
 - [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
@@ -307,10 +316,6 @@ Recent releases across my repositories:
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Jun 18, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jun 9, 2026_<br />No description provided.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jun 2, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
   TypeScript<br />_Created: Apr 21, 2026 • Updated: May 15, 2026_<br />self-hosted job search operating system
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
