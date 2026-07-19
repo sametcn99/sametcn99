@@ -130,15 +130,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [minio/minio](https://github.com/minio/minio)** _(Jul 19, 2026)_
 - **Starred [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)** _(Jul 19, 2026)_
 - **Starred [aden-hive/hive](https://github.com/aden-hive/hive)** _(Jul 18, 2026)_
 - **Starred [madskristensen/BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)** _(Jul 18, 2026)_
 - **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
-- **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
 
 <details>
-  <summary>Show 30 more starred repositories...</summary>
+  <summary>Show 31 more starred repositories...</summary>
 
+- **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Jul 16, 2026)_
 - **Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)** _(Jul 16, 2026)_
 - **Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)** _(Jul 16, 2026)_
