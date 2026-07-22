@@ -213,38 +213,38 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 Recent releases across my repositories:
 
-- [**Release v2026.04.11.144953**](https://github.com/sametcn99/golter/releases/tag/v2026.04.11.144953) — [golter](https://github.com/sametcn99/golter) _(Apr 11, 2026)_
-- [**Release 1.1.6**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.6) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Apr 4, 2026)_
-- [**Release v2026.03.31.124109**](https://github.com/sametcn99/golter/releases/tag/v2026.03.31.124109) — [golter](https://github.com/sametcn99/golter) _(Mar 31, 2026)_
-- [**1.0**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.0) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Mar 28, 2026)_
-- [**0.1.2**](https://github.com/sametcn99/dreamtui/releases/tag/0.1.2) — [dreamtui](https://github.com/sametcn99/dreamtui) _(Mar 16, 2026)_
+- [**v1.1.10**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.10) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 21, 2026)_
+- [**v1.1.28**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.28) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jul 15, 2026)_
+- [**v1.1.27**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.27) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jun 13, 2026)_
+- [**v1.1.9**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.9) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 10, 2026)_
+- [**v1.1.8**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.8) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 7, 2026)_
 
 <details>
   <summary>Show 15 more releases...</summary>
 
-- [**Release 1.1.5**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.5) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Mar 16, 2026)_
-- [**Release 1.1.4**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.4) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Feb 22, 2026)_
-- [**Release 1.1.3**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.3) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Feb 21, 2026)_
-- [**1.1.2**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.2) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Feb 21, 2026)_
-- [**1.1.1**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.1) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Feb 21, 2026)_
-- [**1.1.0**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.0) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Feb 20, 2026)_
-- [**1.0.0**](https://github.com/sametcn99/booking-calendar/releases/tag/1.0.0) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Feb 20, 2026)_
-- [**0.1.3**](https://github.com/sametcn99/golter/releases/tag/0.1.3) — [golter](https://github.com/sametcn99/golter) _(Jan 18, 2026)_
-- [**0.1.2**](https://github.com/sametcn99/golter/releases/tag/0.1.2) — [golter](https://github.com/sametcn99/golter) _(Jan 17, 2026)_
-- [**0.1.1**](https://github.com/sametcn99/golter/releases/tag/0.1.1) — [golter](https://github.com/sametcn99/golter) _(Jan 17, 2026)_
-- [**0.1.0**](https://github.com/sametcn99/golter/releases/tag/0.1.0) — [golter](https://github.com/sametcn99/golter) _(Jan 17, 2026)_
-- [**1.0.12**](https://github.com/sametcn99/env-protector/releases/tag/1.0.12) — [env-protector](https://github.com/sametcn99/env-protector) _(Jan 12, 2026)_
-- [**1.0.9**](https://github.com/sametcn99/env-protector/releases/tag/1.0.9) — [env-protector](https://github.com/sametcn99/env-protector) _(Sep 8, 2025)_
-- [**1.0.8**](https://github.com/sametcn99/env-protector/releases/tag/1.0.8) — [env-protector](https://github.com/sametcn99/env-protector) _(Nov 29, 2024)_
-- [**1.0.7**](https://github.com/sametcn99/env-protector/releases/tag/1.0.7) — [env-protector](https://github.com/sametcn99/env-protector) _(Oct 4, 2024)_
+- [**v1.1.7**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.7) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 5, 2026)_
+- [**v1.1.26**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.26) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(May 30, 2026)_
+- [**v1.1.25**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.25) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(May 30, 2026)_
+- [**v1.1.6**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.6) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(May 16, 2026)_
+- [**v1.1.24**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.24) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(May 12, 2026)_
+- [**v1.1.23**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.23) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 25, 2026)_
+- [**v1.1.22**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.22) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 24, 2026)_
+- [**v1.1.21**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.21) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 23, 2026)_
+- [**Release v2026.04.11.144953**](https://github.com/sametcn99/golter/releases/tag/v2026.04.11.144953) — [golter](https://github.com/sametcn99/golter) _(Apr 11, 2026)_
+- [**Release 1.1.6**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.6) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Apr 4, 2026)_
+- [**Release v2026.03.31.124109**](https://github.com/sametcn99/golter/releases/tag/v2026.03.31.124109) — [golter](https://github.com/sametcn99/golter) _(Mar 31, 2026)_
+- [**1.0**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.0) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Mar 28, 2026)_
+- [**v1.1.20**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.20) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 27, 2026)_
+- [**0.1.2**](https://github.com/sametcn99/dreamtui/releases/tag/0.1.2) — [dreamtui](https://github.com/sametcn99/dreamtui) _(Mar 16, 2026)_
+- [**v1.1.19**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.19) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 16, 2026)_
 </details>
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 22, 2026_<br />No description provided.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jul 21, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 21, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 20, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
@@ -297,7 +297,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 21, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 22, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 19, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
