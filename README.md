@@ -142,7 +142,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
 
 <details>
-  <summary>Show 31 more starred repositories...</summary>
+  <summary>Show 27 more starred repositories...</summary>
 
 - **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Jul 16, 2026)_
@@ -171,10 +171,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)** _(Jun 27, 2026)_
 - **Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)** _(Jun 23, 2026)_
 - **Starred [ventoy/PXE](https://github.com/ventoy/PXE)** _(Jun 23, 2026)_
-- **Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)** _(Jun 22, 2026)_
-- **Starred [nicolargo/glances](https://github.com/nicolargo/glances)** _(Jun 22, 2026)_
-- **Starred [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)** _(Jun 22, 2026)_
-- **Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)** _(Jun 22, 2026)_
 
 </details>
 
@@ -250,10 +246,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 23, 2026_<br />No description provided.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Jul 22, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 22, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 20, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
@@ -305,12 +301,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 23, 2026_<br />No description provided.
 - [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) -
   C#<br />_Created: Jul 4, 2026 • Updated: Jul 14, 2026_<br />No description provided.
 - [**TakvimDemo**](https://github.com/sametcn99/TakvimDemo) -
   HTML<br />_Created: Jul 14, 2026 • Updated: Jul 17, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 22, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 19, 2026_<br />No description provided.
 - [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
