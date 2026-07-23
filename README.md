@@ -79,9 +79,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 180                                     |
-| **Commits (7d):**          | 9                                       |
-| **Total Repositories:**    | 70                                      |
-| **Active Repositories:**   | 61                                      |
+| **Commits (7d):**          | 10+                                     |
+| **Total Repositories:**    | 72                                      |
+| **Active Repositories:**   | 63                                      |
 | **Forked Repositories:**   | 9                                       |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -180,11 +180,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Public in [sametcn99/IsTakipSistemi](https://github.com/sametcn99/IsTakipSistemi)** _(Jul 4, 2026)_
+- **Public in [sametcn99/TakvimDemo](https://github.com/sametcn99/TakvimDemo)** _(Jul 14, 2026)_
 - **Labeled issue [#59](https://github.com/bitdruid/python-wayback-machine-downloader/issues/59) in [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 11, 2026)_
 - **Opened issue [#59](https://github.com/bitdruid/python-wayback-machine-downloader/issues/59) in [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 11, 2026)_
 - **Forked [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader) to [sametcn99/python-wayback-machine-downloader](https://github.com/sametcn99/python-wayback-machine-downloader)** _(Jul 11, 2026)_
+
+<details>
+  <summary>Show 2 more other activity...</summary>
+
 - **Created branch &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer)** _(Jul 11, 2026)_
 - **Public in [sametcn99/interview](https://github.com/sametcn99/interview)** _(May 24, 2026)_
+
+</details>
 
 ## Project Issues
 
@@ -263,7 +271,7 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 55 more repositories...</summary>
+  <summary>Show 57 more repositories...</summary>
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★10 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -297,6 +305,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) -
+  C#<br />_Created: Jul 4, 2026 • Updated: Jul 14, 2026_<br />No description provided.
+- [**TakvimDemo**](https://github.com/sametcn99/TakvimDemo) -
+  HTML<br />_Created: Jul 14, 2026 • Updated: Jul 17, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 22, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
