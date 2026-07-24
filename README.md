@@ -147,15 +147,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** _(Jul 24, 2026)_
 - **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
 - **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
 - **Starred [minio/minio](https://github.com/minio/minio)** _(Jul 19, 2026)_
 - **Starred [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)** _(Jul 19, 2026)_
-- **Starred [aden-hive/hive](https://github.com/aden-hive/hive)** _(Jul 18, 2026)_
 
 <details>
-  <summary>Show 27 more starred repositories...</summary>
+  <summary>Show 28 more starred repositories...</summary>
 
+- **Starred [aden-hive/hive](https://github.com/aden-hive/hive)** _(Jul 18, 2026)_
 - **Starred [madskristensen/BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)** _(Jul 18, 2026)_
 - **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
 - **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
