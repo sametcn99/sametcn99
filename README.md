@@ -102,15 +102,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [b248f30...86b36c7](https://github.com/sametcn99/reddit-rss-api/compare/b248f303aa3e66d430e6b3a29921599406c93903...86b36c76a51d8cc00e58ea46605a7aaac5b8c7d6)** _(Jul 23, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [6d2fc58...b248f30](https://github.com/sametcn99/reddit-rss-api/compare/6d2fc5881a8bbffb4dbd2363ebc1414d43c4992c...b248f303aa3e66d430e6b3a29921599406c93903)** _(Jul 23, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ecf0dcb...6d2fc58](https://github.com/sametcn99/reddit-rss-api/compare/ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73...6d2fc5881a8bbffb4dbd2363ebc1414d43c4992c)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [5a666dd...ecf0dcb](https://github.com/sametcn99/reddit-rss-api/compare/5a666dd234836013a920cc2eb3d3455e8c65c424...ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ea82d47...5a666dd](https://github.com/sametcn99/reddit-rss-api/compare/ea82d4704be29a71225b945e9bf253a5944e7300...5a666dd234836013a920cc2eb3d3455e8c65c424)** _(Jul 23, 2026)_
+
+<details>
+  <summary>Show 27 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [644ffe2...ea82d47](https://github.com/sametcn99/reddit-rss-api/compare/644ffe206c02c81157a48aecf84661a3c88fcb27...ea82d4704be29a71225b945e9bf253a5944e7300)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a8cf927...55f522a](https://github.com/sametcn99/personal-website-blazor/compare/a8cf9279be8b84c318970bab9ec3320c1da643c4...55f522a474d1c37dd1888d9d4adea7384e9ded53)** _(Jul 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a7b7703...1beab3e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a7b77032e3ba94183d054ee1e7a57d84589b47fa...1beab3eb07cae1b423a1268b58381d4fe858029e)** _(Jul 22, 2026)_
-
-<details>
-  <summary>Show 24 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [916f632...a7b7703](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/916f632ac5424b77e4c5e730fa88b5fb404ce1f5...a7b77032e3ba94183d054ee1e7a57d84589b47fa)** _(Jul 21, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c149b7a...a8cf927](https://github.com/sametcn99/personal-website-blazor/compare/c149b7a9e6a10621bcc2c14637d05eacebaf539e...a8cf9279be8b84c318970bab9ec3320c1da643c4)** _(Jul 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bc5ef97...c149b7a](https://github.com/sametcn99/personal-website-blazor/compare/bc5ef977300961041b9308c532017d4daef72887...c149b7a9e6a10621bcc2c14637d05eacebaf539e)** _(Jul 19, 2026)_
@@ -144,15 +147,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
+- **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
 - **Starred [minio/minio](https://github.com/minio/minio)** _(Jul 19, 2026)_
 - **Starred [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)** _(Jul 19, 2026)_
 - **Starred [aden-hive/hive](https://github.com/aden-hive/hive)** _(Jul 18, 2026)_
-- **Starred [madskristensen/BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)** _(Jul 18, 2026)_
-- **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
 
 <details>
-  <summary>Show 27 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
+- **Starred [madskristensen/BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)** _(Jul 18, 2026)_
+- **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
 - **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Jul 16, 2026)_
 - **Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)** _(Jul 16, 2026)_
