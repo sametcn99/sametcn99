@@ -154,7 +154,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [aden-hive/hive](https://github.com/aden-hive/hive)** _(Jul 18, 2026)_
 
 <details>
-  <summary>Show 29 more starred repositories...</summary>
+  <summary>Show 27 more starred repositories...</summary>
 
 - **Starred [madskristensen/BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)** _(Jul 18, 2026)_
 - **Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)** _(Jul 17, 2026)_
@@ -183,8 +183,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 - **Starred [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml)** _(Jun 27, 2026)_
 - **Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)** _(Jun 27, 2026)_
-- **Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)** _(Jun 23, 2026)_
-- **Starred [ventoy/PXE](https://github.com/ventoy/PXE)** _(Jun 23, 2026)_
 
 </details>
 
@@ -260,12 +258,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 24, 2026_<br />No description provided.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
   TypeScript - [Homepage](https://reddit-rss-api.sametcn99.deno.net)<br />_Created: May 16, 2024 • Updated: Jul 23, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 23, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 23, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -315,10 +313,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 24, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 23, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 23, 2026_<br />No description provided.
 - [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) -
   C#<br />_Created: Jul 4, 2026 • Updated: Jul 14, 2026_<br />No description provided.
 - [**TakvimDemo**](https://github.com/sametcn99/TakvimDemo) -
