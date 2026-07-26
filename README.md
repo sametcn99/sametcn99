@@ -87,7 +87,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 181                                     |
-| **Commits (7d):**          | 9                                       |
+| **Commits (7d):**          | 10+                                     |
 | **Total Repositories:**    | 72                                      |
 | **Active Repositories:**   | 63                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -102,15 +102,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [86b36c7...7045d68](https://github.com/sametcn99/reddit-rss-api/compare/86b36c76a51d8cc00e58ea46605a7aaac5b8c7d6...7045d689b5447ae7a464540792e79076a5136495)** _(Jul 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [b248f30...86b36c7](https://github.com/sametcn99/reddit-rss-api/compare/b248f303aa3e66d430e6b3a29921599406c93903...86b36c76a51d8cc00e58ea46605a7aaac5b8c7d6)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [6d2fc58...b248f30](https://github.com/sametcn99/reddit-rss-api/compare/6d2fc5881a8bbffb4dbd2363ebc1414d43c4992c...b248f303aa3e66d430e6b3a29921599406c93903)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ecf0dcb...6d2fc58](https://github.com/sametcn99/reddit-rss-api/compare/ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73...6d2fc5881a8bbffb4dbd2363ebc1414d43c4992c)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [5a666dd...ecf0dcb](https://github.com/sametcn99/reddit-rss-api/compare/5a666dd234836013a920cc2eb3d3455e8c65c424...ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73)** _(Jul 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ea82d47...5a666dd](https://github.com/sametcn99/reddit-rss-api/compare/ea82d4704be29a71225b945e9bf253a5944e7300...5a666dd234836013a920cc2eb3d3455e8c65c424)** _(Jul 23, 2026)_
 
 <details>
-  <summary>Show 27 more pushes...</summary>
+  <summary>Show 28 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ea82d47...5a666dd](https://github.com/sametcn99/reddit-rss-api/compare/ea82d4704be29a71225b945e9bf253a5944e7300...5a666dd234836013a920cc2eb3d3455e8c65c424)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [644ffe2...ea82d47](https://github.com/sametcn99/reddit-rss-api/compare/644ffe206c02c81157a48aecf84661a3c88fcb27...ea82d4704be29a71225b945e9bf253a5944e7300)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a8cf927...55f522a](https://github.com/sametcn99/personal-website-blazor/compare/a8cf9279be8b84c318970bab9ec3320c1da643c4...55f522a474d1c37dd1888d9d4adea7384e9ded53)** _(Jul 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a7b7703...1beab3e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a7b77032e3ba94183d054ee1e7a57d84589b47fa...1beab3eb07cae1b423a1268b58381d4fe858029e)** _(Jul 22, 2026)_
@@ -260,10 +261,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
+  TypeScript - [Homepage](https://reddit-rss-api.sametcn99.deno.net)<br />_Created: May 16, 2024 • Updated: Jul 26, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 26, 2026_<br />No description provided.
-- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
-  TypeScript - [Homepage](https://reddit-rss-api.sametcn99.deno.net)<br />_Created: May 16, 2024 • Updated: Jul 23, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 23, 2026_<br />No description provided.
 
@@ -300,7 +301,7 @@ Recent releases across my repositories:
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
-  TypeScript - [Homepage](https://reddit-rss-api.sametcn99.deno.net)<br />_Created: May 16, 2024 • Updated: Jul 23, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+  TypeScript - [Homepage](https://reddit-rss-api.sametcn99.deno.net)<br />_Created: May 16, 2024 • Updated: Jul 26, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Jun 28, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★1 -
