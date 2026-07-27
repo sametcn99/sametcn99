@@ -109,7 +109,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [5a666dd...ecf0dcb](https://github.com/sametcn99/reddit-rss-api/compare/5a666dd234836013a920cc2eb3d3455e8c65c424...ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73)** _(Jul 23, 2026)_
 
 <details>
-  <summary>Show 28 more pushes...</summary>
+  <summary>Show 27 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ea82d47...5a666dd](https://github.com/sametcn99/reddit-rss-api/compare/ea82d4704be29a71225b945e9bf253a5944e7300...5a666dd234836013a920cc2eb3d3455e8c65c424)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [644ffe2...ea82d47](https://github.com/sametcn99/reddit-rss-api/compare/644ffe206c02c81157a48aecf84661a3c88fcb27...ea82d4704be29a71225b945e9bf253a5944e7300)** _(Jul 23, 2026)_
@@ -138,7 +138,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [98202f5...891394c](https://github.com/sametcn99/libredirect-instances-list/compare/98202f596b1a56ad08d49a05ceea41cf012b62f6...891394c70f596dbcce10ebbd69b7db648b9d0e5a)** _(Jun 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [f76d50f...98202f5](https://github.com/sametcn99/libredirect-instances-list/compare/f76d50f548efc0ba7208447202f5aeb56df30ea1...98202f596b1a56ad08d49a05ceea41cf012b62f6)** _(Jun 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [cf37813...f76d50f](https://github.com/sametcn99/libredirect-instances-list/compare/cf37813946edb76c88fc8c4e70ec28a020a14d2e...f76d50f548efc0ba7208447202f5aeb56df30ea1)** _(Jun 27, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [34cefb2...56101b6](https://github.com/sametcn99/HTWind/compare/34cefb2b2c26c6ff17b0ef8406a13973d92e56de...56101b62729d7f625c63f422f44eaed284c1cbd3)** _(Jun 27, 2026)_
 
 </details>
 
@@ -155,7 +154,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
 
 <details>
-  <summary>Show 30 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
 - **Starred [minio/minio](https://github.com/minio/minio)** _(Jul 19, 2026)_
 - **Starred [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)** _(Jul 19, 2026)_
@@ -186,7 +185,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** _(Jul 4, 2026)_
 - **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 - **Starred [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml)** _(Jun 27, 2026)_
-- **Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)** _(Jun 27, 2026)_
 
 </details>
 
