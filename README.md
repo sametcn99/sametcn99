@@ -146,15 +146,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)** _(Jul 28, 2026)_
 - **Starred [Automattic/docspress](https://github.com/Automattic/docspress)** _(Jul 27, 2026)_
 - **Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** _(Jul 27, 2026)_
 - **Starred [mrbesher/bertfinetuner](https://github.com/mrbesher/bertfinetuner)** _(Jul 25, 2026)_
 - **Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** _(Jul 24, 2026)_
-- **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
 
 <details>
-  <summary>Show 29 more starred repositories...</summary>
+  <summary>Show 30 more starred repositories...</summary>
 
+- **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
 - **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
 - **Starred [minio/minio](https://github.com/minio/minio)** _(Jul 19, 2026)_
 - **Starred [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)** _(Jul 19, 2026)_
