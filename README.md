@@ -109,7 +109,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [5a666dd...ecf0dcb](https://github.com/sametcn99/reddit-rss-api/compare/5a666dd234836013a920cc2eb3d3455e8c65c424...ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73)** _(Jul 23, 2026)_
 
 <details>
-  <summary>Show 26 more pushes...</summary>
+  <summary>Show 24 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ea82d47...5a666dd](https://github.com/sametcn99/reddit-rss-api/compare/ea82d4704be29a71225b945e9bf253a5944e7300...5a666dd234836013a920cc2eb3d3455e8c65c424)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [644ffe2...ea82d47](https://github.com/sametcn99/reddit-rss-api/compare/644ffe206c02c81157a48aecf84661a3c88fcb27...ea82d4704be29a71225b945e9bf253a5944e7300)** _(Jul 23, 2026)_
@@ -135,8 +135,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [78356e9...ac45103](https://github.com/sametcn99/my-stars-atlas/compare/78356e9977361a7b8362b40c3a62736219c9802a...ac4510304aa1ca7a705eb06a37a6fdde3209c3eb)** _(Jul 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [1e73254...a4661fc](https://github.com/sametcn99/sametcn99/compare/1e73254b80da07d242c282856224a282d27af699...a4661fc43efafe8e81e43ff2442dbf8c58db1dec)** _(Jun 29, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [b8de37d...588e10d](https://github.com/sametcn99/sametcn99/compare/b8de37dffd0f5135e2ed9789e9c1842c77dfeb0d...588e10d11940107cf36bfde4c9cdcaa7ab718d37)** _(Jun 29, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [98202f5...891394c](https://github.com/sametcn99/libredirect-instances-list/compare/98202f596b1a56ad08d49a05ceea41cf012b62f6...891394c70f596dbcce10ebbd69b7db648b9d0e5a)** _(Jun 28, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [f76d50f...98202f5](https://github.com/sametcn99/libredirect-instances-list/compare/f76d50f548efc0ba7208447202f5aeb56df30ea1...98202f596b1a56ad08d49a05ceea41cf012b62f6)** _(Jun 28, 2026)_
 
 </details>
 
@@ -261,7 +259,7 @@ Recent releases across my repositories:
 ### Recently Updated
 
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 28, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 29, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Jul 27, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★2 -
@@ -316,7 +314,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 28, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Jul 29, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Jul 23, 2026_<br />No description provided.
 - [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) -
