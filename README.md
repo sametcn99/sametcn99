@@ -149,7 +149,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** _(Jul 24, 2026)_
 
 <details>
-  <summary>Show 30 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
 - **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
 - **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
@@ -180,7 +180,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [nestjs/event-emitter](https://github.com/nestjs/event-emitter)** _(Jul 4, 2026)_
 - **Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)** _(Jul 4, 2026)_
 - **Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** _(Jul 4, 2026)_
-- **Starred [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)** _(Jun 30, 2026)_
 
 </details>
 
