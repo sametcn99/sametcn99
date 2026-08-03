@@ -102,15 +102,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [dc0eb74...2d94cbf](https://github.com/sametcn99/computer-science-resources/compare/dc0eb74b646dfdb461d4c6515630a940a8357eb5...2d94cbf4e71cd6e940d09efb3d646aa6b164f75c)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [2c59ea2...fee77bf](https://github.com/sametcn99/libredirect-instances-list/compare/2c59ea22cc9e282ecd2517f538f1e269b052a1ef...fee77bf5116d7b914b86136cef2150ef69805e28)** _(Aug 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [0b11fe9...2c59ea2](https://github.com/sametcn99/libredirect-instances-list/compare/0b11fe900f48a7875d5fd3a8d59bafb5d3ce4245...2c59ea22cc9e282ecd2517f538f1e269b052a1ef)** _(Aug 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [bad0b4c...0b11fe9](https://github.com/sametcn99/libredirect-instances-list/compare/bad0b4c43e886738e930a431a6ec2c0cb915ad7a...0b11fe900f48a7875d5fd3a8d59bafb5d3ce4245)** _(Aug 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [891394c...bad0b4c](https://github.com/sametcn99/libredirect-instances-list/compare/891394c70f596dbcce10ebbd69b7db648b9d0e5a...bad0b4c43e886738e930a431a6ec2c0cb915ad7a)** _(Aug 2, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1beab3e...e0a0b85](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1beab3eb07cae1b423a1268b58381d4fe858029e...e0a0b851b4b952f28b74dfbd407e9d855abb8c7b)** _(Aug 1, 2026)_
 
 <details>
-  <summary>Show 36 more pushes...</summary>
+  <summary>Show 37 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1beab3e...e0a0b85](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1beab3eb07cae1b423a1268b58381d4fe858029e...e0a0b851b4b952f28b74dfbd407e9d855abb8c7b)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [7045d68...c6d15ea](https://github.com/sametcn99/reddit-rss-api/compare/7045d689b5447ae7a464540792e79076a5136495...c6d15eacbfb5ae4caae8acd1a758271ea48948c2)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b556cf3...1392188](https://github.com/sametcn99/personal-website-blazor/compare/b556cf3a96b72dddedfbf1e8d626fe7f75e10419...139218877fa9810d469759ed859b7cdc15ebcde8)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [07031ef...b556cf3](https://github.com/sametcn99/personal-website-blazor/compare/07031ef61e5130345c48655d1c6191481ecc828a...b556cf3a96b72dddedfbf1e8d626fe7f75e10419)** _(Aug 1, 2026)_
@@ -156,15 +157,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [solarch-dev/solarch](https://github.com/solarch-dev/solarch)** _(Aug 3, 2026)_
 - **Starred [matrix-org/matrix.to](https://github.com/matrix-org/matrix.to)** _(Aug 2, 2026)_
 - **Starred [libredirect/browser_extension](https://github.com/libredirect/browser_extension)** _(Aug 2, 2026)_
 - **Starred [reactos/reactos](https://github.com/reactos/reactos)** _(Aug 2, 2026)_
 - **Starred [dbcodeio/public](https://github.com/dbcodeio/public)** _(Jul 31, 2026)_
-- **Starred [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)** _(Jul 28, 2026)_
 
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 34 more starred repositories...</summary>
 
+- **Starred [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)** _(Jul 28, 2026)_
 - **Starred [Automattic/docspress](https://github.com/Automattic/docspress)** _(Jul 27, 2026)_
 - **Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** _(Jul 27, 2026)_
 - **Starred [mrbesher/bertfinetuner](https://github.com/mrbesher/bertfinetuner)** _(Jul 25, 2026)_
@@ -273,12 +275,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
+  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 3, 2026_<br />No description provided.
-- [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
-  JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Aug 2, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 
 ### Active Repositories
 
@@ -328,6 +330,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
+  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
+- [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
+  TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />WibeSoft Backend Case study
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 3, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
@@ -352,8 +358,6 @@ Recent releases across my repositories:
   Python<br />_Created: Jan 4, 2026 • Updated: Jun 18, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
 - [**catchapage**](https://github.com/sametcn99/catchapage) -
   TypeScript<br />_Created: Nov 3, 2025 • Updated: Jun 18, 2026_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Jun 18, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
   TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
 - [**application-tracker**](https://github.com/sametcn99/application-tracker) -
@@ -376,8 +380,6 @@ Recent releases across my repositories:
   C#<br />_Created: Mar 25, 2026 • Updated: Mar 25, 2026_<br />learning repo
 - [**golter**](https://github.com/sametcn99/golter) -
   Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
-- [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
-  TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />WibeSoft Backend Case study
 - [**open-github-dev**](https://github.com/sametcn99/open-github-dev) -
   JavaScript<br />_Created: Dec 20, 2023 • Updated: Dec 20, 2023_<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
 - [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) -
