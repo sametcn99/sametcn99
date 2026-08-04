@@ -173,7 +173,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [dbcodeio/public](https://github.com/dbcodeio/public)** _(Jul 31, 2026)_
 
 <details>
-  <summary>Show 31 more starred repositories...</summary>
+  <summary>Show 30 more starred repositories...</summary>
 
 - **Starred [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)** _(Jul 28, 2026)_
 - **Starred [Automattic/docspress](https://github.com/Automattic/docspress)** _(Jul 27, 2026)_
@@ -205,7 +205,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [amnottdevv/AtDork](https://github.com/amnottdevv/AtDork)** _(Jul 10, 2026)_
 - **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
 - **Starred [KubraNurGursoyyy/image-storage-together](https://github.com/KubraNurGursoyyy/image-storage-together)** _(Jul 8, 2026)_
-- **Starred [browserbase/stagehand](https://github.com/browserbase/stagehand)** _(Jul 5, 2026)_
 
 </details>
 
