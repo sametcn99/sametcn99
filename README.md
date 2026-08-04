@@ -87,7 +87,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 183                                     |
-| **Commits (7d):**          | 10+                                     |
+| **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 72                                      |
 | **Active Repositories:**   | 63                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -102,15 +102,23 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [457d821...5a736a4](https://github.com/sametcn99/my-stars-atlas/compare/457d82128a57d4a25bd6d607bcf514adcc4ac969...5a736a4222a3cd326711fbb84b43f7daae1bfd81)** _(Aug 3, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [26a11d7...457d821](https://github.com/sametcn99/my-stars-atlas/compare/26a11d7fe90f9b2af18d1f4f7d84a50a808ae8b8...457d82128a57d4a25bd6d607bcf514adcc4ac969)** _(Aug 3, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [8061d4a...26a11d7](https://github.com/sametcn99/my-stars-atlas/compare/8061d4a27e686f8bbe0398a80062a292c6ad2f66...26a11d7fe90f9b2af18d1f4f7d84a50a808ae8b8)** _(Aug 3, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [7213ad0...8061d4a](https://github.com/sametcn99/my-stars-atlas/compare/7213ad091cee63c0f92613237eda709e3b1e26fe...8061d4a27e686f8bbe0398a80062a292c6ad2f66)** _(Aug 3, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [fe103df...7213ad0](https://github.com/sametcn99/my-stars-atlas/compare/fe103df195ea7c4788f98755ab5253420514b93d...7213ad091cee63c0f92613237eda709e3b1e26fe)** _(Aug 3, 2026)_
+
+<details>
+  <summary>Show 46 more pushes...</summary>
+
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [1c33e54...597e5fe](https://github.com/sametcn99/my-stars-atlas/compare/1c33e5474615eb37c823c3f5b3dc9b7cd35adf65...597e5fea146446f7f4af6d1b606d09aa1d7c41d7)** _(Aug 3, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [520133a...be30d3b](https://github.com/sametcn99/my-stars-atlas/compare/520133a6d15930140dc03305ffea93084c9c7e16...be30d3b329c93bf14cdbc8dce3a1b33571c269ac)** _(Aug 3, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [7340255...520133a](https://github.com/sametcn99/my-stars-atlas/compare/7340255885b54a090d9c62fe618ce31f30648281...520133a6d15930140dc03305ffea93084c9c7e16)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1392188...540d0e9](https://github.com/sametcn99/personal-website-blazor/compare/139218877fa9810d469759ed859b7cdc15ebcde8...540d0e98de17cea34ef5d86ad804a4596bd17adb)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [dc0eb74...2d94cbf](https://github.com/sametcn99/computer-science-resources/compare/dc0eb74b646dfdb461d4c6515630a940a8357eb5...2d94cbf4e71cd6e940d09efb3d646aa6b164f75c)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [2c59ea2...fee77bf](https://github.com/sametcn99/libredirect-instances-list/compare/2c59ea22cc9e282ecd2517f538f1e269b052a1ef...fee77bf5116d7b914b86136cef2150ef69805e28)** _(Aug 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [0b11fe9...2c59ea2](https://github.com/sametcn99/libredirect-instances-list/compare/0b11fe900f48a7875d5fd3a8d59bafb5d3ce4245...2c59ea22cc9e282ecd2517f538f1e269b052a1ef)** _(Aug 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [bad0b4c...0b11fe9](https://github.com/sametcn99/libredirect-instances-list/compare/bad0b4c43e886738e930a431a6ec2c0cb915ad7a...0b11fe900f48a7875d5fd3a8d59bafb5d3ce4245)** _(Aug 2, 2026)_
-
-<details>
-  <summary>Show 38 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [891394c...bad0b4c](https://github.com/sametcn99/libredirect-instances-list/compare/891394c70f596dbcce10ebbd69b7db648b9d0e5a...bad0b4c43e886738e930a431a6ec2c0cb915ad7a)** _(Aug 2, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [1beab3e...e0a0b85](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/1beab3eb07cae1b423a1268b58381d4fe858029e...e0a0b851b4b952f28b74dfbd407e9d855abb8c7b)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [7045d68...c6d15ea](https://github.com/sametcn99/reddit-rss-api/compare/7045d689b5447ae7a464540792e79076a5136495...c6d15eacbfb5ae4caae8acd1a758271ea48948c2)** _(Aug 1, 2026)_
@@ -276,12 +284,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 3, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
