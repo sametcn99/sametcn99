@@ -173,7 +173,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [dbcodeio/public](https://github.com/dbcodeio/public)** _(Jul 31, 2026)_
 
 <details>
-  <summary>Show 34 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
 - **Starred [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)** _(Jul 28, 2026)_
 - **Starred [Automattic/docspress](https://github.com/Automattic/docspress)** _(Jul 27, 2026)_
@@ -207,8 +207,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [KubraNurGursoyyy/image-storage-together](https://github.com/KubraNurGursoyyy/image-storage-together)** _(Jul 8, 2026)_
 - **Starred [browserbase/stagehand](https://github.com/browserbase/stagehand)** _(Jul 5, 2026)_
 - **Starred [nestjs/event-emitter](https://github.com/nestjs/event-emitter)** _(Jul 4, 2026)_
-- **Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)** _(Jul 4, 2026)_
-- **Starred [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** _(Jul 4, 2026)_
 
 </details>
 
@@ -284,12 +282,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 4, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 3, 2026_<br />No description provided.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 
 ### Active Repositories
 
@@ -339,14 +337,14 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 4, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 3, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
   TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />WibeSoft Backend Case study
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 3, 2026_<br />No description provided.
 - [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) -
   C#<br />_Created: Jul 4, 2026 • Updated: Jul 14, 2026_<br />No description provided.
 - [**TakvimDemo**](https://github.com/sametcn99/TakvimDemo) -
