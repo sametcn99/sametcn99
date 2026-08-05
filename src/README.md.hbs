@@ -33,12 +33,6 @@ activity.others.length)}}
 {{/if}}
 {{#if issues.hasAny}}
 - [Project Issues](#project-issues)
-  {{#if issues.otherOpen.length}}
-  - [Open Issues](#open-issues)
-  {{/if}}
-  {{#if issues.helpWanted.length}}
-  - [Open Help Wanted Issues](#open-help-wanted-issues)
-  {{/if}}
 {{/if}}
 {{#if repos}}
 - [Repository Highlights](#repository-highlights)
@@ -233,48 +227,22 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ## Project Issues
 
-A quick overview of ongoing discussions, tracked bugs, and feature requests across my public projects.
+{{#if issues.length}}
+These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would be happy to collaborate.
 
-{{#if issues.otherOpen.length}}
-### Open Issues
-
-Active issues I am currently tracking or planning to work on.
-
-{{#each issues.otherOpen.visible}}
+{{#each issues.visible}}
 - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
 {{/each}}
 
-{{#if issues.otherOpen.hidden.length}}
+{{#if issues.hidden.length}}
 
 <details>
-  <summary>Show {{issues.otherOpen.hidden.length}} more open issues...</summary>
+  <summary>Show {{issues.hidden.length}} more issues...</summary>
 
-  {{#each issues.otherOpen.hidden}}
+  {{#each issues.hidden}}
   - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
   {{/each}}
 </details>
-{{/if}}
-{{/if}}
-
-{{#if issues.helpWanted.length}}
-### Open Help Wanted Issues
-
-If you landed here while looking for something to contribute, these are the issues across my repositories where I could use help.
-
-{{#each issues.helpWanted.visible}}
-- [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
-{{/each}}
-
-{{#if issues.helpWanted.hidden.length}}
-
-<details>
-  <summary>Show {{issues.helpWanted.hidden.length}} more issues...</summary>
-
-  {{#each issues.helpWanted.hidden}}
-  - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
-  {{/each}}
-</details>
-{{/if}}
 {{/if}}
 
 {{/if}}

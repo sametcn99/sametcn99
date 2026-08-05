@@ -80,6 +80,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) _(published: Aug 25, 2024)_<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
 - [**Electron Widgets**](https://sametcc.me/project/electron-widgets) _(published: Mar 25, 2024)_<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
 - [**Resume Builder**](https://sametcc.me/project/resume-builder) _(published: Jan 12, 2023)_<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
+
 </details>
 
 ## GitHub Snapshot
@@ -276,6 +277,7 @@ Recent releases across my repositories:
 - [**Release v2026.03.31.124109**](https://github.com/sametcn99/golter/releases/tag/v2026.03.31.124109) — [golter](https://github.com/sametcn99/golter) _(Mar 31, 2026)_
 - [**1.0**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.0) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Mar 28, 2026)_
 - [**v1.1.20**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.20) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 27, 2026)_
+
 </details>
 
 ### Recently Updated
@@ -416,7 +418,8 @@ Recent releases across my repositories:
 - [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) -
   HTML - [Homepage](https://sametcn99.github.io/)<br />_Created: Jan 6, 2024 • Updated: Apr 5, 2026_<br />redirect to personal website
 - [**ArcDrop**](https://github.com/sametcn99/ArcDrop) -
-C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
+  C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
+
 </details>
 
 ### Forked Repositories
@@ -439,7 +442,8 @@ C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description pro
 - [**RepoHub**](https://github.com/sametcn99/RepoHub) -
   TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
 - [**Letterboxd-to-IMDb**](https://github.com/sametcn99/Letterboxd-to-IMDb) -
-Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
+  Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
+
 </details>
 
 ## Automated Workflows

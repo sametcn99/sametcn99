@@ -203,46 +203,19 @@ export class DataFormatter {
 		};
 	}
 
-	/** Organizes open issues into open and help-wanted groups. */
+	/** Organizes all open issues into a single list for the template. */
 	static prepareIssuesData(issues: RepoIssue[]): {
-		helpWanted: {
-			visible: FormattedIssue[];
-			hidden: FormattedIssue[];
-			length: number;
-		};
-		otherOpen: {
-			visible: FormattedIssue[];
-			hidden: FormattedIssue[];
-			length: number;
-		};
+		visible: FormattedIssue[];
+		hidden: FormattedIssue[];
+		length: number;
 		hasAny: boolean;
 	} {
-		const helpWantedIssues = issues.filter((i) =>
-			i.labels?.some((l) =>
-				typeof l === "string" ? l === "help wanted" : l.name === "help wanted",
-			),
-		);
-		const otherIssues = issues.filter(
-			(i) =>
-				!i.labels?.some((l) =>
-					typeof l === "string"
-						? l === "help wanted"
-						: l.name === "help wanted",
-				),
-		);
-
-		const formatAndSplit = (list: RepoIssue[]) => {
-			const formatted = list.map((i) => DataFormatter.formatIssue(i));
-			return {
-				visible: formatted.slice(0, 5),
-				hidden: formatted.slice(5),
-				length: formatted.length,
-			};
-		};
+		const formatted = issues.map((i) => DataFormatter.formatIssue(i));
 
 		return {
-			helpWanted: formatAndSplit(helpWantedIssues),
-			otherOpen: formatAndSplit(otherIssues),
+			visible: formatted.slice(0, 5),
+			hidden: formatted.slice(5),
+			length: formatted.length,
 			hasAny: issues.length > 0,
 		};
 	}
