@@ -86,7 +86,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 182                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 72                                      |
 | **Active Repositories:**   | 63                                      |
 | **Forked Repositories:**   | 9                                       |
@@ -101,15 +101,23 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3b6448a...84f3e28](https://github.com/sametcn99/personal-website-blazor/compare/3b6448acdb28869b43b15ccc08d3990442f587a1...84f3e285106a5ccde405ce6085b7f25d1615654e)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d0f3be6...3b6448a](https://github.com/sametcn99/personal-website-blazor/compare/d0f3be61daae5117d7c20e3c22890e8744389eaa...3b6448acdb28869b43b15ccc08d3990442f587a1)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5164a2e...d0f3be6](https://github.com/sametcn99/personal-website-blazor/compare/5164a2eeb9b8aae0934a48c9cd811f2a0d69f697...d0f3be61daae5117d7c20e3c22890e8744389eaa)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7404130...5164a2e](https://github.com/sametcn99/personal-website-blazor/compare/7404130dcf013edbb8f00a91c8fe62c3c7728efa...5164a2eeb9b8aae0934a48c9cd811f2a0d69f697)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9bb8c4b...7404130](https://github.com/sametcn99/personal-website-blazor/compare/9bb8c4b3b7d4c9620e18e893cdc4755c943d8715...7404130dcf013edbb8f00a91c8fe62c3c7728efa)** _(Aug 5, 2026)_
+
+<details>
+  <summary>Show 55 more pushes...</summary>
+
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ac2a80b...9bb8c4b](https://github.com/sametcn99/personal-website-blazor/compare/ac2a80b8a55eb6eb54f1330c992bc6f445ca1a55...9bb8c4b3b7d4c9620e18e893cdc4755c943d8715)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [437c1ca...ac2a80b](https://github.com/sametcn99/personal-website-blazor/compare/437c1ca736096b7b0c05e23448330852cb849747...ac2a80b8a55eb6eb54f1330c992bc6f445ca1a55)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [540d0e9...437c1ca](https://github.com/sametcn99/personal-website-blazor/compare/540d0e98de17cea34ef5d86ad804a4596bd17adb...437c1ca736096b7b0c05e23448330852cb849747)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f897b8b...7df4468](https://github.com/sametcn99/sametcn99/compare/f897b8bbb699a76f04a3371aa9932e2650dd90a5...7df446818aee81410e840310baca521c4a153b4d)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [e91f377...f897b8b](https://github.com/sametcn99/sametcn99/compare/e91f3778d440bebf99bc5d8754cd453b1850abaf...f897b8bbb699a76f04a3371aa9932e2650dd90a5)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [457d821...5a736a4](https://github.com/sametcn99/my-stars-atlas/compare/457d82128a57d4a25bd6d607bcf514adcc4ac969...5a736a4222a3cd326711fbb84b43f7daae1bfd81)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [26a11d7...457d821](https://github.com/sametcn99/my-stars-atlas/compare/26a11d7fe90f9b2af18d1f4f7d84a50a808ae8b8...457d82128a57d4a25bd6d607bcf514adcc4ac969)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [8061d4a...26a11d7](https://github.com/sametcn99/my-stars-atlas/compare/8061d4a27e686f8bbe0398a80062a292c6ad2f66...26a11d7fe90f9b2af18d1f4f7d84a50a808ae8b8)** _(Aug 3, 2026)_
-
-<details>
-  <summary>Show 47 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [7213ad0...8061d4a](https://github.com/sametcn99/my-stars-atlas/compare/7213ad091cee63c0f92613237eda709e3b1e26fe...8061d4a27e686f8bbe0398a80062a292c6ad2f66)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [fe103df...7213ad0](https://github.com/sametcn99/my-stars-atlas/compare/fe103df195ea7c4788f98755ab5253420514b93d...7213ad091cee63c0f92613237eda709e3b1e26fe)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [1c33e54...597e5fe](https://github.com/sametcn99/my-stars-atlas/compare/1c33e5474615eb37c823c3f5b3dc9b7cd35adf65...597e5fea146446f7f4af6d1b606d09aa1d7c41d7)** _(Aug 3, 2026)_
@@ -279,12 +287,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 5, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 5, 2026_<br />No description provided.
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 3, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -334,10 +342,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 5, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 5, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 3, 2026_<br />No description provided.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
