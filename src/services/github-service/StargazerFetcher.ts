@@ -11,8 +11,13 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 		const repos = await this.reposPromise;
 
 		const stargazersByCompositeKey = new Map<string, Stargazer>();
+		let hasStargazerAccess = true;
 
 		for (const repo of repos) {
+			if (!hasStargazerAccess) {
+				break;
+			}
+
 			if ((repo.stargazers_count ?? 0) === 0) {
 				continue;
 			}
@@ -62,6 +67,26 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 					});
 				}
 			} catch (error) {
+				const status =
+					typeof error === "object" && error !== null && "status" in error
+						? Number((error as { status?: unknown }).status)
+						: null;
+				const message =
+					typeof error === "object" && error !== null && "message" in error
+						? String((error as { message?: unknown }).message)
+						: "";
+
+				if (
+					status === 403 &&
+					/message.*stargazers|resource not accessible/i.test(message)
+				) {
+					hasStargazerAccess = false;
+					console.warn(
+						"Skipping recent stargazers: token does not have permission to list stargazers for this integration.",
+					);
+					continue;
+				}
+
 				console.error(
 					`Failed to fetch stargazers for ${repo.full_name}:`,
 					error,
