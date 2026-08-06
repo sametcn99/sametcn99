@@ -101,15 +101,20 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [456b35f...f78dd93](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/456b35f941b054baf646a9c6fa58ba6e084b933f...f78dd9347444936344c94a38ee4572ca36c87c40)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7cd0c17...456b35f](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7cd0c170c0a9c825ea9d285b267fd49ed50f54b5...456b35f941b054baf646a9c6fa58ba6e084b933f)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [dfa2947...7cd0c17](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/dfa2947abd6818526158829ab4bc6885264a006a...7cd0c170c0a9c825ea9d285b267fd49ed50f54b5)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [437c1ca...1a9ae8d](https://github.com/sametcn99/personal-website-blazor/compare/437c1ca736096b7b0c05e23448330852cb849747...1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258)** _(Aug 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [84f3e28...437c1ca](https://github.com/sametcn99/personal-website-blazor/compare/84f3e285106a5ccde405ce6085b7f25d1615654e...437c1ca736096b7b0c05e23448330852cb849747)** _(Aug 5, 2026)_
+
+<details>
+  <summary>Show 60 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3b6448a...84f3e28](https://github.com/sametcn99/personal-website-blazor/compare/3b6448acdb28869b43b15ccc08d3990442f587a1...84f3e285106a5ccde405ce6085b7f25d1615654e)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d0f3be6...3b6448a](https://github.com/sametcn99/personal-website-blazor/compare/d0f3be61daae5117d7c20e3c22890e8744389eaa...3b6448acdb28869b43b15ccc08d3990442f587a1)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5164a2e...d0f3be6](https://github.com/sametcn99/personal-website-blazor/compare/5164a2eeb9b8aae0934a48c9cd811f2a0d69f697...d0f3be61daae5117d7c20e3c22890e8744389eaa)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7404130...5164a2e](https://github.com/sametcn99/personal-website-blazor/compare/7404130dcf013edbb8f00a91c8fe62c3c7728efa...5164a2eeb9b8aae0934a48c9cd811f2a0d69f697)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9bb8c4b...7404130](https://github.com/sametcn99/personal-website-blazor/compare/9bb8c4b3b7d4c9620e18e893cdc4755c943d8715...7404130dcf013edbb8f00a91c8fe62c3c7728efa)** _(Aug 5, 2026)_
-
-<details>
-  <summary>Show 55 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ac2a80b...9bb8c4b](https://github.com/sametcn99/personal-website-blazor/compare/ac2a80b8a55eb6eb54f1330c992bc6f445ca1a55...9bb8c4b3b7d4c9620e18e893cdc4755c943d8715)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [437c1ca...ac2a80b](https://github.com/sametcn99/personal-website-blazor/compare/437c1ca736096b7b0c05e23448330852cb849747...ac2a80b8a55eb6eb54f1330c992bc6f445ca1a55)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [540d0e9...437c1ca](https://github.com/sametcn99/personal-website-blazor/compare/540d0e98de17cea34ef5d86ad804a4596bd17adb...437c1ca736096b7b0c05e23448330852cb849747)** _(Aug 5, 2026)_
@@ -258,15 +263,16 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 Recent releases across my repositories:
 
+- [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
 - [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
 - [**v1.1.11**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 22, 2026)_
 - [**v1.1.10**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.10) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 21, 2026)_
 - [**v1.1.28**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.28) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jul 15, 2026)_
-- [**v1.1.27**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.27) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jun 13, 2026)_
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.1.27**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.27) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jun 13, 2026)_
 - [**v1.1.9**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.9) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 10, 2026)_
 - [**v1.1.8**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.8) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 7, 2026)_
 - [**v1.1.7**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.7) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 5, 2026)_
@@ -281,23 +287,22 @@ Recent releases across my repositories:
 - [**Release 1.1.6**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.6) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Apr 4, 2026)_
 - [**Release v2026.03.31.124109**](https://github.com/sametcn99/golter/releases/tag/v2026.03.31.124109) — [golter](https://github.com/sametcn99/golter) _(Mar 31, 2026)_
 - [**1.0**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.0) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Mar 28, 2026)_
-- [**v1.1.20**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.20) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Mar 27, 2026)_
 
 </details>
 
 ### Recently Updated
 
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★64 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 5, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 5, 2026_<br />No description provided.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 3, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★64 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Jul 15, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 5, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
 - [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★14 -
