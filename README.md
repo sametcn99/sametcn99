@@ -181,6 +181,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Releases
 
+- **Published release [1.2](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Aug 6, 2026)_
 - **Published release [1.1](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Aug 6, 2026)_
 
 ### Starred Repositories
@@ -269,15 +270,16 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 Recent releases across my repositories:
 
+- [**GitHub Spam Blocker 1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
 - [**GitHub Spam Blocker 1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
 - [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
 - [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
 - [**v1.1.11**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 22, 2026)_
-- [**v1.1.10**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.10) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 21, 2026)_
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.1.10**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.10) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 21, 2026)_
 - [**v1.1.28**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.28) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jul 15, 2026)_
 - [**v1.1.27**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.27) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jun 13, 2026)_
 - [**v1.1.9**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.9) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 10, 2026)_
@@ -292,7 +294,6 @@ Recent releases across my repositories:
 - [**v1.1.21**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.21) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Apr 23, 2026)_
 - [**Release v2026.04.11.144953**](https://github.com/sametcn99/golter/releases/tag/v2026.04.11.144953) — [golter](https://github.com/sametcn99/golter) _(Apr 11, 2026)_
 - [**Release 1.1.6**](https://github.com/sametcn99/booking-calendar/releases/tag/1.1.6) — [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Apr 4, 2026)_
-- [**Release v2026.03.31.124109**](https://github.com/sametcn99/golter/releases/tag/v2026.03.31.124109) — [golter](https://github.com/sametcn99/golter) _(Mar 31, 2026)_
 
 </details>
 
