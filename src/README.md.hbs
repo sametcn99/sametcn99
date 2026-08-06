@@ -9,67 +9,66 @@
 - [Latest Writing](#latest-writing)
 {{/if}}
 - [GitHub Snapshot](#github-snapshot)
-{{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
+{{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.releases.length
+activity.stars.length
 activity.others.length)}}
 - [Recent GitHub Activity](#recent-github-activity)
-  {{#if activity.pushes.length}}
-  - [Pushes](#pushes)
-  {{/if}}
-  {{#if activity.pullRequests.length}}
-  - [Pull Requests](#pull-requests)
-  {{/if}}
-  {{#if activity.comments.length}}
-  - [Comments](#comments)
-  {{/if}}
-  {{#if activity.releases.length}}
-  - [Releases](#releases)
-  {{/if}}
-  {{#if activity.stars.length}}
-  - [Starred Repositories](#starred-repositories)
-  {{/if}}
-  {{#if activity.others.length}}
-  - [Other Activity](#other-activity)
-  {{/if}}
+{{#if activity.pushes.length}}
+- [Pushes](#pushes)
+{{/if}}
+{{#if activity.pullRequests.length}}
+- [Pull Requests](#pull-requests)
+{{/if}}
+{{#if activity.comments.length}}
+- [Comments](#comments)
+{{/if}}
+{{#if activity.releases.length}}
+- [Releases](#releases)
+{{/if}}
+{{#if activity.stars.length}}
+- [Starred Repositories](#starred-repositories)
+{{/if}}
+{{#if activity.others.length}}
+- [Other Activity](#other-activity)
+{{/if}}
 {{/if}}
 {{#if issues.hasAny}}
 - [Project Issues](#project-issues)
 {{/if}}
 {{#if repos}}
 - [Repository Highlights](#repository-highlights)
-  {{#if releases.length}}
-  - [Releases](#releases)
-  {{/if}}
-  {{#if repos.recentlyUpdated.length}}
-  - [Recently Updated](#recently-updated)
-  {{/if}}
-  {{#if repos.active.length}}
-  - [Active Repositories](#active-repositories)
-  {{/if}}
-  {{#if repos.forked.length}}
-  - [Forked Repositories](#forked-repositories)
-  {{/if}}
-  {{#if repos.archived.length}}
-  - [Archived Repositories](#archived-repositories)
-  {{/if}}
+{{#if releases.length}}
+- [Releases](#releases)
+{{/if}}
+{{#if repos.recentlyUpdated.length}}
+- [Recently Updated](#recently-updated)
+{{/if}}
+{{#if repos.active.length}}
+- [Active Repositories](#active-repositories)
+{{/if}}
+{{#if repos.forked.length}}
+- [Forked Repositories](#forked-repositories)
+{{/if}}
+{{#if repos.archived.length}}
+- [Archived Repositories](#archived-repositories)
+{{/if}}
 {{/if}}
 {{#if stargazers.length}}
 - [Recent Stargazers](#recent-stargazers)
 {{/if}}
 
-- [Automated Workflows](#automated-workflows)
-
 ## Tech Stack
 
-| Area            | Technologies                                                                      |
+| Area | Technologies |
 | :-------------- | :-------------------------------------------------------------------------------- |
-| **Frontend**    | React, Next.js, Vue, Blazor                                                       |
-| **Backend**     | .NET, NestJS, Node.js, Bun                                                        |
-| **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB                                              |
-| **DevOps**      | GitHub Actions, Docker, Coolify                                                   |
-| **Desktop**     | Electron, .NET MAUI, .NET Windows Forms                                           |
-| **Languages**   | C#, TypeScript, JavaScript, Python                                                |
-| **Environment** | Fedora KDE, Ubuntu GNOME, Windows                                                 |
-| **AI Tools**    | Opencode, GitHub Copilot, v0, OpenWebUI, OpenRouter, Oh My OpenAgent, OpenChamber |
+| **Frontend** | React, Next.js, Vue, Blazor |
+| **Backend** | .NET, NestJS, Node.js, Bun |
+| **Data** | PostgreSQL, MS SQL, SQLite, InfluxDB |
+| **DevOps** | GitHub Actions, Docker, Coolify |
+| **Desktop** | Electron, .NET MAUI, .NET Windows Forms |
+| **Languages** | C#, TypeScript, JavaScript, Python |
+| **Environment** | Fedora KDE, Ubuntu GNOME, Windows |
+| **AI Tools** | Opencode, GitHub Copilot, v0, OpenWebUI, OpenRouter, Oh My OpenAgent, OpenChamber |
 
 
 {{#if posts.recent.length}}
@@ -78,7 +77,8 @@ activity.others.length)}}
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 {{#each posts.recent}}
-- [**{{title}}**]({{url}}){{#if publishedDate}} *(published: {{publishedDate}}{{#if updatedDate}} • updated: {{updatedDate}}{{/if}})*{{/if}}<br />{{summary}}
+- [**{{title}}**]({{url}}){{#if publishedDate}} *(published: {{publishedDate}}{{#if updatedDate}} • updated:
+{{updatedDate}}{{/if}})*{{/if}}<br />{{summary}}
 {{/each}}
 
 {{#if posts.older.length}}
@@ -86,7 +86,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
   <summary>Show {{posts.older.length}} more posts...</summary>
 
   {{#each posts.older}}
-  - [**{{title}}**]({{url}}){{#if publishedDate}} *(published: {{publishedDate}}{{#if updatedDate}} • updated: {{updatedDate}}{{/if}})*{{/if}}<br />{{summary}}
+  - [**{{title}}**]({{url}}){{#if publishedDate}} *(published: {{publishedDate}}{{#if updatedDate}} • updated:
+  {{updatedDate}}{{/if}})*{{/if}}<br />{{summary}}
   {{/each}}
 </details>
 {{/if}}
@@ -106,7 +107,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | **Top Languages:** | {{stats.topLanguages}} |
 | **Account Age:** | {{stats.accountAge}} |
 
-{{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.releases.length activity.stars.length
+{{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.releases.length
+activity.stars.length
 activity.others.length)}}
 
 ## Recent GitHub Activity
@@ -228,7 +230,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 ## Project Issues
 
 {{#if issues.length}}
-These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would be happy to collaborate.
+These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would
+be happy to collaborate.
 
 {{#each issues.visible}}
 - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
@@ -263,7 +266,8 @@ A curated view of recent work, actively maintained projects, forks, and archived
 Recent releases across my repositories:
 
 {{#each releases.visible}}
-- [**{{name}}**]({{html_url}}) — [{{repoName}}]({{repoUrl}}) {{#if publishedAt}}*({{publishedAt}})*{{/if}}{{#if isPrerelease}} ⚠️ pre-release{{/if}}
+- [**{{name}}**]({{html_url}}) — [{{repoName}}]({{repoUrl}}) {{#if publishedAt}}*({{publishedAt}})*{{/if}}{{#if
+isPrerelease}} ⚠️ pre-release{{/if}}
 {{/each}}
 
 {{#if releases.hidden.length}}
@@ -271,7 +275,8 @@ Recent releases across my repositories:
   <summary>Show {{releases.hidden.length}} more releases...</summary>
 
   {{#each releases.hidden}}
-  - [**{{name}}**]({{html_url}}) — [{{repoName}}]({{repoUrl}}) {{#if publishedAt}}*({{publishedAt}})*{{/if}}{{#if isPrerelease}} ⚠️ pre-release{{/if}}
+  - [**{{name}}**]({{html_url}}) — [{{repoName}}]({{repoUrl}}) {{#if publishedAt}}*({{publishedAt}})*{{/if}}{{#if
+  isPrerelease}} ⚠️ pre-release{{/if}}
   {{/each}}
 </details>
 {{/if}}
@@ -378,12 +383,3 @@ Thanks to everyone who has starred my repositories. Here are the most recent sup
 {{/if}}
 
 {{/if}}
-
-## Automated Workflows
-
-This GitHub profile is maintained and powered by several automated GitHub Actions to keep the repository fresh and engage with the community:
-
-- **[Update Profile README](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/update-readme.yml)**: Regularly fetches my latest GitHub activity, blog posts, and repository stats to keep this README automatically updated via a daily cron schedule. Sends Telegram notifications when new open issues are detected.
-- **[Auto Follow Back](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-back.yml)**: A scheduled workflow that automatically checks my recent followers and follows them back to return the favor. Sends Telegram notifications with a summary of followed accounts.
-- **[Follow Stargazers](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-stargazers.yml)**: A weekly workflow that follows users who star my repositories to engage with and appreciate community support. Sends Telegram notifications listing newly followed stargazers.
-- **I’m using an automated workflow to block spam accounts. If your account was blocked by mistake, please contact me.**
