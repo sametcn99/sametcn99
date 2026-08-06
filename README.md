@@ -8,19 +8,17 @@
 - [Latest Writing](#latest-writing)
 - [GitHub Snapshot](#github-snapshot)
 - [Recent GitHub Activity](#recent-github-activity)
-  - [Pushes](#pushes)
-  - [Comments](#comments)
-  - [Releases](#releases)
-  - [Starred Repositories](#starred-repositories)
-  - [Other Activity](#other-activity)
+- [Pushes](#pushes)
+- [Comments](#comments)
+- [Releases](#releases)
+- [Starred Repositories](#starred-repositories)
+- [Other Activity](#other-activity)
 - [Project Issues](#project-issues)
 - [Repository Highlights](#repository-highlights)
-  - [Releases](#releases)
-  - [Recently Updated](#recently-updated)
-  - [Active Repositories](#active-repositories)
-  - [Forked Repositories](#forked-repositories)
-
-- [Automated Workflows](#automated-workflows)
+- [Releases](#releases)
+- [Recently Updated](#recently-updated)
+- [Active Repositories](#active-repositories)
+- [Forked Repositories](#forked-repositories)
 
 ## Tech Stack
 
@@ -48,7 +46,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 <details>
   <summary>Show 31 more posts...</summary>
 
-- [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated: Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
+- [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated:
+  Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
 - [**Hiretea**](https://sametcc.me/project/hiretea) _(published: Apr 15, 2026)_<br />A self-hosted platform for running technical assessments end to end, bundling Gitea as the code host and PostgreSQL as the data store with no external SaaS dependencies.
 - [**Booking Calendar**](https://sametcc.me/project/booking-calendar) _(published: Apr 4, 2026)_<br />A self-hosted PWA designed for single-admin appointment management, running on your own server with shareable booking links, smart notifications, and integrations for webhooks, CalDAV, and iCal.
 - [**DreamTUI**](https://sametcc.me/project/dreamtui) _(published: Mar 17, 2026)_<br />A terminal-based generative dream engine that transforms written dreams into full-screen, animated ASCII art experiences using a two-stage AI pipeline.
@@ -102,15 +101,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [12dd1b0...5e70117](https://github.com/sametcn99/gh-block-spam-accounts/compare/12dd1b061394460f8d5a6d08c0e850e7d90c1752...5e70117367dd023bc2253011f666d862f6044c0a)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5a736a4...20b726c](https://github.com/sametcn99/my-stars-atlas/compare/5a736a4222a3cd326711fbb84b43f7daae1bfd81...20b726c133f40bf9a116828f24d044d4c4442e2c)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [456b35f...f78dd93](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/456b35f941b054baf646a9c6fa58ba6e084b933f...f78dd9347444936344c94a38ee4572ca36c87c40)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7cd0c17...456b35f](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7cd0c170c0a9c825ea9d285b267fd49ed50f54b5...456b35f941b054baf646a9c6fa58ba6e084b933f)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [dfa2947...7cd0c17](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/dfa2947abd6818526158829ab4bc6885264a006a...7cd0c170c0a9c825ea9d285b267fd49ed50f54b5)** _(Aug 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [437c1ca...1a9ae8d](https://github.com/sametcn99/personal-website-blazor/compare/437c1ca736096b7b0c05e23448330852cb849747...1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258)** _(Aug 5, 2026)_
 
 <details>
-  <summary>Show 61 more pushes...</summary>
+  <summary>Show 62 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [437c1ca...1a9ae8d](https://github.com/sametcn99/personal-website-blazor/compare/437c1ca736096b7b0c05e23448330852cb849747...1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [84f3e28...437c1ca](https://github.com/sametcn99/personal-website-blazor/compare/84f3e285106a5ccde405ce6085b7f25d1615654e...437c1ca736096b7b0c05e23448330852cb849747)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3b6448a...84f3e28](https://github.com/sametcn99/personal-website-blazor/compare/3b6448acdb28869b43b15ccc08d3990442f587a1...84f3e285106a5ccde405ce6085b7f25d1615654e)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d0f3be6...3b6448a](https://github.com/sametcn99/personal-website-blazor/compare/d0f3be61daae5117d7c20e3c22890e8744389eaa...3b6448acdb28869b43b15ccc08d3990442f587a1)** _(Aug 5, 2026)_
@@ -247,7 +247,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ## Project Issues
 
-These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would be happy to collaborate.
+These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would
+be happy to collaborate.
 
 - [**VitePress 2.x compatibility and support plan**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Jul 21, 2026)_
 - [**[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Updated May 16, 2026)_
@@ -462,12 +463,3 @@ Recent releases across my repositories:
   Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
 
 </details>
-
-## Automated Workflows
-
-This GitHub profile is maintained and powered by several automated GitHub Actions to keep the repository fresh and engage with the community:
-
-- **[Update Profile README](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/update-readme.yml)**: Regularly fetches my latest GitHub activity, blog posts, and repository stats to keep this README automatically updated via a daily cron schedule. Sends Telegram notifications when new open issues are detected.
-- **[Auto Follow Back](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-back.yml)**: A scheduled workflow that automatically checks my recent followers and follows them back to return the favor. Sends Telegram notifications with a summary of followed accounts.
-- **[Follow Stargazers](https://github.com/sametcn99/sametcn99/blob/main/.github/workflows/follow-stargazers.yml)**: A weekly workflow that follows users who star my repositories to engage with and appreciate community support. Sends Telegram notifications listing newly followed stargazers.
-- **I’m using an automated workflow to block spam accounts. If your account was blocked by mistake, please contact me.**
