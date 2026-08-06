@@ -70,7 +70,7 @@ jobs:
 
       - name: Run spam blocker
         id: spam-blocker
-        uses: sametcn99/gh-block-spam-accounts@1.1
+        uses: sametcn99/gh-block-spam-accounts@1.2
         with:
           github-token: ${{ secrets.SPAM_BLOCKER_TOKEN }}
           detection-sensitivity: ${{ github.event_name == 'workflow_dispatch' && inputs['detection-sensitivity'] || 'balanced' }}
