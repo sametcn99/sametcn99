@@ -85,7 +85,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 182                                     |
+| **Total Stars Earned:**    | 183                                     |
 | **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 72                                      |
 | **Active Repositories:**   | 63                                      |
@@ -259,15 +259,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would
 be happy to collaborate.
 
+- [**Add transitions when click zoom in/out buttons**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
+- [**When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
+- [**The zoom in/out buttons are not resized from the center of the container**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
+- [**When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
 - [**VitePress 2.x compatibility and support plan**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Jul 21, 2026)_
+
+<details>
+  <summary>Show 5 more issues...</summary>
+
 - [**[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Updated May 16, 2026)_
 - [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
 - [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
 - [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 11, 2026)_
-
-<details>
-  <summary>Show 1 more issues...</summary>
-
 - [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(Updated Oct 23, 2025)_
 
 </details>
@@ -311,14 +315,14 @@ Recent releases across my repositories:
 
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 7, 2026_<br />No description provided.
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★64 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 6, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 
 ### Active Repositories
 
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★64 -
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
