@@ -101,15 +101,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a9653f9...e9dce6e](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a9653f90870737d302ce4265486ef437a5a502e0...e9dce6ee3ea0958b31b68cc9b0568e955b96f2ea)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [f78dd93...a9653f9](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/f78dd9347444936344c94a38ee4572ca36c87c40...a9653f90870737d302ce4265486ef437a5a502e0)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [d80096c...12dd1b0](https://github.com/sametcn99/gh-block-spam-accounts/compare/d80096c92d68981b702faa86e50befb009080f76...12dd1b061394460f8d5a6d08c0e850e7d90c1752)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [9ff70ca...01d3d1b](https://github.com/sametcn99/sametcn99/compare/9ff70ca8873b63ba37476bcc29dfd9bfe37268bb...01d3d1be67293e8a2ec9865addfdb1729560d0c1)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [70a697e...d80096c](https://github.com/sametcn99/gh-block-spam-accounts/compare/70a697ee813f7b534392a16b8eae1c7ec165072c...d80096c92d68981b702faa86e50befb009080f76)** _(Aug 6, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [2e3204a...1072a49](https://github.com/sametcn99/sametcn99/compare/2e3204a719cb7854fe09d195d2b4c1eb81074586...1072a49260f67b510bfac83a8de9174ed940892d)** _(Aug 6, 2026)_
 
 <details>
-  <summary>Show 68 more pushes...</summary>
+  <summary>Show 69 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [2e3204a...1072a49](https://github.com/sametcn99/sametcn99/compare/2e3204a719cb7854fe09d195d2b4c1eb81074586...1072a49260f67b510bfac83a8de9174ed940892d)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [7ccdcbd...c8edaca](https://github.com/sametcn99/sametcn99/compare/7ccdcbd05515b8a921d52f26fb107f188ec5f7d1...c8edacaba766e80f0d672124e4b5d2bae71044cd)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [12dd1b0...5e70117](https://github.com/sametcn99/gh-block-spam-accounts/compare/12dd1b061394460f8d5a6d08c0e850e7d90c1752...5e70117367dd023bc2253011f666d862f6044c0a)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5a736a4...20b726c](https://github.com/sametcn99/my-stars-atlas/compare/5a736a4222a3cd326711fbb84b43f7daae1bfd81...20b726c133f40bf9a116828f24d044d4c4442e2c)** _(Aug 6, 2026)_
@@ -183,14 +184,48 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Comments
 
+- **Commented on issue [When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
+- **Commented on issue [The zoom in/out buttons are not resized from the center of the container](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
+- **Commented on issue [Add transitions when click zoom in/out buttons](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
+- **Commented on issue [When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
+
+<details>
+  <summary>Show 2 more comments...</summary>
+
 - **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Commented on issue [fix: preserve Source Control diff view for env files](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jul 19, 2026)_
 
+</details>
+
 ### Releases
 
-- **Published release [1.2](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Aug 6, 2026)_
-- **Published release [1.1](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Aug 6, 2026)_
+- **Published release [v1.1.30](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.30) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
+- **Published release [1.2](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Aug 6, 2026)_
+- **Published release [1.1](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Aug 6, 2026)_
+- **Published release [v1.1.29](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 5, 2026)_
+- **Published release [v1.1.12](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 1, 2026)_
+
+<details>
+  <summary>Show 15 more releases...</summary>
+
+- **Published release [v1.1.11](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Jul 22, 2026)_
+- **Published release [v1.1.10](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.10) in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Jul 21, 2026)_
+- **Published release [v1.1.28](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.28) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jul 15, 2026)_
+- **Published release [v1.1.27](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.27) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Jun 13, 2026)_
+- **Published release [v1.1.9](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.9) in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Jun 10, 2026)_
+- **Published release [v1.1.8](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.8) in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Jun 7, 2026)_
+- **Published release [v1.1.7](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.7) in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Jun 5, 2026)_
+- **Published release [v1.1.26](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.26) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 30, 2026)_
+- **Published release [v1.1.25](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.25) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 30, 2026)_
+- **Published release [v1.1.6](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.6) in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(May 16, 2026)_
+- **Published release [v1.1.24](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.24) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(May 12, 2026)_
+- **Published release [v1.1.23](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.23) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 25, 2026)_
+- **Published release [v1.1.22](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.22) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 24, 2026)_
+- **Published release [v1.1.21](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.21) in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Apr 23, 2026)_
+- **Published release [v2026.04.11.144953](https://github.com/sametcn99/golter/releases/tag/v2026.04.11.144953) in [golter](https://github.com/sametcn99/golter)** _(Apr 11, 2026)_
+
+</details>
 
 ### Starred Repositories
 
@@ -238,15 +273,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Closed issue [#12](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
+- **Closed issue [#16](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Assigned issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Discussion in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jul 29, 2026)_
-- **Public in [sametcn99/IsTakipSistemi](https://github.com/sametcn99/IsTakipSistemi)** _(Jul 4, 2026)_
-- **Public in [sametcn99/TakvimDemo](https://github.com/sametcn99/TakvimDemo)** _(Jul 14, 2026)_
 
 <details>
-  <summary>Show 4 more other activity...</summary>
+  <summary>Show 6 more other activity...</summary>
 
+- **Public in [sametcn99/IsTakipSistemi](https://github.com/sametcn99/IsTakipSistemi)** _(Jul 4, 2026)_
+- **Public in [sametcn99/TakvimDemo](https://github.com/sametcn99/TakvimDemo)** _(Jul 14, 2026)_
 - **Labeled issue [#59](https://github.com/bitdruid/python-wayback-machine-downloader/issues/59) in [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 11, 2026)_
 - **Opened issue [#59](https://github.com/bitdruid/python-wayback-machine-downloader/issues/59) in [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 11, 2026)_
 - **Forked [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader) to [sametcn99/python-wayback-machine-downloader](https://github.com/sametcn99/python-wayback-machine-downloader)** _(Jul 11, 2026)_
@@ -259,17 +296,15 @@ Recent public activity across pull requests, releases, discussions, and other op
 These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would
 be happy to collaborate.
 
-- [**Add transitions when click zoom in/out buttons**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
-- [**When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
-- [**The zoom in/out buttons are not resized from the center of the container**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
 - [**When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
-- [**VitePress 2.x compatibility and support plan**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Jul 21, 2026)_
-
-<details>
-  <summary>Show 5 more issues...</summary>
-
+- [**The zoom in/out buttons are not resized from the center of the container**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
+- [**Add transitions when click zoom in/out buttons**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Updated Aug 7, 2026)_
 - [**[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Updated May 16, 2026)_
 - [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
+
+<details>
+  <summary>Show 3 more issues...</summary>
+
 - [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
 - [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 11, 2026)_
 - [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(Updated Oct 23, 2025)_
@@ -313,17 +348,17 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 7, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 7, 2026_<br />No description provided.
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 6, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 
 ### Active Repositories
 
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 6, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 7, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★19 -
   TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
 - [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★14 -
