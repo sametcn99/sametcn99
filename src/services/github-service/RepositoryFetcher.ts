@@ -10,16 +10,19 @@ export class RepositoryFetcher implements IDataFetcher<Repository[]> {
 	) {}
 
 	/**
-	 * Returns up to 100 owned repositories sorted by stargazers and recency.
+	 * Returns all owned repositories sorted by stargazers and recency.
 	 */
 	async fetch(): Promise<Repository[]> {
 		const username = this.service.getUsername();
 		try {
-			const { data } = await this.octokit.rest.repos.listForUser({
-				username,
-				per_page: 100,
-				type: "owner",
-			});
+			const data = await this.octokit.paginate(
+				this.octokit.rest.repos.listForUser,
+				{
+					username,
+					per_page: 100,
+					type: "owner",
+				},
+			);
 
 			return data.sort((a, b) => {
 				const starsA = a.stargazers_count ?? 0;

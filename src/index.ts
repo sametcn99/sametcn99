@@ -130,7 +130,7 @@ class Application {
 
 		const context = {
 			posts: DataFormatter.preparePostsData(recentPosts),
-			activity: DataFormatter.prepareActivityData(eventsData),
+			activity: DataFormatter.prepareActivityData(eventsData, releases),
 			issues: DataFormatter.prepareIssuesData(openIssues),
 			stats: userStats,
 			repos: DataFormatter.prepareRepoData(reposData),

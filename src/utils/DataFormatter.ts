@@ -120,9 +120,12 @@ export class DataFormatter {
 	}
 
 	/**
-	 * Categorizes and formats events into groups for the README.
+	 * Categorizes and formats events plus repository releases into groups for the README.
 	 */
-	static prepareActivityData(events: GitHubEvent[]): {
+	static prepareActivityData(
+		events: GitHubEvent[],
+		releases: Release[] = [],
+	): {
 		pushes: { visible: string[]; hidden: string[]; length: number };
 		pullRequests: { visible: string[]; hidden: string[]; length: number };
 		comments: { visible: string[]; hidden: string[]; length: number };
@@ -156,7 +159,9 @@ export class DataFormatter {
 					groups.comments.push(formatted);
 					break;
 				case "ReleaseEvent":
-					groups.releases.push(formatted);
+					if (releases.length === 0) {
+						groups.releases.push(formatted);
+					}
 					break;
 				case "WatchEvent":
 					groups.stars.push(formatted);
@@ -165,6 +170,16 @@ export class DataFormatter {
 					groups.others.push(formatted);
 					break;
 			}
+		}
+
+		for (const release of releases) {
+			const publishedAt = release.published_at
+				? formatDateLong(release.published_at)
+				: "";
+			const date = publishedAt ? ` *(${publishedAt})*` : "";
+			groups.releases.push(
+				`**Published release [${release.tag_name}](${release.html_url}) in [${release.repo_name}](${release.repo_html_url})**${date}`,
+			);
 		}
 
 		const splitGroup = (items: string[], limit: number) => {
