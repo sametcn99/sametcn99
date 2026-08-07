@@ -22,9 +22,6 @@ activity.others.length)}}
 {{#if activity.comments.length}}
 - [Comments](#comments)
 {{/if}}
-{{#if activity.releases.length}}
-- [Releases](#releases)
-{{/if}}
 {{#if activity.stars.length}}
 - [Starred Repositories](#starred-repositories)
 {{/if}}
@@ -162,24 +159,6 @@ Recent public activity across pull requests, releases, discussions, and other op
   <summary>Show {{activity.comments.hidden.length}} more comments...</summary>
 
   {{#each activity.comments.hidden}}
-  - {{this}}
-  {{/each}}
-
-</details>
-{{/if}}
-{{/if}}
-
-{{#if activity.releases.length}}
-### Releases
-{{#each activity.releases.visible}}
-- {{this}}
-{{/each}}
-{{#if activity.releases.hidden.length}}
-
-<details>
-  <summary>Show {{activity.releases.hidden.length}} more releases...</summary>
-
-  {{#each activity.releases.hidden}}
   - {{this}}
   {{/each}}
 
