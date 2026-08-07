@@ -87,9 +87,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 183                                     |
-| **Commits (7d):**          | 60+                                     |
-| **Total Repositories:**    | 75                                      |
-| **Active Repositories:**   | 65                                      |
+| **Commits (7d):**          | 50+                                     |
+| **Total Repositories:**    | 74                                      |
+| **Active Repositories:**   | 64                                      |
 | **Forked Repositories:**   | 10                                      |
 | **Archived Repositories:** | 0                                       |
 | **Total Gists:**           | [55](https://gist.github.com/sametcn99) |
@@ -102,28 +102,21 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
-- **Pushed to &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test): [f848b96...25fdd79](https://github.com/sametcn99/test/compare/f848b9651a59901bade8ff872875b9fac5534d5a...25fdd79cda1980ef4c2f8f431a0c91a6637482e3)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test): [30ce755...f848b96](https://github.com/sametcn99/test/compare/30ce7550d560df1bfd319a1f35beab701e27633e...f848b9651a59901bade8ff872875b9fac5534d5a)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [409b902...accb7c4](https://github.com/sametcn99/personal-website-blazor/compare/409b9024fc38df764c4f7178bd292152692e3237...accb7c40fef4277c4d076cc5becd30cf6c09d755)** _(Aug 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [f3d9036...be7ee6f](https://github.com/sametcn99/n8n-automations/compare/f3d90362a829e9411b67af640450341d5ac93578...be7ee6f168041dab2cb79db8d638921b4af71e80)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1a9ae8d...409b902](https://github.com/sametcn99/personal-website-blazor/compare/1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258...409b9024fc38df764c4f7178bd292152692e3237)** _(Aug 7, 2026)_
-
-<details>
-  <summary>Show 87 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [2fd2199...b114fbe](https://github.com/sametcn99/n8n-automations/compare/2fd21995e2864b61721e9d74d2c7308453693bde...b114fbeb12209995afe65529d46d3a95176af384)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [accb7c4...392dd9e](https://github.com/sametcn99/personal-website-blazor/compare/accb7c40fef4277c4d076cc5becd30cf6c09d755...392dd9e7b050150a0098c6387d8fc1a67520c7fb)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test): [eeb66e2...6598da3](https://github.com/sametcn99/test/compare/eeb66e235a83cf7b74e8d8ced8e575ede8a7bd19...6598da3503928bddf2d6b10fe8c1f5507aa3f8b7)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test): [a8371af...aeb30a6](https://github.com/sametcn99/test/compare/a8371afba605d7d45434e43d32f4c2c7a2089bf1...aeb30a6aa2fd112c417fb9b2efbba28200e595d7)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test): [57dc364...eeb66e2](https://github.com/sametcn99/test/compare/57dc3641f97c7bcbe4c9b25469b2cd3580d9b842...eeb66e235a83cf7b74e8d8ced8e575ede8a7bd19)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test): [aeb30a6...57dc364](https://github.com/sametcn99/test/compare/aeb30a6aa2fd112c417fb9b2efbba28200e595d7...57dc3641f97c7bcbe4c9b25469b2cd3580d9b842)** _(Aug 7, 2026)_
+
+<details>
+  <summary>Show 80 more pushes...</summary>
+
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [e11f9c6...2fd2199](https://github.com/sametcn99/n8n-automations/compare/e11f9c6966d7ca4cda56f1fa46e12f7bc247a8da...2fd21995e2864b61721e9d74d2c7308453693bde)** _(Aug 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [3049ad6...e11f9c6](https://github.com/sametcn99/n8n-automations/compare/3049ad6ff15e651161c21454a4b4060e60d59bf4...e11f9c6966d7ca4cda56f1fa46e12f7bc247a8da)** _(Aug 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [be7ee6f...3049ad6](https://github.com/sametcn99/n8n-automations/compare/be7ee6f168041dab2cb79db8d638921b4af71e80...3049ad6ff15e651161c21454a4b4060e60d59bf4)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c06fea6...a003aca](https://github.com/sametcn99/sametcn99/compare/c06fea6de87c76a41894e84152fda99c173ebccb...a003aca7df6cc760d2d8a4ed018e7dd00aceb3c6)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [e9dce6e...218a76d](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/e9dce6ee3ea0958b31b68cc9b0568e955b96f2ea...218a76d448019dbf22f2e97978f2620099e70346)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [3c78722...4de8b4d](https://github.com/sametcn99/sametcn99/compare/3c787229b3f6a4513d86f82304e443f261856ea1...4de8b4daa3a8f58c2a231d076e028a3268238217)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test): [b5afb61...a8371af](https://github.com/sametcn99/test/compare/b5afb61d089bb3c1b9ba1421dcdab03a7ad73395...a8371afba605d7d45434e43d32f4c2c7a2089bf1)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a9653f9...e9dce6e](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a9653f90870737d302ce4265486ef437a5a502e0...e9dce6ee3ea0958b31b68cc9b0568e955b96f2ea)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [f78dd93...a9653f9](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/f78dd9347444936344c94a38ee4572ca36c87c40...a9653f90870737d302ce4265486ef437a5a502e0)** _(Aug 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [d80096c...12dd1b0](https://github.com/sametcn99/gh-block-spam-accounts/compare/d80096c92d68981b702faa86e50befb009080f76...12dd1b061394460f8d5a6d08c0e850e7d90c1752)** _(Aug 6, 2026)_
@@ -219,15 +212,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
 - **Starred [gotify/server](https://github.com/gotify/server)** _(Aug 7, 2026)_
 - **Starred [avenoxai/avenoxskills](https://github.com/avenoxai/avenoxskills)** _(Aug 4, 2026)_
 - **Starred [solarch-dev/solarch](https://github.com/solarch-dev/solarch)** _(Aug 3, 2026)_
 - **Starred [matrix-org/matrix.to](https://github.com/matrix-org/matrix.to)** _(Aug 2, 2026)_
-- **Starred [libredirect/browser_extension](https://github.com/libredirect/browser_extension)** _(Aug 2, 2026)_
 
 <details>
-  <summary>Show 31 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
+- **Starred [libredirect/browser_extension](https://github.com/libredirect/browser_extension)** _(Aug 2, 2026)_
 - **Starred [reactos/reactos](https://github.com/reactos/reactos)** _(Aug 2, 2026)_
 - **Starred [dbcodeio/public](https://github.com/dbcodeio/public)** _(Jul 31, 2026)_
 - **Starred [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)** _(Jul 28, 2026)_
@@ -266,14 +260,13 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 - **Forked [gotify/server](https://github.com/gotify/server) to [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 7, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations)** _(Aug 7, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/test](https://github.com/sametcn99/test)** _(Aug 7, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#16](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
+- **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 
 <details>
-  <summary>Show 9 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
-- **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Assigned issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Discussion in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jul 29, 2026)_
 - **Public in [sametcn99/IsTakipSistemi](https://github.com/sametcn99/IsTakipSistemi)** _(Jul 4, 2026)_
@@ -342,11 +335,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
-- [**test**](https://github.com/sametcn99/test)<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />No description provided.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
   JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 7, 2026_<br />No description provided.
+- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
+  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 7, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
 ### Active Repositories
 
@@ -362,7 +356,7 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 59 more repositories...</summary>
+  <summary>Show 58 more repositories...</summary>
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★10 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -396,7 +390,6 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**test**](https://github.com/sametcn99/test)<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 7, 2026_<br />No description provided.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
