@@ -87,7 +87,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 183                                     |
-| **Commits (7d):**          | 40+                                     |
+| **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 74                                      |
 | **Active Repositories:**   | 64                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -102,15 +102,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [dc0e0c4...6353aa2](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/dc0e0c4e78494a77981f68e112553760ecd852d8...6353aa26586e7a8380c9b4880718c5f057c015c8)** _(Aug 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a94f5d4...dc0e0c4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a94f5d4e8194c398c1743e8d7dcdbe07743d649e...dc0e0c4e78494a77981f68e112553760ecd852d8)** _(Aug 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [c8d77e4...a94f5d4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/c8d77e4b672f804ef4e36161e95f28942ae7f22a...a94f5d4e8194c398c1743e8d7dcdbe07743d649e)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [9dc7396...c8d77e4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/9dc7396a0db61362fafd00412f314d7cb159d797...c8d77e4b672f804ef4e36161e95f28942ae7f22a)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [8eadaac...9dc7396](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c...9dc7396a0db61362fafd00412f314d7cb159d797)** _(Aug 7, 2026)_
+
+<details>
+  <summary>Show 87 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [e97624b...8eadaac](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/e97624bcf588daa9dd8ebdd83e301e46513d1e99...8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [218a76d...e97624b](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/218a76d448019dbf22f2e97978f2620099e70346...e97624bcf588daa9dd8ebdd83e301e46513d1e99)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [409b902...accb7c4](https://github.com/sametcn99/personal-website-blazor/compare/409b9024fc38df764c4f7178bd292152692e3237...accb7c40fef4277c4d076cc5becd30cf6c09d755)** _(Aug 7, 2026)_
-
-<details>
-  <summary>Show 84 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [f3d9036...be7ee6f](https://github.com/sametcn99/n8n-automations/compare/f3d90362a829e9411b67af640450341d5ac93578...be7ee6f168041dab2cb79db8d638921b4af71e80)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1a9ae8d...409b902](https://github.com/sametcn99/personal-website-blazor/compare/1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258...409b9024fc38df764c4f7178bd292152692e3237)** _(Aug 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [2fd2199...b114fbe](https://github.com/sametcn99/n8n-automations/compare/2fd21995e2864b61721e9d74d2c7308453693bde...b114fbeb12209995afe65529d46d3a95176af384)** _(Aug 7, 2026)_
@@ -305,15 +308,16 @@ A curated view of recent work, actively maintained projects, forks, and archived
 
 Recent releases across my repositories:
 
+- [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
 - [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
 - [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
 - [**release-20260807-173241**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-173241) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 - [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 - [**release-20260807-155649**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-155649) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 - [**v1.1.30**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.30) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 6, 2026)_
 - [**GitHub Spam Blocker 1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
@@ -328,18 +332,17 @@ Recent releases across my repositories:
 - [**v1.1.8**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.8) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 7, 2026)_
 - [**v1.1.7**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.7) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jun 5, 2026)_
 - [**v1.1.26**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.26) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(May 30, 2026)_
-- [**v1.1.25**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.25) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(May 30, 2026)_
 
 </details>
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 8, 2026_<br />No description provided.
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 8, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
   JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 7, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -389,12 +392,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 8, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 7, 2026_<br />No description provided.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
   JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 7, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 6, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
