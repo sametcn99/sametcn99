@@ -9,6 +9,7 @@
 - [GitHub Snapshot](#github-snapshot)
 - [Recent GitHub Activity](#recent-github-activity)
 - [Pushes](#pushes)
+- [Pull Requests](#pull-requests)
 - [Comments](#comments)
 - [Starred Repositories](#starred-repositories)
 - [Other Activity](#other-activity)
@@ -201,6 +202,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 </details>
 
+### Pull Requests
+
+- **Opened pull request [#1024](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Aug 8, 2026)_
+
 ### Comments
 
 - **Commented on issue [When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
@@ -266,15 +271,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 8, 2026)_
 - **Closed issue [#17](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Forked [gotify/server](https://github.com/gotify/server) to [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 7, 2026)_
-- **Created branch &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations)** _(Aug 7, 2026)_
 
 <details>
-  <summary>Show 11 more other activity...</summary>
+  <summary>Show 12 more other activity...</summary>
 
+- **Created branch &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations)** _(Aug 7, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#16](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
@@ -481,7 +487,7 @@ Recent releases across my repositories:
 
 ### Forked Repositories
 
-- [**server**](https://github.com/sametcn99/server) - [Homepage](https://gotify.net)<br />_Created: Aug 7, 2026 • Updated: Aug 6, 2026_<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [**server**](https://github.com/sametcn99/server) - [Homepage](https://gotify.net)<br />_Created: Aug 7, 2026 • Updated: Aug 8, 2026_<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader)<br />_Created: Jul 11, 2026 • Updated: Jul 7, 2026_<br />Query and download archive.org as simple as possible.
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
   JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
