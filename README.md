@@ -225,15 +225,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)** _(Aug 8, 2026)_
+- **Starred [extension-js/extension.js](https://github.com/extension-js/extension.js)** _(Aug 8, 2026)_
 - **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 7, 2026)_
 - **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
 - **Starred [gotify/server](https://github.com/gotify/server)** _(Aug 7, 2026)_
-- **Starred [avenoxai/avenoxskills](https://github.com/avenoxai/avenoxskills)** _(Aug 4, 2026)_
-- **Starred [solarch-dev/solarch](https://github.com/solarch-dev/solarch)** _(Aug 3, 2026)_
 
 <details>
-  <summary>Show 33 more starred repositories...</summary>
+  <summary>Show 35 more starred repositories...</summary>
 
+- **Starred [avenoxai/avenoxskills](https://github.com/avenoxai/avenoxskills)** _(Aug 4, 2026)_
+- **Starred [solarch-dev/solarch](https://github.com/solarch-dev/solarch)** _(Aug 3, 2026)_
 - **Starred [matrix-org/matrix.to](https://github.com/matrix-org/matrix.to)** _(Aug 2, 2026)_
 - **Starred [libredirect/browser_extension](https://github.com/libredirect/browser_extension)** _(Aug 2, 2026)_
 - **Starred [reactos/reactos](https://github.com/reactos/reactos)** _(Aug 2, 2026)_
