@@ -235,7 +235,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 7, 2026)_
 
 <details>
-  <summary>Show 37 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
 - **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
 - **Starred [gotify/server](https://github.com/gotify/server)** _(Aug 7, 2026)_
@@ -269,11 +269,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)** _(Jul 15, 2026)_
 - **Starred [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)** _(Jul 14, 2026)_
 - **Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)** _(Jul 11, 2026)_
-- **Starred [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 10, 2026)_
-- **Starred [jsvine/waybackpack](https://github.com/jsvine/waybackpack)** _(Jul 10, 2026)_
-- **Starred [soxoj/maigret](https://github.com/soxoj/maigret)** _(Jul 10, 2026)_
-- **Starred [amnottdevv/AtDork](https://github.com/amnottdevv/AtDork)** _(Jul 10, 2026)_
-- **Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** _(Jul 10, 2026)_
 
 </details>
 
@@ -352,10 +347,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 10, 2026_<br />No description provided.
 - [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) -
   TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 9, 2026_<br />No description provided.
 - [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★65 -
   TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 8, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
 
@@ -407,10 +402,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 10, 2026_<br />No description provided.
 - [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) -
   TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 9, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 7, 2026_<br />No description provided.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
