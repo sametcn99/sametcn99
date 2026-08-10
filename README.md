@@ -87,7 +87,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 183                                     |
+| **Total Stars Earned:**    | 185                                     |
 | **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 75                                      |
 | **Active Repositories:**   | 65                                      |
@@ -110,7 +110,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a94f5d4...dc0e0c4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a94f5d4e8194c398c1743e8d7dcdbe07743d649e...dc0e0c4e78494a77981f68e112553760ecd852d8)** _(Aug 8, 2026)_
 
 <details>
-  <summary>Show 87 more pushes...</summary>
+  <summary>Show 86 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [c8d77e4...a94f5d4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/c8d77e4b672f804ef4e36161e95f28942ae7f22a...a94f5d4e8194c398c1743e8d7dcdbe07743d649e)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [9dc7396...c8d77e4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/9dc7396a0db61362fafd00412f314d7cb159d797...c8d77e4b672f804ef4e36161e95f28942ae7f22a)** _(Aug 8, 2026)_
@@ -198,7 +198,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [4057916...3fa4e57](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/4057916eb4068147289db8acdc270d7fa3a46e54...3fa4e572f13d2f6270b0cd7f42228a99a3a19998)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7c36faf...4057916](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7c36faf566f05ad80510ed499a1923d1fffd4c9e...4057916eb4068147289db8acdc270d7fa3a46e54)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [56101b6...52ab262](https://github.com/sametcn99/HTWind/compare/56101b62729d7f625c63f422f44eaed284c1cbd3...52ab2624b8f90adac42c90f809f402abc773ef26)** _(Jul 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/local-folder-file-explorer](https://github.com/sametcn99/local-folder-file-explorer): [966292e...e15943c](https://github.com/sametcn99/local-folder-file-explorer/compare/966292e395e5decc2ff557fc1fe0ade86724e815...e15943c641391ef32ef1424fcaa75d0795f54f36)** _(Jul 11, 2026)_
 
 </details>
 
@@ -277,7 +276,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 
 <details>
-  <summary>Show 12 more other activity...</summary>
+  <summary>Show 10 more other activity...</summary>
 
 - **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Forked [gotify/server](https://github.com/gotify/server) to [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 7, 2026)_
@@ -289,8 +288,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Discussion in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jul 29, 2026)_
 - **Public in [sametcn99/IsTakipSistemi](https://github.com/sametcn99/IsTakipSistemi)** _(Jul 4, 2026)_
 - **Public in [sametcn99/TakvimDemo](https://github.com/sametcn99/TakvimDemo)** _(Jul 14, 2026)_
-- **Labeled issue [#59](https://github.com/bitdruid/python-wayback-machine-downloader/issues/59) in [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 11, 2026)_
-- **Opened issue [#59](https://github.com/bitdruid/python-wayback-machine-downloader/issues/59) in [bitdruid/python-wayback-machine-downloader](https://github.com/bitdruid/python-wayback-machine-downloader)** _(Jul 11, 2026)_
 
 </details>
 
@@ -372,12 +369,12 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★7 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jul 14, 2026_<br />the missing html based widget manager created with .net
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★5 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★5 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Aug 1, 2026_<br />A userscript that automatically hides viewed job postings in LinkedIn Jobs.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★4 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★4 -
   TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
