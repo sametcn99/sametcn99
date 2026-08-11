@@ -103,15 +103,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ec40e9f...8e77d71](https://github.com/sametcn99/personal-website-blazor/compare/ec40e9fe4f8df3a8cadbfdfb81b4784bc1320485...8e77d719d59ff8f2a7046037975ac64ced885a3f)** _(Aug 11, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [392dd9e...ec40e9f](https://github.com/sametcn99/personal-website-blazor/compare/392dd9e7b050150a0098c6387d8fc1a67520c7fb...ec40e9fe4f8df3a8cadbfdfb81b4784bc1320485)** _(Aug 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [2c466bc...e05ab22](https://github.com/sametcn99/gotify-web-extension/compare/2c466bc7e8182b09b4736ff52f1c89cbc72d7661...e05ab22eae64133e135ac06155a80afc3515bc64)** _(Aug 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [56faa3c...2c466bc](https://github.com/sametcn99/gotify-web-extension/compare/56faa3c2ef2ffcfe6e8ff4ecf9da6aabf4a8fec5...2c466bc7e8182b09b4736ff52f1c89cbc72d7661)** _(Aug 9, 2026)_
 - **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [a17d847...f0c163b](https://github.com/sametcn99/server/compare/a17d84744108e524b0dc0af764353262fb1c2eb3...f0c163bfbac26aa9d5406ec7014c959960484f9d)** _(Aug 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [dc0e0c4...6353aa2](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/dc0e0c4e78494a77981f68e112553760ecd852d8...6353aa26586e7a8380c9b4880718c5f057c015c8)** _(Aug 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a94f5d4...dc0e0c4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a94f5d4e8194c398c1743e8d7dcdbe07743d649e...dc0e0c4e78494a77981f68e112553760ecd852d8)** _(Aug 8, 2026)_
 
 <details>
-  <summary>Show 86 more pushes...</summary>
+  <summary>Show 88 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [dc0e0c4...6353aa2](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/dc0e0c4e78494a77981f68e112553760ecd852d8...6353aa26586e7a8380c9b4880718c5f057c015c8)** _(Aug 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a94f5d4...dc0e0c4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a94f5d4e8194c398c1743e8d7dcdbe07743d649e...dc0e0c4e78494a77981f68e112553760ecd852d8)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [c8d77e4...a94f5d4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/c8d77e4b672f804ef4e36161e95f28942ae7f22a...a94f5d4e8194c398c1743e8d7dcdbe07743d649e)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [9dc7396...c8d77e4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/9dc7396a0db61362fafd00412f314d7cb159d797...c8d77e4b672f804ef4e36161e95f28942ae7f22a)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [8eadaac...9dc7396](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c...9dc7396a0db61362fafd00412f314d7cb159d797)** _(Aug 7, 2026)_
@@ -339,12 +341,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 11, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 11, 2026_<br />No description provided.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
   HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 10, 2026_<br />No description provided.
-- [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) -
-  TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
 
 ### Active Repositories
 
@@ -394,14 +396,14 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 11, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 11, 2026_<br />No description provided.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
   HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 10, 2026_<br />No description provided.
 - [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) -
   TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 7, 2026_<br />No description provided.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
   JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
