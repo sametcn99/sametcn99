@@ -88,7 +88,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 185                                     |
-| **Commits (7d):**          | 20+                                     |
+| **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 76                                      |
 | **Active Repositories:**   | 66                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -103,15 +103,21 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f7109dd...ab12a88](https://github.com/sametcn99/personal-website-blazor/compare/f7109dd2de702e39bc5fa7bd43a884751e814484...ab12a8830c384c2f458c07a102065bacef18df70)** _(Aug 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3e56ec4...f7109dd](https://github.com/sametcn99/personal-website-blazor/compare/3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3...f7109dd2de702e39bc5fa7bd43a884751e814484)** _(Aug 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d8db3fc...3e56ec4](https://github.com/sametcn99/personal-website-blazor/compare/d8db3fcb61532293919a5ba53764b77472567e13...3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3)** _(Aug 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0226b01...d8db3fc](https://github.com/sametcn99/personal-website-blazor/compare/0226b014bdc33c0eb6462eb7c5753eee2491e659...d8db3fcb61532293919a5ba53764b77472567e13)** _(Aug 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [717f676...0226b01](https://github.com/sametcn99/personal-website-blazor/compare/717f67690ddfa48f9819048bc81d2ab67d8fc5d4...0226b014bdc33c0eb6462eb7c5753eee2491e659)** _(Aug 13, 2026)_
+
+<details>
+  <summary>Show 97 more pushes...</summary>
+
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8e77d71...717f676](https://github.com/sametcn99/personal-website-blazor/compare/8e77d719d59ff8f2a7046037975ac64ced885a3f...717f67690ddfa48f9819048bc81d2ab67d8fc5d4)** _(Aug 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bf8185e...28dbeb2](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bf8185eb6d72615fe469fc07c10a10fd43eae26c...28dbeb285f8aefd46aa8c87a33005530d04a5aa9)** _(Aug 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [e0a0b85...bf8185e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/e0a0b851b4b952f28b74dfbd407e9d855abb8c7b...bf8185eb6d72615fe469fc07c10a10fd43eae26c)** _(Aug 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor): [1458815...309ca1e](https://github.com/sametcn99/pdf-email-extractor/compare/1458815568285d3af2bffcaa30373e16855e8a5b...309ca1ebf91b22fde48d7a179020a66eefa4875a)** _(Aug 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ec40e9f...8e77d71](https://github.com/sametcn99/personal-website-blazor/compare/ec40e9fe4f8df3a8cadbfdfb81b4784bc1320485...8e77d719d59ff8f2a7046037975ac64ced885a3f)** _(Aug 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [392dd9e...ec40e9f](https://github.com/sametcn99/personal-website-blazor/compare/392dd9e7b050150a0098c6387d8fc1a67520c7fb...ec40e9fe4f8df3a8cadbfdfb81b4784bc1320485)** _(Aug 11, 2026)_
-
-<details>
-  <summary>Show 91 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [2c466bc...e05ab22](https://github.com/sametcn99/gotify-web-extension/compare/2c466bc7e8182b09b4736ff52f1c89cbc72d7661...e05ab22eae64133e135ac06155a80afc3515bc64)** _(Aug 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [56faa3c...2c466bc](https://github.com/sametcn99/gotify-web-extension/compare/56faa3c2ef2ffcfe6e8ff4ecf9da6aabf4a8fec5...2c466bc7e8182b09b4736ff52f1c89cbc72d7661)** _(Aug 9, 2026)_
 - **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [a17d847...f0c163b](https://github.com/sametcn99/server/compare/a17d84744108e524b0dc0af764353262fb1c2eb3...f0c163bfbac26aa9d5406ec7014c959960484f9d)** _(Aug 8, 2026)_
@@ -229,15 +235,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
 - **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
 - **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
 - **Starred [LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018](https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018)** _(Aug 11, 2026)_
 - **Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** _(Aug 9, 2026)_
-- **Starred [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev)** _(Aug 9, 2026)_
 
 <details>
   <summary>Show 34 more starred repositories...</summary>
 
+- **Starred [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev)** _(Aug 9, 2026)_
 - **Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)** _(Aug 8, 2026)_
 - **Starred [extension-js/extension.js](https://github.com/extension-js/extension.js)** _(Aug 8, 2026)_
 - **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 7, 2026)_
@@ -271,7 +278,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)** _(Jul 15, 2026)_
 - **Starred [yiisoft/docs](https://github.com/yiisoft/docs)** _(Jul 15, 2026)_
 - **Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)** _(Jul 15, 2026)_
-- **Starred [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)** _(Jul 14, 2026)_
 
 </details>
 
@@ -348,12 +354,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 13, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 13, 2026_<br />No description provided.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Aug 11, 2026_<br />A browser tool that hides or highlights the job postings you have already viewed on LinkedIn — so you can focus on what is new.
-- [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
-  HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 11, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -403,12 +409,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 13, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 13, 2026_<br />No description provided.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
   HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 11, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 11, 2026_<br />No description provided.
 - [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) -
   TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
