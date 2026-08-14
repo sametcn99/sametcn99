@@ -110,7 +110,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [717f676...0226b01](https://github.com/sametcn99/personal-website-blazor/compare/717f67690ddfa48f9819048bc81d2ab67d8fc5d4...0226b014bdc33c0eb6462eb7c5753eee2491e659)** _(Aug 13, 2026)_
 
 <details>
-  <summary>Show 97 more pushes...</summary>
+  <summary>Show 96 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8e77d71...717f676](https://github.com/sametcn99/personal-website-blazor/compare/8e77d719d59ff8f2a7046037975ac64ced885a3f...717f67690ddfa48f9819048bc81d2ab67d8fc5d4)** _(Aug 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bf8185e...28dbeb2](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bf8185eb6d72615fe469fc07c10a10fd43eae26c...28dbeb285f8aefd46aa8c87a33005530d04a5aa9)** _(Aug 11, 2026)_
@@ -208,7 +208,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [3fa4e57...9950860](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/3fa4e572f13d2f6270b0cd7f42228a99a3a19998...99508608a1e608b0dcc983f106537b8b41c1fcc1)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [4057916...3fa4e57](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/4057916eb4068147289db8acdc270d7fa3a46e54...3fa4e572f13d2f6270b0cd7f42228a99a3a19998)** _(Jul 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7c36faf...4057916](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7c36faf566f05ad80510ed499a1923d1fffd4c9e...4057916eb4068147289db8acdc270d7fa3a46e54)** _(Jul 15, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [56101b6...52ab262](https://github.com/sametcn99/HTWind/compare/56101b62729d7f625c63f422f44eaed284c1cbd3...52ab2624b8f90adac42c90f809f402abc773ef26)** _(Jul 14, 2026)_
 
 </details>
 
@@ -357,10 +356,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 14, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 13, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 13, 2026_<br />No description provided.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Aug 11, 2026_<br />A browser tool that hides or highlights the job postings you have already viewed on LinkedIn — so you can focus on what is new.
 
@@ -412,10 +411,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 14, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 13, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 13, 2026_<br />No description provided.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
   HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 11, 2026_<br />No description provided.
 - [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) -
