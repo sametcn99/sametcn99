@@ -103,15 +103,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [f0c163b...965a5db](https://github.com/sametcn99/server/compare/f0c163bfbac26aa9d5406ec7014c959960484f9d...965a5dbad664c80bd7e25e3d660403628486ca5d)** _(Aug 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f7109dd...ab12a88](https://github.com/sametcn99/personal-website-blazor/compare/f7109dd2de702e39bc5fa7bd43a884751e814484...ab12a8830c384c2f458c07a102065bacef18df70)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3e56ec4...f7109dd](https://github.com/sametcn99/personal-website-blazor/compare/3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3...f7109dd2de702e39bc5fa7bd43a884751e814484)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d8db3fc...3e56ec4](https://github.com/sametcn99/personal-website-blazor/compare/d8db3fcb61532293919a5ba53764b77472567e13...3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0226b01...d8db3fc](https://github.com/sametcn99/personal-website-blazor/compare/0226b014bdc33c0eb6462eb7c5753eee2491e659...d8db3fcb61532293919a5ba53764b77472567e13)** _(Aug 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [717f676...0226b01](https://github.com/sametcn99/personal-website-blazor/compare/717f67690ddfa48f9819048bc81d2ab67d8fc5d4...0226b014bdc33c0eb6462eb7c5753eee2491e659)** _(Aug 13, 2026)_
 
 <details>
-  <summary>Show 96 more pushes...</summary>
+  <summary>Show 94 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [717f676...0226b01](https://github.com/sametcn99/personal-website-blazor/compare/717f67690ddfa48f9819048bc81d2ab67d8fc5d4...0226b014bdc33c0eb6462eb7c5753eee2491e659)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8e77d71...717f676](https://github.com/sametcn99/personal-website-blazor/compare/8e77d719d59ff8f2a7046037975ac64ced885a3f...717f67690ddfa48f9819048bc81d2ab67d8fc5d4)** _(Aug 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bf8185e...28dbeb2](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bf8185eb6d72615fe469fc07c10a10fd43eae26c...28dbeb285f8aefd46aa8c87a33005530d04a5aa9)** _(Aug 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [e0a0b85...bf8185e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/e0a0b851b4b952f28b74dfbd407e9d855abb8c7b...bf8185eb6d72615fe469fc07c10a10fd43eae26c)** _(Aug 11, 2026)_
@@ -205,9 +206,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c333c63...b1331a1](https://github.com/sametcn99/personal-website-blazor/compare/c333c6332708563d00c9f3af3be779d4864f807e...b1331a17a14d085e64551645cff73713af94292e)** _(Jul 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a8efccd...c333c63](https://github.com/sametcn99/personal-website-blazor/compare/a8efccd9d77dc331156f9bbddc7a00bf11309031...c333c6332708563d00c9f3af3be779d4864f807e)** _(Jul 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [9950860...dfa2947](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/99508608a1e608b0dcc983f106537b8b41c1fcc1...dfa2947abd6818526158829ab4bc6885264a006a)** _(Jul 15, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [3fa4e57...9950860](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/3fa4e572f13d2f6270b0cd7f42228a99a3a19998...99508608a1e608b0dcc983f106537b8b41c1fcc1)** _(Jul 15, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [4057916...3fa4e57](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/4057916eb4068147289db8acdc270d7fa3a46e54...3fa4e572f13d2f6270b0cd7f42228a99a3a19998)** _(Jul 15, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7c36faf...4057916](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7c36faf566f05ad80510ed499a1923d1fffd4c9e...4057916eb4068147289db8acdc270d7fa3a46e54)** _(Jul 15, 2026)_
 
 </details>
 
@@ -241,7 +239,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
 
 <details>
-  <summary>Show 37 more starred repositories...</summary>
+  <summary>Show 36 more starred repositories...</summary>
 
 - **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
 - **Starred [LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018](https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018)** _(Aug 11, 2026)_
@@ -279,7 +277,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)** _(Jul 15, 2026)_
 - **Starred [dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)** _(Jul 15, 2026)_
 - **Starred [yiisoft/docs](https://github.com/yiisoft/docs)** _(Jul 15, 2026)_
-- **Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)** _(Jul 15, 2026)_
 
 </details>
 
@@ -504,7 +501,7 @@ Recent releases across my repositories:
 
 ### Forked Repositories
 
-- [**server**](https://github.com/sametcn99/server) - [Homepage](https://gotify.net)<br />_Created: Aug 7, 2026 • Updated: Aug 8, 2026_<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [**server**](https://github.com/sametcn99/server) - [Homepage](https://gotify.net)<br />_Created: Aug 7, 2026 • Updated: Aug 14, 2026_<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader)<br />_Created: Jul 11, 2026 • Updated: Jul 7, 2026_<br />Query and download archive.org as simple as possible.
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
   JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
