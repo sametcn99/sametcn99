@@ -88,7 +88,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 187                                     |
-| **Commits (7d):**          | 10+                                     |
+| **Commits (7d):**          | 20+                                     |
 | **Total Repositories:**    | 76                                      |
 | **Active Repositories:**   | 66                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -103,15 +103,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [5e70117...ac622e2](https://github.com/sametcn99/gh-block-spam-accounts/compare/5e70117367dd023bc2253011f666d862f6044c0a...ac622e206cdb7d067deb2c2d74e43cf53f49a7d2)** _(Aug 15, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [20b726c...5cdbbd7](https://github.com/sametcn99/my-stars-atlas/compare/20b726c133f40bf9a116828f24d044d4c4442e2c...5cdbbd76db5e76f044fe55e50b278ffa2b705b67)** _(Aug 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [09b82f0...8542a02](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/09b82f0d5b958099b416422399f9bf5b86d8c0a6...8542a029b0cc1530377fb363e2449ed52030f98a)** _(Aug 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [54c50cb...09b82f0](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/54c50cb3e075e7b4dbdde43759aedc02665e7701...09b82f0d5b958099b416422399f9bf5b86d8c0a6)** _(Aug 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [28dbeb2...54c50cb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/28dbeb285f8aefd46aa8c87a33005530d04a5aa9...54c50cb3e075e7b4dbdde43759aedc02665e7701)** _(Aug 14, 2026)_
-- **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [f0c163b...965a5db](https://github.com/sametcn99/server/compare/f0c163bfbac26aa9d5406ec7014c959960484f9d...965a5dbad664c80bd7e25e3d660403628486ca5d)** _(Aug 14, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f7109dd...ab12a88](https://github.com/sametcn99/personal-website-blazor/compare/f7109dd2de702e39bc5fa7bd43a884751e814484...ab12a8830c384c2f458c07a102065bacef18df70)** _(Aug 13, 2026)_
 
 <details>
-  <summary>Show 96 more pushes...</summary>
+  <summary>Show 98 more pushes...</summary>
 
+- **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [f0c163b...965a5db](https://github.com/sametcn99/server/compare/f0c163bfbac26aa9d5406ec7014c959960484f9d...965a5dbad664c80bd7e25e3d660403628486ca5d)** _(Aug 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f7109dd...ab12a88](https://github.com/sametcn99/personal-website-blazor/compare/f7109dd2de702e39bc5fa7bd43a884751e814484...ab12a8830c384c2f458c07a102065bacef18df70)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3e56ec4...f7109dd](https://github.com/sametcn99/personal-website-blazor/compare/3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3...f7109dd2de702e39bc5fa7bd43a884751e814484)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d8db3fc...3e56ec4](https://github.com/sametcn99/personal-website-blazor/compare/d8db3fcb61532293919a5ba53764b77472567e13...3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0226b01...d8db3fc](https://github.com/sametcn99/personal-website-blazor/compare/0226b014bdc33c0eb6462eb7c5753eee2491e659...d8db3fcb61532293919a5ba53764b77472567e13)** _(Aug 13, 2026)_
@@ -243,7 +245,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
 
 <details>
-  <summary>Show 34 more starred repositories...</summary>
+  <summary>Show 33 more starred repositories...</summary>
 
 - **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
 - **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
@@ -278,7 +280,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)** _(Jul 16, 2026)_
 - **Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)** _(Jul 16, 2026)_
 - **Starred [sanity-io/sanity](https://github.com/sanity-io/sanity)** _(Jul 16, 2026)_
-- **Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** _(Jul 15, 2026)_
 
 </details>
 
@@ -357,12 +358,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
-- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Aug 14, 2026_<br />A browser tool that hides or highlights the job postings you have already viewed on LinkedIn — so you can focus on what is new.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 14, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 13, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 15, 2026_<br />No description provided.
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★5 -
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 15, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 
 ### Active Repositories
 
@@ -389,7 +390,7 @@ Recent releases across my repositories:
 - [**HTWind**](https://github.com/sametcn99/HTWind) ★7 -
   C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jul 14, 2026_<br />the missing html based widget manager created with .net
 - [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★5 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 6, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 15, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
 - [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★5 -
   TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★4 -
@@ -413,7 +414,9 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 14, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 15, 2026_<br />No description provided.
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
+  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 13, 2026_<br />No description provided.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
@@ -422,8 +425,6 @@ Recent releases across my repositories:
   TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
   JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
-- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 6, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
   JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
