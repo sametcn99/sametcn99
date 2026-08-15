@@ -242,15 +242,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)** _(Aug 15, 2026)_
+- **Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)** _(Aug 15, 2026)_
 - **Starred [openai/codex](https://github.com/openai/codex)** _(Aug 14, 2026)_
 - **Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** _(Aug 13, 2026)_
 - **Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** _(Aug 13, 2026)_
-- **Starred [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima)** _(Aug 13, 2026)_
-- **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
 
 <details>
-  <summary>Show 32 more starred repositories...</summary>
+  <summary>Show 33 more starred repositories...</summary>
 
+- **Starred [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima)** _(Aug 13, 2026)_
+- **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
 - **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
 - **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
 - **Starred [LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018](https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018)** _(Aug 11, 2026)_
@@ -282,7 +284,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Dokploy/cli](https://github.com/Dokploy/cli)** _(Jul 16, 2026)_
 - **Starred [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)** _(Jul 16, 2026)_
 - **Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)** _(Jul 16, 2026)_
-- **Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)** _(Jul 16, 2026)_
 
 </details>
 
