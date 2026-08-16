@@ -37,7 +37,7 @@
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 
-- [**Proje Dokümantasyonunu Hem İnsanlar Hem AI Agent&#x27;ları İçin Tasarlamak**](https://sametcc.me/blog/projeler-icin-ortak-developer-ve-ai-dokumantasyonu) _(published: Aug 16, 2026)_<br />AI coding agent&#x27;larının ihtiyaç duyduğu proje bağlamını insanlar ve makineler için ortak, sürdürülebilir bir dokümantasyon yapısıyla oluşturmak.
+- [**Projeler İçin Ortak Developer ve AI Dokümantasyonu**](https://sametcc.me/blog/projeler-icin-ortak-developer-ve-ai-dokumantasyonu) _(published: Aug 16, 2026)_<br />AI coding agent&#x27;larının ihtiyaç duyduğu proje bağlamını insanlar ve makineler için ortak, sürdürülebilir bir dokümantasyon yapısıyla oluşturmak.
 - [**GitHub Account Notifications to Gotify with n8n**](https://sametcc.me/gist/github-account-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering GitHub App events from every repository in an account to a Gotify phone notification channel.
 - [**Coolify Notifications to Gotify with n8n**](https://sametcc.me/gist/coolify-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering Coolify deployment, backup, task, server, and container notifications to a Gotify phone notification channel.
 - [**LinkedIn Hide Viewed Jobs**](https://sametcc.me/project/linkedin-hide-viewed-jobs) _(published: Jul 22, 2026)_<br />A privacy-first browser tool that hides or highlights the job postings you have already viewed on LinkedIn, available as a userscript or a standalone browser extension for Chrome and Firefox.
@@ -104,15 +104,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1c26a8e...98abac9](https://github.com/sametcn99/personal-website-blazor/compare/1c26a8eeb8c6b65cdd10fc3274019820279b9b53...98abac92d37125c84e54574a7bc3d908c1704862)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [00f029d...a82f062](https://github.com/sametcn99/sametcn99/compare/00f029d3692a0f0c964221a4fca2c542280337fa...a82f062d66ec854f7f5f8680ee5453b42ca196d5)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ab12a88...1c26a8e](https://github.com/sametcn99/personal-website-blazor/compare/ab12a8830c384c2f458c07a102065bacef18df70...1c26a8eeb8c6b65cdd10fc3274019820279b9b53)** _(Aug 16, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [8c05207...5847999](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/8c05207514192848fa3cee2488258babd60390d6...5847999bb3e799a17226c68f261224b973657f19)** _(Aug 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [f53beda...8c05207](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/f53bedac7b35b7febad18e9ee5bb18ebcbcd3df4...8c05207514192848fa3cee2488258babd60390d6)** _(Aug 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [ead9923...f53beda](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/ead9923b96c3feaaf22fa8325662a568dc827f05...f53bedac7b35b7febad18e9ee5bb18ebcbcd3df4)** _(Aug 15, 2026)_
 
 <details>
-  <summary>Show 104 more pushes...</summary>
+  <summary>Show 105 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [ead9923...f53beda](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/ead9923b96c3feaaf22fa8325662a568dc827f05...f53bedac7b35b7febad18e9ee5bb18ebcbcd3df4)** _(Aug 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [8542a02...ead9923](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/8542a029b0cc1530377fb363e2449ed52030f98a...ead9923b96c3feaaf22fa8325662a568dc827f05)** _(Aug 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [5e70117...ac622e2](https://github.com/sametcn99/gh-block-spam-accounts/compare/5e70117367dd023bc2253011f666d862f6044c0a...ac622e206cdb7d067deb2c2d74e43cf53f49a7d2)** _(Aug 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [20b726c...5cdbbd7](https://github.com/sametcn99/my-stars-atlas/compare/20b726c133f40bf9a116828f24d044d4c4442e2c...5cdbbd76db5e76f044fe55e50b278ffa2b705b67)** _(Aug 15, 2026)_
