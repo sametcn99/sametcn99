@@ -15,7 +15,6 @@
 - [Other Activity](#other-activity)
 - [Project Issues](#project-issues)
 - [Repository Highlights](#repository-highlights)
-- [Releases](#releases)
 - [Recently Updated](#recently-updated)
 - [Active Repositories](#active-repositories)
 - [Forked Repositories](#forked-repositories)
@@ -104,15 +103,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c1f553b...5225224](https://github.com/sametcn99/personal-website-blazor/compare/c1f553b63b692f5bfaa6ae1f36f5b4c2a50822c0...5225224ccb1f24f9f2534fb216ebb1b31c75c637)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dcdc94f...d7f03be](https://github.com/sametcn99/personal-website-blazor/compare/dcdc94fae266d8ab7a67991be3e136bc483c0370...d7f03bed07f87bb1f7f07737f8ba1ef92d42eda0)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5d62965...dcdc94f](https://github.com/sametcn99/personal-website-blazor/compare/5d629658ed439c09a3d0419862fb22b84e85e0b2...dcdc94fae266d8ab7a67991be3e136bc483c0370)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cc04cf6...5d62965](https://github.com/sametcn99/personal-website-blazor/compare/cc04cf6432ea1273ce7b07871a993020dc6470cc...5d629658ed439c09a3d0419862fb22b84e85e0b2)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [07ba9b4...cc04cf6](https://github.com/sametcn99/personal-website-blazor/compare/07ba9b48aa13b2a06d09037a4fe358f108d8450c...cc04cf6432ea1273ce7b07871a993020dc6470cc)** _(Aug 16, 2026)_
+
+<details>
+  <summary>Show 119 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a35b748...07ba9b4](https://github.com/sametcn99/personal-website-blazor/compare/a35b74859e813856db0ee2bdb47372afadf7f90f...07ba9b48aa13b2a06d09037a4fe358f108d8450c)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [415903c...a35b748](https://github.com/sametcn99/personal-website-blazor/compare/415903c08279c9743c86fc817f7335f79eb1c581...a35b74859e813856db0ee2bdb47372afadf7f90f)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1f76de1...415903c](https://github.com/sametcn99/personal-website-blazor/compare/1f76de1861705d737a747bfe13f3840662d0a15f...415903c08279c9743c86fc817f7335f79eb1c581)** _(Aug 16, 2026)_
-
-<details>
-  <summary>Show 116 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dfd1d35...1f76de1](https://github.com/sametcn99/personal-website-blazor/compare/dfd1d35d5616ff16f8181ec4d96363cfc2227e4b...1f76de1861705d737a747bfe13f3840662d0a15f)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [25d0ec1...dfd1d35](https://github.com/sametcn99/personal-website-blazor/compare/25d0ec1c55dfa2408867c90164de76cb06687201...dfd1d35d5616ff16f8181ec4d96363cfc2227e4b)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ba772b9...25d0ec1](https://github.com/sametcn99/personal-website-blazor/compare/ba772b97929c014ca59538da4acac992e03daf22...25d0ec1c55dfa2408867c90164de76cb06687201)** _(Aug 16, 2026)_
@@ -346,43 +348,12 @@ be happy to collaborate.
 
 A curated view of recent work, actively maintained projects, forks, and archived repositories kept for reference.
 
-## Releases
-
-Recent releases across my repositories:
-
-- [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 15, 2026)_
-- [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 14, 2026)_
-- [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 11, 2026)_
-- [**Gotify Web Extension 1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
-- [**Gotify Web Extension 1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
-
-<details>
-  <summary>Show 15 more releases...</summary>
-
-- [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
-- [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
-- [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
-- [**release-20260807-173241**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-173241) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-155649**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-155649) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**v1.1.30**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.30) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 6, 2026)_
-- [**GitHub Spam Blocker 1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
-- [**GitHub Spam Blocker 1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
-- [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
-- [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
-- [**v1.1.11**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 22, 2026)_
-- [**v1.1.10**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.10) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 21, 2026)_
-- [**v1.1.28**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.28) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jul 15, 2026)_
-
-</details>
-
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 17, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 17, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 16, 2026_<br />No description provided.
 - [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★5 -
   TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Aug 15, 2026_<br />A browser tool that hides or highlights the job postings you have already viewed on LinkedIn — so you can focus on what is new.
 
@@ -434,10 +405,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 17, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 17, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 16, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
