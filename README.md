@@ -15,6 +15,7 @@
 - [Other Activity](#other-activity)
 - [Project Issues](#project-issues)
 - [Repository Highlights](#repository-highlights)
+- [Releases](#releases)
 - [Recently Updated](#recently-updated)
 - [Active Repositories](#active-repositories)
 - [Forked Repositories](#forked-repositories)
@@ -88,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 190                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 40+                                     |
 | **Total Repositories:**    | 76                                      |
 | **Active Repositories:**   | 66                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -103,15 +104,23 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7f96bd0...b0399df](https://github.com/sametcn99/personal-website-blazor/compare/7f96bd07c28429e1f116669b185133f6d55e4da3...b0399dffbbb75b639c740b5991bbd1e6d520c9aa)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b0399df...eaa3e81](https://github.com/sametcn99/personal-website-blazor/compare/b0399dffbbb75b639c740b5991bbd1e6d520c9aa...eaa3e81829033bb934d614c583ea65a1e950e62c)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f6d00be...7f96bd0](https://github.com/sametcn99/personal-website-blazor/compare/f6d00be1f58c117f0574969ac64c18cc9ed358d4...7f96bd07c28429e1f116669b185133f6d55e4da3)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d12f49a...f6d00be](https://github.com/sametcn99/personal-website-blazor/compare/d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc...f6d00be1f58c117f0574969ac64c18cc9ed358d4)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2e4983e...d12f49a](https://github.com/sametcn99/personal-website-blazor/compare/2e4983e7f7c4fc7920c41d86140e71b898cb0112...d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc)** _(Aug 17, 2026)_
+
+<details>
+  <summary>Show 127 more pushes...</summary>
+
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d7f03be...c1f553b](https://github.com/sametcn99/personal-website-blazor/compare/d7f03bed07f87bb1f7f07737f8ba1ef92d42eda0...c1f553b63b692f5bfaa6ae1f36f5b4c2a50822c0)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [536f8e7...2e4983e](https://github.com/sametcn99/personal-website-blazor/compare/536f8e73dd99b2aa2feee075ea06635bbbc91018...2e4983e7f7c4fc7920c41d86140e71b898cb0112)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5225224...536f8e7](https://github.com/sametcn99/personal-website-blazor/compare/5225224ccb1f24f9f2534fb216ebb1b31c75c637...536f8e73dd99b2aa2feee075ea06635bbbc91018)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c1f553b...5225224](https://github.com/sametcn99/personal-website-blazor/compare/c1f553b63b692f5bfaa6ae1f36f5b4c2a50822c0...5225224ccb1f24f9f2534fb216ebb1b31c75c637)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dcdc94f...d7f03be](https://github.com/sametcn99/personal-website-blazor/compare/dcdc94fae266d8ab7a67991be3e136bc483c0370...d7f03bed07f87bb1f7f07737f8ba1ef92d42eda0)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5d62965...dcdc94f](https://github.com/sametcn99/personal-website-blazor/compare/5d629658ed439c09a3d0419862fb22b84e85e0b2...dcdc94fae266d8ab7a67991be3e136bc483c0370)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cc04cf6...5d62965](https://github.com/sametcn99/personal-website-blazor/compare/cc04cf6432ea1273ce7b07871a993020dc6470cc...5d629658ed439c09a3d0419862fb22b84e85e0b2)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [07ba9b4...cc04cf6](https://github.com/sametcn99/personal-website-blazor/compare/07ba9b48aa13b2a06d09037a4fe358f108d8450c...cc04cf6432ea1273ce7b07871a993020dc6470cc)** _(Aug 16, 2026)_
-
-<details>
-  <summary>Show 119 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a35b748...07ba9b4](https://github.com/sametcn99/personal-website-blazor/compare/a35b74859e813856db0ee2bdb47372afadf7f90f...07ba9b48aa13b2a06d09037a4fe358f108d8450c)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [415903c...a35b748](https://github.com/sametcn99/personal-website-blazor/compare/415903c08279c9743c86fc817f7335f79eb1c581...a35b74859e813856db0ee2bdb47372afadf7f90f)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1f76de1...415903c](https://github.com/sametcn99/personal-website-blazor/compare/1f76de1861705d737a747bfe13f3840662d0a15f...415903c08279c9743c86fc817f7335f79eb1c581)** _(Aug 16, 2026)_
@@ -259,15 +268,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** _(Aug 17, 2026)_
 - **Starred [fasouto/termaid](https://github.com/fasouto/termaid)** _(Aug 16, 2026)_
 - **Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)** _(Aug 16, 2026)_
 - **Starred [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack)** _(Aug 15, 2026)_
 - **Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)** _(Aug 15, 2026)_
-- **Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** _(Aug 15, 2026)_
 
 <details>
-  <summary>Show 35 more starred repositories...</summary>
+  <summary>Show 36 more starred repositories...</summary>
 
+- **Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** _(Aug 15, 2026)_
 - **Starred [Kikobeats/free-email-domains](https://github.com/Kikobeats/free-email-domains)** _(Aug 15, 2026)_
 - **Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)** _(Aug 15, 2026)_
 - **Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)** _(Aug 15, 2026)_
@@ -347,6 +357,37 @@ be happy to collaborate.
 ## Repository Highlights
 
 A curated view of recent work, actively maintained projects, forks, and archived repositories kept for reference.
+
+## Releases
+
+Recent releases across my repositories:
+
+- [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 15, 2026)_
+- [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 14, 2026)_
+- [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 11, 2026)_
+- [**Gotify Web Extension 1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
+- [**Gotify Web Extension 1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
+
+<details>
+  <summary>Show 15 more releases...</summary>
+
+- [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
+- [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
+- [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
+- [**release-20260807-173241**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-173241) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**release-20260807-155649**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-155649) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**v1.1.30**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.30) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 6, 2026)_
+- [**GitHub Spam Blocker 1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
+- [**GitHub Spam Blocker 1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
+- [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
+- [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
+- [**v1.1.11**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 22, 2026)_
+- [**v1.1.10**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.10) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 21, 2026)_
+- [**v1.1.28**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.28) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Jul 15, 2026)_
+
+</details>
 
 ### Recently Updated
 
