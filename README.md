@@ -104,15 +104,21 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a7f82cb...24570f4](https://github.com/sametcn99/personal-website-blazor/compare/a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96...24570f461e300904512ae3fac7d2d03d2c410912)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8203cf4...a7f82cb](https://github.com/sametcn99/personal-website-blazor/compare/8203cf43f55dfa47ce8d580f85648c2131bce195...a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...8203cf4](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...8203cf43f55dfa47ce8d580f85648c2131bce195)** _(Aug 18, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [45bdd8c...5eb5a10](https://github.com/sametcn99/scripts/compare/45bdd8cb49bc2634b2ebcb08098943cf5b8207f6...5eb5a109e1921ae1c54ff64709b5afcfdbb23f38)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...5f1429f](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...5f1429f59653b78d0993323a869bac04df791800)** _(Aug 18, 2026)_
+
+<details>
+  <summary>Show 131 more pushes...</summary>
+
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5f1429f...7185836](https://github.com/sametcn99/personal-website-blazor/compare/5f1429f59653b78d0993323a869bac04df791800...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [eaa3e81...68531d2](https://github.com/sametcn99/personal-website-blazor/compare/eaa3e81829033bb934d614c583ea65a1e950e62c...68531d2e0766982850abb13a4a64785cedcd0263)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [68531d2...7185836](https://github.com/sametcn99/personal-website-blazor/compare/68531d2e0766982850abb13a4a64785cedcd0263...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7f96bd0...b0399df](https://github.com/sametcn99/personal-website-blazor/compare/7f96bd07c28429e1f116669b185133f6d55e4da3...b0399dffbbb75b639c740b5991bbd1e6d520c9aa)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b0399df...eaa3e81](https://github.com/sametcn99/personal-website-blazor/compare/b0399dffbbb75b639c740b5991bbd1e6d520c9aa...eaa3e81829033bb934d614c583ea65a1e950e62c)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f6d00be...7f96bd0](https://github.com/sametcn99/personal-website-blazor/compare/f6d00be1f58c117f0574969ac64c18cc9ed358d4...7f96bd07c28429e1f116669b185133f6d55e4da3)** _(Aug 17, 2026)_
-
-<details>
-  <summary>Show 125 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d12f49a...f6d00be](https://github.com/sametcn99/personal-website-blazor/compare/d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc...f6d00be1f58c117f0574969ac64c18cc9ed358d4)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2e4983e...d12f49a](https://github.com/sametcn99/personal-website-blazor/compare/2e4983e7f7c4fc7920c41d86140e71b898cb0112...d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d7f03be...c1f553b](https://github.com/sametcn99/personal-website-blazor/compare/d7f03bed07f87bb1f7f07737f8ba1ef92d42eda0...c1f553b63b692f5bfaa6ae1f36f5b4c2a50822c0)** _(Aug 17, 2026)_
@@ -394,10 +400,10 @@ Recent releases across my repositories:
 
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 18, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -449,10 +455,10 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 18, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
