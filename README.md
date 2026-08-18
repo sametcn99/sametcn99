@@ -104,15 +104,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [eaa3e81...68531d2](https://github.com/sametcn99/personal-website-blazor/compare/eaa3e81829033bb934d614c583ea65a1e950e62c...68531d2e0766982850abb13a4a64785cedcd0263)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [68531d2...7185836](https://github.com/sametcn99/personal-website-blazor/compare/68531d2e0766982850abb13a4a64785cedcd0263...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7f96bd0...b0399df](https://github.com/sametcn99/personal-website-blazor/compare/7f96bd07c28429e1f116669b185133f6d55e4da3...b0399dffbbb75b639c740b5991bbd1e6d520c9aa)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b0399df...eaa3e81](https://github.com/sametcn99/personal-website-blazor/compare/b0399dffbbb75b639c740b5991bbd1e6d520c9aa...eaa3e81829033bb934d614c583ea65a1e950e62c)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f6d00be...7f96bd0](https://github.com/sametcn99/personal-website-blazor/compare/f6d00be1f58c117f0574969ac64c18cc9ed358d4...7f96bd07c28429e1f116669b185133f6d55e4da3)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d12f49a...f6d00be](https://github.com/sametcn99/personal-website-blazor/compare/d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc...f6d00be1f58c117f0574969ac64c18cc9ed358d4)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2e4983e...d12f49a](https://github.com/sametcn99/personal-website-blazor/compare/2e4983e7f7c4fc7920c41d86140e71b898cb0112...d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc)** _(Aug 17, 2026)_
 
 <details>
-  <summary>Show 123 more pushes...</summary>
+  <summary>Show 125 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d12f49a...f6d00be](https://github.com/sametcn99/personal-website-blazor/compare/d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc...f6d00be1f58c117f0574969ac64c18cc9ed358d4)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2e4983e...d12f49a](https://github.com/sametcn99/personal-website-blazor/compare/2e4983e7f7c4fc7920c41d86140e71b898cb0112...d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d7f03be...c1f553b](https://github.com/sametcn99/personal-website-blazor/compare/d7f03bed07f87bb1f7f07737f8ba1ef92d42eda0...c1f553b63b692f5bfaa6ae1f36f5b4c2a50822c0)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [536f8e7...2e4983e](https://github.com/sametcn99/personal-website-blazor/compare/536f8e73dd99b2aa2feee075ea06635bbbc91018...2e4983e7f7c4fc7920c41d86140e71b898cb0112)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5225224...536f8e7](https://github.com/sametcn99/personal-website-blazor/compare/5225224ccb1f24f9f2534fb216ebb1b31c75c637...536f8e73dd99b2aa2feee075ea06635bbbc91018)** _(Aug 17, 2026)_
@@ -254,25 +256,27 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Commented on issue [When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 
 <details>
-  <summary>Show 3 more comments...</summary>
+  <summary>Show 2 more comments...</summary>
 
 - **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
-- **Commented on issue [fix: preserve Source Control diff view for env files](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jul 19, 2026)_
 
 </details>
 
 ### Starred Repositories
 
+- **Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** _(Aug 18, 2026)_
+- **Starred [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch)** _(Aug 18, 2026)_
+- **Starred [zioder/TaskbarQuota](https://github.com/zioder/TaskbarQuota)** _(Aug 18, 2026)_
 - **Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)** _(Aug 18, 2026)_
 - **Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)** _(Aug 18, 2026)_
+
+<details>
+  <summary>Show 39 more starred repositories...</summary>
+
 - **Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)** _(Aug 17, 2026)_
 - **Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** _(Aug 17, 2026)_
 - **Starred [fasouto/termaid](https://github.com/fasouto/termaid)** _(Aug 16, 2026)_
-
-<details>
-  <summary>Show 37 more starred repositories...</summary>
-
 - **Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)** _(Aug 16, 2026)_
 - **Starred [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack)** _(Aug 15, 2026)_
 - **Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)** _(Aug 15, 2026)_
@@ -309,7 +313,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
 - **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
 - **Starred [minio/minio](https://github.com/minio/minio)** _(Jul 19, 2026)_
-- **Starred [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)** _(Jul 19, 2026)_
 
 </details>
 
@@ -389,12 +392,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 18, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 17, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -444,12 +447,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 18, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 17, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
