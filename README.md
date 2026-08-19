@@ -89,7 +89,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 190                                     |
-| **Commits (7d):**          | 40+                                     |
+| **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 77                                      |
 | **Active Repositories:**   | 67                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -104,15 +104,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [38fa6d8...349358e](https://github.com/sametcn99/personal-website-blazor/compare/38fa6d8a30427b8e1f64fe8a021f25e29f3f269b...349358e5b8f6e1ab8b626991c2045eb154c75725)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [24570f4...681c690](https://github.com/sametcn99/personal-website-blazor/compare/24570f461e300904512ae3fac7d2d03d2c410912...681c6908b24d0b129f58855927fc8f3cd95a25b3)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a7f82cb...24570f4](https://github.com/sametcn99/personal-website-blazor/compare/a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96...24570f461e300904512ae3fac7d2d03d2c410912)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8203cf4...a7f82cb](https://github.com/sametcn99/personal-website-blazor/compare/8203cf43f55dfa47ce8d580f85648c2131bce195...a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...8203cf4](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...8203cf43f55dfa47ce8d580f85648c2131bce195)** _(Aug 18, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [45bdd8c...5eb5a10](https://github.com/sametcn99/scripts/compare/45bdd8cb49bc2634b2ebcb08098943cf5b8207f6...5eb5a109e1921ae1c54ff64709b5afcfdbb23f38)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...5f1429f](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...5f1429f59653b78d0993323a869bac04df791800)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 131 more pushes...</summary>
+  <summary>Show 132 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [45bdd8c...5eb5a10](https://github.com/sametcn99/scripts/compare/45bdd8cb49bc2634b2ebcb08098943cf5b8207f6...5eb5a109e1921ae1c54ff64709b5afcfdbb23f38)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...5f1429f](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...5f1429f59653b78d0993323a869bac04df791800)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5f1429f...7185836](https://github.com/sametcn99/personal-website-blazor/compare/5f1429f59653b78d0993323a869bac04df791800...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [eaa3e81...68531d2](https://github.com/sametcn99/personal-website-blazor/compare/eaa3e81829033bb934d614c583ea65a1e950e62c...68531d2e0766982850abb13a4a64785cedcd0263)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [68531d2...7185836](https://github.com/sametcn99/personal-website-blazor/compare/68531d2e0766982850abb13a4a64785cedcd0263...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
@@ -243,7 +245,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [916f632...a7b7703](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/916f632ac5424b77e4c5e730fa88b5fb404ce1f5...a7b77032e3ba94183d054ee1e7a57d84589b47fa)** _(Jul 21, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c149b7a...a8cf927](https://github.com/sametcn99/personal-website-blazor/compare/c149b7a9e6a10621bcc2c14637d05eacebaf539e...a8cf9279be8b84c318970bab9ec3320c1da643c4)** _(Jul 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bc5ef97...c149b7a](https://github.com/sametcn99/personal-website-blazor/compare/bc5ef977300961041b9308c532017d4daef72887...c149b7a9e6a10621bcc2c14637d05eacebaf539e)** _(Jul 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9bde5e3...bc5ef97](https://github.com/sametcn99/personal-website-blazor/compare/9bde5e33fec67f19e5f77d5fabfaa9e8695e2f0e...bc5ef977300961041b9308c532017d4daef72887)** _(Jul 19, 2026)_
 
 </details>
 
@@ -278,7 +279,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 39 more starred repositories...</summary>
+  <summary>Show 38 more starred repositories...</summary>
 
 - **Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)** _(Aug 17, 2026)_
 - **Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** _(Aug 17, 2026)_
@@ -318,7 +319,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** _(Jul 24, 2026)_
 - **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
 - **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
-- **Starred [minio/minio](https://github.com/minio/minio)** _(Jul 19, 2026)_
 
 </details>
 
