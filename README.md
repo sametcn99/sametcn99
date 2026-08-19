@@ -1,6 +1,7 @@
 [Website](https://sametcc.me) · [Project Board](https://github.com/users/sametcn99/projects/9) ·
 [LinkedIn](https://sametcc.me/link/linkedin) · [Telegram](https://sametcc.me/link/telegram) ·
-[Mail](https://sametcc.me/link/mail)
+[Mail](https://sametcc.me/link/mail) · [![committers.top
+badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-badge.committers.top/turkey/sametcn99)
 
 ## Table of Contents
 
@@ -22,16 +23,15 @@
 
 ## Tech Stack
 
-| Area            | Technologies                                                                                          |
-| :-------------- | :---------------------------------------------------------------------------------------------------- |
-| **Frontend**    | React, Next.js, Vue, Blazor                                                                           |
-| **Backend**     | .NET, NestJS, Node.js, Bun                                                                            |
-| **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB                                                                  |
-| **DevOps**      | GitHub Actions, Docker, Coolify                                                                       |
-| **Desktop**     | Electron, .NET MAUI, .NET Windows Forms                                                               |
-| **Languages**   | C#, TypeScript, JavaScript, Python                                                                    |
-| **Environment** | Fedora KDE, Ubuntu GNOME, Windows                                                                     |
-| **AI Tools**    | Opencode, GitHub Copilot, v0, OpenWebUI, OpenRouter, Oh My OpenAgent, OpenChamber, Codex, Claude Code |
+| Area            | Technologies                            |
+| :-------------- | :-------------------------------------- |
+| **Frontend**    | React, Next.js, Vue, Blazor             |
+| **Backend**     | .NET, NestJS, Node.js, Bun              |
+| **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB    |
+| **DevOps**      | GitHub Actions, Docker, Coolify         |
+| **Desktop**     | Electron, .NET MAUI, .NET Windows Forms |
+| **Languages**   | C#, TypeScript, JavaScript, Python      |
+| **Environment** | Fedora KDE, Ubuntu GNOME, Windows       |
 
 ## Latest Writing
 
@@ -104,15 +104,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [9da7969...2173d6f](https://github.com/sametcn99/sametcn99/compare/9da7969edab6c6c08bb61edfc0d5c7f7edcfd2eb...2173d6fd794200a9a972a1260107b142fc66fe20)** _(Aug 19, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [681c690...38fa6d8](https://github.com/sametcn99/personal-website-blazor/compare/681c6908b24d0b129f58855927fc8f3cd95a25b3...38fa6d8a30427b8e1f64fe8a021f25e29f3f269b)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [38fa6d8...349358e](https://github.com/sametcn99/personal-website-blazor/compare/38fa6d8a30427b8e1f64fe8a021f25e29f3f269b...349358e5b8f6e1ab8b626991c2045eb154c75725)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [24570f4...681c690](https://github.com/sametcn99/personal-website-blazor/compare/24570f461e300904512ae3fac7d2d03d2c410912...681c6908b24d0b129f58855927fc8f3cd95a25b3)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a7f82cb...24570f4](https://github.com/sametcn99/personal-website-blazor/compare/a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96...24570f461e300904512ae3fac7d2d03d2c410912)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8203cf4...a7f82cb](https://github.com/sametcn99/personal-website-blazor/compare/8203cf43f55dfa47ce8d580f85648c2131bce195...a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...8203cf4](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...8203cf43f55dfa47ce8d580f85648c2131bce195)** _(Aug 18, 2026)_
 
 <details>
   <summary>Show 132 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8203cf4...a7f82cb](https://github.com/sametcn99/personal-website-blazor/compare/8203cf43f55dfa47ce8d580f85648c2131bce195...a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...8203cf4](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...8203cf43f55dfa47ce8d580f85648c2131bce195)** _(Aug 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [45bdd8c...5eb5a10](https://github.com/sametcn99/scripts/compare/45bdd8cb49bc2634b2ebcb08098943cf5b8207f6...5eb5a109e1921ae1c54ff64709b5afcfdbb23f38)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...5f1429f](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...5f1429f59653b78d0993323a869bac04df791800)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5f1429f...7185836](https://github.com/sametcn99/personal-website-blazor/compare/5f1429f59653b78d0993323a869bac04df791800...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
@@ -243,8 +245,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a8cf927...55f522a](https://github.com/sametcn99/personal-website-blazor/compare/a8cf9279be8b84c318970bab9ec3320c1da643c4...55f522a474d1c37dd1888d9d4adea7384e9ded53)** _(Jul 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a7b7703...1beab3e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a7b77032e3ba94183d054ee1e7a57d84589b47fa...1beab3eb07cae1b423a1268b58381d4fe858029e)** _(Jul 22, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [916f632...a7b7703](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/916f632ac5424b77e4c5e730fa88b5fb404ce1f5...a7b77032e3ba94183d054ee1e7a57d84589b47fa)** _(Jul 21, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c149b7a...a8cf927](https://github.com/sametcn99/personal-website-blazor/compare/c149b7a9e6a10621bcc2c14637d05eacebaf539e...a8cf9279be8b84c318970bab9ec3320c1da643c4)** _(Jul 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bc5ef97...c149b7a](https://github.com/sametcn99/personal-website-blazor/compare/bc5ef977300961041b9308c532017d4daef72887...c149b7a9e6a10621bcc2c14637d05eacebaf539e)** _(Jul 19, 2026)_
 
 </details>
 
@@ -272,15 +272,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [ashkulz/committers.top](https://github.com/ashkulz/committers.top)** _(Aug 19, 2026)_
 - **Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** _(Aug 18, 2026)_
 - **Starred [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch)** _(Aug 18, 2026)_
 - **Starred [zioder/TaskbarQuota](https://github.com/zioder/TaskbarQuota)** _(Aug 18, 2026)_
 - **Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)** _(Aug 18, 2026)_
-- **Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 38 more starred repositories...</summary>
+  <summary>Show 39 more starred repositories...</summary>
 
+- **Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)** _(Aug 18, 2026)_
 - **Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)** _(Aug 17, 2026)_
 - **Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** _(Aug 17, 2026)_
 - **Starred [fasouto/termaid](https://github.com/fasouto/termaid)** _(Aug 16, 2026)_
@@ -399,7 +400,7 @@ Recent releases across my repositories:
 ### Recently Updated
 
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 18, 2026_<br />No description provided.
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 19, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
@@ -454,7 +455,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 18, 2026_<br />No description provided.
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 19, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
