@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 190                                     |
-| **Commits (7d):**          | 50+                                     |
+| **Commits (7d):**          | 60+                                     |
 | **Total Repositories:**    | 77                                      |
 | **Active Repositories:**   | 67                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -109,15 +109,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [62c552b...90baac4](https://github.com/sametcn99/personal-website-blazor/compare/62c552be11d16a4a600b7017d675e1af64959ee7...90baac4fd51ca44a7db651a614883baec3e53a86)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [976b69e...62c552b](https://github.com/sametcn99/personal-website-blazor/compare/976b69e10e91b19761e30b182b4edbe70ef7c39a...62c552be11d16a4a600b7017d675e1af64959ee7)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [dba1e74...25f7bb4](https://github.com/sametcn99/sametcn99/compare/dba1e74a965f504c46d61f83d31af76c6f2a4b15...25f7bb418cef90af7aff29dc3e870a0c8d8e2436)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c16615...976b69e](https://github.com/sametcn99/personal-website-blazor/compare/8c166152feedeb5739687847902dd23c2a1c20d3...976b69e10e91b19761e30b182b4edbe70ef7c39a)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [81dbea3...8c16615](https://github.com/sametcn99/personal-website-blazor/compare/81dbea351b311e422646adc85b7129a641833e06...8c166152feedeb5739687847902dd23c2a1c20d3)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [349358e...81dbea3](https://github.com/sametcn99/personal-website-blazor/compare/349358e5b8f6e1ab8b626991c2045eb154c75725...81dbea351b311e422646adc85b7129a641833e06)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 138 more pushes...</summary>
+  <summary>Show 139 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [349358e...81dbea3](https://github.com/sametcn99/personal-website-blazor/compare/349358e5b8f6e1ab8b626991c2045eb154c75725...81dbea351b311e422646adc85b7129a641833e06)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c53859a...b2edc19](https://github.com/sametcn99/sametcn99/compare/c53859ac29e8358d16b2ed0b13e4cbcc749cd788...b2edc19d0f303c040e5d25e11807b4c531f586dd)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [9da7969...2173d6f](https://github.com/sametcn99/sametcn99/compare/9da7969edab6c6c08bb61edfc0d5c7f7edcfd2eb...2173d6fd794200a9a972a1260107b142fc66fe20)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [681c690...38fa6d8](https://github.com/sametcn99/personal-website-blazor/compare/681c6908b24d0b129f58855927fc8f3cd95a25b3...38fa6d8a30427b8e1f64fe8a021f25e29f3f269b)** _(Aug 18, 2026)_
@@ -283,15 +284,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp)** _(Aug 19, 2026)_
 - **Starred [ashkulz/committers.top](https://github.com/ashkulz/committers.top)** _(Aug 19, 2026)_
 - **Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** _(Aug 18, 2026)_
 - **Starred [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch)** _(Aug 18, 2026)_
 - **Starred [zioder/TaskbarQuota](https://github.com/zioder/TaskbarQuota)** _(Aug 18, 2026)_
-- **Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 39 more starred repositories...</summary>
+  <summary>Show 40 more starred repositories...</summary>
 
+- **Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)** _(Aug 18, 2026)_
 - **Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)** _(Aug 18, 2026)_
 - **Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)** _(Aug 17, 2026)_
 - **Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** _(Aug 17, 2026)_
@@ -410,10 +412,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 19, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 19, 2026_<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 19, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 
@@ -465,10 +467,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 19, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 19, 2026_<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 19, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 18, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
