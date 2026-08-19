@@ -1,6 +1,8 @@
 [Website](https://sametcc.me) · [Project Board](https://github.com/users/sametcn99/projects/9) ·
 [LinkedIn](https://sametcc.me/link/linkedin) · [Telegram](https://sametcc.me/link/telegram) ·
-[Mail](https://sametcc.me/link/mail) · [![committers.top
+[Mail](https://sametcc.me/link/mail)
+<br/><br/>
+[![committers.top
 badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-badge.committers.top/turkey/sametcn99)
 
 ## Table of Contents
@@ -104,15 +106,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c53859a...b2edc19](https://github.com/sametcn99/sametcn99/compare/c53859ac29e8358d16b2ed0b13e4cbcc749cd788...b2edc19d0f303c040e5d25e11807b4c531f586dd)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [9da7969...2173d6f](https://github.com/sametcn99/sametcn99/compare/9da7969edab6c6c08bb61edfc0d5c7f7edcfd2eb...2173d6fd794200a9a972a1260107b142fc66fe20)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [681c690...38fa6d8](https://github.com/sametcn99/personal-website-blazor/compare/681c6908b24d0b129f58855927fc8f3cd95a25b3...38fa6d8a30427b8e1f64fe8a021f25e29f3f269b)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [38fa6d8...349358e](https://github.com/sametcn99/personal-website-blazor/compare/38fa6d8a30427b8e1f64fe8a021f25e29f3f269b...349358e5b8f6e1ab8b626991c2045eb154c75725)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [24570f4...681c690](https://github.com/sametcn99/personal-website-blazor/compare/24570f461e300904512ae3fac7d2d03d2c410912...681c6908b24d0b129f58855927fc8f3cd95a25b3)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a7f82cb...24570f4](https://github.com/sametcn99/personal-website-blazor/compare/a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96...24570f461e300904512ae3fac7d2d03d2c410912)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 132 more pushes...</summary>
+  <summary>Show 133 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a7f82cb...24570f4](https://github.com/sametcn99/personal-website-blazor/compare/a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96...24570f461e300904512ae3fac7d2d03d2c410912)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8203cf4...a7f82cb](https://github.com/sametcn99/personal-website-blazor/compare/8203cf43f55dfa47ce8d580f85648c2131bce195...a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...8203cf4](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...8203cf43f55dfa47ce8d580f85648c2131bce195)** _(Aug 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [45bdd8c...5eb5a10](https://github.com/sametcn99/scripts/compare/45bdd8cb49bc2634b2ebcb08098943cf5b8207f6...5eb5a109e1921ae1c54ff64709b5afcfdbb23f38)** _(Aug 18, 2026)_
