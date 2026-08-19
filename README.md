@@ -5,7 +5,8 @@
 [![committers.top
 badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-badge.committers.top/turkey/sametcn99)
 
-## Table of Contents
+<details>
+<summary>Table of Contents</summary>
 
 - [Tech Stack](#tech-stack)
 - [Latest Writing](#latest-writing)
@@ -22,6 +23,8 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 - [Recently Updated](#recently-updated)
 - [Active Repositories](#active-repositories)
 - [Forked Repositories](#forked-repositories)
+
+</details>
 
 ## Tech Stack
 
@@ -51,10 +54,10 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**Application Tracker**](https://sametcc.me/project/application-tracker) _(published: May 15, 2026)_<br />A self-hosted job search operating system that keeps applications, company notes, follow-ups, documents, and progress history together in a single private dashboard.
 - [**shadcn Theme Configuration for MUI**](https://sametcc.me/gist/shadcn-ui-for-mui) _(published: May 13, 2026)_<br />A complete MUI dark theme configuration styled to resemble shadcn&#x27;s default dark theme, mapping zinc color tokens to MUI palette, typography, and component overrides.
 - [**How to Synchronize Obsidian Vault Using Git (PC + Android)**](https://sametcc.me/gist/how-to-synchronize-obsidian-vault-using-git) _(published: May 5, 2026)_<br />A comprehensive, step-by-step guide on synchronizing your Obsidian vault across PC and Android devices using Git, covering setup, workflow, conflict resolution, and best practices.
-- [**Docker Command Documentation**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated:
+- [**Docker Usage Guide**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated:
   Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
 - [**Hiretea**](https://sametcc.me/project/hiretea) _(published: Apr 15, 2026)_<br />A self-hosted platform for running technical assessments end to end, bundling Gitea as the code host and PostgreSQL as the data store with no external SaaS dependencies.
-- [**Booking Calendar**](https://sametcc.me/project/booking-calendar) _(published: Apr 4, 2026)_<br />A self-hosted PWA designed for single-admin appointment management, running on your own server with shareable booking links, smart notifications, and integrations for webhooks, CalDAV, and iCal.
+- [**Booking Calendar (Self-Hosted)**](https://sametcc.me/project/booking-calendar) _(published: Apr 4, 2026)_<br />A self-hosted PWA designed for single-admin appointment management, running on your own server with shareable booking links, smart notifications, and integrations for webhooks, CalDAV, and iCal.
 - [**DreamTUI**](https://sametcc.me/project/dreamtui) _(published: Mar 17, 2026)_<br />A terminal-based generative dream engine that transforms written dreams into full-screen, animated ASCII art experiences using a two-stage AI pipeline.
 - [**HTWind**](https://sametcc.me/project/htwind) _(published: Mar 15, 2026)_<br />A highly customizable, HTML-based widget manager for Windows built with .NET and WPF, bringing web tools and system helpers directly to your desktop with native PowerShell execution support.
 - [**ArcDrop**](https://sametcc.me/project/arcdrop) _(published: Mar 10, 2026)_<br />A self-host-first bookmarking platform with cross-platform desktop clients and AI-assisted organization, built as a .NET 10 monorepo with MAUI, Blazor, and ASP.NET Core.
@@ -66,7 +69,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(published: Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
 - [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(published: Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
 - [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) _(published: Dec 17, 2025)_<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
-- [**Running Calibre-Web on Coolify**](https://sametcc.me/gist/running-calibre-on-coolify) _(published: Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
+- [**Deploying Calibre-Web on Coolify with Docker Compose**](https://sametcc.me/gist/running-calibre-on-coolify) _(published: Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
 - [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) _(published: Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
 - [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) _(published: Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
 - [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) _(published: Mar 15, 2025)_<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
