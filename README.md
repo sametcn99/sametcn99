@@ -295,15 +295,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
 - **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
 - **Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** _(Aug 20, 2026)_
 - **Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)** _(Aug 20, 2026)_
 - **Starred [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui)** _(Aug 20, 2026)_
-- **Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)** _(Aug 20, 2026)_
 
 <details>
-  <summary>Show 46 more starred repositories...</summary>
+  <summary>Show 47 more starred repositories...</summary>
 
+- **Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)** _(Aug 20, 2026)_
 - **Starred [Macawls/umami-mcp-server](https://github.com/Macawls/umami-mcp-server)** _(Aug 20, 2026)_
 - **Starred [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp)** _(Aug 19, 2026)_
 - **Starred [ashkulz/committers.top](https://github.com/ashkulz/committers.top)** _(Aug 19, 2026)_
