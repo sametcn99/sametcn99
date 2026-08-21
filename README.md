@@ -93,7 +93,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 190                                     |
+| **Total Stars Earned:**    | 191                                     |
 | **Commits (7d):**          | 60+                                     |
 | **Total Repositories:**    | 77                                      |
 | **Active Repositories:**   | 67                                      |
@@ -116,7 +116,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [af13256...3515009](https://github.com/sametcn99/personal-website-blazor/compare/af132569a9b9d954eff064427ce271388077d59c...3515009faff46c11a86e3bac8dc8696cc1ff5253)** _(Aug 19, 2026)_
 
 <details>
-  <summary>Show 150 more pushes...</summary>
+  <summary>Show 149 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cb9dc31...9c734c0](https://github.com/sametcn99/personal-website-blazor/compare/cb9dc31b8bd13d131225bb4bac586271f0c1828a...9c734c09f80404a2ebcc2261caa8e6593ce27b64)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3d76f80...ee3b585](https://github.com/sametcn99/personal-website-blazor/compare/3d76f807f6c1a006c97f57f776846b1a99514215...ee3b585fb56a20a8e240076be5637dda307e7101)** _(Aug 19, 2026)_
@@ -267,7 +267,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [644ffe2...ea82d47](https://github.com/sametcn99/reddit-rss-api/compare/644ffe206c02c81157a48aecf84661a3c88fcb27...ea82d4704be29a71225b945e9bf253a5944e7300)** _(Jul 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a8cf927...55f522a](https://github.com/sametcn99/personal-website-blazor/compare/a8cf9279be8b84c318970bab9ec3320c1da643c4...55f522a474d1c37dd1888d9d4adea7384e9ded53)** _(Jul 23, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [a7b7703...1beab3e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/a7b77032e3ba94183d054ee1e7a57d84589b47fa...1beab3eb07cae1b423a1268b58381d4fe858029e)** _(Jul 22, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [916f632...a7b7703](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/916f632ac5424b77e4c5e730fa88b5fb404ce1f5...a7b77032e3ba94183d054ee1e7a57d84589b47fa)** _(Jul 21, 2026)_
 
 </details>
 
@@ -388,6 +387,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would
 be happy to collaborate.
 
+- [**Not able to clear notification pop-up number**](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Updated Aug 21, 2026)_
 - [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
 - [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
 - [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 11, 2026)_
@@ -473,6 +473,8 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://reddit-rss-api.sametcn99.deno.net)<br />_Created: May 16, 2024 • Updated: Aug 1, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Aug 2, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
+- [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) ★1 -
+  TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
 - [**code-nest-web**](https://github.com/sametcn99/code-nest-web) ★1 -
   TypeScript<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
 - [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★1 -
@@ -495,8 +497,6 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
   HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 11, 2026_<br />No description provided.
-- [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) -
-  TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 9, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
   JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
 - [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
