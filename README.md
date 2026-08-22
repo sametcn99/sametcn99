@@ -109,15 +109,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f790a37...6d3e569](https://github.com/sametcn99/personal-website-blazor/compare/f790a374be48f8d9abe3e570c4e12324bcc521db...6d3e569a021eb71b4030af1c3967a0d9decf2514)** _(Aug 22, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [ac7ccaf...eb33fd8](https://github.com/sametcn99/gotify-web-extension/compare/ac7ccaf6fb58b7ec42de10ca1eb6ae10ccda1f03...eb33fd8347a5aa7a476a5835e75c7001d59f4fb3)** _(Aug 21, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [6289cc2...1b0bb58](https://github.com/sametcn99/gotify-web-extension/compare/6289cc2dcad8634c955dc45fc940ee909194b177...1b0bb58ab31909328ac340bc02a57ef4dd0625b2)** _(Aug 21, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [1b0bb58...ac7ccaf](https://github.com/sametcn99/gotify-web-extension/compare/1b0bb58ab31909328ac340bc02a57ef4dd0625b2...ac7ccaf6fb58b7ec42de10ca1eb6ae10ccda1f03)** _(Aug 21, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [e05ab22...6289cc2](https://github.com/sametcn99/gotify-web-extension/compare/e05ab22eae64133e135ac06155a80afc3515bc64...6289cc2dcad8634c955dc45fc940ee909194b177)** _(Aug 21, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [5eb5a10...08101ba](https://github.com/sametcn99/scripts/compare/5eb5a109e1921ae1c54ff64709b5afcfdbb23f38...08101bab5448375b33ae9edefeef6bccde15e8ab)** _(Aug 20, 2026)_
 
 <details>
-  <summary>Show 152 more pushes...</summary>
+  <summary>Show 153 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [5eb5a10...08101ba](https://github.com/sametcn99/scripts/compare/5eb5a109e1921ae1c54ff64709b5afcfdbb23f38...08101bab5448375b33ae9edefeef6bccde15e8ab)** _(Aug 20, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [08101ba...de54e07](https://github.com/sametcn99/scripts/compare/08101bab5448375b33ae9edefeef6bccde15e8ab...de54e074aad19c590ca1abcf9b1f3ca4f68daff3)** _(Aug 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c734c0...f790a37](https://github.com/sametcn99/personal-website-blazor/compare/9c734c09f80404a2ebcc2261caa8e6593ce27b64...f790a374be48f8d9abe3e570c4e12324bcc521db)** _(Aug 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3515009...cb9dc31](https://github.com/sametcn99/personal-website-blazor/compare/3515009faff46c11a86e3bac8dc8696cc1ff5253...cb9dc31b8bd13d131225bb4bac586271f0c1828a)** _(Aug 19, 2026)_
@@ -437,12 +438,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 22, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 22, 2026_<br />No description provided.
 - [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) ★1 -
   TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 21, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
-- [**scripts**](https://github.com/sametcn99/scripts) -
-  PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 20, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -494,12 +495,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
+  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 22, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 22, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 20, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 20, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
   TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
 - [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
