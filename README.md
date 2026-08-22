@@ -370,7 +370,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
 
 <details>
-  <summary>Show 17 more other activity...</summary>
+  <summary>Show 15 more other activity...</summary>
 
 - **Deleted tag &#x60;v1.1.13&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 11, 2026)_
 - **Public in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor)** _(Aug 10, 2026)_
@@ -387,8 +387,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Assigned issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Discussion in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99)** _(Jul 29, 2026)_
-- **Public in [sametcn99/IsTakipSistemi](https://github.com/sametcn99/IsTakipSistemi)** _(Jul 4, 2026)_
-- **Public in [sametcn99/TakvimDemo](https://github.com/sametcn99/TakvimDemo)** _(Jul 14, 2026)_
 
 </details>
 
