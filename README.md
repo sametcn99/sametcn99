@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 191                                     |
-| **Commits (7d):**          | 60+                                     |
+| **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 77                                      |
 | **Active Repositories:**   | 67                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -298,15 +298,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 21, 2026)_
+- **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
+- **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 21, 2026)_
+- **Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)** _(Aug 21, 2026)_
 - **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
+
+<details>
+  <summary>Show 51 more starred repositories...</summary>
+
 - **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
 - **Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** _(Aug 20, 2026)_
 - **Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)** _(Aug 20, 2026)_
 - **Starred [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui)** _(Aug 20, 2026)_
-
-<details>
-  <summary>Show 47 more starred repositories...</summary>
-
 - **Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)** _(Aug 20, 2026)_
 - **Starred [Macawls/umami-mcp-server](https://github.com/Macawls/umami-mcp-server)** _(Aug 20, 2026)_
 - **Starred [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp)** _(Aug 19, 2026)_
