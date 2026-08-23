@@ -300,7 +300,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
 
 <details>
-  <summary>Show 49 more starred repositories...</summary>
+  <summary>Show 48 more starred repositories...</summary>
 
 - **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
 - **Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** _(Aug 20, 2026)_
@@ -350,7 +350,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [Automattic/docspress](https://github.com/Automattic/docspress)** _(Jul 27, 2026)_
 - **Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** _(Jul 27, 2026)_
 - **Starred [mrbesher/bertfinetuner](https://github.com/mrbesher/bertfinetuner)** _(Jul 25, 2026)_
-- **Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** _(Jul 24, 2026)_
 
 </details>
 
