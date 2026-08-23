@@ -116,7 +116,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [1b0bb58...ac7ccaf](https://github.com/sametcn99/gotify-web-extension/compare/1b0bb58ab31909328ac340bc02a57ef4dd0625b2...ac7ccaf6fb58b7ec42de10ca1eb6ae10ccda1f03)** _(Aug 21, 2026)_
 
 <details>
-  <summary>Show 154 more pushes...</summary>
+  <summary>Show 147 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [e05ab22...6289cc2](https://github.com/sametcn99/gotify-web-extension/compare/e05ab22eae64133e135ac06155a80afc3515bc64...6289cc2dcad8634c955dc45fc940ee909194b177)** _(Aug 21, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [5eb5a10...08101ba](https://github.com/sametcn99/scripts/compare/5eb5a109e1921ae1c54ff64709b5afcfdbb23f38...08101bab5448375b33ae9edefeef6bccde15e8ab)** _(Aug 20, 2026)_
@@ -265,13 +265,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bcccb9f...3fd21e1](https://github.com/sametcn99/personal-website-blazor/compare/bcccb9f213337c0640595594b368dad5010e5a10...3fd21e17894a17a88c2d439a1f3d8cbdcf04ef73)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [55f522a...bcccb9f](https://github.com/sametcn99/personal-website-blazor/compare/55f522a474d1c37dd1888d9d4adea7384e9ded53...bcccb9f213337c0640595594b368dad5010e5a10)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [86b36c7...7045d68](https://github.com/sametcn99/reddit-rss-api/compare/86b36c76a51d8cc00e58ea46605a7aaac5b8c7d6...7045d689b5447ae7a464540792e79076a5136495)** _(Jul 26, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [b248f30...86b36c7](https://github.com/sametcn99/reddit-rss-api/compare/b248f303aa3e66d430e6b3a29921599406c93903...86b36c76a51d8cc00e58ea46605a7aaac5b8c7d6)** _(Jul 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [6d2fc58...b248f30](https://github.com/sametcn99/reddit-rss-api/compare/6d2fc5881a8bbffb4dbd2363ebc1414d43c4992c...b248f303aa3e66d430e6b3a29921599406c93903)** _(Jul 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ecf0dcb...6d2fc58](https://github.com/sametcn99/reddit-rss-api/compare/ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73...6d2fc5881a8bbffb4dbd2363ebc1414d43c4992c)** _(Jul 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [5a666dd...ecf0dcb](https://github.com/sametcn99/reddit-rss-api/compare/5a666dd234836013a920cc2eb3d3455e8c65c424...ecf0dcb1a311e8bb2347d5a738e6d5df109b0f73)** _(Jul 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [ea82d47...5a666dd](https://github.com/sametcn99/reddit-rss-api/compare/ea82d4704be29a71225b945e9bf253a5944e7300...5a666dd234836013a920cc2eb3d3455e8c65c424)** _(Jul 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [644ffe2...ea82d47](https://github.com/sametcn99/reddit-rss-api/compare/644ffe206c02c81157a48aecf84661a3c88fcb27...ea82d4704be29a71225b945e9bf253a5944e7300)** _(Jul 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a8cf927...55f522a](https://github.com/sametcn99/personal-website-blazor/compare/a8cf9279be8b84c318970bab9ec3320c1da643c4...55f522a474d1c37dd1888d9d4adea7384e9ded53)** _(Jul 23, 2026)_
 
 </details>
 
@@ -307,7 +300,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 49 more starred repositories...</summary>
 
 - **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
 - **Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** _(Aug 20, 2026)_
@@ -358,8 +351,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** _(Jul 27, 2026)_
 - **Starred [mrbesher/bertfinetuner](https://github.com/mrbesher/bertfinetuner)** _(Jul 25, 2026)_
 - **Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** _(Jul 24, 2026)_
-- **Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)** _(Jul 23, 2026)_
-- **Starred [safing/portmaster](https://github.com/safing/portmaster)** _(Jul 23, 2026)_
 
 </details>
 
@@ -439,10 +430,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 23, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 22, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 22, 2026_<br />No description provided.
 - [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) ★1 -
   TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 21, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
 
@@ -496,10 +487,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 23, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 22, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 22, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
   PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 20, 2026_<br />No description provided.
 - [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
