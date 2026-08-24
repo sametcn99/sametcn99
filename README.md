@@ -109,15 +109,19 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [b9f1dae...6bb8a7a](https://github.com/sametcn99/libredirect-instances-list/compare/b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff...6bb8a7ad076f380ff5b583c858c117ff3df33a1c)** _(Aug 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [800ad1e...46c2fb0](https://github.com/sametcn99/apps/compare/800ad1e9f12f11dc34b34ab87955c403955a8e3d...46c2fb0177cccdcc663835f220c2225eac7c0b33)** _(Aug 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f169a09...69cf5d1](https://github.com/sametcn99/libredirect-mobile/compare/f169a0955f88d75cea41467dd1151d40aa68e8d6...69cf5d1753667b4740a176ed38f1667445e371c1)** _(Aug 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [69cf5d1...3881a67](https://github.com/sametcn99/libredirect-mobile/compare/69cf5d1753667b4740a176ed38f1667445e371c1...3881a675f949b37d199ed98984dc606af2de7ad2)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [0196b90...f169a09](https://github.com/sametcn99/libredirect-mobile/compare/0196b903b7d4413016622890f5f6aad7b6c35190...f169a0955f88d75cea41467dd1151d40aa68e8d6)** _(Aug 24, 2026)_
+
+<details>
+  <summary>Show 158 more pushes...</summary>
+
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [caf0975...0196b90](https://github.com/sametcn99/libredirect-mobile/compare/caf0975fd4d327a767d510efb2c97844fde9b96a...0196b903b7d4413016622890f5f6aad7b6c35190)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [0cc2035...b9f1dae](https://github.com/sametcn99/libredirect-instances-list/compare/0cc2035e36c7e2194412755fbbf95f99b4a573fc...b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [b7c1282...caf0975](https://github.com/sametcn99/libredirect-mobile/compare/b7c12826a30bc76b6cb625bc29bc53c034ee3046...caf0975fd4d327a767d510efb2c97844fde9b96a)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [10f548c...b7c1282](https://github.com/sametcn99/libredirect-mobile/compare/10f548ca3c5824f833b48aa7c1ed998e518236e7...b7c12826a30bc76b6cb625bc29bc53c034ee3046)** _(Aug 24, 2026)_
-
-<details>
-  <summary>Show 154 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [9e730a5...10f548c](https://github.com/sametcn99/libredirect-mobile/compare/9e730a572b63c4b6619a0fc17dab4a2cafccb506...10f548ca3c5824f833b48aa7c1ed998e518236e7)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [fee77bf...0cc2035](https://github.com/sametcn99/libredirect-instances-list/compare/fee77bf5116d7b914b86136cef2150ef69805e28...0cc2035e36c7e2194412755fbbf95f99b4a573fc)** _(Aug 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6d3e569...57566b6](https://github.com/sametcn99/personal-website-blazor/compare/6d3e569a021eb71b4030af1c3967a0d9decf2514...57566b68664ff41f123602a90b5eedfdd1eb5ae1)** _(Aug 22, 2026)_
@@ -300,15 +304,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [nocobase/nocobase](https://github.com/nocobase/nocobase)** _(Aug 24, 2026)_
+- **Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)** _(Aug 24, 2026)_
 - **Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)** _(Aug 24, 2026)_
 - **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
 - **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 21, 2026)_
-- **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
-- **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 21, 2026)_
 
 <details>
-  <summary>Show 50 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
+- **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
+- **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 21, 2026)_
 - **Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)** _(Aug 21, 2026)_
 - **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
 - **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
@@ -440,12 +446,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
-- [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
-  Kotlin<br />_Created: Aug 23, 2026 • Updated: Aug 24, 2026_<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
   JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Aug 24, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 24, 2026_<br />No description provided.
+- [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
+  Kotlin<br />_Created: Aug 23, 2026 • Updated: Aug 24, 2026_<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
 
 ### Active Repositories
 
@@ -497,10 +503,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
-  Kotlin<br />_Created: Aug 23, 2026 • Updated: Aug 24, 2026_<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 24, 2026_<br />No description provided.
+- [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
+  Kotlin<br />_Created: Aug 23, 2026 • Updated: Aug 24, 2026_<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 22, 2026_<br />No description provided.
 - [**scripts**](https://github.com/sametcn99/scripts) -
