@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 191                                     |
-| **Commits (7d):**          | 40+                                     |
+| **Commits (7d):**          | 30+                                     |
 | **Total Repositories:**    | 78                                      |
 | **Active Repositories:**   | 68                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -109,15 +109,17 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a229837...0314396](https://github.com/sametcn99/hiretea/compare/a229837d0f7e3c97a4a72c5b17def3f30160c4ae...031439691175334ccff966b4172f748896117f60)** _(Aug 25, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [794f07f...a229837](https://github.com/sametcn99/hiretea/compare/794f07f3dcf2bf4572f93949e4169d3fb636e642...a229837d0f7e3c97a4a72c5b17def3f30160c4ae)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b3fd0d8...5cf5fdb](https://github.com/sametcn99/hiretea/compare/b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532...5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [79b9946...f916392](https://github.com/sametcn99/hiretea/compare/79b9946445b3e79bd2c49d681eb05b31ea81fdfd...f91639253c4bad9c878d2d4f69a1b16a6753f529)** _(Aug 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4cf0df2...8c3bce5](https://github.com/sametcn99/personal-website-blazor/compare/4cf0df2744248e4f6b7464b9a352fbd3765b6a68...8c3bce52b93105547fc4dce707186449617df61e)** _(Aug 25, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [b9f1dae...6bb8a7a](https://github.com/sametcn99/libredirect-instances-list/compare/b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff...6bb8a7ad076f380ff5b583c858c117ff3df33a1c)** _(Aug 24, 2026)_
 
 <details>
-  <summary>Show 162 more pushes...</summary>
+  <summary>Show 163 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [b9f1dae...6bb8a7a](https://github.com/sametcn99/libredirect-instances-list/compare/b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff...6bb8a7ad076f380ff5b583c858c117ff3df33a1c)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [800ad1e...46c2fb0](https://github.com/sametcn99/apps/compare/800ad1e9f12f11dc34b34ab87955c403955a8e3d...46c2fb0177cccdcc663835f220c2225eac7c0b33)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f169a09...69cf5d1](https://github.com/sametcn99/libredirect-mobile/compare/f169a0955f88d75cea41467dd1151d40aa68e8d6...69cf5d1753667b4740a176ed38f1667445e371c1)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [69cf5d1...3881a67](https://github.com/sametcn99/libredirect-mobile/compare/69cf5d1753667b4740a176ed38f1667445e371c1...3881a675f949b37d199ed98984dc606af2de7ad2)** _(Aug 24, 2026)_
@@ -279,7 +281,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3fd21e1...6487f69](https://github.com/sametcn99/personal-website-blazor/compare/3fd21e17894a17a88c2d439a1f3d8cbdcf04ef73...6487f693218ba8566f287bb5cdd3fa3533abcb43)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bcccb9f...3fd21e1](https://github.com/sametcn99/personal-website-blazor/compare/bcccb9f213337c0640595594b368dad5010e5a10...3fd21e17894a17a88c2d439a1f3d8cbdcf04ef73)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [55f522a...bcccb9f](https://github.com/sametcn99/personal-website-blazor/compare/55f522a474d1c37dd1888d9d4adea7384e9ded53...bcccb9f213337c0640595594b368dad5010e5a10)** _(Aug 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [86b36c7...7045d68](https://github.com/sametcn99/reddit-rss-api/compare/86b36c76a51d8cc00e58ea46605a7aaac5b8c7d6...7045d689b5447ae7a464540792e79076a5136495)** _(Jul 26, 2026)_
 
 </details>
 
