@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 191                                     |
-| **Commits (7d):**          | 30+                                     |
+| **Commits (7d):**          | 50+                                     |
 | **Total Repositories:**    | 78                                      |
 | **Active Repositories:**   | 68                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -109,15 +109,20 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [fe84e2b...b3fd0d8](https://github.com/sametcn99/hiretea/compare/fe84e2b9821954b6e1f5044437c5da4daa441318...b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532)** _(Aug 25, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f916392...fe84e2b](https://github.com/sametcn99/hiretea/compare/f91639253c4bad9c878d2d4f69a1b16a6753f529...fe84e2b9821954b6e1f5044437c5da4daa441318)** _(Aug 25, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [18b0fce...82db80c](https://github.com/sametcn99/hiretea/compare/18b0fce73b3392f7af3216008b41507dbdaba97c...82db80ca967a25bac2c5901fc379d95374df39fe)** _(Aug 26, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [86c5479...83bd704](https://github.com/sametcn99/hiretea/compare/86c5479e594ddfe6a46bbfde26601b5162b39abb...83bd70423080dc8ae299df2ec640eae4fe67cfe5)** _(Aug 26, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0314396...86c5479](https://github.com/sametcn99/hiretea/compare/031439691175334ccff966b4172f748896117f60...86c5479e594ddfe6a46bbfde26601b5162b39abb)** _(Aug 26, 2026)_
+
+<details>
+  <summary>Show 168 more pushes...</summary>
+
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a229837...0314396](https://github.com/sametcn99/hiretea/compare/a229837d0f7e3c97a4a72c5b17def3f30160c4ae...031439691175334ccff966b4172f748896117f60)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [794f07f...a229837](https://github.com/sametcn99/hiretea/compare/794f07f3dcf2bf4572f93949e4169d3fb636e642...a229837d0f7e3c97a4a72c5b17def3f30160c4ae)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b3fd0d8...5cf5fdb](https://github.com/sametcn99/hiretea/compare/b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532...5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [79b9946...f916392](https://github.com/sametcn99/hiretea/compare/79b9946445b3e79bd2c49d681eb05b31ea81fdfd...f91639253c4bad9c878d2d4f69a1b16a6753f529)** _(Aug 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4cf0df2...8c3bce5](https://github.com/sametcn99/personal-website-blazor/compare/4cf0df2744248e4f6b7464b9a352fbd3765b6a68...8c3bce52b93105547fc4dce707186449617df61e)** _(Aug 25, 2026)_
-
-<details>
-  <summary>Show 163 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [b9f1dae...6bb8a7a](https://github.com/sametcn99/libredirect-instances-list/compare/b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff...6bb8a7ad076f380ff5b583c858c117ff3df33a1c)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [800ad1e...46c2fb0](https://github.com/sametcn99/apps/compare/800ad1e9f12f11dc34b34ab87955c403955a8e3d...46c2fb0177cccdcc663835f220c2225eac7c0b33)** _(Aug 24, 2026)_
@@ -451,12 +456,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
-  TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 25, 2026_<br />No description provided.
+  TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 25, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 25, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -508,12 +513,12 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
-  TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 25, 2026_<br />No description provided.
+  TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 25, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 25, 2026_<br />No description provided.
 - [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
   Kotlin<br />_Created: Aug 23, 2026 • Updated: Aug 24, 2026_<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
 - [**scripts**](https://github.com/sametcn99/scripts) -
