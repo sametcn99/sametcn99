@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 191                                     |
-| **Commits (7d):**          | 50+                                     |
+| **Commits (7d):**          | 60+                                     |
 | **Total Repositories:**    | 78                                      |
 | **Active Repositories:**   | 68                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -109,15 +109,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [83bd704...18b0fce](https://github.com/sametcn99/hiretea/compare/83bd70423080dc8ae299df2ec640eae4fe67cfe5...18b0fce73b3392f7af3216008b41507dbdaba97c)** _(Aug 26, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [82db80c...73a0b67](https://github.com/sametcn99/hiretea/compare/82db80ca967a25bac2c5901fc379d95374df39fe...73a0b67c4ddfb913472d96b4e346ae4155805075)** _(Aug 26, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [5cf5fdb...794f07f](https://github.com/sametcn99/hiretea/compare/5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1...794f07f3dcf2bf4572f93949e4169d3fb636e642)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [fe84e2b...b3fd0d8](https://github.com/sametcn99/hiretea/compare/fe84e2b9821954b6e1f5044437c5da4daa441318...b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f916392...fe84e2b](https://github.com/sametcn99/hiretea/compare/f91639253c4bad9c878d2d4f69a1b16a6753f529...fe84e2b9821954b6e1f5044437c5da4daa441318)** _(Aug 25, 2026)_
+
+<details>
+  <summary>Show 166 more pushes...</summary>
+
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [18b0fce...82db80c](https://github.com/sametcn99/hiretea/compare/18b0fce73b3392f7af3216008b41507dbdaba97c...82db80ca967a25bac2c5901fc379d95374df39fe)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [86c5479...83bd704](https://github.com/sametcn99/hiretea/compare/86c5479e594ddfe6a46bbfde26601b5162b39abb...83bd70423080dc8ae299df2ec640eae4fe67cfe5)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0314396...86c5479](https://github.com/sametcn99/hiretea/compare/031439691175334ccff966b4172f748896117f60...86c5479e594ddfe6a46bbfde26601b5162b39abb)** _(Aug 26, 2026)_
-
-<details>
-  <summary>Show 167 more pushes...</summary>
-
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a229837...0314396](https://github.com/sametcn99/hiretea/compare/a229837d0f7e3c97a4a72c5b17def3f30160c4ae...031439691175334ccff966b4172f748896117f60)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [794f07f...a229837](https://github.com/sametcn99/hiretea/compare/794f07f3dcf2bf4572f93949e4169d3fb636e642...a229837d0f7e3c97a4a72c5b17def3f30160c4ae)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b3fd0d8...5cf5fdb](https://github.com/sametcn99/hiretea/compare/b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532...5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1)** _(Aug 25, 2026)_
@@ -281,10 +284,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b556cf3...1392188](https://github.com/sametcn99/personal-website-blazor/compare/b556cf3a96b72dddedfbf1e8d626fe7f75e10419...139218877fa9810d469759ed859b7cdc15ebcde8)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [07031ef...b556cf3](https://github.com/sametcn99/personal-website-blazor/compare/07031ef61e5130345c48655d1c6191481ecc828a...b556cf3a96b72dddedfbf1e8d626fe7f75e10419)** _(Aug 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5d8fb43...07031ef](https://github.com/sametcn99/personal-website-blazor/compare/5d8fb43e8c307447bb36400060d6261c318e249d...07031ef61e5130345c48655d1c6191481ecc828a)** _(Aug 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b3def03...5d8fb43](https://github.com/sametcn99/personal-website-blazor/compare/b3def03653c8c56cb74af0498d255580f9ecf331...5d8fb43e8c307447bb36400060d6261c318e249d)** _(Aug 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6487f69...b3def03](https://github.com/sametcn99/personal-website-blazor/compare/6487f693218ba8566f287bb5cdd3fa3533abcb43...b3def03653c8c56cb74af0498d255580f9ecf331)** _(Aug 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3fd21e1...6487f69](https://github.com/sametcn99/personal-website-blazor/compare/3fd21e17894a17a88c2d439a1f3d8cbdcf04ef73...6487f693218ba8566f287bb5cdd3fa3533abcb43)** _(Aug 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bcccb9f...3fd21e1](https://github.com/sametcn99/personal-website-blazor/compare/bcccb9f213337c0640595594b368dad5010e5a10...3fd21e17894a17a88c2d439a1f3d8cbdcf04ef73)** _(Aug 1, 2026)_
 
 </details>
 
@@ -455,10 +454,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 25, 2026_<br />No description provided.
 
@@ -512,10 +511,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 25, 2026_<br />No description provided.
 - [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
