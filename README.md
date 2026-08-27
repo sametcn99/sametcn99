@@ -109,15 +109,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [73a0b67...ab2037f](https://github.com/sametcn99/hiretea/compare/73a0b67c4ddfb913472d96b4e346ae4155805075...ab2037fac27ed4d77811d22c47df350fd04b362d)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [2b7f75e...e84a953](https://github.com/sametcn99/hiretea/compare/2b7f75eb51ef688be6bbc9fdadcb10b38133ff63...e84a9539197eee8bab4c303215569324a54572f3)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a5413b6...b4dd434](https://github.com/sametcn99/hiretea/compare/a5413b6fd90727653ffb9df00c5e37a818e8a6be...b4dd434ad7655bf7b1c8e51d62cc4c71604f4504)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb4b8c1...a5413b6](https://github.com/sametcn99/hiretea/compare/bb4b8c1d6e9fb700f1a973d9a117a92f548c1581...a5413b6fd90727653ffb9df00c5e37a818e8a6be)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [8c5ddec...f56e3fd](https://github.com/sametcn99/hiretea/compare/8c5ddec31ad470283cb0bd941b055d0a4ed443c4...f56e3fd15a40105e07819b83780141d772291f6c)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [74c42c8...8c5ddec](https://github.com/sametcn99/hiretea/compare/74c42c8b3191d406ea0ba539e63ca6a2389ebbfc...8c5ddec31ad470283cb0bd941b055d0a4ed443c4)** _(Aug 26, 2026)_
 
 <details>
   <summary>Show 162 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [74c42c8...8c5ddec](https://github.com/sametcn99/hiretea/compare/74c42c8b3191d406ea0ba539e63ca6a2389ebbfc...8c5ddec31ad470283cb0bd941b055d0a4ed443c4)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [83bd704...18b0fce](https://github.com/sametcn99/hiretea/compare/83bd70423080dc8ae299df2ec640eae4fe67cfe5...18b0fce73b3392f7af3216008b41507dbdaba97c)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [82db80c...73a0b67](https://github.com/sametcn99/hiretea/compare/82db80ca967a25bac2c5901fc379d95374df39fe...73a0b67c4ddfb913472d96b4e346ae4155805075)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [5cf5fdb...794f07f](https://github.com/sametcn99/hiretea/compare/5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1...794f07f3dcf2bf4572f93949e4169d3fb636e642)** _(Aug 25, 2026)_
@@ -279,7 +280,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [520133a...be30d3b](https://github.com/sametcn99/my-stars-atlas/compare/520133a6d15930140dc03305ffea93084c9c7e16...be30d3b329c93bf14cdbc8dce3a1b33571c269ac)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [7340255...520133a](https://github.com/sametcn99/my-stars-atlas/compare/7340255885b54a090d9c62fe618ce31f30648281...520133a6d15930140dc03305ffea93084c9c7e16)** _(Aug 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1392188...540d0e9](https://github.com/sametcn99/personal-website-blazor/compare/139218877fa9810d469759ed859b7cdc15ebcde8...540d0e98de17cea34ef5d86ad804a4596bd17adb)** _(Aug 3, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [dc0eb74...2d94cbf](https://github.com/sametcn99/computer-science-resources/compare/dc0eb74b646dfdb461d4c6515630a940a8357eb5...2d94cbf4e71cd6e940d09efb3d646aa6b164f75c)** _(Aug 3, 2026)_
 
 </details>
 
@@ -315,7 +315,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 50 more starred repositories...</summary>
 
 - **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 21, 2026)_
 - **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
@@ -367,7 +367,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [reactos/reactos](https://github.com/reactos/reactos)** _(Aug 2, 2026)_
 - **Starred [dbcodeio/public](https://github.com/dbcodeio/public)** _(Jul 31, 2026)_
 - **Starred [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)** _(Jul 28, 2026)_
-- **Starred [Automattic/docspress](https://github.com/Automattic/docspress)** _(Jul 27, 2026)_
 
 </details>
 
@@ -449,10 +448,10 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 27, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 25, 2026_<br />No description provided.
 
@@ -506,10 +505,10 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**apps**](https://github.com/sametcn99/apps) -
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 27, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 26, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 25, 2026_<br />No description provided.
 - [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
