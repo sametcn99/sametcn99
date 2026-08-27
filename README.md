@@ -306,15 +306,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 - **Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)** _(Aug 25, 2026)_
 - **Starred [nocobase/nocobase](https://github.com/nocobase/nocobase)** _(Aug 24, 2026)_
 - **Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)** _(Aug 24, 2026)_
 - **Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)** _(Aug 24, 2026)_
-- **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
 
 <details>
-  <summary>Show 50 more starred repositories...</summary>
+  <summary>Show 51 more starred repositories...</summary>
 
+- **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
 - **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 21, 2026)_
 - **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
 - **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 21, 2026)_
