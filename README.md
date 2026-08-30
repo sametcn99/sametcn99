@@ -116,7 +116,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [800ad1e...46c2fb0](https://github.com/sametcn99/apps/compare/800ad1e9f12f11dc34b34ab87955c403955a8e3d...46c2fb0177cccdcc663835f220c2225eac7c0b33)** _(Aug 24, 2026)_
 
 <details>
-  <summary>Show 130 more pushes...</summary>
+  <summary>Show 127 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f169a09...69cf5d1](https://github.com/sametcn99/libredirect-mobile/compare/f169a0955f88d75cea41467dd1151d40aa68e8d6...69cf5d1753667b4740a176ed38f1667445e371c1)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [69cf5d1...3881a67](https://github.com/sametcn99/libredirect-mobile/compare/69cf5d1753667b4740a176ed38f1667445e371c1...3881a675f949b37d199ed98984dc606af2de7ad2)** _(Aug 24, 2026)_
@@ -245,9 +245,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [437c1ca...1a9ae8d](https://github.com/sametcn99/personal-website-blazor/compare/437c1ca736096b7b0c05e23448330852cb849747...1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [84f3e28...437c1ca](https://github.com/sametcn99/personal-website-blazor/compare/84f3e285106a5ccde405ce6085b7f25d1615654e...437c1ca736096b7b0c05e23448330852cb849747)** _(Aug 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3b6448a...84f3e28](https://github.com/sametcn99/personal-website-blazor/compare/3b6448acdb28869b43b15ccc08d3990442f587a1...84f3e285106a5ccde405ce6085b7f25d1615654e)** _(Aug 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d0f3be6...3b6448a](https://github.com/sametcn99/personal-website-blazor/compare/d0f3be61daae5117d7c20e3c22890e8744389eaa...3b6448acdb28869b43b15ccc08d3990442f587a1)** _(Aug 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5164a2e...d0f3be6](https://github.com/sametcn99/personal-website-blazor/compare/5164a2eeb9b8aae0934a48c9cd811f2a0d69f697...d0f3be61daae5117d7c20e3c22890e8744389eaa)** _(Aug 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7404130...5164a2e](https://github.com/sametcn99/personal-website-blazor/compare/7404130dcf013edbb8f00a91c8fe62c3c7728efa...5164a2eeb9b8aae0934a48c9cd811f2a0d69f697)** _(Aug 5, 2026)_
 
 </details>
 
@@ -416,7 +413,7 @@ Recent releases across my repositories:
 ### Recently Updated
 
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 29, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 30, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 28, 2026_<br />No description provided.
 - [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
@@ -473,7 +470,7 @@ Recent releases across my repositories:
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
 - [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 29, 2026_<br />No description provided.
+  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Aug 30, 2026_<br />No description provided.
 - [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
   MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 28, 2026_<br />No description provided.
 - [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
