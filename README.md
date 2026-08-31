@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                   |
 | :------------------------- | :-------------------------------------- |
 | **Total Stars Earned:**    | 192                                     |
-| **Commits (7d):**          | 10+                                     |
+| **Commits (7d):**          | 3                                       |
 | **Total Repositories:**    | 77                                      |
 | **Active Repositories:**   | 67                                      |
 | **Forked Repositories:**   | 10                                      |
@@ -116,7 +116,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 24, 2026)_
 
 <details>
-  <summary>Show 117 more pushes...</summary>
+  <summary>Show 112 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [b9f1dae...6bb8a7a](https://github.com/sametcn99/libredirect-instances-list/compare/b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff...6bb8a7ad076f380ff5b583c858c117ff3df33a1c)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [800ad1e...46c2fb0](https://github.com/sametcn99/apps/compare/800ad1e9f12f11dc34b34ab87955c403955a8e3d...46c2fb0177cccdcc663835f220c2225eac7c0b33)** _(Aug 24, 2026)_
@@ -230,11 +230,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [3049ad6...e11f9c6](https://github.com/sametcn99/n8n-automations/compare/3049ad6ff15e651161c21454a4b4060e60d59bf4...e11f9c6966d7ca4cda56f1fa46e12f7bc247a8da)** _(Aug 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [be7ee6f...3049ad6](https://github.com/sametcn99/n8n-automations/compare/be7ee6f168041dab2cb79db8d638921b4af71e80...3049ad6ff15e651161c21454a4b4060e60d59bf4)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c06fea6...a003aca](https://github.com/sametcn99/sametcn99/compare/c06fea6de87c76a41894e84152fda99c173ebccb...a003aca7df6cc760d2d8a4ed018e7dd00aceb3c6)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [e9dce6e...218a76d](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/e9dce6ee3ea0958b31b68cc9b0568e955b96f2ea...218a76d448019dbf22f2e97978f2620099e70346)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [3c78722...4de8b4d](https://github.com/sametcn99/sametcn99/compare/3c787229b3f6a4513d86f82304e443f261856ea1...4de8b4daa3a8f58c2a231d076e028a3268238217)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a9653f9...e9dce6e](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a9653f90870737d302ce4265486ef437a5a502e0...e9dce6ee3ea0958b31b68cc9b0568e955b96f2ea)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [f78dd93...a9653f9](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/f78dd9347444936344c94a38ee4572ca36c87c40...a9653f90870737d302ce4265486ef437a5a502e0)** _(Aug 6, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [d80096c...12dd1b0](https://github.com/sametcn99/gh-block-spam-accounts/compare/d80096c92d68981b702faa86e50befb009080f76...12dd1b061394460f8d5a6d08c0e850e7d90c1752)** _(Aug 6, 2026)_
 
 </details>
 
@@ -263,15 +258,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
 - **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 - **Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)** _(Aug 25, 2026)_
 - **Starred [nocobase/nocobase](https://github.com/nocobase/nocobase)** _(Aug 24, 2026)_
 - **Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)** _(Aug 24, 2026)_
-- **Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)** _(Aug 24, 2026)_
 
 <details>
-  <summary>Show 49 more starred repositories...</summary>
+  <summary>Show 50 more starred repositories...</summary>
 
+- **Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)** _(Aug 24, 2026)_
 - **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
 - **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 21, 2026)_
 - **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
