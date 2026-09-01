@@ -241,7 +241,7 @@ be happy to collaborate.
 Pull requests across my repositories, including both open and closed contributions.
 
 {{#each pullRequests.visible}}
-- [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+- [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}) *({{status}}{{#if dateStr}}, {{dateStr}}{{/if}})*
 {{/each}}
 
 {{#if pullRequests.hidden.length}}
@@ -250,7 +250,7 @@ Pull requests across my repositories, including both open and closed contributio
   <summary>Show {{pullRequests.hidden.length}} more pull requests...</summary>
 
   {{#each pullRequests.hidden}}
-  - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+  - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}) *({{status}}{{#if dateStr}}, {{dateStr}}{{/if}})*
   {{/each}}
 </details>
 {{/if}}

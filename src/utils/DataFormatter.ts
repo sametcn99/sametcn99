@@ -57,6 +57,7 @@ export interface FormattedPullRequest {
 	repositoryName: string;
 	repositoryUrl: string;
 	dateStr: string;
+	status: "merged" | "waiting";
 }
 
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
@@ -263,6 +264,7 @@ export class DataFormatter {
 			repositoryName,
 			repositoryUrl,
 			dateStr: updated ? `Updated ${updated}` : "",
+			status: pullRequest.merged_at ? "merged" : "waiting",
 		};
 	}
 

@@ -7,7 +7,7 @@ export class PullRequestFetcher implements IDataFetcher<RepoPullRequest[]> {
 		private readonly reposPromise: Promise<Repository[]>,
 	) {}
 
-	/** Loads open and closed pull requests, sorted by most recently updated. */
+	/** Loads pull requests with waiting items first, then sorts each group by recency. */
 	async fetch(): Promise<RepoPullRequest[]> {
 		const repos = await this.reposPromise;
 		const pullRequests: RepoPullRequest[] = [];
@@ -30,6 +30,12 @@ export class PullRequestFetcher implements IDataFetcher<RepoPullRequest[]> {
 		}
 
 		return pullRequests.sort((a, b) => {
+			const waitingA = !a.merged_at;
+			const waitingB = !b.merged_at;
+			if (waitingA !== waitingB) {
+				return waitingA ? -1 : 1;
+			}
+
 			const updatedA = new Date(a.updated_at ?? 0).getTime();
 			const updatedB = new Date(b.updated_at ?? 0).getTime();
 			return updatedB - updatedA;
