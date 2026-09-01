@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 192                                      |
-| **Commits (7d):**          | 160+                                     |
+| **Commits (7d):**          | 170+                                     |
 | **Total Repositories:**    | 79                                       |
 | **Active Repositories:**   | 69                                       |
 | **Forked Repositories:**   | 10                                       |
@@ -109,15 +109,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [e5780d9...68999d8](https://github.com/sametcn99/case-fx-tool/compare/e5780d91c57108b9db984fb5179e0bedf00efae7...68999d84a8d19ecb863378bf79d44c218039671c)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [9affb72...bfa61e6](https://github.com/sametcn99/case-fx-tool/compare/9affb7289c2f2e2991da231ccbdee7b63c19f330...bfa61e67e7bab47a0a521831ffd1ab90c9f28114)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [8401b8e...05d086d](https://github.com/sametcn99/case-fx-tool/compare/8401b8edbff9e4961b7f2e2550327be6157715c3...05d086d0688a0001b18bc7c10dd9131567697b6e)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [287024e...9affb72](https://github.com/sametcn99/case-fx-tool/compare/287024e80d412b82e4187a8828fa868d40794b18...9affb7289c2f2e2991da231ccbdee7b63c19f330)** _(Sep 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f77bc6c...f38895b](https://github.com/sametcn99/hiretea/compare/f77bc6c0edd081df7fd533db93ece4c940af9556...f38895bc3634ea6df92031b5ef51cc5e9d713290)** _(Sep 1, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a79367b...bb9a781](https://github.com/sametcn99/hiretea/compare/a79367bdb2b7ae91bd0d6d9382bab07886ba73b6...bb9a781c14297e6d5a134a9aeb46065ce98b9d20)** _(Aug 31, 2026)_
 
 <details>
   <summary>Show 147 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a79367b...bb9a781](https://github.com/sametcn99/hiretea/compare/a79367bdb2b7ae91bd0d6d9382bab07886ba73b6...bb9a781c14297e6d5a134a9aeb46065ce98b9d20)** _(Aug 31, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb9a781...f77bc6c](https://github.com/sametcn99/hiretea/compare/bb9a781c14297e6d5a134a9aeb46065ce98b9d20...f77bc6c0edd081df7fd533db93ece4c940af9556)** _(Aug 31, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [266c4f1...3917e91](https://github.com/sametcn99/hiretea/compare/266c4f14f9a04a340c72baef85f19a259255fbc9...3917e913e6405d20d4924acf9f6ee669d6504f0e)** _(Aug 28, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [59048f1...378b1f2](https://github.com/sametcn99/hiretea/compare/59048f1584af158136a0135e0cae21fb8e36f60a...378b1f231bbf118e48ca033b8940f34a9efe39e3)** _(Aug 28, 2026)_
@@ -264,7 +265,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [f3d9036...be7ee6f](https://github.com/sametcn99/n8n-automations/compare/f3d90362a829e9411b67af640450341d5ac93578...be7ee6f168041dab2cb79db8d638921b4af71e80)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1a9ae8d...409b902](https://github.com/sametcn99/personal-website-blazor/compare/1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258...409b9024fc38df764c4f7178bd292152692e3237)** _(Aug 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [2fd2199...b114fbe](https://github.com/sametcn99/n8n-automations/compare/2fd21995e2864b61721e9d74d2c7308453693bde...b114fbeb12209995afe65529d46d3a95176af384)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [accb7c4...392dd9e](https://github.com/sametcn99/personal-website-blazor/compare/accb7c40fef4277c4d076cc5becd30cf6c09d755...392dd9e7b050150a0098c6387d8fc1a67520c7fb)** _(Aug 7, 2026)_
 
 </details>
 
@@ -433,12 +433,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
+  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Sep 1, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) -
   Python<br />_Created: Sep 1, 2026 • Updated: Sep 1, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
-- [**hiretea**](https://github.com/sametcn99/hiretea) -
-  TypeScript<br />_Created: Apr 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -490,6 +490,8 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
+  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Sep 1, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) -
   Python<br />_Created: Sep 1, 2026 • Updated: Sep 1, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
@@ -508,8 +510,6 @@ Recent releases across my repositories:
   HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 11, 2026_<br />No description provided.
 - [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
   JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Aug 3, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
 - [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
   TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />WibeSoft Backend Case study
 - [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) -
