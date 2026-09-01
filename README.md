@@ -91,17 +91,17 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 ## GitHub Snapshot
 
-| Metric                     | Value                                   |
-| :------------------------- | :-------------------------------------- |
-| **Total Stars Earned:**    | 192                                     |
-| **Commits (7d):**          | 140+                                    |
-| **Total Repositories:**    | 78                                      |
-| **Active Repositories:**   | 68                                      |
-| **Forked Repositories:**   | 10                                      |
-| **Archived Repositories:** | 0                                       |
-| **Total Gists:**           | [56](https://gist.github.com/sametcn99) |
-| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, MDX   |
-| **Account Age:**           | 6 years                                 |
+| Metric                     | Value                                    |
+| :------------------------- | :--------------------------------------- |
+| **Total Stars Earned:**    | 192                                      |
+| **Commits (7d):**          | 150+                                     |
+| **Total Repositories:**    | 79                                       |
+| **Active Repositories:**   | 69                                       |
+| **Forked Repositories:**   | 10                                       |
+| **Archived Repositories:** | 0                                        |
+| **Total Gists:**           | [56](https://gist.github.com/sametcn99)  |
+| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Python |
+| **Account Age:**           | 6 years                                  |
 
 ## Recent GitHub Activity
 
@@ -290,15 +290,16 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Starred Repositories
 
+- **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
 - **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
 - **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 - **Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)** _(Aug 25, 2026)_
-- **Starred [nocobase/nocobase](https://github.com/nocobase/nocobase)** _(Aug 24, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
+- **Starred [nocobase/nocobase](https://github.com/nocobase/nocobase)** _(Aug 24, 2026)_
 - **Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)** _(Aug 24, 2026)_
 - **Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)** _(Aug 24, 2026)_
 - **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
@@ -430,12 +431,12 @@ Recent releases across my repositories:
 
 ### Recently Updated
 
+- [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) -
+  Python<br />_Created: Sep 1, 2026 • Updated: Sep 1, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
   TypeScript<br />_Created: Apr 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 28, 2026_<br />No description provided.
 
 ### Active Repositories
 
@@ -451,7 +452,7 @@ Recent releases across my repositories:
   TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
 
 <details>
-  <summary>Show 62 more repositories...</summary>
+  <summary>Show 63 more repositories...</summary>
 
 - [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★10 -
   TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
@@ -487,6 +488,8 @@ Recent releases across my repositories:
   C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
 - [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
   TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
+- [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) -
+  Python<br />_Created: Sep 1, 2026 • Updated: Sep 1, 2026_<br />No description provided.
 - [**apps**](https://github.com/sametcn99/apps) -
   JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
 - [**hiretea**](https://github.com/sametcn99/hiretea) -
