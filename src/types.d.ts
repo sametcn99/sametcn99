@@ -67,6 +67,10 @@ type WorkflowRun =
 type RepoIssue =
 	import("@octokit/rest").RestEndpointMethodTypes["issues"]["listForRepo"]["response"]["data"][number];
 
+/** Pull request payload returned when listing pull requests for a repo. */
+type RepoPullRequest =
+	import("@octokit/rest").RestEndpointMethodTypes["pulls"]["list"]["response"]["data"][number];
+
 /** Contract implemented by each GitHub/feed fetcher in this repo. */
 interface IDataFetcher<T> {
 	fetch(): Promise<T>;

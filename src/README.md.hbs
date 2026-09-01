@@ -34,7 +34,7 @@ activity.others.length)}}
 - [Other Activity](#other-activity)
 {{/if}}
 {{/if}}
-{{#if issues.hasAny}}
+{{#if (or issues.hasAny pullRequests.hasAny)}}
 - [Project Issues](#project-issues)
 {{/if}}
 {{#if repos}}
@@ -209,7 +209,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 {{/if}}
 
-{{#if issues.hasAny}}
+{{#if (or issues.hasAny pullRequests.hasAny)}}
 
 ## Project Issues
 
@@ -227,6 +227,29 @@ be happy to collaborate.
   <summary>Show {{issues.hidden.length}} more issues...</summary>
 
   {{#each issues.hidden}}
+  - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+  {{/each}}
+</details>
+{{/if}}
+
+{{/if}}
+
+{{#if pullRequests.length}}
+
+### Pull Requests
+
+Pull requests across my repositories, including both open and closed contributions.
+
+{{#each pullRequests.visible}}
+- [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
+{{/each}}
+
+{{#if pullRequests.hidden.length}}
+
+<details>
+  <summary>Show {{pullRequests.hidden.length}} more pull requests...</summary>
+
+  {{#each pullRequests.hidden}}
   - [**{{title}}**]({{html_url}}) in [{{repositoryName}}]({{repositoryUrl}}){{#if dateStr}} *({{dateStr}})*{{/if}}
   {{/each}}
 </details>

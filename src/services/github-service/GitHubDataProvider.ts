@@ -3,6 +3,7 @@ import { EventFetcher } from "./EventFetcher";
 import { GitHubService } from "./GitHubService";
 import { OpenIssueFetcher } from "./OpenIssueFetcher";
 import { ProfileFetcher } from "./ProfileFetcher";
+import { PullRequestFetcher } from "./PullRequestFetcher";
 import { ReleaseFetcher } from "./ReleaseFetcher";
 import { RepositoryFetcher } from "./RepositoryFetcher";
 import { StargazerFetcher } from "./StargazerFetcher";
@@ -39,6 +40,14 @@ export class GitHubDataProvider {
 		reposData: Promise<Repository[]>,
 	): Promise<RepoIssue[]> {
 		const fetcher = new OpenIssueFetcher(this.service, this.octokit, reposData);
+		return fetcher.fetch();
+	}
+
+	/** Returns all pull requests from the user's repositories. */
+	async fetchPullRequests(
+		reposData: Promise<Repository[]>,
+	): Promise<RepoPullRequest[]> {
+		const fetcher = new PullRequestFetcher(this.octokit, reposData);
 		return fetcher.fetch();
 	}
 

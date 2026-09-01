@@ -47,6 +47,8 @@ class Application {
 		const reposDataPromise = this.githubProvider.fetchRepositories();
 		const eventsDataPromise = this.githubProvider.fetchEvents();
 		const issuesPromise = this.githubProvider.fetchOpenIssues(reposDataPromise);
+		const pullRequestsPromise =
+			this.githubProvider.fetchPullRequests(reposDataPromise);
 		const userProfilePromise = this.githubProvider.fetchProfile();
 		const workflowPromise = this.githubProvider.fetchWorkflow();
 		const stargazersPromise =
@@ -63,6 +65,7 @@ class Application {
 			reposData,
 			eventsData,
 			openIssues,
+			pullRequests,
 			userProfile,
 			workflowData,
 			userStats,
@@ -73,6 +76,7 @@ class Application {
 			reposDataPromise,
 			eventsDataPromise,
 			issuesPromise,
+			pullRequestsPromise,
 			userProfilePromise,
 			workflowPromise,
 			userStatsPromise,
@@ -132,6 +136,7 @@ class Application {
 			posts: DataFormatter.preparePostsData(recentPosts),
 			activity: DataFormatter.prepareActivityData(eventsData, releases),
 			issues: DataFormatter.prepareIssuesData(openIssues),
+			pullRequests: DataFormatter.preparePullRequestsData(pullRequests),
 			stats: userStats,
 			repos: DataFormatter.prepareRepoData(reposData),
 			stargazers: DataFormatter.prepareStargazersData(stargazers),

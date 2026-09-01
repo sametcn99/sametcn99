@@ -50,6 +50,15 @@ export interface FormattedIssue {
 	dateStr: string;
 }
 
+/** Shape used by the template when rendering pull requests. */
+export interface FormattedPullRequest {
+	title: string;
+	html_url: string;
+	repositoryName: string;
+	repositoryUrl: string;
+	dateStr: string;
+}
+
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
 export class DataFormatter {
 	/** Formats GitHub activity events into readable Markdown snippets. */
@@ -232,6 +241,47 @@ export class DataFormatter {
 			hidden: formatted.slice(5),
 			length: formatted.length,
 			hasAny: issues.length > 0,
+		};
+	}
+
+	/** Converts a pull request into the data needed by the template. */
+	static formatPullRequest(
+		pullRequest: RepoPullRequest,
+	): FormattedPullRequest {
+		const pullRequestUrl = pullRequest.html_url;
+		const repositoryUrl = pullRequestUrl.replace(/\/pull\/\d+$/, "");
+		const repositoryName = repositoryUrl
+			.replace("https://github.com/", "")
+			.trim();
+		const updated = pullRequest.updated_at
+			? formatDateLong(pullRequest.updated_at)
+			: "";
+
+		return {
+			title: pullRequest.title,
+			html_url: pullRequestUrl,
+			repositoryName,
+			repositoryUrl,
+			dateStr: updated ? `Updated ${updated}` : "",
+		};
+	}
+
+	/** Organizes all pull requests into a single list for the template. */
+	static preparePullRequestsData(pullRequests: RepoPullRequest[]): {
+		visible: FormattedPullRequest[];
+		hidden: FormattedPullRequest[];
+		length: number;
+		hasAny: boolean;
+	} {
+		const formatted = pullRequests.map((pullRequest) =>
+			DataFormatter.formatPullRequest(pullRequest),
+		);
+
+		return {
+			visible: formatted.slice(0, 5),
+			hidden: formatted.slice(5),
+			length: formatted.length,
+			hasAny: pullRequests.length > 0,
 		};
 	}
 
