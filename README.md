@@ -94,7 +94,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                     | Value                                    |
 | :------------------------- | :--------------------------------------- |
 | **Total Stars Earned:**    | 192                                      |
-| **Commits (7d):**          | 150+                                     |
+| **Commits (7d):**          | 160+                                     |
 | **Total Repositories:**    | 79                                       |
 | **Active Repositories:**   | 69                                       |
 | **Forked Repositories:**   | 10                                       |
@@ -109,15 +109,18 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pushes
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [9affb72...bfa61e6](https://github.com/sametcn99/case-fx-tool/compare/9affb7289c2f2e2991da231ccbdee7b63c19f330...bfa61e67e7bab47a0a521831ffd1ab90c9f28114)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [8401b8e...05d086d](https://github.com/sametcn99/case-fx-tool/compare/8401b8edbff9e4961b7f2e2550327be6157715c3...05d086d0688a0001b18bc7c10dd9131567697b6e)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [287024e...9affb72](https://github.com/sametcn99/case-fx-tool/compare/287024e80d412b82e4187a8828fa868d40794b18...9affb7289c2f2e2991da231ccbdee7b63c19f330)** _(Sep 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f77bc6c...f38895b](https://github.com/sametcn99/hiretea/compare/f77bc6c0edd081df7fd533db93ece4c940af9556...f38895bc3634ea6df92031b5ef51cc5e9d713290)** _(Sep 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a79367b...bb9a781](https://github.com/sametcn99/hiretea/compare/a79367bdb2b7ae91bd0d6d9382bab07886ba73b6...bb9a781c14297e6d5a134a9aeb46065ce98b9d20)** _(Aug 31, 2026)_
+
+<details>
+  <summary>Show 147 more pushes...</summary>
+
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb9a781...f77bc6c](https://github.com/sametcn99/hiretea/compare/bb9a781c14297e6d5a134a9aeb46065ce98b9d20...f77bc6c0edd081df7fd533db93ece4c940af9556)** _(Aug 31, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [266c4f1...3917e91](https://github.com/sametcn99/hiretea/compare/266c4f14f9a04a340c72baef85f19a259255fbc9...3917e913e6405d20d4924acf9f6ee669d6504f0e)** _(Aug 28, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [59048f1...378b1f2](https://github.com/sametcn99/hiretea/compare/59048f1584af158136a0135e0cae21fb8e36f60a...378b1f231bbf118e48ca033b8940f34a9efe39e3)** _(Aug 28, 2026)_
-
-<details>
-  <summary>Show 144 more pushes...</summary>
-
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c3bce5...2f71670](https://github.com/sametcn99/personal-website-blazor/compare/8c3bce52b93105547fc4dce707186449617df61e...2f716703922857529e33546d99c1f5e5803d977a)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f71670...ac08769](https://github.com/sametcn99/personal-website-blazor/compare/2f716703922857529e33546d99c1f5e5803d977a...ac08769251aaf82f0ae21663e6c14aca8d978275)** _(Aug 28, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [299cb8d...66cdf64](https://github.com/sametcn99/hiretea/compare/299cb8d154e6300a9fdbbc4d7d430dbd00430dbb...66cdf64d5dc0322fddd7601e5f6f2cfb0f81f236)** _(Aug 29, 2026)_
@@ -363,7 +366,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Created branch &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 16 more other activity...</summary>
+  <summary>Show 15 more other activity...</summary>
 
 - **Deleted branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
 - **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
@@ -376,7 +379,6 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Forked [gotify/server](https://github.com/gotify/server) to [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 7, 2026)_
-- **Created branch &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations)** _(Aug 7, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#16](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
