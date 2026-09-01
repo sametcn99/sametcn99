@@ -34,6 +34,8 @@ const HIGHLIGHT_REPOSITORY_NAMES = [
 	"booking-calendar",
 	"htwind",
 	"mermaid-viewer",
+	"instaloader-api",
+	"golter"
 ] as const;
 
 /** Configuration overrides used when instantiating the application. */
