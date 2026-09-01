@@ -1,42 +1,105 @@
 [Website](https://sametcc.me) · [Project Board](https://github.com/users/sametcn99/projects/9) ·
 [LinkedIn](https://sametcc.me/link/linkedin) · [Telegram](https://sametcc.me/link/telegram) ·
 [Mail](https://sametcc.me/link/mail)
-<br/><br/>
+
 [![committers.top
 badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-badge.committers.top/turkey/sametcn99)
 
 <details>
 <summary>Table of Contents</summary>
 
-- [Tech Stack](#tech-stack)
+- [Active Repositories](#active-repositories)
 - [Latest Writing](#latest-writing)
+- [Tech Stack](#tech-stack)
 - [GitHub Snapshot](#github-snapshot)
-- [Recent GitHub Activity](#recent-github-activity)
-- [Pushes](#pushes)
-- [Pull Requests](#pull-requests)
-- [Comments](#comments)
-- [Starred Repositories](#starred-repositories)
-- [Other Activity](#other-activity)
-- [Project Issues](#project-issues)
-- [Repository Highlights](#repository-highlights)
 - [Releases](#releases)
 - [Recently Updated](#recently-updated)
-- [Active Repositories](#active-repositories)
-- [Forked Repositories](#forked-repositories)
+- [Recent GitHub Activity](#recent-github-activity)
+- [Collaboration](#collaboration)
+- [More Repositories](#more-repositories)
 
 </details>
 
-## Tech Stack
+## Active Repositories
 
-| Area            | Technologies                            |
-| :-------------- | :-------------------------------------- |
-| **Frontend**    | React, Next.js, Vue, Blazor             |
-| **Backend**     | .NET, NestJS, Node.js, Bun              |
-| **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB    |
-| **DevOps**      | GitHub Actions, Docker, Coolify         |
-| **Desktop**     | Electron, .NET MAUI, .NET Windows Forms |
-| **Languages**   | C#, TypeScript, JavaScript, Python      |
-| **Environment** | Fedora KDE, Ubuntu GNOME, Windows       |
+A quick view of currently maintained public projects, ordered by GitHub stars. The first five are shown here; the rest stay available below.
+
+| Repository                                                                                | Description                                                                                          |  Language  | Stars |   Updated    | Links                                                                                                                                    |
+| :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Aug 8, 2026  | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
+| [**electron-widgets**](https://github.com/sametcn99/electron-widgets)                     | the missing html based widget manager                                                                | TypeScript |  ★ 20 | Mar 1, 2026  | [Repo](https://github.com/sametcn99/electron-widgets) · [Demo](https://electron-widgets.vercel.app)                                      |
+| [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder)                           | moved to https://github.com/sametcn99/ResumeBuilderMAUI                                              |     C#     |  ★ 14 | Feb 7, 2024  | [Repo](https://github.com/sametcn99/ResumeBuilder)                                                                                       |
+| [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
+| [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template)             | The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Ne… | TypeScript |  ★ 11 | Jan 14, 2026 | [Repo](https://github.com/sametcn99/nextui-blog-template) · [Demo](https://nextui-blog-template.vercel.app)                              |
+
+<details>
+  <summary>Show 63 more active repositories...</summary>
+
+- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) — TypeScript · ★10 · Updated Apr 4, 2026<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
+- [**HTWind**](https://github.com/sametcn99/HTWind) — C# · ★8 · Updated Jul 14, 2026<br />the missing html based widget manager created with .net
+- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) — TypeScript · ★8 · Updated May 10, 2024<br />nextjs auth and crud example with supabase.
+- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) — TypeScript · ★8 · Updated Mar 31, 2026<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
+- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) — TypeScript · ★5 · Updated Aug 15, 2026<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
+- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) — TypeScript · ★5 · Updated Aug 15, 2026<br />A browser tool that hides or highlights the job postings you have already viewed on LinkedIn — so you can focus on what is new.
+- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) — TypeScript · ★5 · Updated Mar 8, 2026<br />moved: https://github.com/sametcn99/GPVBlazor
+- [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) — TypeScript · ★4 · Updated Oct 21, 2025<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
+- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) — TypeScript · ★3 · Updated Aug 1, 2026<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
+- [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) — JavaScript · ★2 · Updated Aug 24, 2026<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
+- [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) — TypeScript · ★1 · Updated Aug 21, 2026<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
+- [**code-nest-web**](https://github.com/sametcn99/code-nest-web) — TypeScript · ★1 · Updated Sep 18, 2024<br />No description provided.
+- [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) — TypeScript · ★1 · Updated Dec 14, 2024<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
+- [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) — TypeScript · ★1 · Updated Oct 27, 2025<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
+- [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) — C# · ★1 · Updated Nov 2, 2023<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
+- [**BlogAPIDotnet**](https://github.com/sametcn99/BlogAPIDotnet) — C# · ★1 · Updated Sep 27, 2024<br />learning progress repo
+- [**redux-practice**](https://github.com/sametcn99/redux-practice) — TypeScript · ★1 · Updated Dec 18, 2024<br />This project is an example application created to learn the Redux library.
+- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) — JavaScript · Updated Sep 2, 2026<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
+- [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) — Python · Updated Sep 1, 2026<br />No description provided.
+- [**apps**](https://github.com/sametcn99/apps) — JavaScript · Updated Sep 1, 2026<br />No description provided.
+- [**hiretea**](https://github.com/sametcn99/hiretea) — TypeScript · Updated Sep 1, 2026<br />No description provided.
+- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) — MDX · Updated Aug 28, 2026<br />No description provided.
+- [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) — Kotlin · Updated Aug 24, 2026<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
+- [**scripts**](https://github.com/sametcn99/scripts) — PowerShell · Updated Aug 20, 2026<br />No description provided.
+- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) — TypeScript · Updated Aug 15, 2026<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
+- [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) — HTML · Updated Aug 11, 2026<br />No description provided.
+- [**n8n-automations**](https://github.com/sametcn99/n8n-automations) — JavaScript · Updated Aug 7, 2026<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
+- [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) — TypeScript · Updated Apr 10, 2026<br />WibeSoft Backend Case study
+- [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) — C# · Updated Jul 14, 2026<br />No description provided.
+- [**TakvimDemo**](https://github.com/sametcn99/TakvimDemo) — HTML · Updated Jul 17, 2026<br />No description provided.
+- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) — TypeScript · Updated Jul 18, 2026<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
+- [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) — HTML · Updated Jul 11, 2026<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
+- [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) — C# · Updated Apr 27, 2026<br />No description provided.
+- [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) — C# · Updated Apr 26, 2026<br />No description provided.
+- [**interview**](https://github.com/sametcn99/interview) — C# · Updated May 25, 2026<br />No description provided.
+- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) — Python · Updated Jun 19, 2026<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
+- [**catchapage**](https://github.com/sametcn99/catchapage) — TypeScript · Updated Jun 18, 2026<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
+- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) — TypeScript · Updated Jun 14, 2026<br />No description provided.
+- [**application-tracker**](https://github.com/sametcn99/application-tracker) — TypeScript · Updated May 15, 2026<br />self-hosted job search operating system
+- [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) — HTML · Updated Feb 28, 2026<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
+- [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) — JavaScript · Updated Aug 4, 2024<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
+- [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) — TypeScript · Updated Jun 21, 2024<br />No description provided.
+- [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) — HTML · Updated Mar 17, 2026<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
+- [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) — TypeScript · Updated Mar 12, 2026<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
+- [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) — JavaScript · Updated Sep 13, 2025<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
+- [**MicroServiceLearn**](https://github.com/sametcn99/MicroServiceLearn) — C# · Updated Mar 26, 2026<br />learning repo
+- [**golter**](https://github.com/sametcn99/golter) — Go · Updated Apr 11, 2026<br />TUI file converter built with Go
+- [**open-github-dev**](https://github.com/sametcn99/open-github-dev) — JavaScript · Updated Dec 20, 2023<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
+- [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) — C# · Updated Jun 11, 2024<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
+- [**node-genius-lyrics-gui**](https://github.com/sametcn99/node-genius-lyrics-gui) — TypeScript · Updated Sep 27, 2024<br />This project is an Electron application designed to interact with the Genius Lyrics API, providing a graphical user interface for fetching and writing song lyrics to audio file metadata tags.
+- [**SolidColorBackground**](https://github.com/sametcn99/SolidColorBackground) — C# · Updated Jan 24, 2025<br />This application allows users to select a color using a color picker, which updates the background color of the window.
+- [**coordinat-auto-login**](https://github.com/sametcn99/coordinat-auto-login) — TypeScript · Updated May 4, 2025<br />No description provided.
+- [**sql-query-safety-checker**](https://github.com/sametcn99/sql-query-safety-checker) — TypeScript · Updated Jun 19, 2025<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
+- [**svg-split**](https://github.com/sametcn99/svg-split) — JavaScript · Updated Jul 22, 2025<br />No description provided.
+- [**fullstack-template**](https://github.com/sametcn99/fullstack-template) — TypeScript · Updated Sep 7, 2025<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
+- [**xls-to-gantt**](https://github.com/sametcn99/xls-to-gantt) — TypeScript · Updated Dec 17, 2025<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
+- [**vitepress-mermaid-renderer-web**](https://github.com/sametcn99/vitepress-mermaid-renderer-web) — TypeScript · Updated Jan 11, 2026<br />moved to source repo
+- [**personal-website**](https://github.com/sametcn99/personal-website) — MDX · Updated Feb 19, 2026<br />No description provided.
+- [**golter-web**](https://github.com/sametcn99/golter-web) — TypeScript · Updated Feb 21, 2026<br />golter landing page
+- [**product-planning-copilot**](https://github.com/sametcn99/product-planning-copilot) — HTML · Updated Mar 13, 2026<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
+- [**dreamtui**](https://github.com/sametcn99/dreamtui) — TypeScript · Updated Mar 17, 2026<br />A terminal-based generative dream engine.
+- [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) — HTML · Updated Apr 5, 2026<br />redirect to personal website
+- [**ArcDrop**](https://github.com/sametcn99/ArcDrop) — C# · Updated Mar 12, 2026<br />No description provided.
+
+</details>
 
 ## Latest Writing
 
@@ -54,8 +117,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 - [**Application Tracker**](https://sametcc.me/project/application-tracker) _(published: May 15, 2026)_<br />A self-hosted job search operating system that keeps applications, company notes, follow-ups, documents, and progress history together in a single private dashboard.
 - [**shadcn Theme Configuration for MUI**](https://sametcc.me/gist/shadcn-ui-for-mui) _(published: May 13, 2026)_<br />A complete MUI dark theme configuration styled to resemble shadcn&#x27;s default dark theme, mapping zinc color tokens to MUI palette, typography, and component overrides.
 - [**How to Synchronize Obsidian Vault Using Git (PC + Android)**](https://sametcc.me/gist/how-to-synchronize-obsidian-vault-using-git) _(published: May 5, 2026)_<br />A comprehensive, step-by-step guide on synchronizing your Obsidian vault across PC and Android devices using Git, covering setup, workflow, conflict resolution, and best practices.
-- [**Docker Usage Guide**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated:
-  Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
+- [**Docker Usage Guide**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated: Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
 - [**Hiretea**](https://sametcc.me/project/hiretea) _(published: Apr 15, 2026)_<br />A self-hosted platform for running technical assessments end to end, bundling Gitea as the code host and PostgreSQL as the data store with no external SaaS dependencies.
 - [**Booking Calendar (Self-Hosted)**](https://sametcc.me/project/booking-calendar) _(published: Apr 4, 2026)_<br />A self-hosted PWA designed for single-admin appointment management, running on your own server with shareable booking links, smart notifications, and integrations for webhooks, CalDAV, and iCal.
 - [**DreamTUI**](https://sametcc.me/project/dreamtui) _(published: Mar 17, 2026)_<br />A terminal-based generative dream engine that transforms written dreams into full-screen, animated ASCII art experiences using a two-stage AI pipeline.
@@ -89,23 +151,78 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 </details>
 
+## Tech Stack
+
+| Area            | Technologies                            |
+| :-------------- | :-------------------------------------- |
+| **Frontend**    | React, Next.js, Vue, Blazor             |
+| **Backend**     | .NET, NestJS, Node.js, Bun              |
+| **Data**        | PostgreSQL, MS SQL, SQLite, InfluxDB    |
+| **DevOps**      | GitHub Actions, Docker, Coolify         |
+| **Desktop**     | Electron, .NET MAUI, .NET Windows Forms |
+| **Languages**   | C#, TypeScript, JavaScript, Python      |
+| **Environment** | Fedora KDE, Ubuntu GNOME, Windows       |
+
 ## GitHub Snapshot
 
-| Metric                     | Value                                    |
-| :------------------------- | :--------------------------------------- |
-| **Total Stars Earned:**    | 192                                      |
-| **Commits (7d):**          | 170+                                     |
-| **Total Repositories:**    | 79                                       |
-| **Active Repositories:**   | 69                                       |
-| **Forked Repositories:**   | 10                                       |
-| **Archived Repositories:** | 0                                        |
-| **Total Gists:**           | [56](https://gist.github.com/sametcn99)  |
-| **Top Languages:**         | TypeScript, C#, JavaScript, HTML, Python |
-| **Account Age:**           | 6 years                                  |
+| Metric                    | Value                                    |
+| :------------------------ | :--------------------------------------- |
+| **Total Stars Earned**    | 192                                      |
+| **Commits (7d)**          | 170+                                     |
+| **Total Repositories**    | 79                                       |
+| **Active Repositories**   | 69                                       |
+| **Forked Repositories**   | 10                                       |
+| **Archived Repositories** | 0                                        |
+| **Total Gists**           | [56](https://gist.github.com/sametcn99)  |
+| **Top Languages**         | TypeScript, C#, JavaScript, HTML, Python |
+| **Account Age**           | 6 years                                  |
+
+## Releases
+
+Recent releases across my repositories:
+
+| Release                                                                                                          | Repository                                                                          |  Published   | Status |
+| :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :----------: | :----: |
+| [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)               | Aug 24, 2026 | Stable |
+| [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)           | Aug 21, 2026 | Stable |
+| [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) | Aug 15, 2026 | Stable |
+| [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) | Aug 15, 2026 | Stable |
+| [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — v1.1.13             | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) | Aug 12, 2026 | Stable |
+
+<details>
+  <summary>Show 15 more releases...</summary>
+
+- [**v1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — Gotify Web Extension 1.1.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
+- [**v1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — Gotify Web Extension 1.0.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
+- [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — v1.2.0 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
+- [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — v1.1.32 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
+- [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — v1.1.31 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
+- [**release-20260807-173241**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-173241) — release-20260807-173241 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — release-20260807-161157 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — release-20260807-160640 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**release-20260807-155649**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-155649) — release-20260807-155649 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
+- [**v1.1.30**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.30) — v1.1.30 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
+- [**1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — GitHub Spam Blocker 1.2 in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
+- [**1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — GitHub Spam Blocker 1.1 in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
+- [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — v1.1.29 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 6, 2026)_
+- [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — v1.1.12 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
+- [**v1.1.11**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) — v1.1.11 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 22, 2026)_
+
+</details>
+
+## Recently Updated
+
+The latest changes across my non-fork repositories:
+
+| Repository                                                                                | Description                                                                                          |   Updated   | Links                                                                                                                   |
+| :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :---------: | :---------------------------------------------------------------------------------------------------------------------- |
+| [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | Sep 2, 2026 | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app) |
+| [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool)                             | No description provided.                                                                             | Sep 1, 2026 | [Repo](https://github.com/sametcn99/case-fx-tool)                                                                       |
+| [**apps**](https://github.com/sametcn99/apps)                                             | No description provided.                                                                             | Sep 1, 2026 | [Repo](https://github.com/sametcn99/apps) · [Demo](https://apps.sametcc.me/)                                            |
 
 ## Recent GitHub Activity
 
-Recent public activity across pull requests, releases, discussions, and other open-source work.
+Recent public activity across pull requests, discussions, releases, and other open-source work.
 
 ### Pushes
 
@@ -118,8 +235,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 <details>
   <summary>Show 147 more pushes...</summary>
 
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a79367b...bb9a781](https://github.com/sametcn99/hiretea/compare/a79367bdb2b7ae91bd0d6d9382bab07886ba73b6...bb9a781c14297e6d5a134a9aeb46065ce98b9d20)** _(Aug 31, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb9a781...f77bc6c](https://github.com/sametcn99/hiretea/compare/bb9a781c14297e6d5a134a9aeb46065ce98b9d20...f77bc6c0edd081df7fd533db93ece4c940af9556)** _(Aug 31, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a79367b...bb9a781](https://github.com/sametcn99/hiretea/compare/a79367bdb2b7ae91bd0d6d9382bab07886ba73b6...bb9a781c14297e6d5a134a9aeb46065ce98b9d20)** _(Sep 1, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb9a781...f77bc6c](https://github.com/sametcn99/hiretea/compare/bb9a781c14297e6d5a134a9aeb46065ce98b9d20...f77bc6c0edd081df7fd533db93ece4c940af9556)** _(Sep 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [266c4f1...3917e91](https://github.com/sametcn99/hiretea/compare/266c4f14f9a04a340c72baef85f19a259255fbc9...3917e913e6405d20d4924acf9f6ee669d6504f0e)** _(Aug 28, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [59048f1...378b1f2](https://github.com/sametcn99/hiretea/compare/59048f1584af158136a0135e0cae21fb8e36f60a...378b1f231bbf118e48ca033b8940f34a9efe39e3)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c3bce5...2f71670](https://github.com/sametcn99/personal-website-blazor/compare/8c3bce52b93105547fc4dce707186449617df61e...2f716703922857529e33546d99c1f5e5803d977a)** _(Aug 28, 2026)_
@@ -129,35 +246,35 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b5c3646...cec7212](https://github.com/sametcn99/hiretea/compare/b5c3646b9ea7b0e1ab566cabf7caf8d5d3ce8e41...cec72127ddab040df0b4a906f29f6bec57710ce5)** _(Aug 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [66cdf64...1a4ce41](https://github.com/sametcn99/hiretea/compare/66cdf64d5dc0322fddd7601e5f6f2cfb0f81f236...1a4ce4127c74b6aea24da57c6d9f7f941c39a845)** _(Aug 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [73be14d...299cb8d](https://github.com/sametcn99/hiretea/compare/73be14de5771b28ba6126d5d1ddcbff1846e434c...299cb8d154e6300a9fdbbc4d7d430dbd00430dbb)** _(Aug 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e84a953...871fd87](https://github.com/sametcn99/hiretea/compare/e84a9539197eee8bab4c303215569324a54572f3...871fd8709ce6bde587bc09ca12ef2093fe195abc)** _(Aug 27, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e84a953...871fd87](https://github.com/sametcn99/hiretea/compare/e84a9539197eee8bab4c303215569324a54572f3...871fd8709ce6bde587bc09ca12ef2093fe195abc)** _(Aug 28, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [3917e91...b5c3646](https://github.com/sametcn99/hiretea/compare/3917e913e6405d20d4924acf9f6ee669d6504f0e...b5c3646b9ea7b0e1ab566cabf7caf8d5d3ce8e41)** _(Aug 29, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [1e3e253...266c4f1](https://github.com/sametcn99/hiretea/compare/1e3e253aeaa6d2f56c2deb764ffb418d42c9e3c9...266c4f14f9a04a340c72baef85f19a259255fbc9)** _(Aug 28, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [378b1f2...1e3e253](https://github.com/sametcn99/hiretea/compare/378b1f231bbf118e48ca033b8940f34a9efe39e3...1e3e253aeaa6d2f56c2deb764ffb418d42c9e3c9)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c3bce5...2f71670](https://github.com/sametcn99/personal-website-blazor/compare/8c3bce52b93105547fc4dce707186449617df61e...2f716703922857529e33546d99c1f5e5803d977a)** _(Aug 28, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b4dd434...2b7f75e](https://github.com/sametcn99/hiretea/compare/b4dd434ad7655bf7b1c8e51d62cc4c71604f4504...2b7f75eb51ef688be6bbc9fdadcb10b38133ff63)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [871fd87...59048f1](https://github.com/sametcn99/hiretea/compare/871fd8709ce6bde587bc09ca12ef2093fe195abc...59048f1584af158136a0135e0cae21fb8e36f60a)** _(Aug 27, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b4dd434...2b7f75e](https://github.com/sametcn99/hiretea/compare/b4dd434ad7655bf7b1c8e51d62cc4c71604f4504...2b7f75eb51ef688be6bbc9fdadcb10b38133ff63)** _(Aug 27, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [871fd87...59048f1](https://github.com/sametcn99/hiretea/compare/871fd8709ce6bde587bc09ca12ef2093fe195abc...59048f1584af158136a0135e0cae21fb8e36f60a)** _(Aug 28, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f56e3fd...bb4b8c1](https://github.com/sametcn99/hiretea/compare/f56e3fd15a40105e07819b83780141d772291f6c...bb4b8c1d6e9fb700f1a973d9a117a92f548c1581)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [ab2037f...74c42c8](https://github.com/sametcn99/hiretea/compare/ab2037fac27ed4d77811d22c47df350fd04b362d...74c42c8b3191d406ea0ba539e63ca6a2389ebbfc)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [73a0b67...ab2037f](https://github.com/sametcn99/hiretea/compare/73a0b67c4ddfb913472d96b4e346ae4155805075...ab2037fac27ed4d77811d22c47df350fd04b362d)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [2b7f75e...e84a953](https://github.com/sametcn99/hiretea/compare/2b7f75eb51ef688be6bbc9fdadcb10b38133ff63...e84a9539197eee8bab4c303215569324a54572f3)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a5413b6...b4dd434](https://github.com/sametcn99/hiretea/compare/a5413b6fd90727653ffb9df00c5e37a818e8a6be...b4dd434ad7655bf7b1c8e51d62cc4c71604f4504)** _(Aug 26, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [2b7f75e...e84a953](https://github.com/sametcn99/hiretea/compare/2b7f75eb51ef688be6bbc9fdadcb10b38133ff63...e84a9539197eee8bab4c303215569324a54572f3)** _(Aug 27, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a5413b6...b4dd434](https://github.com/sametcn99/hiretea/compare/a5413b6fd90727653ffb9df00c5e37a818e8a6be...b4dd434ad7655bf7b1c8e51d62cc4c71604f4504)** _(Aug 27, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb4b8c1...a5413b6](https://github.com/sametcn99/hiretea/compare/bb4b8c1d6e9fb700f1a973d9a117a92f548c1581...a5413b6fd90727653ffb9df00c5e37a818e8a6be)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [8c5ddec...f56e3fd](https://github.com/sametcn99/hiretea/compare/8c5ddec31ad470283cb0bd941b055d0a4ed443c4...f56e3fd15a40105e07819b83780141d772291f6c)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [74c42c8...8c5ddec](https://github.com/sametcn99/hiretea/compare/74c42c8b3191d406ea0ba539e63ca6a2389ebbfc...8c5ddec31ad470283cb0bd941b055d0a4ed443c4)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [83bd704...18b0fce](https://github.com/sametcn99/hiretea/compare/83bd70423080dc8ae299df2ec640eae4fe67cfe5...18b0fce73b3392f7af3216008b41507dbdaba97c)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [82db80c...73a0b67](https://github.com/sametcn99/hiretea/compare/82db80ca967a25bac2c5901fc379d95374df39fe...73a0b67c4ddfb913472d96b4e346ae4155805075)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [5cf5fdb...794f07f](https://github.com/sametcn99/hiretea/compare/5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1...794f07f3dcf2bf4572f93949e4169d3fb636e642)** _(Aug 25, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [5cf5fdb...794f07f](https://github.com/sametcn99/hiretea/compare/5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1...794f07f3dcf2bf4572f93949e4169d3fb636e642)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [fe84e2b...b3fd0d8](https://github.com/sametcn99/hiretea/compare/fe84e2b9821954b6e1f5044437c5da4daa441318...b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f916392...fe84e2b](https://github.com/sametcn99/hiretea/compare/f91639253c4bad9c878d2d4f69a1b16a6753f529...fe84e2b9821954b6e1f5044437c5da4daa441318)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [18b0fce...82db80c](https://github.com/sametcn99/hiretea/compare/18b0fce73b3392f7af3216008b41507dbdaba97c...82db80ca967a25bac2c5901fc379d95374df39fe)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [86c5479...83bd704](https://github.com/sametcn99/hiretea/compare/86c5479e594ddfe6a46bbfde26601b5162b39abb...83bd70423080dc8ae299df2ec640eae4fe67cfe5)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0314396...86c5479](https://github.com/sametcn99/hiretea/compare/031439691175334ccff966b4172f748896117f60...86c5479e594ddfe6a46bbfde26601b5162b39abb)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a229837...0314396](https://github.com/sametcn99/hiretea/compare/a229837d0f7e3c97a4a72c5b17def3f30160c4ae...031439691175334ccff966b4172f748896117f60)** _(Aug 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [794f07f...a229837](https://github.com/sametcn99/hiretea/compare/794f07f3dcf2bf4572f93949e4169d3fb636e642...a229837d0f7e3c97a4a72c5b17def3f30160c4ae)** _(Aug 25, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a229837...0314396](https://github.com/sametcn99/hiretea/compare/a229837d0f7e3c97a4a72c5b17def3f30160c4ae...031439691175334ccff966b4172f748896117f60)** _(Aug 26, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [794f07f...a229837](https://github.com/sametcn99/hiretea/compare/794f07f3dcf2bf4572f93949e4169d3fb636e642...a229837d0f7e3c97a4a72c5b17def3f30160c4ae)** _(Aug 26, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b3fd0d8...5cf5fdb](https://github.com/sametcn99/hiretea/compare/b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532...5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1)** _(Aug 25, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [79b9946...f916392](https://github.com/sametcn99/hiretea/compare/79b9946445b3e79bd2c49d681eb05b31ea81fdfd...f91639253c4bad9c878d2d4f69a1b16a6753f529)** _(Aug 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4cf0df2...8c3bce5](https://github.com/sametcn99/personal-website-blazor/compare/4cf0df2744248e4f6b7464b9a352fbd3765b6a68...8c3bce52b93105547fc4dce707186449617df61e)** _(Aug 25, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [b9f1dae...6bb8a7a](https://github.com/sametcn99/libredirect-instances-list/compare/b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff...6bb8a7ad076f380ff5b583c858c117ff3df33a1c)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [800ad1e...46c2fb0](https://github.com/sametcn99/apps/compare/800ad1e9f12f11dc34b34ab87955c403955a8e3d...46c2fb0177cccdcc663835f220c2225eac7c0b33)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f169a09...69cf5d1](https://github.com/sametcn99/libredirect-mobile/compare/f169a0955f88d75cea41467dd1151d40aa68e8d6...69cf5d1753667b4740a176ed38f1667445e371c1)** _(Aug 24, 2026)_
@@ -168,8 +285,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [b7c1282...caf0975](https://github.com/sametcn99/libredirect-mobile/compare/b7c12826a30bc76b6cb625bc29bc53c034ee3046...caf0975fd4d327a767d510efb2c97844fde9b96a)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [10f548c...b7c1282](https://github.com/sametcn99/libredirect-mobile/compare/10f548ca3c5824f833b48aa7c1ed998e518236e7...b7c12826a30bc76b6cb625bc29bc53c034ee3046)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [9e730a5...10f548c](https://github.com/sametcn99/libredirect-mobile/compare/9e730a572b63c4b6619a0fc17dab4a2cafccb506...10f548ca3c5824f833b48aa7c1ed998e518236e7)** _(Aug 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [fee77bf...0cc2035](https://github.com/sametcn99/libredirect-instances-list/compare/fee77bf5116d7b914b86136cef2150ef69805e28...0cc2035e36c7e2194412755fbbf95f99b4a573fc)** _(Aug 23, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6d3e569...57566b6](https://github.com/sametcn99/personal-website-blazor/compare/6d3e569a021eb71b4030af1c3967a0d9decf2514...57566b68664ff41f123602a90b5eedfdd1eb5ae1)** _(Aug 22, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [fee77bf...0cc2035](https://github.com/sametcn99/libredirect-instances-list/compare/fee77bf5116d7b914b86136cef2150ef69805e28...0cc2035e36c7e2194412755fbbf95f99b4a573fc)** _(Aug 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6d3e569...57566b6](https://github.com/sametcn99/personal-website-blazor/compare/6d3e569a021eb71b4030af1c3967a0d9decf2514...57566b68664ff41f123602a90b5eedfdd1eb5ae1)** _(Aug 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f790a37...6d3e569](https://github.com/sametcn99/personal-website-blazor/compare/f790a374be48f8d9abe3e570c4e12324bcc521db...6d3e569a021eb71b4030af1c3967a0d9decf2514)** _(Aug 22, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [ac7ccaf...eb33fd8](https://github.com/sametcn99/gotify-web-extension/compare/ac7ccaf6fb58b7ec42de10ca1eb6ae10ccda1f03...eb33fd8347a5aa7a476a5835e75c7001d59f4fb3)** _(Aug 21, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [6289cc2...1b0bb58](https://github.com/sametcn99/gotify-web-extension/compare/6289cc2dcad8634c955dc45fc940ee909194b177...1b0bb58ab31909328ac340bc02a57ef4dd0625b2)** _(Aug 21, 2026)_
@@ -178,9 +295,9 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [5eb5a10...08101ba](https://github.com/sametcn99/scripts/compare/5eb5a109e1921ae1c54ff64709b5afcfdbb23f38...08101bab5448375b33ae9edefeef6bccde15e8ab)** _(Aug 20, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [08101ba...de54e07](https://github.com/sametcn99/scripts/compare/08101bab5448375b33ae9edefeef6bccde15e8ab...de54e074aad19c590ca1abcf9b1f3ca4f68daff3)** _(Aug 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c734c0...f790a37](https://github.com/sametcn99/personal-website-blazor/compare/9c734c09f80404a2ebcc2261caa8e6593ce27b64...f790a374be48f8d9abe3e570c4e12324bcc521db)** _(Aug 20, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3515009...cb9dc31](https://github.com/sametcn99/personal-website-blazor/compare/3515009faff46c11a86e3bac8dc8696cc1ff5253...cb9dc31b8bd13d131225bb4bac586271f0c1828a)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [af13256...3515009](https://github.com/sametcn99/personal-website-blazor/compare/af132569a9b9d954eff064427ce271388077d59c...3515009faff46c11a86e3bac8dc8696cc1ff5253)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cb9dc31...9c734c0](https://github.com/sametcn99/personal-website-blazor/compare/cb9dc31b8bd13d131225bb4bac586271f0c1828a...9c734c09f80404a2ebcc2261caa8e6593ce27b64)** _(Aug 19, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3515009...cb9dc31](https://github.com/sametcn99/personal-website-blazor/compare/3515009faff46c11a86e3bac8dc8696cc1ff5253...cb9dc31b8bd13d131225bb4bac586271f0c1828a)** _(Aug 20, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [af13256...3515009](https://github.com/sametcn99/personal-website-blazor/compare/af132569a9b9d954eff064427ce271388077d59c...3515009faff46c11a86e3bac8dc8696cc1ff5253)** _(Aug 20, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cb9dc31...9c734c0](https://github.com/sametcn99/personal-website-blazor/compare/cb9dc31b8bd13d131225bb4bac586271f0c1828a...9c734c09f80404a2ebcc2261caa8e6593ce27b64)** _(Aug 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3d76f80...ee3b585](https://github.com/sametcn99/personal-website-blazor/compare/3d76f807f6c1a006c97f57f776846b1a99514215...ee3b585fb56a20a8e240076be5637dda307e7101)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ee3b585...af13256](https://github.com/sametcn99/personal-website-blazor/compare/ee3b585fb56a20a8e240076be5637dda307e7101...af132569a9b9d954eff064427ce271388077d59c)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [90baac4...0dfdb30](https://github.com/sametcn99/personal-website-blazor/compare/90baac4fd51ca44a7db651a614883baec3e53a86...0dfdb30ba34d8988df2227d55022f005651b33ae)** _(Aug 19, 2026)_
@@ -191,11 +308,11 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [dba1e74...25f7bb4](https://github.com/sametcn99/sametcn99/compare/dba1e74a965f504c46d61f83d31af76c6f2a4b15...25f7bb418cef90af7aff29dc3e870a0c8d8e2436)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c16615...976b69e](https://github.com/sametcn99/personal-website-blazor/compare/8c166152feedeb5739687847902dd23c2a1c20d3...976b69e10e91b19761e30b182b4edbe70ef7c39a)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [81dbea3...8c16615](https://github.com/sametcn99/personal-website-blazor/compare/81dbea351b311e422646adc85b7129a641833e06...8c166152feedeb5739687847902dd23c2a1c20d3)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [349358e...81dbea3](https://github.com/sametcn99/personal-website-blazor/compare/349358e5b8f6e1ab8b626991c2045eb154c75725...81dbea351b311e422646adc85b7129a641833e06)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [349358e...81dbea3](https://github.com/sametcn99/personal-website-blazor/compare/349358e5b8f6e1ab8b626991c2045eb154c75725...81dbea351b311e422646adc85b7129a641833e06)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c53859a...b2edc19](https://github.com/sametcn99/sametcn99/compare/c53859ac29e8358d16b2ed0b13e4cbcc749cd788...b2edc19d0f303c040e5d25e11807b4c531f586dd)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [9da7969...2173d6f](https://github.com/sametcn99/sametcn99/compare/9da7969edab6c6c08bb61edfc0d5c7f7edcfd2eb...2173d6fd794200a9a972a1260107b142fc66fe20)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [681c690...38fa6d8](https://github.com/sametcn99/personal-website-blazor/compare/681c6908b24d0b129f58855927fc8f3cd95a25b3...38fa6d8a30427b8e1f64fe8a021f25e29f3f269b)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [38fa6d8...349358e](https://github.com/sametcn99/personal-website-blazor/compare/38fa6d8a30427b8e1f64fe8a021f25e29f3f269b...349358e5b8f6e1ab8b626991c2045eb154c75725)** _(Aug 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [681c690...38fa6d8](https://github.com/sametcn99/personal-website-blazor/compare/681c6908b24d0b129f58855927fc8f3cd95a25b3...38fa6d8a30427b8e1f64fe8a021f25e29f3f269b)** _(Aug 19, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [38fa6d8...349358e](https://github.com/sametcn99/personal-website-blazor/compare/38fa6d8a30427b8e1f64fe8a021f25e29f3f269b...349358e5b8f6e1ab8b626991c2045eb154c75725)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [24570f4...681c690](https://github.com/sametcn99/personal-website-blazor/compare/24570f461e300904512ae3fac7d2d03d2c410912...681c6908b24d0b129f58855927fc8f3cd95a25b3)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a7f82cb...24570f4](https://github.com/sametcn99/personal-website-blazor/compare/a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96...24570f461e300904512ae3fac7d2d03d2c410912)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8203cf4...a7f82cb](https://github.com/sametcn99/personal-website-blazor/compare/8203cf43f55dfa47ce8d580f85648c2131bce195...a7f82cbdb0bb0e47d0b3d441955886aeafd8ef96)** _(Aug 18, 2026)_
@@ -216,15 +333,15 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c1f553b...5225224](https://github.com/sametcn99/personal-website-blazor/compare/c1f553b63b692f5bfaa6ae1f36f5b4c2a50822c0...5225224ccb1f24f9f2534fb216ebb1b31c75c637)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dcdc94f...d7f03be](https://github.com/sametcn99/personal-website-blazor/compare/dcdc94fae266d8ab7a67991be3e136bc483c0370...d7f03bed07f87bb1f7f07737f8ba1ef92d42eda0)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5d62965...dcdc94f](https://github.com/sametcn99/personal-website-blazor/compare/5d629658ed439c09a3d0419862fb22b84e85e0b2...dcdc94fae266d8ab7a67991be3e136bc483c0370)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cc04cf6...5d62965](https://github.com/sametcn99/personal-website-blazor/compare/cc04cf6432ea1273ce7b07871a993020dc6470cc...5d629658ed439c09a3d0419862fb22b84e85e0b2)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [07ba9b4...cc04cf6](https://github.com/sametcn99/personal-website-blazor/compare/07ba9b48aa13b2a06d09037a4fe358f108d8450c...cc04cf6432ea1273ce7b07871a993020dc6470cc)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a35b748...07ba9b4](https://github.com/sametcn99/personal-website-blazor/compare/a35b74859e813856db0ee2bdb47372afadf7f90f...07ba9b48aa13b2a06d09037a4fe358f108d8450c)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [415903c...a35b748](https://github.com/sametcn99/personal-website-blazor/compare/415903c08279c9743c86fc817f7335f79eb1c581...a35b74859e813856db0ee2bdb47372afadf7f90f)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1f76de1...415903c](https://github.com/sametcn99/personal-website-blazor/compare/1f76de1861705d737a747bfe13f3840662d0a15f...415903c08279c9743c86fc817f7335f79eb1c581)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dfd1d35...1f76de1](https://github.com/sametcn99/personal-website-blazor/compare/dfd1d35d5616ff16f8181ec4d96363cfc2227e4b...1f76de1861705d737a747bfe13f3840662d0a15f)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [25d0ec1...dfd1d35](https://github.com/sametcn99/personal-website-blazor/compare/25d0ec1c55dfa2408867c90164de76cb06687201...dfd1d35d5616ff16f8181ec4d96363cfc2227e4b)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ba772b9...25d0ec1](https://github.com/sametcn99/personal-website-blazor/compare/ba772b97929c014ca59538da4acac992e03daf22...25d0ec1c55dfa2408867c90164de76cb06687201)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1914f0e...ba772b9](https://github.com/sametcn99/personal-website-blazor/compare/1914f0e853521977b1f88dd0c0f9dfc101e89379...ba772b97929c014ca59538da4acac992e03daf22)** _(Aug 16, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cc04cf6...5d62965](https://github.com/sametcn99/personal-website-blazor/compare/cc04cf6432ea1273ce7b07871a993020dc6470cc...5d629658ed439c09a3d0419862fb22b84e85e0b2)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [07ba9b4...cc04cf6](https://github.com/sametcn99/personal-website-blazor/compare/07ba9b48aa13b2a06d09037a4fe358f108d8450c...cc04cf6432ea1273ce7b07871a993020dc6470cc)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [a35b748...07ba9b4](https://github.com/sametcn99/personal-website-blazor/compare/a35b74859e813856db0ee2bdb47372afadf7f90f...07ba9b48aa13b2a06d09037a4fe358f108d8450c)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [415903c...a35b748](https://github.com/sametcn99/personal-website-blazor/compare/415903c08279c9743c86fc817f7335f79eb1c581...a35b74859e813856db0ee2bdb47372afadf7f90f)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1f76de1...415903c](https://github.com/sametcn99/personal-website-blazor/compare/1f76de1861705d737a747bfe13f3840662d0a15f...415903c08279c9743c86fc817f7335f79eb1c581)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dfd1d35...1f76de1](https://github.com/sametcn99/personal-website-blazor/compare/dfd1d35d5616ff16f8181ec4d96363cfc2227e4b...1f76de1861705d737a747bfe13f3840662d0a15f)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [25d0ec1...dfd1d35](https://github.com/sametcn99/personal-website-blazor/compare/25d0ec1c55dfa2408867c90164de76cb06687201...dfd1d35d5616ff16f8181ec4d96363cfc2227e4b)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ba772b9...25d0ec1](https://github.com/sametcn99/personal-website-blazor/compare/ba772b97929c014ca59538da4acac992e03daf22...25d0ec1c55dfa2408867c90164de76cb06687201)** _(Aug 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1914f0e...ba772b9](https://github.com/sametcn99/personal-website-blazor/compare/1914f0e853521977b1f88dd0c0f9dfc101e89379...ba772b97929c014ca59538da4acac992e03daf22)** _(Aug 17, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b566134...1914f0e](https://github.com/sametcn99/personal-website-blazor/compare/b56613452d6f024b6a031087b47e51b889e42881...1914f0e853521977b1f88dd0c0f9dfc101e89379)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [98abac9...b566134](https://github.com/sametcn99/personal-website-blazor/compare/98abac92d37125c84e54574a7bc3d908c1704862...b56613452d6f024b6a031087b47e51b889e42881)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1c26a8e...98abac9](https://github.com/sametcn99/personal-website-blazor/compare/1c26a8eeb8c6b65cdd10fc3274019820279b9b53...98abac92d37125c84e54574a7bc3d908c1704862)** _(Aug 16, 2026)_
@@ -236,9 +353,9 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [8542a02...ead9923](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/8542a029b0cc1530377fb363e2449ed52030f98a...ead9923b96c3feaaf22fa8325662a568dc827f05)** _(Aug 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts): [5e70117...ac622e2](https://github.com/sametcn99/gh-block-spam-accounts/compare/5e70117367dd023bc2253011f666d862f6044c0a...ac622e206cdb7d067deb2c2d74e43cf53f49a7d2)** _(Aug 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [20b726c...5cdbbd7](https://github.com/sametcn99/my-stars-atlas/compare/20b726c133f40bf9a116828f24d044d4c4442e2c...5cdbbd76db5e76f044fe55e50b278ffa2b705b67)** _(Aug 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [09b82f0...8542a02](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/09b82f0d5b958099b416422399f9bf5b86d8c0a6...8542a029b0cc1530377fb363e2449ed52030f98a)** _(Aug 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [54c50cb...09b82f0](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/54c50cb3e075e7b4dbdde43759aedc02665e7701...09b82f0d5b958099b416422399f9bf5b86d8c0a6)** _(Aug 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [28dbeb2...54c50cb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/28dbeb285f8aefd46aa8c87a33005530d04a5aa9...54c50cb3e075e7b4dbdde43759aedc02665e7701)** _(Aug 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [09b82f0...8542a02](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/09b82f0d5b958099b416422399f9bf5b86d8c0a6...8542a029b0cc1530377fb363e2449ed52030f98a)** _(Aug 15, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [54c50cb...09b82f0](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/54c50cb3e075e7b4dbdde43759aedc02665e7701...09b82f0d5b958099b416422399f9bf5b86d8c0a6)** _(Aug 15, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [28dbeb2...54c50cb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/28dbeb285f8aefd46aa8c87a33005530d04a5aa9...54c50cb3e075e7b4dbdde43759aedc02665e7701)** _(Aug 15, 2026)_
 - **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [f0c163b...965a5db](https://github.com/sametcn99/server/compare/f0c163bfbac26aa9d5406ec7014c959960484f9d...965a5dbad664c80bd7e25e3d660403628486ca5d)** _(Aug 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f7109dd...ab12a88](https://github.com/sametcn99/personal-website-blazor/compare/f7109dd2de702e39bc5fa7bd43a884751e814484...ab12a8830c384c2f458c07a102065bacef18df70)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3e56ec4...f7109dd](https://github.com/sametcn99/personal-website-blazor/compare/3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3...f7109dd2de702e39bc5fa7bd43a884751e814484)** _(Aug 13, 2026)_
@@ -246,7 +363,7 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0226b01...d8db3fc](https://github.com/sametcn99/personal-website-blazor/compare/0226b014bdc33c0eb6462eb7c5753eee2491e659...d8db3fcb61532293919a5ba53764b77472567e13)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [717f676...0226b01](https://github.com/sametcn99/personal-website-blazor/compare/717f67690ddfa48f9819048bc81d2ab67d8fc5d4...0226b014bdc33c0eb6462eb7c5753eee2491e659)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8e77d71...717f676](https://github.com/sametcn99/personal-website-blazor/compare/8e77d719d59ff8f2a7046037975ac64ced885a3f...717f67690ddfa48f9819048bc81d2ab67d8fc5d4)** _(Aug 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bf8185e...28dbeb2](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bf8185eb6d72615fe469fc07c10a10fd43eae26c...28dbeb285f8aefd46aa8c87a33005530d04a5aa9)** _(Aug 11, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bf8185e...28dbeb2](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bf8185eb6d72615fe469fc07c10a10fd43eae26c...28dbeb285f8aefd46aa8c87a33005530d04a5aa9)** _(Aug 12, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [e0a0b85...bf8185e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/e0a0b851b4b952f28b74dfbd407e9d855abb8c7b...bf8185eb6d72615fe469fc07c10a10fd43eae26c)** _(Aug 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor): [1458815...309ca1e](https://github.com/sametcn99/pdf-email-extractor/compare/1458815568285d3af2bffcaa30373e16855e8a5b...309ca1ebf91b22fde48d7a179020a66eefa4875a)** _(Aug 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ec40e9f...8e77d71](https://github.com/sametcn99/personal-website-blazor/compare/ec40e9fe4f8df3a8cadbfdfb81b4784bc1320485...8e77d719d59ff8f2a7046037975ac64ced885a3f)** _(Aug 11, 2026)_
@@ -258,9 +375,9 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a94f5d4...dc0e0c4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a94f5d4e8194c398c1743e8d7dcdbe07743d649e...dc0e0c4e78494a77981f68e112553760ecd852d8)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [c8d77e4...a94f5d4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/c8d77e4b672f804ef4e36161e95f28942ae7f22a...a94f5d4e8194c398c1743e8d7dcdbe07743d649e)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [9dc7396...c8d77e4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/9dc7396a0db61362fafd00412f314d7cb159d797...c8d77e4b672f804ef4e36161e95f28942ae7f22a)** _(Aug 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [8eadaac...9dc7396](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c...9dc7396a0db61362fafd00412f314d7cb159d797)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [e97624b...8eadaac](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/e97624bcf588daa9dd8ebdd83e301e46513d1e99...8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [218a76d...e97624b](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/218a76d448019dbf22f2e97978f2620099e70346...e97624bcf588daa9dd8ebdd83e301e46513d1e99)** _(Aug 7, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [8eadaac...9dc7396](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c...9dc7396a0db61362fafd00412f314d7cb159d797)** _(Aug 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [e97624b...8eadaac](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/e97624bcf588daa9dd8ebdd83e301e46513d1e99...8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c)** _(Aug 8, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [218a76d...e97624b](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/218a76d448019dbf22f2e97978f2620099e70346...e97624bcf588daa9dd8ebdd83e301e46513d1e99)** _(Aug 8, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [409b902...accb7c4](https://github.com/sametcn99/personal-website-blazor/compare/409b9024fc38df764c4f7178bd292152692e3237...accb7c40fef4277c4d076cc5becd30cf6c09d755)** _(Aug 7, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [f3d9036...be7ee6f](https://github.com/sametcn99/n8n-automations/compare/f3d90362a829e9411b67af640450341d5ac93578...be7ee6f168041dab2cb79db8d638921b4af71e80)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1a9ae8d...409b902](https://github.com/sametcn99/personal-website-blazor/compare/1a9ae8d7dbcb345f4498c925f1e64de8b4ef4258...409b9024fc38df764c4f7178bd292152692e3237)** _(Aug 7, 2026)_
@@ -270,8 +387,8 @@ Recent public activity across pull requests, releases, discussions, and other op
 
 ### Pull Requests
 
-- **Merged pull request [#5](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
-- **Opened pull request [#5](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
+- **Merged pull request [#5](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 15, 2026)_
+- **Opened pull request [#5](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 15, 2026)_
 - **Opened pull request [#1024](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Aug 8, 2026)_
 
 ### Comments
@@ -286,16 +403,16 @@ Recent public activity across pull requests, releases, discussions, and other op
   <summary>Show 3 more comments...</summary>
 
 - **Commented on issue [When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
-- **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
+- **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
+- **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 
 </details>
 
 ### Starred Repositories
 
-- **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
+- **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 2, 2026)_
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
-- **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
+- **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Sep 1, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
 - **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 
@@ -307,10 +424,10 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)** _(Aug 24, 2026)_
 - **Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)** _(Aug 24, 2026)_
 - **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
-- **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 21, 2026)_
-- **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
-- **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 21, 2026)_
-- **Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)** _(Aug 21, 2026)_
+- **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 22, 2026)_
+- **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 22, 2026)_
+- **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 22, 2026)_
+- **Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)** _(Aug 22, 2026)_
 - **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
 - **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
 - **Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** _(Aug 20, 2026)_
@@ -325,32 +442,32 @@ Recent public activity across pull requests, releases, discussions, and other op
 - **Starred [zioder/TaskbarQuota](https://github.com/zioder/TaskbarQuota)** _(Aug 18, 2026)_
 - **Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)** _(Aug 18, 2026)_
 - **Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)** _(Aug 18, 2026)_
-- **Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)** _(Aug 17, 2026)_
+- **Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)** _(Aug 18, 2026)_
 - **Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** _(Aug 17, 2026)_
-- **Starred [fasouto/termaid](https://github.com/fasouto/termaid)** _(Aug 16, 2026)_
+- **Starred [fasouto/termaid](https://github.com/fasouto/termaid)** _(Aug 17, 2026)_
 - **Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)** _(Aug 16, 2026)_
-- **Starred [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack)** _(Aug 15, 2026)_
-- **Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)** _(Aug 15, 2026)_
-- **Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** _(Aug 15, 2026)_
-- **Starred [Kikobeats/free-email-domains](https://github.com/Kikobeats/free-email-domains)** _(Aug 15, 2026)_
+- **Starred [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack)** _(Aug 16, 2026)_
+- **Starred [warp-tech/warpgate](https://github.com/warp-tech/warpgate)** _(Aug 16, 2026)_
+- **Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** _(Aug 16, 2026)_
+- **Starred [Kikobeats/free-email-domains](https://github.com/Kikobeats/free-email-domains)** _(Aug 16, 2026)_
 - **Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)** _(Aug 15, 2026)_
 - **Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)** _(Aug 15, 2026)_
 - **Starred [openai/codex](https://github.com/openai/codex)** _(Aug 14, 2026)_
-- **Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** _(Aug 13, 2026)_
+- **Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** _(Aug 14, 2026)_
 - **Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** _(Aug 13, 2026)_
 - **Starred [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima)** _(Aug 13, 2026)_
 - **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
-- **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
-- **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
+- **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 13, 2026)_
+- **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 12, 2026)_
 - **Starred [LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018](https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018)** _(Aug 11, 2026)_
 - **Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** _(Aug 9, 2026)_
 - **Starred [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev)** _(Aug 9, 2026)_
 - **Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)** _(Aug 8, 2026)_
 - **Starred [extension-js/extension.js](https://github.com/extension-js/extension.js)** _(Aug 8, 2026)_
-- **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 7, 2026)_
-- **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
+- **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 8, 2026)_
+- **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 8, 2026)_
 - **Starred [gotify/server](https://github.com/gotify/server)** _(Aug 7, 2026)_
-- **Starred [avenoxai/avenoxskills](https://github.com/avenoxai/avenoxskills)** _(Aug 4, 2026)_
+- **Starred [avenoxai/avenoxskills](https://github.com/avenoxai/avenoxskills)** _(Aug 5, 2026)_
 - **Starred [solarch-dev/solarch](https://github.com/solarch-dev/solarch)** _(Aug 3, 2026)_
 - **Starred [matrix-org/matrix.to](https://github.com/matrix-org/matrix.to)** _(Aug 2, 2026)_
 - **Starred [libredirect/browser_extension](https://github.com/libredirect/browser_extension)** _(Aug 2, 2026)_
@@ -369,124 +486,53 @@ Recent public activity across pull requests, releases, discussions, and other op
 <details>
   <summary>Show 15 more other activity...</summary>
 
-- **Deleted branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
-- **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
-- **Deleted tag &#x60;v1.1.13&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 11, 2026)_
-- **Public in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor)** _(Aug 10, 2026)_
+- **Deleted branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 15, 2026)_
+- **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 15, 2026)_
+- **Deleted tag &#x60;v1.1.13&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 12, 2026)_
+- **Public in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor)** _(Aug 11, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 9, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 9, 2026)_
 - **Created branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 8, 2026)_
-- **Closed issue [#17](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
+- **Closed issue [#17](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 8, 2026)_
+- **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 8, 2026)_
+- **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 8, 2026)_
 - **Forked [gotify/server](https://github.com/gotify/server) to [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 7, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#16](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
+- **Closed issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Assigned issue [#13](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 
 </details>
 
-## Project Issues
+## Collaboration
 
-These are issues I am currently tracking or planning to work on. If you are looking for something to contribute, I would
-be happy to collaborate.
+Open issues and pull requests that I am currently tracking or planning to work on.
 
-- [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(Updated Feb 22, 2026)_
-- [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 13, 2026)_
-- [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(Updated Jan 11, 2026)_
-- [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(Updated Oct 23, 2025)_
+### Issues
+
+| Issue                                                                                                                                 | Repository                                                                  |       Updated        |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :------------------: |
+| [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)           | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | Updated Feb 22, 2026 |
+| [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8)         | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)       | Updated Jan 13, 2026 |
+| [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7) | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)       | Updated Jan 11, 2026 |
+| [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33)          | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) | Updated Oct 24, 2025 |
 
 ### Pull Requests
 
-Pull requests across my repositories, including both open and closed contributions.
-
-- [**fix: preserve Source Control diff view for env files**](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(waiting, Updated Jul 19, 2026)_
-- [**Install Vercel Web Analytics**](https://github.com/sametcn99/gh-block-spam-accounts/pull/1) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(waiting, Updated Jun 16, 2026)_
-- [**Bump react-hook-form from 7.52.1 to 7.65.0**](https://github.com/sametcn99/github-profile-viewer/pull/95) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Mar 8, 2026)_
-- [**Bump react-hook-form from 7.52.1 to 7.71.2**](https://github.com/sametcn99/github-profile-viewer/pull/98) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Mar 8, 2026)_
-- [**Bump @types/node from 22.1.0 to 24.7.2**](https://github.com/sametcn99/github-profile-viewer/pull/94) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Mar 8, 2026)_
+| Pull Request                                                                                                                       | Repository                                                                                      | Status  |       Updated        |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :-----: | :------------------: |
+| [**fix: preserve Source Control diff view for env files**](https://github.com/sametcn99/env-protector/pull/9)                      | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)                           | waiting | Updated Jul 19, 2026 |
+| [**Install Vercel Web Analytics**](https://github.com/sametcn99/gh-block-spam-accounts/pull/1)                                     | [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)         | waiting | Updated Jun 16, 2026 |
+| [**[WIP] Theme Compatibility Issue in Deployed Mermaid Components**](https://github.com/sametcn99/personal-website/pull/6)         | [sametcn99/personal-website](https://github.com/sametcn99/personal-website)                     | waiting | Updated Dec 23, 2025 |
+| [**Create LICENSE**](https://github.com/sametcn99/ResumeBuilder/pull/1)                                                            | [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)                           | waiting | Updated Jan 12, 2023 |
+| [**data: add PracHub free coding-interview study-plan generator**](https://github.com/sametcn99/computer-science-resources/pull/1) | [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) | merged  | Updated Sep 1, 2026  |
 
 <details>
-  <summary>Show 157 more pull requests...</summary>
+  <summary>Show 27 more pull requests...</summary>
 
-- [**Bump @types/node from 22.1.0 to 25.3.5**](https://github.com/sametcn99/github-profile-viewer/pull/97) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Mar 8, 2026)_
-- [**Bump braces from 3.0.2 to 3.0.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/nextui-blog-template/pull/2) in [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template) _(waiting, Updated Jan 14, 2026)_
-- [**chore(deps): bump next from 15.4.5 to 15.4.7 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/color-img-downloader/pull/1) in [sametcn99/color-img-downloader](https://github.com/sametcn99/color-img-downloader) _(waiting, Updated Jan 10, 2026)_
-- [**[WIP] Theme Compatibility Issue in Deployed Mermaid Components**](https://github.com/sametcn99/personal-website/pull/6) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(waiting, Updated Dec 23, 2025)_
-- [**Bump next from 15.3.1 to 15.3.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/xls-to-gantt/pull/1) in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt) _(waiting, Updated Dec 16, 2025)_
-- [**Bump js-yaml from 4.1.0 to 4.1.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/env-protector/pull/6) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(waiting, Updated Dec 11, 2025)_
-- [**Bump next from 15.5.6 to 15.5.7 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/personal-website/pull/7) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(waiting, Updated Dec 7, 2025)_
-- [**chore(deps): bump next from 16.0.0 to 16.0.7 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/mermaid-viewer/pull/4) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer) _(waiting, Updated Dec 7, 2025)_
-- [**Bump @octokit/endpoint from 10.1.1 to 10.1.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/clone-all-gists/pull/1) in [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists) _(waiting, Updated Oct 27, 2025)_
-- [**chore(deps-dev): bump ws from 7.5.9 to 7.5.10 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/electron-widgets/pull/32) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(waiting, Updated Oct 22, 2025)_
-- [**Bump next from 15.3.1 to 15.3.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/mermaid-viewer/pull/3) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer) _(waiting, Updated Oct 21, 2025)_
-- [**Bump next-themes from 0.2.1 to 0.3.0**](https://github.com/sametcn99/github-profile-viewer/pull/73) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Oct 14, 2025)_
-- [**Bump next-themes from 0.3.0 to 0.4.6**](https://github.com/sametcn99/github-profile-viewer/pull/96) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Oct 14, 2025)_
-- [**Bump react-hook-form from 7.52.1 to 7.52.2**](https://github.com/sametcn99/github-profile-viewer/pull/93) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Oct 14, 2025)_
-- [**Bump next from 15.3.2 to 15.3.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/personal-website/pull/5) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(waiting, Updated Sep 23, 2025)_
-- [**chore(deps): Bump axios from 1.7.4 to 1.12.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/write-lyric-to-audio/pull/1) in [sametcn99/write-lyric-to-audio](https://github.com/sametcn99/write-lyric-to-audio) _(waiting, Updated Sep 13, 2025)_
-- [**Bump form-data from 4.0.1 to 4.0.4 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/env-protector/pull/4) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(waiting, Updated Aug 15, 2025)_
-- [**Bump form-data from 4.0.2 to 4.0.4 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/svg-split/pull/1) in [sametcn99/svg-split](https://github.com/sametcn99/svg-split) _(waiting, Updated Jul 22, 2025)_
-- [**Bump next from 14.2.10 to 14.2.15 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/personal-website/pull/4) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(waiting, Updated Apr 14, 2025)_
-- [**Bump next from 14.2.10 to 14.2.15 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/redux-practice/pull/3) in [sametcn99/redux-practice](https://github.com/sametcn99/redux-practice) _(waiting, Updated Dec 18, 2024)_
-- [**Bump nanoid from 3.3.6 to 3.3.8 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/tic-tac-toe/pull/4) in [sametcn99/tic-tac-toe](https://github.com/sametcn99/tic-tac-toe) _(waiting, Updated Dec 13, 2024)_
-- [**Bump next from 14.2.5 to 14.2.10 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/code-nest-web/pull/2) in [sametcn99/code-nest-web](https://github.com/sametcn99/code-nest-web) _(waiting, Updated Sep 18, 2024)_
-- [**Bump micromatch from 4.0.5 to 4.0.8 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/markdown-file-renamer-web-app/pull/3) in [sametcn99/markdown-file-renamer-web-app](https://github.com/sametcn99/markdown-file-renamer-web-app) _(waiting, Updated Sep 1, 2024)_
-- [**Bump eslint from 8.57.0 to 9.8.0**](https://github.com/sametcn99/github-profile-viewer/pull/91) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Aug 3, 2024)_
-- [**Bump @clerk/themes from 1.7.15 to 2.1.14**](https://github.com/sametcn99/github-profile-viewer/pull/92) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Aug 3, 2024)_
-- [**Bump @radix-ui/themes from 2.0.3 to 3.1.1**](https://github.com/sametcn99/github-profile-viewer/pull/86) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Aug 3, 2024)_
-- [**Bump cmdk from 0.2.1 to 1.0.0**](https://github.com/sametcn99/github-profile-viewer/pull/71) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Aug 3, 2024)_
-- [**Bump @clerk/themes from 1.7.15 to 2.1.12**](https://github.com/sametcn99/github-profile-viewer/pull/90) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jul 29, 2024)_
-- [**Bump eslint from 8.57.0 to 9.7.0**](https://github.com/sametcn99/github-profile-viewer/pull/88) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jul 29, 2024)_
-- [**Bump @clerk/themes from 1.7.15 to 2.1.10**](https://github.com/sametcn99/github-profile-viewer/pull/85) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jul 22, 2024)_
-- [**Bump axios from 0.27.2 to 1.7.2 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/code-nest-web/pull/1) in [sametcn99/code-nest-web](https://github.com/sametcn99/code-nest-web) _(waiting, Updated Jul 17, 2024)_
-- [**Bump eslint from 8.57.0 to 9.6.0**](https://github.com/sametcn99/github-profile-viewer/pull/87) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jul 15, 2024)_
-- [**chore(deps-dev): Bump ws from 7.5.9 to 7.5.10 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/node-genius-lyrics-gui/pull/1) in [sametcn99/node-genius-lyrics-gui](https://github.com/sametcn99/node-genius-lyrics-gui) _(waiting, Updated Jul 9, 2024)_
-- [**chore(deps): Bump the npm_and_yarn group across 1 directory with 2 updates**](https://github.com/sametcn99/node-genius-lyrics-gui/pull/2) in [sametcn99/node-genius-lyrics-gui](https://github.com/sametcn99/node-genius-lyrics-gui) _(waiting, Updated Jul 9, 2024)_
-- [**Bump eslint from 8.57.0 to 9.5.0**](https://github.com/sametcn99/github-profile-viewer/pull/84) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jul 1, 2024)_
-- [**Bump @radix-ui/themes from 2.0.3 to 3.0.5**](https://github.com/sametcn99/github-profile-viewer/pull/78) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jun 24, 2024)_
-- [**Bump @clerk/themes from 1.7.15 to 2.1.9**](https://github.com/sametcn99/github-profile-viewer/pull/83) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jun 24, 2024)_
-- [**Bump braces from 3.0.2 to 3.0.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/rock-paper-scissors/pull/2) in [sametcn99/rock-paper-scissors](https://github.com/sametcn99/rock-paper-scissors) _(waiting, Updated Jun 21, 2024)_
-- [**Bump eslint from 8.57.0 to 9.3.0**](https://github.com/sametcn99/github-profile-viewer/pull/76) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jun 17, 2024)_
-- [**Bump @clerk/themes from 1.7.15 to 2.1.8**](https://github.com/sametcn99/github-profile-viewer/pull/82) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jun 10, 2024)_
-- [**Bump @clerk/themes from 1.7.15 to 2.1.7**](https://github.com/sametcn99/github-profile-viewer/pull/80) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jun 3, 2024)_
-- [**Bump eslint from 8.57.0 to 9.4.0**](https://github.com/sametcn99/github-profile-viewer/pull/81) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Jun 3, 2024)_
-- [**Bump @clerk/themes from 1.7.14 to 2.1.6**](https://github.com/sametcn99/github-profile-viewer/pull/77) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated May 23, 2024)_
-- [**Bump @radix-ui/themes from 2.0.3 to 3.0.3**](https://github.com/sametcn99/github-profile-viewer/pull/70) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated May 20, 2024)_
-- [**Bump @clerk/themes from 1.7.14 to 2.1.3**](https://github.com/sametcn99/github-profile-viewer/pull/75) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated May 20, 2024)_
-- [**Bump eslint from 8.57.0 to 9.2.0**](https://github.com/sametcn99/github-profile-viewer/pull/72) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated May 20, 2024)_
-- [**Bump @clerk/themes from 1.7.14 to 2.1.2**](https://github.com/sametcn99/github-profile-viewer/pull/74) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated May 13, 2024)_
-- [**Bump next from 14.1.4 to 14.2.3**](https://github.com/sametcn99/github-profile-viewer/pull/69) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump eslint from 8.57.0 to 9.1.1**](https://github.com/sametcn99/github-profile-viewer/pull/68) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump @mui/x-data-grid from 7.1.1 to 7.3.1**](https://github.com/sametcn99/github-profile-viewer/pull/66) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump @octokit/types from 12.6.0 to 13.4.1**](https://github.com/sametcn99/github-profile-viewer/pull/64) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump @next/third-parties from 14.1.4 to 14.2.3**](https://github.com/sametcn99/github-profile-viewer/pull/67) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump next from 14.1.4 to 14.2.2**](https://github.com/sametcn99/github-profile-viewer/pull/62) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump eslint from 8.57.0 to 9.1.0**](https://github.com/sametcn99/github-profile-viewer/pull/65) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump @next/third-parties from 14.1.4 to 14.2.2**](https://github.com/sametcn99/github-profile-viewer/pull/61) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump @mui/x-data-grid from 7.1.1 to 7.3.0**](https://github.com/sametcn99/github-profile-viewer/pull/63) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 29, 2024)_
-- [**Bump eslint from 8.57.0 to 9.0.0**](https://github.com/sametcn99/github-profile-viewer/pull/60) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 22, 2024)_
-- [**Bump @octokit/types from 12.6.0 to 13.4.0**](https://github.com/sametcn99/github-profile-viewer/pull/58) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 22, 2024)_
-- [**Bump @mui/x-data-grid from 7.1.1 to 7.2.0**](https://github.com/sametcn99/github-profile-viewer/pull/56) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 22, 2024)_
-- [**Bump next from 14.1.4 to 14.2.1**](https://github.com/sametcn99/github-profile-viewer/pull/59) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 22, 2024)_
-- [**Bump @next/third-parties from 14.1.4 to 14.2.1**](https://github.com/sametcn99/github-profile-viewer/pull/57) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 22, 2024)_
-- [**Bump next from 14.1.3 to 14.1.4**](https://github.com/sametcn99/github-profile-viewer/pull/55) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 8, 2024)_
-- [**Bump @radix-ui/themes from 2.0.3 to 3.0.2**](https://github.com/sametcn99/github-profile-viewer/pull/53) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 8, 2024)_
-- [**Bump eslint-config-next from 14.1.1 to 14.1.4**](https://github.com/sametcn99/github-profile-viewer/pull/54) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 8, 2024)_
-- [**Bump virtua from 0.28.0 to 0.29.2**](https://github.com/sametcn99/github-profile-viewer/pull/51) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 8, 2024)_
-- [**Bump @mui/x-charts from 6.19.8 to 7.1.1**](https://github.com/sametcn99/github-profile-viewer/pull/52) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 8, 2024)_
-- [**Bump @mui/x-data-grid from 6.19.6 to 7.0.0**](https://github.com/sametcn99/github-profile-viewer/pull/47) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 1, 2024)_
-- [**Bump lucide-react from 0.344.0 to 0.363.0**](https://github.com/sametcn99/github-profile-viewer/pull/46) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Apr 1, 2024)_
-- [**Bump lucide-react from 0.331.0 to 0.334.0**](https://github.com/sametcn99/github-profile-viewer/pull/19) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Feb 21, 2024)_
-- [**Bump @types/react from 18.2.53 to 18.2.56**](https://github.com/sametcn99/github-profile-viewer/pull/17) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Feb 21, 2024)_
-- [**Bump @mui/material from 5.15.7 to 5.15.9**](https://github.com/sametcn99/github-profile-viewer/pull/10) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Feb 18, 2024)_
-- [**Bump lucide-react from 0.321.0 to 0.325.0**](https://github.com/sametcn99/github-profile-viewer/pull/12) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(waiting, Updated Feb 18, 2024)_
-- [**Create LICENSE**](https://github.com/sametcn99/ResumeBuilder/pull/1) in [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder) _(waiting, Updated Jan 12, 2023)_
-- [**data: add PracHub free coding-interview study-plan generator**](https://github.com/sametcn99/computer-science-resources/pull/1) in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) _(merged, Updated Sep 1, 2026)_
 - [**Add FrontendAtlas Essential 60**](https://github.com/sametcn99/computer-science-resources/pull/2) in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) _(merged, Updated Sep 1, 2026)_
-- [**refactor extension UI and frame detection**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(merged, Updated Aug 14, 2026)_
-- [**Install Vercel Speed Insights**](https://github.com/sametcn99/gh-block-spam-accounts/pull/2) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(merged, Updated Jun 13, 2026)_
+- [**refactor extension UI and frame detection**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(merged, Updated Aug 15, 2026)_
+- [**Install Vercel Speed Insights**](https://github.com/sametcn99/gh-block-spam-accounts/pull/2) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(merged, Updated Jun 14, 2026)_
 - [**[codex] fix css export path**](https://github.com/sametcn99/vitepress-mermaid-renderer/pull/11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(merged, Updated Jun 13, 2026)_
 - [**chore: update dependencies in package.json**](https://github.com/sametcn99/booking-calendar/pull/11) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(merged, Updated Apr 4, 2026)_
 - [**Caldav**](https://github.com/sametcn99/booking-calendar/pull/10) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(merged, Updated Apr 4, 2026)_
@@ -494,292 +540,43 @@ Pull requests across my repositories, including both open and closed contributio
 - [**vite-plugin-monkey refactor**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/2) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(merged, Updated Mar 2, 2026)_
 - [**refactor: enhance GitHub strategy logging and configuration handling**](https://github.com/sametcn99/mermaid-viewer/pull/6) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer) _(merged, Updated Jan 9, 2026)_
 - [**Fullstack dev**](https://github.com/sametcn99/mermaid-viewer/pull/5) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer) _(merged, Updated Jan 9, 2026)_
-- [**Fix React Server Components CVE vulnerabilities**](https://github.com/sametcn99/xls-to-gantt/pull/2) in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt) _(merged, Updated Dec 16, 2025)_
+- [**Fix React Server Components CVE vulnerabilities**](https://github.com/sametcn99/xls-to-gantt/pull/2) in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt) _(merged, Updated Dec 17, 2025)_
 - [**Merge pull request #1 from sametcn99/master**](https://github.com/sametcn99/mermaid-viewer/pull/2) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer) _(merged, Updated May 8, 2025)_
 - [**.**](https://github.com/sametcn99/mermaid-viewer/pull/1) in [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer) _(merged, Updated May 8, 2025)_
 - [**feat: add edit env var without opening the file**](https://github.com/sametcn99/env-protector/pull/3) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(merged, Updated Nov 29, 2024)_
-- [**Bump braces from 3.0.2 to 3.0.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/tic-tac-toe/pull/3) in [sametcn99/tic-tac-toe](https://github.com/sametcn99/tic-tac-toe) _(merged, Updated Sep 18, 2024)_
-- [**Bump next from 14.1.1 to 14.2.10 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/redux-practice/pull/2) in [sametcn99/redux-practice](https://github.com/sametcn99/redux-practice) _(merged, Updated Sep 18, 2024)_
-- [**Bump next from 14.1.1 to 14.2.10 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/tic-tac-toe/pull/2) in [sametcn99/tic-tac-toe](https://github.com/sametcn99/tic-tac-toe) _(merged, Updated Sep 18, 2024)_
-- [**Bump next from 14.2.5 to 14.2.10 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/personal-website/pull/3) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(merged, Updated Sep 18, 2024)_
-- [**Dev**](https://github.com/sametcn99/env-protector/pull/1) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(merged, Updated Sep 16, 2024)_
-- [**Bump braces from 3.0.2 to 3.0.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/markdown-file-renamer-web-app/pull/2) in [sametcn99/markdown-file-renamer-web-app](https://github.com/sametcn99/markdown-file-renamer-web-app) _(merged, Updated Jun 23, 2024)_
-- [**Bump next from 14.0.3 to 14.1.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/redux-practice/pull/1) in [sametcn99/redux-practice](https://github.com/sametcn99/redux-practice) _(merged, Updated May 10, 2024)_
-- [**Bump next from 14.1.0 to 14.1.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/personal-website/pull/2) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(merged, Updated May 10, 2024)_
-- [**Bump next from 14.1.0 to 14.1.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/rock-paper-scissors/pull/1) in [sametcn99/rock-paper-scissors](https://github.com/sametcn99/rock-paper-scissors) _(merged, Updated May 10, 2024)_
-- [**Bump next from 14.0.0 to 14.1.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/tic-tac-toe/pull/1) in [sametcn99/tic-tac-toe](https://github.com/sametcn99/tic-tac-toe) _(merged, Updated May 10, 2024)_
-- [**Bump next from 14.0.0 to 14.2.3 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase/pull/3) in [sametcn99/nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) _(merged, Updated May 10, 2024)_
-- [**Bump next from 14.0.0 to 14.1.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/nextui-blog-template/pull/1) in [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template) _(merged, Updated May 10, 2024)_
-- [**Bump next from 14.0.1 to 14.1.1 in the npm_and_yarn group across 1 directory**](https://github.com/sametcn99/markdown-file-renamer-web-app/pull/1) in [sametcn99/markdown-file-renamer-web-app](https://github.com/sametcn99/markdown-file-renamer-web-app) _(merged, Updated May 10, 2024)_
-- [**Dev**](https://github.com/sametcn99/electron-widgets/pull/23) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated May 8, 2024)_
+- [**Dev**](https://github.com/sametcn99/env-protector/pull/1) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(merged, Updated Sep 17, 2024)_
+- [**Dev**](https://github.com/sametcn99/electron-widgets/pull/23) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated May 9, 2024)_
 - [**Update package.json and src/types/index.d.ts, add rss-feed-parser and…**](https://github.com/sametcn99/electron-widgets/pull/22) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated May 3, 2024)_
-- [**Update next.config.js and package.json**](https://github.com/sametcn99/personal-website/pull/1) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(merged, Updated May 1, 2024)_
-- [**Update renderer.js**](https://github.com/sametcn99/electron-widgets/pull/21) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 30, 2024)_
-- [**Merge pull request #19 from sametcn99/master**](https://github.com/sametcn99/electron-widgets/pull/20) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 23, 2024)_
-- [**2.0.2 Release**](https://github.com/sametcn99/electron-widgets/pull/19) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 23, 2024)_
+- [**Update next.config.js and package.json**](https://github.com/sametcn99/personal-website/pull/1) in [sametcn99/personal-website](https://github.com/sametcn99/personal-website) _(merged, Updated May 2, 2024)_
+- [**Update renderer.js**](https://github.com/sametcn99/electron-widgets/pull/21) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated May 1, 2024)_
+- [**Merge pull request #19 from sametcn99/master**](https://github.com/sametcn99/electron-widgets/pull/20) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 24, 2024)_
+- [**2.0.2 Release**](https://github.com/sametcn99/electron-widgets/pull/19) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 24, 2024)_
 - [**Merge pull request #16 from sametcn99/master**](https://github.com/sametcn99/electron-widgets/pull/17) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 20, 2024)_
 - [**merge**](https://github.com/sametcn99/electron-widgets/pull/16) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 16, 2024)_
 - [**widget ui**](https://github.com/sametcn99/electron-widgets/pull/15) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Apr 14, 2024)_
-- [**Bump tailwind-merge from 2.2.1 to 2.2.2**](https://github.com/sametcn99/github-profile-viewer/pull/45) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Apr 2, 2024)_
-- [**Bump cmdk from 0.2.1 to 1.0.0**](https://github.com/sametcn99/github-profile-viewer/pull/44) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Apr 2, 2024)_
-- [**Bump sonner from 1.4.3 to 1.4.41**](https://github.com/sametcn99/github-profile-viewer/pull/48) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Apr 2, 2024)_
-- [**Bump lucide-react from 0.344.0 to 0.364.0**](https://github.com/sametcn99/github-profile-viewer/pull/49) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Apr 2, 2024)_
-- [**Bump @mui/x-data-grid from 6.19.6 to 7.1.0**](https://github.com/sametcn99/github-profile-viewer/pull/50) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Apr 2, 2024)_
 - [**Update README.md**](https://github.com/sametcn99/electron-widgets/pull/13) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Mar 29, 2024)_
-- [**Bump the npm_and_yarn group across 1 directory with 1 update**](https://github.com/sametcn99/electron-widgets/pull/10) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Mar 26, 2024)_
 - [**clock update**](https://github.com/sametcn99/electron-widgets/pull/11) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Mar 26, 2024)_
 - [**init**](https://github.com/sametcn99/electron-widgets/pull/9) in [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) _(merged, Updated Mar 26, 2024)_
-- [**Bump react-json-view-lite from 1.2.1 to 1.3.0**](https://github.com/sametcn99/github-profile-viewer/pull/39) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 22, 2024)_
-- [**Bump next-themes from 0.2.1 to 0.3.0**](https://github.com/sametcn99/github-profile-viewer/pull/40) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 22, 2024)_
-- [**Bump @next/third-parties from 14.1.0 to 14.1.3**](https://github.com/sametcn99/github-profile-viewer/pull/41) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 22, 2024)_
-- [**Bump typescript from 5.3.3 to 5.4.2**](https://github.com/sametcn99/github-profile-viewer/pull/42) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 22, 2024)_
-- [**Bump @tanstack/react-table from 8.12.0 to 8.13.2**](https://github.com/sametcn99/github-profile-viewer/pull/43) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 22, 2024)_
-- [**Bump npm from 10.4.0 to 10.5.0**](https://github.com/sametcn99/github-profile-viewer/pull/34) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 11, 2024)_
-- [**Bump next from 14.1.0 to 14.1.3**](https://github.com/sametcn99/github-profile-viewer/pull/35) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 11, 2024)_
-- [**Bump @types/node from 20.11.20 to 20.11.25**](https://github.com/sametcn99/github-profile-viewer/pull/36) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 11, 2024)_
-- [**Bump sonner from 1.4.0 to 1.4.3**](https://github.com/sametcn99/github-profile-viewer/pull/37) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 11, 2024)_
-- [**Bump @mui/material from 5.15.11 to 5.15.12**](https://github.com/sametcn99/github-profile-viewer/pull/38) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 11, 2024)_
-- [**Bump jose from 4.15.4 to 4.15.5**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase/pull/2) in [sametcn99/nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) _(merged, Updated Mar 8, 2024)_
-- [**Bump virtua from 0.27.4 to 0.28.0**](https://github.com/sametcn99/github-profile-viewer/pull/29) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 4, 2024)_
-- [**Bump eslint-config-next from 14.1.0 to 14.1.1**](https://github.com/sametcn99/github-profile-viewer/pull/30) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 4, 2024)_
-- [**Bump @emotion/react from 11.11.3 to 11.11.4**](https://github.com/sametcn99/github-profile-viewer/pull/31) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 4, 2024)_
-- [**Bump lucide-react from 0.335.0 to 0.344.0**](https://github.com/sametcn99/github-profile-viewer/pull/32) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 4, 2024)_
-- [**Bump @mui/x-data-grid from 6.19.5 to 6.19.6**](https://github.com/sametcn99/github-profile-viewer/pull/33) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Mar 4, 2024)_
-- [**Bump the npm_and_yarn group across 1 directories with 2 updates**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase/pull/1) in [sametcn99/nextjs-auth-and-crud-with-supabase](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) _(merged, Updated Mar 3, 2024)_
-- [**Bump @mui/material from 5.15.10 to 5.15.11**](https://github.com/sametcn99/github-profile-viewer/pull/25) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 26, 2024)_
-- [**Bump @mui/x-data-grid from 6.19.4 to 6.19.5**](https://github.com/sametcn99/github-profile-viewer/pull/26) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 26, 2024)_
-- [**Bump @types/node from 20.11.19 to 20.11.20**](https://github.com/sametcn99/github-profile-viewer/pull/24) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 26, 2024)_
-- [**Bump @mui/x-charts from 6.19.4 to 6.19.5**](https://github.com/sametcn99/github-profile-viewer/pull/27) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 26, 2024)_
-- [**Bump eslint from 8.56.0 to 8.57.0**](https://github.com/sametcn99/github-profile-viewer/pull/28) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 26, 2024)_
-- [**Bump @mui/x-charts from 6.19.3 to 6.19.4**](https://github.com/sametcn99/github-profile-viewer/pull/18) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 21, 2024)_
-- [**Bump lucide-react from 0.331.0 to 0.335.0**](https://github.com/sametcn99/github-profile-viewer/pull/23) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 21, 2024)_
-- [**Bump postcss from 8.4.33 to 8.4.35**](https://github.com/sametcn99/github-profile-viewer/pull/20) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 21, 2024)_
-- [**Bump @types/node from 20.11.16 to 20.11.19**](https://github.com/sametcn99/github-profile-viewer/pull/21) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 21, 2024)_
-- [**Bump @types/react from 18.2.53 to 18.2.57**](https://github.com/sametcn99/github-profile-viewer/pull/22) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 21, 2024)_
-- [**Bump @mui/material from 5.15.7 to 5.15.10**](https://github.com/sametcn99/github-profile-viewer/pull/16) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 18, 2024)_
-- [**Bump react-hook-form from 7.50.0 to 7.50.1**](https://github.com/sametcn99/github-profile-viewer/pull/13) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 18, 2024)_
-- [**Bump lucide-react from 0.321.0 to 0.331.0**](https://github.com/sametcn99/github-profile-viewer/pull/15) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 18, 2024)_
-- [**Bump @mui/x-data-grid from 6.19.3 to 6.19.4**](https://github.com/sametcn99/github-profile-viewer/pull/11) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 18, 2024)_
-- [**Bump @types/react-dom from 18.2.18 to 18.2.19**](https://github.com/sametcn99/github-profile-viewer/pull/14) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 18, 2024)_
-- [**Bump Microsoft.Data.SqlClient from 5.0.1 to 5.1.3 in /ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder/pull/4) in [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder) _(merged, Updated Feb 7, 2024)_
-- [**Bump @types/node from 20.11.5 to 20.11.14**](https://github.com/sametcn99/github-profile-viewer/pull/5) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 1, 2024)_
-- [**Bump cmdk from 0.2.0 to 0.2.1**](https://github.com/sametcn99/github-profile-viewer/pull/8) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 1, 2024)_
-- [**Bump @mui/x-data-grid from 6.19.1 to 6.19.2**](https://github.com/sametcn99/github-profile-viewer/pull/7) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 1, 2024)_
-- [**Bump @types/react from 18.2.48 to 18.2.50**](https://github.com/sametcn99/github-profile-viewer/pull/6) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 1, 2024)_
-- [**Bump tailwind-merge from 2.2.0 to 2.2.1**](https://github.com/sametcn99/github-profile-viewer/pull/4) in [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer) _(merged, Updated Feb 1, 2024)_
 
 </details>
 
-## Repository Highlights
-
-A curated view of recent work, actively maintained projects, forks, and archived repositories kept for reference.
-
-## Releases
-
-Recent releases across my repositories:
-
-- [**LibRedirect Mobile v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Aug 24, 2026)_
-- [**Gotify Web Extension 1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 21, 2026)_
-- [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 15, 2026)_
-- [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 14, 2026)_
-- [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 11, 2026)_
-
-<details>
-  <summary>Show 15 more releases...</summary>
-
-- [**Gotify Web Extension 1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
-- [**Gotify Web Extension 1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
-- [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
-- [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
-- [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
-- [**release-20260807-173241**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-173241) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-155649**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-155649) — [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**v1.1.30**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.30) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 6, 2026)_
-- [**GitHub Spam Blocker 1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
-- [**GitHub Spam Blocker 1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
-- [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
-- [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
-- [**v1.1.11**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) — [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 22, 2026)_
-
-</details>
-
-### Recently Updated
-
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Sep 1, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) -
-  Python<br />_Created: Sep 1, 2026 • Updated: Sep 1, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
-
-### Active Repositories
-
-- [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) ★67 -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.vercel.app)<br />_Created: Mar 15, 2025 • Updated: Aug 8, 2026_<br />Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This powerful plugin brings life to your documentation by enabling interactive features like zooming, panning, and fullscreen viewing.
-- [**electron-widgets**](https://github.com/sametcn99/electron-widgets) ★20 -
-  TypeScript - [Homepage](https://electron-widgets.vercel.app)<br />_Created: Mar 24, 2024 • Updated: Feb 28, 2026_<br />the missing html based widget manager
-- [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder) ★14 -
-  C#<br />_Created: Dec 8, 2022 • Updated: Feb 7, 2024_<br />moved to https://github.com/sametcn99/ResumeBuilderMAUI
-- [**env-protector**](https://github.com/sametcn99/env-protector) ★14 -
-  TypeScript - [Homepage](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector)<br />_Created: Sep 14, 2024 • Updated: Jan 12, 2026_<br />Protect your secrets from being exposed
-- [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template) ★11 -
-  TypeScript - [Homepage](https://nextui-blog-template.vercel.app)<br />_Created: Nov 2, 2023 • Updated: Jan 14, 2026_<br />The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Next.js, coupled with sleek UI components from Next UI. This template not only jumpstarts your project but also ensures a responsive and customizable blog experience.
-
-<details>
-  <summary>Show 63 more repositories...</summary>
-
-- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) ★10 -
-  TypeScript - [Homepage](https://booking-calendar-docs.vercel.app)<br />_Created: Feb 20, 2026 • Updated: Apr 4, 2026_<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-- [**HTWind**](https://github.com/sametcn99/HTWind) ★8 -
-  C# - [Homepage](https://htwind.vercel.app)<br />_Created: Feb 24, 2026 • Updated: Jul 14, 2026_<br />the missing html based widget manager created with .net
-- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) ★8 -
-  TypeScript - [Homepage](https://nextjs-auth-and-crud-with-supabase.vercel.app)<br />_Created: Oct 28, 2023 • Updated: May 10, 2024_<br />nextjs auth and crud example with supabase.
-- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) ★8 -
-  TypeScript - [Homepage](https://mermaid.sametcc.me/home)<br />_Created: Apr 23, 2025 • Updated: Mar 30, 2026_<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) ★5 -
-  TypeScript - [Homepage](https://sametcn99.github.io/my-stars-atlas/)<br />_Created: Mar 17, 2026 • Updated: Aug 15, 2026_<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) ★5 -
-  TypeScript - [Homepage](https://sametcn99.github.io/linkedin-hide-viewed-jobs/)<br />_Created: Feb 28, 2026 • Updated: Aug 15, 2026_<br />A browser tool that hides or highlights the job postings you have already viewed on LinkedIn — so you can focus on what is new.
-- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) ★5 -
-  TypeScript - [Homepage](https://gpv.sametcc.me)<br />_Created: Nov 23, 2023 • Updated: Mar 8, 2026_<br />moved: https://github.com/sametcn99/GPVBlazor
-- [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) ★4 -
-  TypeScript - [Homepage](https://markdown-file-renamer-web-app.vercel.app)<br />_Created: Nov 5, 2023 • Updated: Oct 20, 2025_<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) ★3 -
-  TypeScript - [Homepage](https://reddit-rss-api.sametcn99.deno.net)<br />_Created: May 16, 2024 • Updated: Aug 1, 2026_<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
-- [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) ★2 -
-  JavaScript - [Homepage](https://libredirect-instances-list.vercel.app)<br />_Created: May 7, 2026 • Updated: Aug 24, 2026_<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
-- [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) ★1 -
-  TypeScript<br />_Created: Aug 9, 2026 • Updated: Aug 21, 2026_<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
-- [**code-nest-web**](https://github.com/sametcn99/code-nest-web) ★1 -
-  TypeScript<br />_Created: Jul 10, 2024 • Updated: Sep 18, 2024_<br />No description provided.
-- [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) ★1 -
-  TypeScript - [Homepage](https://tic-tac-toe-sametcn99.vercel.app)<br />_Created: Oct 28, 2023 • Updated: Dec 13, 2024_<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
-- [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) ★1 -
-  TypeScript<br />_Created: Aug 26, 2024 • Updated: Oct 27, 2025_<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
-- [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) ★1 -
-  C#<br />_Created: Nov 2, 2023 • Updated: Nov 2, 2023_<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
-- [**BlogAPIDotnet**](https://github.com/sametcn99/BlogAPIDotnet) ★1 -
-  C#<br />_Created: Sep 18, 2024 • Updated: Sep 27, 2024_<br />learning progress repo
-- [**redux-practice**](https://github.com/sametcn99/redux-practice) ★1 -
-  TypeScript - [Homepage](https://redux-practice-phi.vercel.app)<br />_Created: Dec 6, 2023 • Updated: Dec 18, 2024_<br />This project is an example application created to learn the Redux library.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) -
-  JavaScript - [Homepage](https://computer-science-resources.vercel.app)<br />_Created: May 16, 2026 • Updated: Sep 1, 2026_<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) -
-  Python<br />_Created: Sep 1, 2026 • Updated: Sep 1, 2026_<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) -
-  JavaScript - [Homepage](https://apps.sametcc.me/)<br />_Created: Mar 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
-- [**hiretea**](https://github.com/sametcn99/hiretea) -
-  TypeScript<br />_Created: Apr 13, 2026 • Updated: Sep 1, 2026_<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Dec 23, 2025 • Updated: Aug 28, 2026_<br />No description provided.
-- [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) -
-  Kotlin<br />_Created: Aug 23, 2026 • Updated: Aug 24, 2026_<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
-- [**scripts**](https://github.com/sametcn99/scripts) -
-  PowerShell<br />_Created: Aug 18, 2026 • Updated: Aug 20, 2026_<br />No description provided.
-- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) -
-  TypeScript - [Homepage](https://gh-block-spam-accounts.vercel.app)<br />_Created: Mar 24, 2026 • Updated: Aug 15, 2026_<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) -
-  HTML - [Homepage](https://pdf-email-extractor.vercel.app)<br />_Created: Aug 10, 2026 • Updated: Aug 11, 2026_<br />No description provided.
-- [**n8n-automations**](https://github.com/sametcn99/n8n-automations) -
-  JavaScript<br />_Created: Aug 7, 2026 • Updated: Aug 7, 2026_<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
-- [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) -
-  TypeScript<br />_Created: Apr 9, 2026 • Updated: Apr 10, 2026_<br />WibeSoft Backend Case study
-- [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) -
-  C#<br />_Created: Jul 4, 2026 • Updated: Jul 14, 2026_<br />No description provided.
-- [**TakvimDemo**](https://github.com/sametcn99/TakvimDemo) -
-  HTML<br />_Created: Jul 14, 2026 • Updated: Jul 17, 2026_<br />No description provided.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) -
-  TypeScript - [Homepage](https://maalesef.tr)<br />_Created: Feb 12, 2026 • Updated: Jul 18, 2026_<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
-- [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) -
-  HTML<br />_Created: Jul 11, 2026 • Updated: Jul 11, 2026_<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
-- [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) -
-  C#<br />_Created: Apr 26, 2026 • Updated: Apr 26, 2026_<br />No description provided.
-- [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) -
-  C#<br />_Created: Apr 25, 2026 • Updated: Apr 26, 2026_<br />No description provided.
-- [**interview**](https://github.com/sametcn99/interview) -
-  C#<br />_Created: May 24, 2026 • Updated: May 24, 2026_<br />No description provided.
-- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) -
-  Python<br />_Created: Jan 4, 2026 • Updated: Jun 18, 2026_<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
-- [**catchapage**](https://github.com/sametcn99/catchapage) -
-  TypeScript<br />_Created: Nov 3, 2025 • Updated: Jun 18, 2026_<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
-- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) -
-  TypeScript - [Homepage](https://orhanelektronikbilgisayar.com)<br />_Created: Jan 1, 2025 • Updated: Jun 14, 2026_<br />No description provided.
-- [**application-tracker**](https://github.com/sametcn99/application-tracker) -
-  TypeScript<br />_Created: Apr 21, 2026 • Updated: May 15, 2026_<br />self-hosted job search operating system
-- [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) -
-  HTML<br />_Created: Feb 27, 2026 • Updated: Feb 27, 2026_<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
-- [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) -
-  JavaScript - [Homepage](https://githubprofileviewer.com)<br />_Created: Jan 20, 2024 • Updated: Aug 4, 2024_<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-- [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) -
-  TypeScript - [Homepage](https://rock-paper-scissors-sametcn99.vercel.app)<br />_Created: Jan 17, 2024 • Updated: Jun 21, 2024_<br />No description provided.
-- [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) -
-  HTML - [Homepage](https://gpv.sametcc.me)<br />_Created: Jun 26, 2024 • Updated: Mar 17, 2026_<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
-- [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) -
-  TypeScript - [Homepage](https://color-img-downloader.vercel.app)<br />_Created: Jul 14, 2025 • Updated: Mar 12, 2026_<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
-- [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) -
-  JavaScript<br />_Created: May 4, 2024 • Updated: Sep 13, 2025_<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
-- [**MicroServiceLearn**](https://github.com/sametcn99/MicroServiceLearn) -
-  C#<br />_Created: Mar 25, 2026 • Updated: Mar 25, 2026_<br />learning repo
-- [**golter**](https://github.com/sametcn99/golter) -
-  Go - [Homepage](https://golter.vercel.app)<br />_Created: Jan 16, 2026 • Updated: Apr 11, 2026_<br />TUI file converter built with Go
-- [**open-github-dev**](https://github.com/sametcn99/open-github-dev) -
-  JavaScript<br />_Created: Dec 20, 2023 • Updated: Dec 20, 2023_<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
-- [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) -
-  C#<br />_Created: Jun 4, 2024 • Updated: Jun 11, 2024_<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
-- [**node-genius-lyrics-gui**](https://github.com/sametcn99/node-genius-lyrics-gui) -
-  TypeScript<br />_Created: May 4, 2024 • Updated: Sep 27, 2024_<br />This project is an Electron application designed to interact with the Genius Lyrics API, providing a graphical user interface for fetching and writing song lyrics to audio file metadata tags.
-- [**SolidColorBackground**](https://github.com/sametcn99/SolidColorBackground) -
-  C#<br />_Created: Sep 3, 2024 • Updated: Jan 24, 2025_<br />This application allows users to select a color using a color picker, which updates the background color of the window.
-- [**coordinat-auto-login**](https://github.com/sametcn99/coordinat-auto-login) -
-  TypeScript<br />_Created: Apr 19, 2025 • Updated: May 4, 2025_<br />No description provided.
-- [**sql-query-safety-checker**](https://github.com/sametcn99/sql-query-safety-checker) -
-  TypeScript - [Homepage](https://www.npmjs.com/package/sql-query-safety-checker)<br />_Created: Jun 11, 2025 • Updated: Jun 19, 2025_<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
-- [**svg-split**](https://github.com/sametcn99/svg-split) -
-  JavaScript<br />_Created: Mar 13, 2025 • Updated: Jul 22, 2025_<br />No description provided.
-- [**fullstack-template**](https://github.com/sametcn99/fullstack-template) -
-  TypeScript<br />_Created: Sep 6, 2025 • Updated: Sep 6, 2025_<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
-- [**xls-to-gantt**](https://github.com/sametcn99/xls-to-gantt) -
-  TypeScript - [Homepage](https://xls-to-gantt.vercel.app)<br />_Created: Apr 22, 2025 • Updated: Dec 16, 2025_<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
-- [**vitepress-mermaid-renderer-web**](https://github.com/sametcn99/vitepress-mermaid-renderer-web) -
-  TypeScript - [Homepage](https://vitepress-mermaid-renderer.sametcc.me)<br />_Created: Oct 14, 2025 • Updated: Jan 11, 2026_<br />moved to source repo
-- [**personal-website**](https://github.com/sametcn99/personal-website) -
-  MDX - [Homepage](https://sametcc.me)<br />_Created: Sep 7, 2023 • Updated: Feb 19, 2026_<br />No description provided.
-- [**golter-web**](https://github.com/sametcn99/golter-web) -
-  TypeScript - [Homepage](https://golter.vercel.app/)<br />_Created: Jan 17, 2026 • Updated: Feb 21, 2026_<br />golter landing page
-- [**product-planning-copilot**](https://github.com/sametcn99/product-planning-copilot) -
-  HTML - [Homepage](https://sametcn99.github.io/product-planning-copilot/)<br />_Created: Feb 26, 2026 • Updated: Mar 13, 2026_<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
-- [**dreamtui**](https://github.com/sametcn99/dreamtui) -
-  TypeScript<br />_Created: Feb 6, 2026 • Updated: Mar 16, 2026_<br />A terminal-based generative dream engine.
-- [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) -
-  HTML - [Homepage](https://sametcn99.github.io/)<br />_Created: Jan 6, 2024 • Updated: Apr 5, 2026_<br />redirect to personal website
-- [**ArcDrop**](https://github.com/sametcn99/ArcDrop) -
-  C#<br />_Created: Mar 4, 2026 • Updated: Mar 12, 2026_<br />No description provided.
-
-</details>
+## More Repositories
 
 ### Forked Repositories
 
-- [**server**](https://github.com/sametcn99/server) - [Homepage](https://gotify.net)<br />_Created: Aug 7, 2026 • Updated: Aug 14, 2026_<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader)<br />_Created: Jul 11, 2026 • Updated: Jul 7, 2026_<br />Query and download archive.org as simple as possible.
-- [**wvw.dev**](https://github.com/sametcn99/wvw.dev) -
-  JavaScript - [Homepage](https://wvw.dev)<br />_Created: Mar 13, 2026 • Updated: May 24, 2026_<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
-
 <details>
-  <summary>Show 7 more repositories...</summary>
+  <summary>Show 10 forked repositories...</summary>
 
-- [**instances**](https://github.com/sametcn99/instances) - [Homepage](https://raw.githubusercontent.com/libredirect/instances/main/data.json)<br />_Created: May 7, 2026 • Updated: May 6, 2026_<br />Automated instances list for LibRedirect
-- [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) -
-  JavaScript - [Homepage](https://miletorix.github.io/vitepress-image-viewer/)<br />_Created: Feb 21, 2026 • Updated: Feb 23, 2026_<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
-- [**crono-event**](https://github.com/sametcn99/crono-event)<br />_Created: Feb 7, 2026 • Updated: Feb 7, 2026_<br />This program is a timer for events and activities that allows you to set the time and set alarms.
-- [**letterboxd-api**](https://github.com/sametcn99/letterboxd-api) -
-  Python - [Homepage](https://letterboxd-api-zeta.vercel.app)<br />_Created: Feb 2, 2026 • Updated: Feb 2, 2026_<br />An API to expose scraped Letterboxd data
-- [**nestlens**](https://github.com/sametcn99/nestlens) -
-  TypeScript - [Homepage](https://nestlens-docs.vercel.app/)<br />_Created: Jan 25, 2026 • Updated: Jan 25, 2026_<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
-- [**RepoHub**](https://github.com/sametcn99/RepoHub) -
-  TypeScript - [Homepage](https://repo-hub.com/)<br />_Created: Dec 5, 2025 • Updated: Dec 5, 2025_<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
-- [**Letterboxd-to-IMDb**](https://github.com/sametcn99/Letterboxd-to-IMDb) -
-  Python<br />_Created: Jun 28, 2025 • Updated: Jun 28, 2025_<br />Import your Letterboxd ratings into IMDb
+- [**server**](https://github.com/sametcn99/server) · Updated Aug 14, 2026<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader) · Updated Jul 7, 2026<br />Query and download archive.org as simple as possible.
+- [**wvw.dev**](https://github.com/sametcn99/wvw.dev) — JavaScript · Updated May 25, 2026<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
+
+- [**instances**](https://github.com/sametcn99/instances) · Updated May 7, 2026<br />Automated instances list for LibRedirect
+- [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) — JavaScript · Updated Feb 23, 2026<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
+- [**crono-event**](https://github.com/sametcn99/crono-event) · Updated Feb 8, 2026<br />This program is a timer for events and activities that allows you to set the time and set alarms.
+- [**letterboxd-api**](https://github.com/sametcn99/letterboxd-api) — Python · Updated Feb 2, 2026<br />An API to expose scraped Letterboxd data
+- [**nestlens**](https://github.com/sametcn99/nestlens) — TypeScript · Updated Jan 25, 2026<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
+- [**RepoHub**](https://github.com/sametcn99/RepoHub) — TypeScript · Updated Dec 5, 2025<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
+- [**Letterboxd-to-IMDb**](https://github.com/sametcn99/Letterboxd-to-IMDb) — Python · Updated Jun 28, 2025<br />Import your Letterboxd ratings into IMDb
 
 </details>

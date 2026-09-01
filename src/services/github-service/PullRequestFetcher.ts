@@ -23,7 +23,12 @@ export class PullRequestFetcher implements IDataFetcher<RepoPullRequest[]> {
 					per_page: 100,
 				});
 
-				pullRequests.push(...data);
+				pullRequests.push(
+					...data.filter(
+						(pullRequest) =>
+							!PullRequestFetcher.isDependabotPullRequest(pullRequest),
+					),
+				);
 			} catch (error) {
 				console.error(`Error fetching pull requests for ${repo.name}:`, error);
 			}
@@ -40,5 +45,13 @@ export class PullRequestFetcher implements IDataFetcher<RepoPullRequest[]> {
 			const updatedB = new Date(b.updated_at ?? 0).getTime();
 			return updatedB - updatedA;
 		});
+	}
+
+	/** Excludes automated dependency-update pull requests from the profile. */
+	private static isDependabotPullRequest(
+		pullRequest: RepoPullRequest,
+	): boolean {
+		const opener = pullRequest.user?.login?.toLowerCase() ?? "";
+		return opener === "dependabot[bot]" || opener === "dependabot";
 	}
 }

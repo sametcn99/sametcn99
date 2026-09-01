@@ -7,6 +7,25 @@ import { DataFormatter } from "./utils/DataFormatter";
 // Register Handlebars helpers
 Handlebars.registerHelper("or", (a, b) => a || b);
 Handlebars.registerHelper("any", (...args) => args.slice(0, -1).some(Boolean));
+Handlebars.registerHelper(
+	"tableCell",
+	(value: unknown, maxLength?: unknown) => {
+		const raw = value == null ? "" : String(value);
+		const normalized = raw
+			.replace(/\r?\n/g, " ")
+			.replace(/\s+/g, " ")
+			.replace(/\|/g, "\\|")
+			.trim();
+		const limit =
+			typeof maxLength === "number" && Number.isFinite(maxLength)
+				? Math.max(1, maxLength)
+				: 120;
+
+		return normalized.length > limit
+			? `${normalized.slice(0, limit - 1).trimEnd()}…`
+			: normalized;
+	},
+);
 
 /** Configuration overrides used when instantiating the application. */
 interface ApplicationConfig {

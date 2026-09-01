@@ -17,6 +17,7 @@ export interface FormattedRepo {
 	language?: string | null;
 	description: string;
 	dateStr: string;
+	updatedAt: string;
 	homepage?: string | null;
 }
 
@@ -162,11 +163,15 @@ export class DataFormatter {
 					break;
 				case "PullRequestEvent":
 				case "PullRequestReviewEvent":
-					groups.pullRequests.push(formatted);
+					if (!DataFormatter.isDependabotPullRequestEvent(event)) {
+						groups.pullRequests.push(formatted);
+					}
 					break;
 				case "IssueCommentEvent":
 				case "PullRequestReviewCommentEvent":
-					groups.comments.push(formatted);
+					if (!DataFormatter.isDependabotPullRequestEvent(event)) {
+						groups.comments.push(formatted);
+					}
 					break;
 				case "ReleaseEvent":
 					if (releases.length === 0) {
@@ -210,6 +215,39 @@ export class DataFormatter {
 		};
 	}
 
+	/** Excludes activity related to pull requests opened by Dependabot. */
+	private static isDependabotPullRequestEvent(event: GitHubEvent): boolean {
+		if (!event.payload) {
+			return false;
+		}
+
+		let opener: string | null | undefined;
+		if ("pull_request" in event.payload) {
+			const pullRequest = (
+				event.payload as {
+					pull_request?: { user?: { login?: string | null } | null };
+				}
+			).pull_request;
+			opener = pullRequest?.user?.login;
+		} else if (event.type === "IssueCommentEvent" && "issue" in event.payload) {
+			const issue = (
+				event.payload as {
+					issue?: {
+						pull_request?: unknown;
+						user?: { login?: string | null } | null;
+					};
+				}
+			).issue;
+			if (!issue?.pull_request) {
+				return false;
+			}
+			opener = issue.user?.login;
+		}
+
+		opener = opener?.toLowerCase();
+		return opener === "dependabot[bot]" || opener === "dependabot";
+	}
+
 	/** Converts a repository issue into the data needed by the template. */
 	static formatIssue(issue: RepoIssue): FormattedIssue {
 		const issueUrl = issue.html_url;
@@ -246,9 +284,7 @@ export class DataFormatter {
 	}
 
 	/** Converts a pull request into the data needed by the template. */
-	static formatPullRequest(
-		pullRequest: RepoPullRequest,
-	): FormattedPullRequest {
+	static formatPullRequest(pullRequest: RepoPullRequest): FormattedPullRequest {
 		const pullRequestUrl = pullRequest.html_url;
 		const repositoryUrl = pullRequestUrl.replace(/\/pull\/\d+$/, "");
 		const repositoryName = repositoryUrl
@@ -357,6 +393,7 @@ export class DataFormatter {
 			language: repo.language,
 			description: repo.description || "No description provided.",
 			dateStr,
+			updatedAt: updated,
 			homepage: repo.homepage,
 		};
 	}
