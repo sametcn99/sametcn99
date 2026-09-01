@@ -27,6 +27,15 @@ Handlebars.registerHelper(
 	},
 );
 
+const HIGHLIGHT_REPOSITORY_NAMES = [
+	"vitepress-mermaid-renderer",
+	"env-protector",
+	"my-stars-atlas",
+	"booking-calendar",
+	"htwind",
+	"mermaid-viewer",
+] as const;
+
 /** Configuration overrides used when instantiating the application. */
 interface ApplicationConfig {
 	/** URL of the JSON feed that should be pulled for blog posts. */
@@ -157,7 +166,10 @@ class Application {
 			issues: DataFormatter.prepareIssuesData(openIssues),
 			pullRequests: DataFormatter.preparePullRequestsData(pullRequests),
 			stats: userStats,
-			repos: DataFormatter.prepareRepoData(reposData),
+			repos: DataFormatter.prepareRepoData(
+				reposData,
+				HIGHLIGHT_REPOSITORY_NAMES,
+			),
 			stargazers: DataFormatter.prepareStargazersData(stargazers),
 			releases: DataFormatter.prepareReleasesData(releases),
 			workflow,

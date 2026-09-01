@@ -8,8 +8,8 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 <details>
 <summary>Table of Contents</summary>
 
-{{#if repos.active.length}}
-- [Active Repositories](#active-repositories)
+{{#if repos.highlights.length}}
+- [Highlight Repositories](#highlight-repositories)
 {{/if}}
 {{#if posts.recent.length}}
 - [Latest Writing](#latest-writing)
@@ -37,26 +37,14 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 
 </details>
 
-{{#if repos.active.length}}
-## Active Repositories
-
-A quick view of currently maintained public projects, ordered by GitHub stars. The first five are shown here; the rest stay available below.
+{{#if repos.highlights.length}}
+## Highlight Repositories
 
 | Repository | Description | Language | Stars | Updated | Links |
 | :-- | :-- | :--: | --: | :--: | :-- |
-{{#each repos.active.visible}}
+{{#each repos.highlights}}
 | [**{{tableCell name 40}}**]({{html_url}}) | {{tableCell description 100}} | {{#if language}}{{tableCell language 20}}{{else}}—{{/if}} | {{#if stargazers_count}}★ {{stargazers_count}}{{else}}—{{/if}} | {{#if updatedAt}}{{updatedAt}}{{else}}—{{/if}} | [Repo]({{html_url}}){{#if homepage}} · [Demo]({{homepage}}){{/if}} |
 {{/each}}
-
-{{#if repos.active.hidden.length}}
-<details>
-  <summary>Show {{repos.active.hidden.length}} more active repositories...</summary>
-
-{{#each repos.active.hidden}}
-- [**{{name}}**]({{html_url}}){{#if language}} — {{language}}{{/if}}{{#if stargazers_count}} · ★{{stargazers_count}}{{/if}}{{#if updatedAt}} · Updated {{updatedAt}}{{/if}}<br />{{description}}
-{{/each}}
-</details>
-{{/if}}
 {{/if}}
 
 {{#if posts.recent.length}}

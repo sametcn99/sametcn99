@@ -8,7 +8,7 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 <details>
 <summary>Table of Contents</summary>
 
-- [Active Repositories](#active-repositories)
+- [Highlight Repositories](#highlight-repositories)
 - [Latest Writing](#latest-writing)
 - [Tech Stack](#tech-stack)
 - [GitHub Snapshot](#github-snapshot)
@@ -20,86 +20,16 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 
 </details>
 
-## Active Repositories
-
-A quick view of currently maintained public projects, ordered by GitHub stars. The first five are shown here; the rest stay available below.
+## Highlight Repositories
 
 | Repository                                                                                | Description                                                                                          |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Aug 8, 2026  | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
-| [**electron-widgets**](https://github.com/sametcn99/electron-widgets)                     | the missing html based widget manager                                                                | TypeScript |  ★ 20 | Mar 1, 2026  | [Repo](https://github.com/sametcn99/electron-widgets) · [Demo](https://electron-widgets.vercel.app)                                      |
-| [**ResumeBuilder**](https://github.com/sametcn99/ResumeBuilder)                           | moved to https://github.com/sametcn99/ResumeBuilderMAUI                                              |     C#     |  ★ 14 | Feb 7, 2024  | [Repo](https://github.com/sametcn99/ResumeBuilder)                                                                                       |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
-| [**nextui-blog-template**](https://github.com/sametcn99/nextui-blog-template)             | The Next UI Blog Template is a powerful foundation for crafting your very own blog website using Ne… | TypeScript |  ★ 11 | Jan 14, 2026 | [Repo](https://github.com/sametcn99/nextui-blog-template) · [Demo](https://nextui-blog-template.vercel.app)                              |
-
-<details>
-  <summary>Show 63 more active repositories...</summary>
-
-- [**booking-calendar**](https://github.com/sametcn99/booking-calendar) — TypeScript · ★10 · Updated Apr 4, 2026<br />Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on your own server, keeps your data under your control, and supports a complete booking flow using shareable booking links.
-- [**HTWind**](https://github.com/sametcn99/HTWind) — C# · ★8 · Updated Jul 14, 2026<br />the missing html based widget manager created with .net
-- [**nextjs-auth-and-crud-with-supabase**](https://github.com/sametcn99/nextjs-auth-and-crud-with-supabase) — TypeScript · ★8 · Updated May 10, 2024<br />nextjs auth and crud example with supabase.
-- [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer) — TypeScript · ★8 · Updated Mar 31, 2026<br />A powerful, modern web application that transforms your ideas into stunning diagrams with live preview and instant sharing capabilities.
-- [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas) — TypeScript · ★5 · Updated Aug 15, 2026<br />A generated catalog of starred GitHub repositories, grouped into stable categories.
-- [**linkedin-hide-viewed-jobs**](https://github.com/sametcn99/linkedin-hide-viewed-jobs) — TypeScript · ★5 · Updated Aug 15, 2026<br />A browser tool that hides or highlights the job postings you have already viewed on LinkedIn — so you can focus on what is new.
-- [**github-profile-viewer**](https://github.com/sametcn99/github-profile-viewer) — TypeScript · ★5 · Updated Mar 8, 2026<br />moved: https://github.com/sametcn99/GPVBlazor
-- [**markdown-file-renamer-web-app**](https://github.com/sametcn99/markdown-file-renamer-web-app) — TypeScript · ★4 · Updated Oct 21, 2025<br />This project is a web application that allows users to upload Markdown files, store them locally, and later download the files with renamed filenames. It has been created to help develop the NextUI Blog Template project.
-- [**reddit-rss-api**](https://github.com/sametcn99/reddit-rss-api) — TypeScript · ★3 · Updated Aug 1, 2026<br />This project appears to be a Deno-based server application that serves as an API for fetching Reddit posts from rss feed. It provides several endpoints to fetch posts from one or more subreddits.
-- [**libredirect-instances-list**](https://github.com/sametcn99/libredirect-instances-list) — JavaScript · ★2 · Updated Aug 24, 2026<br />A client-side web app that fetches and displays LibRedirect alternative front-end instances directly in your browser.
-- [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension) — TypeScript · ★1 · Updated Aug 21, 2026<br />A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notifications.
-- [**code-nest-web**](https://github.com/sametcn99/code-nest-web) — TypeScript · ★1 · Updated Sep 18, 2024<br />No description provided.
-- [**tic-tac-toe**](https://github.com/sametcn99/tic-tac-toe) — TypeScript · ★1 · Updated Dec 14, 2024<br />Tic-Tac-Toe with AI is a web-based game built using React. The game provides a simple interface for playing Tic-Tac-Toe against an AI opponent. The game logic is implemented in JavaScript, and it uses the minimax algorithm to create a challenging AI opponent.
-- [**clone-all-gists**](https://github.com/sametcn99/clone-all-gists) — TypeScript · ★1 · Updated Oct 27, 2025<br />This script downloads all public gists for a specified GitHub user and saves them to the local filesystem. The gists are organized by username and gist ID.
-- [**MarkdownFileRenamer**](https://github.com/sametcn99/MarkdownFileRenamer) — C# · ★1 · Updated Nov 2, 2023<br />Markdown File Renamer is a simple C# application for renaming and moving files using the titles from Markdown files.
-- [**BlogAPIDotnet**](https://github.com/sametcn99/BlogAPIDotnet) — C# · ★1 · Updated Sep 27, 2024<br />learning progress repo
-- [**redux-practice**](https://github.com/sametcn99/redux-practice) — TypeScript · ★1 · Updated Dec 18, 2024<br />This project is an example application created to learn the Redux library.
-- [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) — JavaScript · Updated Sep 2, 2026<br />Curated collection of computer science learning resources, coding exercises, practice platforms, and online courses.
-- [**case-fx-tool**](https://github.com/sametcn99/case-fx-tool) — Python · Updated Sep 1, 2026<br />No description provided.
-- [**apps**](https://github.com/sametcn99/apps) — JavaScript · Updated Sep 1, 2026<br />No description provided.
-- [**hiretea**](https://github.com/sametcn99/hiretea) — TypeScript · Updated Sep 1, 2026<br />No description provided.
-- [**personal-website-blazor**](https://github.com/sametcn99/personal-website-blazor) — MDX · Updated Aug 28, 2026<br />No description provided.
-- [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile) — Kotlin · Updated Aug 24, 2026<br />LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube, Reddit, or X/Twitter and redirects them to privacy-friendly frontends (Invidious, Redlib, Nitter-style alternatives, and similar) before opening them in the browser you choose.
-- [**scripts**](https://github.com/sametcn99/scripts) — PowerShell · Updated Aug 20, 2026<br />No description provided.
-- [**gh-block-spam-accounts**](https://github.com/sametcn99/gh-block-spam-accounts) — TypeScript · Updated Aug 15, 2026<br />A browser-only React application that helps you detect suspicious GitHub accounts in your followers/following graph, review detection reasons, and block or unblock accounts in a controlled queue.
-- [**pdf-email-extractor**](https://github.com/sametcn99/pdf-email-extractor) — HTML · Updated Aug 11, 2026<br />No description provided.
-- [**n8n-automations**](https://github.com/sametcn99/n8n-automations) — JavaScript · Updated Aug 7, 2026<br />Workflow sources are generated with TypeScript and Bun. The n8n-workflow package provides the n8n workflow types; no Node.js runtime is required.
-- [**wibesoft-backend-case**](https://github.com/sametcn99/wibesoft-backend-case) — TypeScript · Updated Apr 10, 2026<br />WibeSoft Backend Case study
-- [**IsTakipSistemi**](https://github.com/sametcn99/IsTakipSistemi) — C# · Updated Jul 14, 2026<br />No description provided.
-- [**TakvimDemo**](https://github.com/sametcn99/TakvimDemo) — HTML · Updated Jul 17, 2026<br />No description provided.
-- [**maalesef-tr**](https://github.com/sametcn99/maalesef-tr) — TypeScript · Updated Jul 18, 2026<br />maalesef, iş başvurusu süreçlerini daha şeffaf, topluluk odaklı ve anlamlı hale getirmeyi amaçlayan kurgusal bir platformdur.
-- [**local-folder-file-explorer**](https://github.com/sametcn99/local-folder-file-explorer) — HTML · Updated Jul 11, 2026<br />A single-file, browser-based file explorer for viewing local folders. No install, no server — just open index.html in your browser.
-- [**OpenLayersPostgisDotnetReactDemo**](https://github.com/sametcn99/OpenLayersPostgisDotnetReactDemo) — C# · Updated Apr 27, 2026<br />No description provided.
-- [**OpenLayersDotnetTest**](https://github.com/sametcn99/OpenLayersDotnetTest) — C# · Updated Apr 26, 2026<br />No description provided.
-- [**interview**](https://github.com/sametcn99/interview) — C# · Updated May 25, 2026<br />No description provided.
-- [**instaloader-api**](https://github.com/sametcn99/instaloader-api) — Python · Updated Jun 19, 2026<br />A FastAPI-based wrapper around Instaloader that downloads Instagram profile content
-- [**catchapage**](https://github.com/sametcn99/catchapage) — TypeScript · Updated Jun 18, 2026<br />an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple device profiles, and saves both the rendered HTML and a full-page screenshot for every variation.
-- [**orhan-elektronik**](https://github.com/sametcn99/orhan-elektronik) — TypeScript · Updated Jun 14, 2026<br />No description provided.
-- [**application-tracker**](https://github.com/sametcn99/application-tracker) — TypeScript · Updated May 15, 2026<br />self-hosted job search operating system
-- [**htwind-lain-aesthetic-widget-pack**](https://github.com/sametcn99/htwind-lain-aesthetic-widget-pack) — HTML · Updated Feb 28, 2026<br />A handcrafted widget pack designed for HTWind, the HTML-based desktop widget manager for Windows.
-- [**open-on-gpv-crx**](https://github.com/sametcn99/open-on-gpv-crx) — JavaScript · Updated Aug 4, 2024<br />This Chrome extension allows you to easily open a GitHub Profile on Github Profile Viewer Website.
-- [**rock-paper-scissors**](https://github.com/sametcn99/rock-paper-scissors) — TypeScript · Updated Jun 21, 2024<br />No description provided.
-- [**GPVBlazor**](https://github.com/sametcn99/GPVBlazor) — HTML · Updated Mar 17, 2026<br />This platform provides a comprehensive and user-friendly interface for exploring GitHub profiles and gaining valuable insights into developers&#x27; open-source contributions.
-- [**color-img-downloader**](https://github.com/sametcn99/color-img-downloader) — TypeScript · Updated Mar 12, 2026<br />Color Studio is a professional-grade color picker and image generation tool built with modern web technologies. Create, manipulate, and export beautiful colors in multiple formats with an intuitive and powerful interface.
-- [**write-lyric-to-audio**](https://github.com/sametcn99/write-lyric-to-audio) — JavaScript · Updated Sep 13, 2025<br />This project is designed to fetch and display metadata for audio files, specifically focusing on .flac and .mp3 formats. It also integrates with the Genius API to retrieve lyrics for the songs based on the metadata obtained. The project utilizes Deno for runtime and leverages various npm packages for metadata parsing and lyrics fetching.
-- [**MicroServiceLearn**](https://github.com/sametcn99/MicroServiceLearn) — C# · Updated Mar 26, 2026<br />learning repo
-- [**golter**](https://github.com/sametcn99/golter) — Go · Updated Apr 11, 2026<br />TUI file converter built with Go
-- [**open-github-dev**](https://github.com/sametcn99/open-github-dev) — JavaScript · Updated Dec 20, 2023<br />This Chrome extension allows you to easily open a GitHub repository on github.dev.
-- [**ResumeBuilderMAUI**](https://github.com/sametcn99/ResumeBuilderMAUI) — C# · Updated Jun 11, 2024<br />I’m currently learning .NET MAUI and MVVM architecture as I rebuild my ResumeBuilder app. This project is a work in progress, and I’m gaining knowledge as I proceed.
-- [**node-genius-lyrics-gui**](https://github.com/sametcn99/node-genius-lyrics-gui) — TypeScript · Updated Sep 27, 2024<br />This project is an Electron application designed to interact with the Genius Lyrics API, providing a graphical user interface for fetching and writing song lyrics to audio file metadata tags.
-- [**SolidColorBackground**](https://github.com/sametcn99/SolidColorBackground) — C# · Updated Jan 24, 2025<br />This application allows users to select a color using a color picker, which updates the background color of the window.
-- [**coordinat-auto-login**](https://github.com/sametcn99/coordinat-auto-login) — TypeScript · Updated May 4, 2025<br />No description provided.
-- [**sql-query-safety-checker**](https://github.com/sametcn99/sql-query-safety-checker) — TypeScript · Updated Jun 19, 2025<br />A comprehensive TypeScript library for analyzing SQL queries and detecting potential security threats, including SQL injection patterns, dangerous operations, and data modification commands. Perfect for applications that need to validate user-provided SQL queries before execution.
-- [**svg-split**](https://github.com/sametcn99/svg-split) — JavaScript · Updated Jul 22, 2025<br />No description provided.
-- [**fullstack-template**](https://github.com/sametcn99/fullstack-template) — TypeScript · Updated Sep 7, 2025<br />A modern, production-ready fullstack template for rapid application development. This template provides a solid foundation for building scalable web applications with a React frontend and NestJS backend, all powered by modern tooling and best practices.
-- [**xls-to-gantt**](https://github.com/sametcn99/xls-to-gantt) — TypeScript · Updated Dec 17, 2025<br />A powerful and user-friendly tool for converting Excel files directly into interactive Gantt charts. Perfect for project managers, team leaders, and anyone who wants to visualize project timelines without the hassle of manual chart creation.
-- [**vitepress-mermaid-renderer-web**](https://github.com/sametcn99/vitepress-mermaid-renderer-web) — TypeScript · Updated Jan 11, 2026<br />moved to source repo
-- [**personal-website**](https://github.com/sametcn99/personal-website) — MDX · Updated Feb 19, 2026<br />No description provided.
-- [**golter-web**](https://github.com/sametcn99/golter-web) — TypeScript · Updated Feb 21, 2026<br />golter landing page
-- [**product-planning-copilot**](https://github.com/sametcn99/product-planning-copilot) — HTML · Updated Mar 13, 2026<br />This repository is designed to be forked so teams can set up their own documentation-first planning system quickly.
-- [**dreamtui**](https://github.com/sametcn99/dreamtui) — TypeScript · Updated Mar 17, 2026<br />A terminal-based generative dream engine.
-- [**sametcn99.github.io**](https://github.com/sametcn99/sametcn99.github.io) — HTML · Updated Apr 5, 2026<br />redirect to personal website
-- [**ArcDrop**](https://github.com/sametcn99/ArcDrop) — C# · Updated Mar 12, 2026<br />No description provided.
-
-</details>
+| [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Aug 15, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
+| [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
+| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |   ★ 8 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
+| [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |   ★ 8 | Mar 31, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 
 ## Latest Writing
 
@@ -522,9 +452,9 @@ Open issues and pull requests that I am currently tracking or planning to work o
 | Pull Request                                                                                                                       | Repository                                                                                      | Status  |       Updated        |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :-----: | :------------------: |
 | [**fix: preserve Source Control diff view for env files**](https://github.com/sametcn99/env-protector/pull/9)                      | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)                           | waiting | Updated Jul 19, 2026 |
-| [**Install Vercel Web Analytics**](https://github.com/sametcn99/gh-block-spam-accounts/pull/1)                                     | [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)         | waiting | Updated Jun 16, 2026 |
-| [**[WIP] Theme Compatibility Issue in Deployed Mermaid Components**](https://github.com/sametcn99/personal-website/pull/6)         | [sametcn99/personal-website](https://github.com/sametcn99/personal-website)                     | waiting | Updated Dec 23, 2025 |
-| [**Create LICENSE**](https://github.com/sametcn99/ResumeBuilder/pull/1)                                                            | [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)                           | waiting | Updated Jan 12, 2023 |
+| [**Install Vercel Web Analytics**](https://github.com/sametcn99/gh-block-spam-accounts/pull/1)                                     | [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)         | closed  | Updated Jun 16, 2026 |
+| [**[WIP] Theme Compatibility Issue in Deployed Mermaid Components**](https://github.com/sametcn99/personal-website/pull/6)         | [sametcn99/personal-website](https://github.com/sametcn99/personal-website)                     | closed  | Updated Dec 23, 2025 |
+| [**Create LICENSE**](https://github.com/sametcn99/ResumeBuilder/pull/1)                                                            | [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)                           | closed  | Updated Jan 12, 2023 |
 | [**data: add PracHub free coding-interview study-plan generator**](https://github.com/sametcn99/computer-science-resources/pull/1) | [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) | merged  | Updated Sep 1, 2026  |
 
 <details>

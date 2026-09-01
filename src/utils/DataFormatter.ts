@@ -58,7 +58,7 @@ export interface FormattedPullRequest {
 	repositoryName: string;
 	repositoryUrl: string;
 	dateStr: string;
-	status: "merged" | "waiting";
+	status: "merged" | "closed" | "waiting";
 }
 
 // biome-ignore lint/complexity/noStaticOnlyClass: utility class
@@ -300,7 +300,11 @@ export class DataFormatter {
 			repositoryName,
 			repositoryUrl,
 			dateStr: updated ? `Updated ${updated}` : "",
-			status: pullRequest.merged_at ? "merged" : "waiting",
+			status: pullRequest.merged_at
+				? "merged"
+				: pullRequest.state === "open"
+					? "waiting"
+					: "closed",
 		};
 	}
 
@@ -402,7 +406,11 @@ export class DataFormatter {
 	 * Organizes repositories into recently updated and categorized groups
 	 * (active, forked, archived) with pagination info for the template.
 	 */
-	static prepareRepoData(repos: Repository[]): {
+	static prepareRepoData(
+		repos: Repository[],
+		highlightNames: readonly string[] = [],
+	): {
+		highlights: FormattedRepo[];
 		recentlyUpdated: FormattedRepo[];
 		active: {
 			visible: FormattedRepo[];
@@ -422,6 +430,13 @@ export class DataFormatter {
 	} {
 		// Exclude the personal repo `sametcn99` from lists
 		const filteredRepos = repos.filter((r) => r.name !== "sametcn99");
+		const repoByName = new Map(
+			filteredRepos.map((repo) => [repo.name.toLowerCase(), repo]),
+		);
+		const highlights = highlightNames
+			.map((name) => repoByName.get(name.toLowerCase()))
+			.filter((repo): repo is Repository => Boolean(repo))
+			.map((repo) => DataFormatter.formatRepo(repo));
 
 		const recentlyUpdatedRaw = filteredRepos
 			.filter((r) => !r.fork)
@@ -460,6 +475,7 @@ export class DataFormatter {
 		};
 
 		return {
+			highlights,
 			recentlyUpdated: recentlyUpdatedRaw.map((r) =>
 				DataFormatter.formatRepo(r),
 			),
