@@ -100,7 +100,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
 | **Total Stars Earned**    | 192                                      |
-| **Commits (7d)**          | 170+                                     |
+| **Commits (7d)**          | 110+                                     |
 | **Total Repositories**    | 79                                       |
 | **Active Repositories**   | 69                                       |
 | **Forked Repositories**   | 10                                       |
@@ -342,15 +342,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
 - **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
-- **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 54 more starred repositories...</summary>
 
+- **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 - **Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)** _(Aug 25, 2026)_
 - **Starred [nocobase/nocobase](https://github.com/nocobase/nocobase)** _(Aug 24, 2026)_
 - **Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)** _(Aug 24, 2026)_
@@ -409,15 +410,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 24, 2026)_
 - **Public in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 23, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
-- **Created branch &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts)** _(Aug 18, 2026)_
 
 <details>
-  <summary>Show 15 more other activity...</summary>
+  <summary>Show 16 more other activity...</summary>
 
+- **Created branch &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts)** _(Aug 18, 2026)_
 - **Deleted branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
 - **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
 - **Deleted tag &#x60;v1.1.13&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 11, 2026)_
