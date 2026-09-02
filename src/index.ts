@@ -1,7 +1,6 @@
 import Handlebars from "handlebars";
 import { FeedService } from "./services/feed-service/FeedService";
 import { GitHubDataProvider } from "./services/github-service/GitHubDataProvider";
-import { TelegramService } from "./services/telegram-service/TelegramService";
 import { DataFormatter } from "./utils/DataFormatter";
 
 // Register Handlebars helpers
@@ -38,7 +37,7 @@ const HIGHLIGHT_REPOSITORY_NAMES = [
 	"golter",
 	"catchapage",
 	"libredirect-mobile",
-	"computer-science-resources"
+	"computer-science-resources",
 ] as const;
 
 /** Configuration overrides used when instantiating the application. */
@@ -120,35 +119,6 @@ class Application {
 		if (!userProfile) {
 			throw new Error("Failed to fetch user profile");
 		}
-
-		const previousIssueUrls: Set<string> = new Set();
-
-		try {
-			const readmeFile = Bun.file(this.config.outputPath);
-			if (await readmeFile.exists()) {
-				const readmeContent = await readmeFile.text();
-
-				const issueRegex =
-					/- \[\*\*(.+?)\*\*\]\((https:\/\/github\.com\/[^/]+\/[^/]+\/issues\/\d+)\)/g;
-				let match: RegExpExecArray | null;
-				// biome-ignore lint/suspicious/noAssignInExpressions: standard regex loop
-				while ((match = issueRegex.exec(readmeContent)) !== null) {
-					previousIssueUrls.add(match[2] ?? "");
-				}
-			}
-		} catch (e) {
-			console.error("Failed to read previous state from README", e);
-		}
-
-		const newIssues = openIssues.filter(
-			(issue) => !previousIssueUrls.has(issue.html_url),
-		);
-
-		const telegramService = new TelegramService(
-			process.env.TELEGRAM_BOT_TOKEN,
-			process.env.TELEGRAM_CHAT_ID,
-		);
-		await telegramService.sendChangeMessage(newIssues);
 
 		const templateSource = await Bun.file("src/README.md.hbs").text();
 		const template = Handlebars.compile(templateSource);
