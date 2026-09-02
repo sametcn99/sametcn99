@@ -697,7 +697,12 @@ export class DataFormatter {
 			const action = (event.payload as { action?: string }).action;
 			const pr = (
 				event.payload as {
-					pull_request?: { number?: number; html_url?: string; url?: string };
+					pull_request?: {
+						number?: number;
+						title?: string;
+						html_url?: string;
+						url?: string;
+					};
 				}
 			).pull_request;
 			const prUrl =
@@ -707,9 +712,27 @@ export class DataFormatter {
 							.replace("api.github.com/repos", "github.com")
 							.replace("/pulls/", "/pull/")
 					: `${repoUrl}/pull/${pr?.number}`);
-			return `${action?.charAt(0).toUpperCase()}${action?.slice(1)} pull request [#${pr?.number}](${prUrl}) in [${repoName}](${repoUrl})`;
+			const pullRequestLink = DataFormatter.formatPullRequestLink(pr, prUrl);
+			return `${action?.charAt(0).toUpperCase()}${action?.slice(1)} pull request ${pullRequestLink} in [${repoName}](${repoUrl})`;
 		}
 		return "";
+	}
+
+	/** Builds a compact pull request link that includes its title when available. */
+	private static formatPullRequestLink(
+		pullRequest: { number?: number; title?: string } | null | undefined,
+		pullRequestUrl: string,
+	): string {
+		const number =
+			pullRequest?.number !== undefined
+				? `#${pullRequest.number}`
+				: "pull request";
+		const title = pullRequest?.title?.trim();
+		const label = title
+			? `${number}: ${DataFormatter.formatCommitMessage(title)}`
+			: number;
+
+		return `[${label}](${pullRequestUrl})`;
 	}
 
 	/** Documents a review written on a pull request. */
@@ -721,7 +744,12 @@ export class DataFormatter {
 		if (event.payload && "pull_request" in event.payload) {
 			const pr = (
 				event.payload as {
-					pull_request?: { number?: number; html_url?: string; url?: string };
+					pull_request?: {
+						number?: number;
+						title?: string;
+						html_url?: string;
+						url?: string;
+					};
 				}
 			).pull_request;
 			const prUrl =
@@ -731,7 +759,8 @@ export class DataFormatter {
 							.replace("api.github.com/repos", "github.com")
 							.replace("/pulls/", "/pull/")
 					: `${repoUrl}/pull/${pr?.number}`);
-			return `Reviewed pull request [#${pr?.number}](${prUrl}) in [${repoName}](${repoUrl})`;
+			const pullRequestLink = DataFormatter.formatPullRequestLink(pr, prUrl);
+			return `Reviewed pull request ${pullRequestLink} in [${repoName}](${repoUrl})`;
 		}
 		return "";
 	}
@@ -745,7 +774,12 @@ export class DataFormatter {
 		if (event.payload && "pull_request" in event.payload) {
 			const pr = (
 				event.payload as {
-					pull_request?: { number?: number; html_url?: string; url?: string };
+					pull_request?: {
+						number?: number;
+						title?: string;
+						html_url?: string;
+						url?: string;
+					};
 				}
 			).pull_request;
 			const prUrl =
@@ -755,7 +789,8 @@ export class DataFormatter {
 							.replace("api.github.com/repos", "github.com")
 							.replace("/pulls/", "/pull/")
 					: `${repoUrl}/pull/${pr?.number}`);
-			return `Commented on pull request [#${pr?.number}](${prUrl}) in [${repoName}](${repoUrl})`;
+			const pullRequestLink = DataFormatter.formatPullRequestLink(pr, prUrl);
+			return `Commented on pull request ${pullRequestLink} in [${repoName}](${repoUrl})`;
 		}
 		return "";
 	}

@@ -19,9 +19,6 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 {{#if releases.length}}
 - [Releases](#releases)
 {{/if}}
-{{#if repos.recentlyUpdated.length}}
-- [Recently Updated](#recently-updated)
-{{/if}}
 {{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.stars.length activity.others.length)}}
 - [Recent GitHub Activity](#recent-github-activity)
 {{/if}}
@@ -112,18 +109,6 @@ Recent releases across my repositories:
 {{/each}}
 </details>
 {{/if}}
-{{/if}}
-
-{{#if repos.recentlyUpdated.length}}
-## Recently Updated
-
-The latest changes across my non-fork repositories:
-
-| Repository | Description | Updated | Links |
-| :-- | :-- | :--: | :-- |
-{{#each repos.recentlyUpdated}}
-| [**{{tableCell name 40}}**]({{html_url}}) | {{tableCell description 100}} | {{#if updatedAt}}{{updatedAt}}{{else}}—{{/if}} | [Repo]({{html_url}}){{#if homepage}} · [Demo]({{homepage}}){{/if}} |
-{{/each}}
 {{/if}}
 
 {{#if (any activity.pushes.length activity.pullRequests.length activity.comments.length activity.stars.length activity.others.length)}}
