@@ -150,15 +150,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [docs: refresh follow-up notes](https://github.com/sametcn99/case-fx-tool/commit/349be78be9f153a3f39a3c3e7eb7ed7a29a7a6e6)** _(Sep 1, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [Merge pull request #1 from AndyNian/add-prachub-study-plan-generator](https://github.com/sametcn99/computer-science-resources/commit/7ce05942403aa217992a2820991a3b5bc3b83485)** _(Sep 1, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [Merge branch &#x27;main&#x27; of https://github.com/sametcn99/sametcn99](https://github.com/sametcn99/sametcn99/commit/abcda73f2abedaad57ab210cbd37bdd2afdd5006)** _(Sep 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/510fdb10aad2a5c4358821f54e8cd88a4ecd997e)** _(Sep 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [feat: implement conversion endpoint with honest rate dates](https://github.com/sametcn99/case-fx-tool/commit/8401b8edbff9e4961b7f2e2550327be6157715c3)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [docs: expand cross-platform run and test instructions](https://github.com/sametcn99/case-fx-tool/commit/bb82d4b21db605c8e6217d346cab1757b67d2391)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [fix: harden upstream validation and timeout mapping](https://github.com/sametcn99/case-fx-tool/commit/47aa6cff8fe461f5ffd4a1d110599944383b0768)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [chore: pin Node.js version for Vercel](https://github.com/sametcn99/computer-science-resources/commit/75665d726d2c1005b30d15dc6e30887a2dc41ae2)** _(Sep 1, 2026)_
 
 <details>
   <summary>Show 150 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [47aa6cf...bb82d4b](https://github.com/sametcn99/case-fx-tool/compare/47aa6cff8fe461f5ffd4a1d110599944383b0768...bb82d4b21db605c8e6217d346cab1757b67d2391)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [449c0c0...47aa6cf](https://github.com/sametcn99/case-fx-tool/compare/449c0c04f9c4118ae169eb295a0003eef93381c5...47aa6cff8fe461f5ffd4a1d110599944383b0768)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [93887fe...75665d7](https://github.com/sametcn99/computer-science-resources/compare/93887feb4ed25d965c4b23f50d9eb00faa17fa56...75665d726d2c1005b30d15dc6e30887a2dc41ae2)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [7ce0594...63ad70e](https://github.com/sametcn99/computer-science-resources/compare/7ce05942403aa217992a2820991a3b5bc3b83485...63ad70e3e3b6923124061343592d63c4c3e5b09e)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [2d94cbf...637a6cb](https://github.com/sametcn99/computer-science-resources/compare/2d94cbf4e71cd6e940d09efb3d646aa6b164f75c...637a6cb5366098a7fd2b76423578032eedb842d7)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [3a3f30d...7c2112f](https://github.com/sametcn99/sametcn99/compare/3a3f30db313eae4a5387631afa3c57088e4422d7...7c2112f5dbf2a14f2cd74be1ea68b01080408471)** _(Sep 1, 2026)_
@@ -306,9 +309,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [2c466bc...e05ab22](https://github.com/sametcn99/gotify-web-extension/compare/2c466bc7e8182b09b4736ff52f1c89cbc72d7661...e05ab22eae64133e135ac06155a80afc3515bc64)** _(Aug 9, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [56faa3c...2c466bc](https://github.com/sametcn99/gotify-web-extension/compare/56faa3c2ef2ffcfe6e8ff4ecf9da6aabf4a8fec5...2c466bc7e8182b09b4736ff52f1c89cbc72d7661)** _(Aug 9, 2026)_
 - **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [a17d847...f0c163b](https://github.com/sametcn99/server/compare/a17d84744108e524b0dc0af764353262fb1c2eb3...f0c163bfbac26aa9d5406ec7014c959960484f9d)** _(Aug 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [dc0e0c4...6353aa2](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/dc0e0c4e78494a77981f68e112553760ecd852d8...6353aa26586e7a8380c9b4880718c5f057c015c8)** _(Aug 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [a94f5d4...dc0e0c4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/a94f5d4e8194c398c1743e8d7dcdbe07743d649e...dc0e0c4e78494a77981f68e112553760ecd852d8)** _(Aug 8, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [c8d77e4...a94f5d4](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/c8d77e4b672f804ef4e36161e95f28942ae7f22a...a94f5d4e8194c398c1743e8d7dcdbe07743d649e)** _(Aug 8, 2026)_
 
 </details>
 
@@ -402,15 +402,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
 - **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 24, 2026)_
 - **Public in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 23, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
-- **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 
 <details>
   <summary>Show 16 more other activity...</summary>
 
+- **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts)** _(Aug 18, 2026)_
 - **Deleted branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
 - **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
@@ -418,7 +419,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Public in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor)** _(Aug 10, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 9, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 9, 2026)_
-- **Created branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 8, 2026)_
 - **Closed issue [#17](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
