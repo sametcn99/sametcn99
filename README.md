@@ -147,15 +147,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [Merge branch &#x27;main&#x27; of https://github.com/sametcn99/computer-science-...](https://github.com/sametcn99/computer-science-resources/commit/63ad70e3e3b6923124061343592d63c4c3e5b09e)** _(Sep 1, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [Merge pull request #2 from MuslumYilmaz/patch-1](https://github.com/sametcn99/computer-science-resources/commit/637a6cb5366098a7fd2b76423578032eedb842d7)** _(Sep 1, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/7c2112f5dbf2a14f2cd74be1ea68b01080408471)** _(Sep 1, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/ad6f13e32a7883e1f1ce1b00746121b575a5623a)** _(Sep 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [fix: prevent stale rates from poisoning cache](https://github.com/sametcn99/case-fx-tool/commit/7e4e23c857cdf1038bcf80acd57ba5ac632f7d07)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [chore: use Node 24 on Vercel](https://github.com/sametcn99/computer-science-resources/commit/04ee637f7e7d663fe4dfa43ad5a97f480b7fd991)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [fix: bound the upstream rate exponent and time the wait for a slot](https://github.com/sametcn99/case-fx-tool/commit/68999d84a8d19ecb863378bf79d44c218039671c)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [feat: add date-aware Frankfurter client and cache](https://github.com/sametcn99/case-fx-tool/commit/bfa61e67e7bab47a0a521831ffd1ab90c9f28114)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [test: add offline upstream fixtures and edge-case coverage](https://github.com/sametcn99/case-fx-tool/commit/05d086d0688a0001b18bc7c10dd9131567697b6e)** _(Sep 1, 2026)_
 
 <details>
-  <summary>Show 147 more pushes...</summary>
+  <summary>Show 149 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [75665d7...04ee637](https://github.com/sametcn99/computer-science-resources/compare/75665d726d2c1005b30d15dc6e30887a2dc41ae2...04ee637f7e7d663fe4dfa43ad5a97f480b7fd991)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [e5780d9...68999d8](https://github.com/sametcn99/case-fx-tool/compare/e5780d91c57108b9db984fb5179e0bedf00efae7...68999d84a8d19ecb863378bf79d44c218039671c)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [9affb72...bfa61e6](https://github.com/sametcn99/case-fx-tool/compare/9affb7289c2f2e2991da231ccbdee7b63c19f330...bfa61e67e7bab47a0a521831ffd1ab90c9f28114)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [8401b8e...05d086d](https://github.com/sametcn99/case-fx-tool/compare/8401b8edbff9e4961b7f2e2550327be6157715c3...05d086d0688a0001b18bc7c10dd9131567697b6e)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [287024e...9affb72](https://github.com/sametcn99/case-fx-tool/compare/287024e80d412b82e4187a8828fa868d40794b18...9affb7289c2f2e2991da231ccbdee7b63c19f330)** _(Sep 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f77bc6c...f38895b](https://github.com/sametcn99/hiretea/compare/f77bc6c0edd081df7fd533db93ece4c940af9556...f38895bc3634ea6df92031b5ef51cc5e9d713290)** _(Sep 1, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a79367b...bb9a781](https://github.com/sametcn99/hiretea/compare/a79367bdb2b7ae91bd0d6d9382bab07886ba73b6...bb9a781c14297e6d5a134a9aeb46065ce98b9d20)** _(Aug 31, 2026)_
@@ -301,8 +305,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [8eadaac...9dc7396](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c...9dc7396a0db61362fafd00412f314d7cb159d797)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [e97624b...8eadaac](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/e97624bcf588daa9dd8ebdd83e301e46513d1e99...8eadaac47f5290cd7c6cf0c96102fccabcf9ef0c)** _(Aug 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [218a76d...e97624b](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/218a76d448019dbf22f2e97978f2620099e70346...e97624bcf588daa9dd8ebdd83e301e46513d1e99)** _(Aug 7, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [409b902...accb7c4](https://github.com/sametcn99/personal-website-blazor/compare/409b9024fc38df764c4f7178bd292152692e3237...accb7c40fef4277c4d076cc5becd30cf6c09d755)** _(Aug 7, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/n8n-automations](https://github.com/sametcn99/n8n-automations): [f3d9036...be7ee6f](https://github.com/sametcn99/n8n-automations/compare/f3d90362a829e9411b67af640450341d5ac93578...be7ee6f168041dab2cb79db8d638921b4af71e80)** _(Aug 7, 2026)_
 
 </details>
 
