@@ -35,7 +35,10 @@ const HIGHLIGHT_REPOSITORY_NAMES = [
 	"htwind",
 	"mermaid-viewer",
 	"instaloader-api",
-	"golter"
+	"golter",
+	"catchapage",
+	"libredirect-mobile",
+	"computer-science-resources"
 ] as const;
 
 /** Configuration overrides used when instantiating the application. */

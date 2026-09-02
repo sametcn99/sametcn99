@@ -35,8 +35,8 @@ export class PullRequestFetcher implements IDataFetcher<RepoPullRequest[]> {
 		}
 
 		return pullRequests.sort((a, b) => {
-			const waitingA = !a.merged_at;
-			const waitingB = !b.merged_at;
+			const waitingA = a.state === "open";
+			const waitingB = b.state === "open";
 			if (waitingA !== waitingB) {
 				return waitingA ? -1 : 1;
 			}
