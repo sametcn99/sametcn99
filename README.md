@@ -150,15 +150,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [feat-readme-activity-details](https://github.com/sametcn99/sametcn99/commit/0d4bf0fefae18d0de1734d99c97c6f7fd99f42a9)** _(Sep 2, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [fix: bound amount precision, upstream reads, and per-client request rate](https://github.com/sametcn99/case-fx-tool/commit/e5780d91c57108b9db984fb5179e0bedf00efae7)** _(Sep 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [docs: README with error codes and date semantics, NOTES with decisions](https://github.com/sametcn99/case-fx-tool/commit/449c0c04f9c4118ae169eb295a0003eef93381c5)** _(Sep 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [feat: list repository pull requests in README](https://github.com/sametcn99/sametcn99/commit/a2e4186794c24b872ad191df3a91d9f8b9d53de7)** _(Sep 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [feat: input validation and a single error response shape](https://github.com/sametcn99/case-fx-tool/commit/287024e80d412b82e4187a8828fa868d40794b18)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [chore: project skeleton, env-driven config, run/test scripts](https://github.com/sametcn99/case-fx-tool/commit/722b783af739de64cc0769577e6e2eef3e63091a)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [docs: refresh follow-up notes](https://github.com/sametcn99/case-fx-tool/commit/349be78be9f153a3f39a3c3e7eb7ed7a29a7a6e6)** _(Sep 1, 2026)_
 
 <details>
-  <summary>Show 151 more pushes...</summary>
+  <summary>Show 152 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [1f427b9...722b783](https://github.com/sametcn99/case-fx-tool/compare/1f427b9c7956958bc03c8e02b1d1ceddee93a916...722b783af739de64cc0769577e6e2eef3e63091a)** _(Sep 1, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [68999d8...349be78](https://github.com/sametcn99/case-fx-tool/compare/68999d84a8d19ecb863378bf79d44c218039671c...349be78be9f153a3f39a3c3e7eb7ed7a29a7a6e6)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [637a6cb...7ce0594](https://github.com/sametcn99/computer-science-resources/compare/637a6cb5366098a7fd2b76423578032eedb842d7...7ce05942403aa217992a2820991a3b5bc3b83485)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f63511c...abcda73](https://github.com/sametcn99/sametcn99/compare/f63511ceece5a801474126e5295fd8e38e6c4041...abcda73f2abedaad57ab210cbd37bdd2afdd5006)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f04f474...510fdb1](https://github.com/sametcn99/sametcn99/compare/f04f474f16b9b5193c00c6c6bc315774ab874c0d...510fdb10aad2a5c4358821f54e8cd88a4ecd997e)** _(Sep 1, 2026)_
@@ -309,7 +311,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [e0a0b85...bf8185e](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/e0a0b851b4b952f28b74dfbd407e9d855abb8c7b...bf8185eb6d72615fe469fc07c10a10fd43eae26c)** _(Aug 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor): [1458815...309ca1e](https://github.com/sametcn99/pdf-email-extractor/compare/1458815568285d3af2bffcaa30373e16855e8a5b...309ca1ebf91b22fde48d7a179020a66eefa4875a)** _(Aug 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ec40e9f...8e77d71](https://github.com/sametcn99/personal-website-blazor/compare/ec40e9fe4f8df3a8cadbfdfb81b4784bc1320485...8e77d719d59ff8f2a7046037975ac64ced885a3f)** _(Aug 11, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [392dd9e...ec40e9f](https://github.com/sametcn99/personal-website-blazor/compare/392dd9e7b050150a0098c6387d8fc1a67520c7fb...ec40e9fe4f8df3a8cadbfdfb81b4784bc1320485)** _(Aug 11, 2026)_
 
 </details>
 
@@ -345,7 +346,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 50 more starred repositories...</summary>
 
 - **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 - **Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)** _(Aug 25, 2026)_
@@ -397,7 +398,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
 - **Starred [gotify/server](https://github.com/gotify/server)** _(Aug 7, 2026)_
 - **Starred [avenoxai/avenoxskills](https://github.com/avenoxai/avenoxskills)** _(Aug 4, 2026)_
-- **Starred [solarch-dev/solarch](https://github.com/solarch-dev/solarch)** _(Aug 3, 2026)_
 
 </details>
 
