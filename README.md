@@ -102,7 +102,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
 | **Total Stars Earned**    | 192                                      |
-| **Commits (7d)**          | 110+                                     |
+| **Commits (7d)**          | 120+                                     |
 | **Total Repositories**    | 79                                       |
 | **Active Repositories**   | 69                                       |
 | **Forked Repositories**   | 10                                       |
@@ -150,15 +150,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [.](https://github.com/sametcn99/orhan-elektronik/commit/17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [Merge branch &#x27;main&#x27; of https://github.com/sametcn99/sametcn99](https://github.com/sametcn99/sametcn99/commit/c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [.](https://github.com/sametcn99/computer-science-resources/commit/93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [fix: harden edge-case validation and upstream handling](https://github.com/sametcn99/case-fx-tool/commit/394873b167aeae55fe176741b7dc854b97ea0bd3)** _(Sep 1, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [feat-readme-activity-details](https://github.com/sametcn99/sametcn99/commit/0d4bf0fefae18d0de1734d99c97c6f7fd99f42a9)** _(Sep 2, 2026)_
 
 <details>
   <summary>Show 153 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [28a072b...0d4bf0f](https://github.com/sametcn99/sametcn99/compare/28a072b558f492f229daa7bec7c81482d1bb8d29...0d4bf0fefae18d0de1734d99c97c6f7fd99f42a9)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [394873b...e5780d9](https://github.com/sametcn99/case-fx-tool/compare/394873b167aeae55fe176741b7dc854b97ea0bd3...e5780d91c57108b9db984fb5179e0bedf00efae7)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [05d086d...449c0c0](https://github.com/sametcn99/case-fx-tool/compare/05d086d0688a0001b18bc7c10dd9131567697b6e...449c0c04f9c4118ae169eb295a0003eef93381c5)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [59d6ab4...a2e4186](https://github.com/sametcn99/sametcn99/compare/59d6ab471a288a4981c898e33526802e664950a1...a2e4186794c24b872ad191df3a91d9f8b9d53de7)** _(Sep 1, 2026)_
@@ -311,7 +312,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0226b01...d8db3fc](https://github.com/sametcn99/personal-website-blazor/compare/0226b014bdc33c0eb6462eb7c5753eee2491e659...d8db3fcb61532293919a5ba53764b77472567e13)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [717f676...0226b01](https://github.com/sametcn99/personal-website-blazor/compare/717f67690ddfa48f9819048bc81d2ab67d8fc5d4...0226b014bdc33c0eb6462eb7c5753eee2491e659)** _(Aug 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8e77d71...717f676](https://github.com/sametcn99/personal-website-blazor/compare/8e77d719d59ff8f2a7046037975ac64ced885a3f...717f67690ddfa48f9819048bc81d2ab67d8fc5d4)** _(Aug 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [bf8185e...28dbeb2](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/bf8185eb6d72615fe469fc07c10a10fd43eae26c...28dbeb285f8aefd46aa8c87a33005530d04a5aa9)** _(Aug 11, 2026)_
 
 </details>
 
@@ -323,15 +323,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Comments
 
+- **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 - **Commented on issue [Not able to clear notification pop-up number](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Commented on issue [[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 9, 2026)_
 - **Commented on issue [When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Commented on issue [The zoom in/out buttons are not resized from the center of the container](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Commented on issue [Add transitions when click zoom in/out buttons](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 
 <details>
-  <summary>Show 3 more comments...</summary>
+  <summary>Show 4 more comments...</summary>
 
+- **Commented on issue [Add transitions when click zoom in/out buttons](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Commented on issue [When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
 - **Commented on issue [Can the diagrams fit and center to the container?](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/13) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 6, 2026)_
@@ -495,7 +496,7 @@ Open issues and pull requests that I am currently tracking or planning to work o
 <details>
   <summary>Show 10 forked repositories...</summary>
 
-- [**server**](https://github.com/sametcn99/server) · Updated Aug 14, 2026<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [**server**](https://github.com/sametcn99/server) — Go · Updated Sep 4, 2026<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader) · Updated Jul 7, 2026<br />Query and download archive.org as simple as possible.
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) — JavaScript · Updated May 24, 2026<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 
