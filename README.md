@@ -150,15 +150,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge pull request #1033 from UiP9AV6Y/feature/oidc-claim-mapping](https://github.com/sametcn99/server/commit/14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/c9ee1f96f0d05e0a5e7bb36d0bf60b5efce43f5f)** _(Sep 3, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/4b8f50b1b75454a2474df07bbd5b54637909bdfb)** _(Sep 3, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/a30f3a4b9c533b7b980e7c94db3c9646a1be89c7)** _(Sep 3, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/b3f724f36590c2ec5cbcad3dd56a3bf5144b7592)** _(Sep 3, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [.](https://github.com/sametcn99/orhan-elektronik/commit/17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
 
 <details>
-  <summary>Show 156 more pushes...</summary>
+  <summary>Show 158 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [42007c1...6fd2991](https://github.com/sametcn99/sametcn99/compare/42007c1f1cc575d6b3a8b3458dcc34a6d0898845...6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [7aa9c04...c3de2f6](https://github.com/sametcn99/sametcn99/compare/7aa9c04c37e26a4c949e0042f358f469598a0e17...c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [63ad70e...93887fe](https://github.com/sametcn99/computer-science-resources/compare/63ad70e3e3b6923124061343592d63c4c3e5b09e...93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [bb82d4b...394873b](https://github.com/sametcn99/case-fx-tool/compare/bb82d4b21db605c8e6217d346cab1757b67d2391...394873b167aeae55fe176741b7dc854b97ea0bd3)** _(Sep 1, 2026)_
