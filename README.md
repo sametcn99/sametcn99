@@ -340,15 +340,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)** _(Sep 3, 2026)_
 - **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
-- **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
+- **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
 - **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 - **Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)** _(Aug 25, 2026)_
