@@ -348,7 +348,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
 
 <details>
-  <summary>Show 52 more starred repositories...</summary>
+  <summary>Show 51 more starred repositories...</summary>
 
 - **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
@@ -401,7 +401,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 7, 2026)_
 - **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
 - **Starred [gotify/server](https://github.com/gotify/server)** _(Aug 7, 2026)_
-- **Starred [avenoxai/avenoxskills](https://github.com/avenoxai/avenoxskills)** _(Aug 4, 2026)_
 
 </details>
 
