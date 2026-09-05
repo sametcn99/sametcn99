@@ -102,9 +102,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
 | **Total Stars Earned**    | 192                                      |
-| **Commits (7d)**          | 120+                                     |
-| **Total Repositories**    | 79                                       |
-| **Active Repositories**   | 69                                       |
+| **Commits (7d)**          | 30+                                      |
+| **Total Repositories**    | 78                                       |
+| **Active Repositories**   | 68                                       |
 | **Forked Repositories**   | 10                                       |
 | **Archived Repositories** | 0                                        |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99)  |
@@ -151,18 +151,14 @@ Recent public activity across pull requests, discussions, releases, and other op
 ### Pushes
 
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge pull request #1033 from UiP9AV6Y/feature/oidc-claim-mapping](https://github.com/sametcn99/server/commit/14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/c9ee1f96f0d05e0a5e7bb36d0bf60b5efce43f5f)** _(Sep 3, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/4b8f50b1b75454a2474df07bbd5b54637909bdfb)** _(Sep 3, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/a30f3a4b9c533b7b980e7c94db3c9646a1be89c7)** _(Sep 3, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [.](https://github.com/sametcn99/hiretea/commit/b3f724f36590c2ec5cbcad3dd56a3bf5144b7592)** _(Sep 3, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [.](https://github.com/sametcn99/orhan-elektronik/commit/17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [Merge branch &#x27;main&#x27; of https://github.com/sametcn99/sametcn99](https://github.com/sametcn99/sametcn99/commit/c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [.](https://github.com/sametcn99/computer-science-resources/commit/93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
 
 <details>
-  <summary>Show 158 more pushes...</summary>
+  <summary>Show 118 more pushes...</summary>
 
-- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [42007c1...6fd2991](https://github.com/sametcn99/sametcn99/compare/42007c1f1cc575d6b3a8b3458dcc34a6d0898845...6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [7aa9c04...c3de2f6](https://github.com/sametcn99/sametcn99/compare/7aa9c04c37e26a4c949e0042f358f469598a0e17...c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [63ad70e...93887fe](https://github.com/sametcn99/computer-science-resources/compare/63ad70e3e3b6923124061343592d63c4c3e5b09e...93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [bb82d4b...394873b](https://github.com/sametcn99/case-fx-tool/compare/bb82d4b21db605c8e6217d346cab1757b67d2391...394873b167aeae55fe176741b7dc854b97ea0bd3)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [28a072b...0d4bf0f](https://github.com/sametcn99/sametcn99/compare/28a072b558f492f229daa7bec7c81482d1bb8d29...0d4bf0fefae18d0de1734d99c97c6f7fd99f42a9)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [394873b...e5780d9](https://github.com/sametcn99/case-fx-tool/compare/394873b167aeae55fe176741b7dc854b97ea0bd3...e5780d91c57108b9db984fb5179e0bedf00efae7)** _(Sep 1, 2026)_
@@ -188,45 +184,9 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [9affb72...bfa61e6](https://github.com/sametcn99/case-fx-tool/compare/9affb7289c2f2e2991da231ccbdee7b63c19f330...bfa61e67e7bab47a0a521831ffd1ab90c9f28114)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [8401b8e...05d086d](https://github.com/sametcn99/case-fx-tool/compare/8401b8edbff9e4961b7f2e2550327be6157715c3...05d086d0688a0001b18bc7c10dd9131567697b6e)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [287024e...9affb72](https://github.com/sametcn99/case-fx-tool/compare/287024e80d412b82e4187a8828fa868d40794b18...9affb7289c2f2e2991da231ccbdee7b63c19f330)** _(Sep 1, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f77bc6c...f38895b](https://github.com/sametcn99/hiretea/compare/f77bc6c0edd081df7fd533db93ece4c940af9556...f38895bc3634ea6df92031b5ef51cc5e9d713290)** _(Sep 1, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a79367b...bb9a781](https://github.com/sametcn99/hiretea/compare/a79367bdb2b7ae91bd0d6d9382bab07886ba73b6...bb9a781c14297e6d5a134a9aeb46065ce98b9d20)** _(Aug 31, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb9a781...f77bc6c](https://github.com/sametcn99/hiretea/compare/bb9a781c14297e6d5a134a9aeb46065ce98b9d20...f77bc6c0edd081df7fd533db93ece4c940af9556)** _(Aug 31, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [266c4f1...3917e91](https://github.com/sametcn99/hiretea/compare/266c4f14f9a04a340c72baef85f19a259255fbc9...3917e913e6405d20d4924acf9f6ee669d6504f0e)** _(Aug 28, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [59048f1...378b1f2](https://github.com/sametcn99/hiretea/compare/59048f1584af158136a0135e0cae21fb8e36f60a...378b1f231bbf118e48ca033b8940f34a9efe39e3)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c3bce5...2f71670](https://github.com/sametcn99/personal-website-blazor/compare/8c3bce52b93105547fc4dce707186449617df61e...2f716703922857529e33546d99c1f5e5803d977a)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f71670...ac08769](https://github.com/sametcn99/personal-website-blazor/compare/2f716703922857529e33546d99c1f5e5803d977a...ac08769251aaf82f0ae21663e6c14aca8d978275)** _(Aug 28, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [299cb8d...66cdf64](https://github.com/sametcn99/hiretea/compare/299cb8d154e6300a9fdbbc4d7d430dbd00430dbb...66cdf64d5dc0322fddd7601e5f6f2cfb0f81f236)** _(Aug 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f21b890...79afa29](https://github.com/sametcn99/hiretea/compare/f21b8901595e086f980032246e9e0676fdf2bf6a...79afa2960276559293a40b469367e1387f2620fe)** _(Aug 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b5c3646...cec7212](https://github.com/sametcn99/hiretea/compare/b5c3646b9ea7b0e1ab566cabf7caf8d5d3ce8e41...cec72127ddab040df0b4a906f29f6bec57710ce5)** _(Aug 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [66cdf64...1a4ce41](https://github.com/sametcn99/hiretea/compare/66cdf64d5dc0322fddd7601e5f6f2cfb0f81f236...1a4ce4127c74b6aea24da57c6d9f7f941c39a845)** _(Aug 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [73be14d...299cb8d](https://github.com/sametcn99/hiretea/compare/73be14de5771b28ba6126d5d1ddcbff1846e434c...299cb8d154e6300a9fdbbc4d7d430dbd00430dbb)** _(Aug 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [e84a953...871fd87](https://github.com/sametcn99/hiretea/compare/e84a9539197eee8bab4c303215569324a54572f3...871fd8709ce6bde587bc09ca12ef2093fe195abc)** _(Aug 27, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [3917e91...b5c3646](https://github.com/sametcn99/hiretea/compare/3917e913e6405d20d4924acf9f6ee669d6504f0e...b5c3646b9ea7b0e1ab566cabf7caf8d5d3ce8e41)** _(Aug 29, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [1e3e253...266c4f1](https://github.com/sametcn99/hiretea/compare/1e3e253aeaa6d2f56c2deb764ffb418d42c9e3c9...266c4f14f9a04a340c72baef85f19a259255fbc9)** _(Aug 28, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [378b1f2...1e3e253](https://github.com/sametcn99/hiretea/compare/378b1f231bbf118e48ca033b8940f34a9efe39e3...1e3e253aeaa6d2f56c2deb764ffb418d42c9e3c9)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c3bce5...2f71670](https://github.com/sametcn99/personal-website-blazor/compare/8c3bce52b93105547fc4dce707186449617df61e...2f716703922857529e33546d99c1f5e5803d977a)** _(Aug 28, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b4dd434...2b7f75e](https://github.com/sametcn99/hiretea/compare/b4dd434ad7655bf7b1c8e51d62cc4c71604f4504...2b7f75eb51ef688be6bbc9fdadcb10b38133ff63)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [871fd87...59048f1](https://github.com/sametcn99/hiretea/compare/871fd8709ce6bde587bc09ca12ef2093fe195abc...59048f1584af158136a0135e0cae21fb8e36f60a)** _(Aug 27, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f56e3fd...bb4b8c1](https://github.com/sametcn99/hiretea/compare/f56e3fd15a40105e07819b83780141d772291f6c...bb4b8c1d6e9fb700f1a973d9a117a92f548c1581)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [ab2037f...74c42c8](https://github.com/sametcn99/hiretea/compare/ab2037fac27ed4d77811d22c47df350fd04b362d...74c42c8b3191d406ea0ba539e63ca6a2389ebbfc)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [73a0b67...ab2037f](https://github.com/sametcn99/hiretea/compare/73a0b67c4ddfb913472d96b4e346ae4155805075...ab2037fac27ed4d77811d22c47df350fd04b362d)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [2b7f75e...e84a953](https://github.com/sametcn99/hiretea/compare/2b7f75eb51ef688be6bbc9fdadcb10b38133ff63...e84a9539197eee8bab4c303215569324a54572f3)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a5413b6...b4dd434](https://github.com/sametcn99/hiretea/compare/a5413b6fd90727653ffb9df00c5e37a818e8a6be...b4dd434ad7655bf7b1c8e51d62cc4c71604f4504)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [bb4b8c1...a5413b6](https://github.com/sametcn99/hiretea/compare/bb4b8c1d6e9fb700f1a973d9a117a92f548c1581...a5413b6fd90727653ffb9df00c5e37a818e8a6be)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [8c5ddec...f56e3fd](https://github.com/sametcn99/hiretea/compare/8c5ddec31ad470283cb0bd941b055d0a4ed443c4...f56e3fd15a40105e07819b83780141d772291f6c)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [74c42c8...8c5ddec](https://github.com/sametcn99/hiretea/compare/74c42c8b3191d406ea0ba539e63ca6a2389ebbfc...8c5ddec31ad470283cb0bd941b055d0a4ed443c4)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [83bd704...18b0fce](https://github.com/sametcn99/hiretea/compare/83bd70423080dc8ae299df2ec640eae4fe67cfe5...18b0fce73b3392f7af3216008b41507dbdaba97c)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [82db80c...73a0b67](https://github.com/sametcn99/hiretea/compare/82db80ca967a25bac2c5901fc379d95374df39fe...73a0b67c4ddfb913472d96b4e346ae4155805075)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [5cf5fdb...794f07f](https://github.com/sametcn99/hiretea/compare/5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1...794f07f3dcf2bf4572f93949e4169d3fb636e642)** _(Aug 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [fe84e2b...b3fd0d8](https://github.com/sametcn99/hiretea/compare/fe84e2b9821954b6e1f5044437c5da4daa441318...b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532)** _(Aug 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [f916392...fe84e2b](https://github.com/sametcn99/hiretea/compare/f91639253c4bad9c878d2d4f69a1b16a6753f529...fe84e2b9821954b6e1f5044437c5da4daa441318)** _(Aug 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [18b0fce...82db80c](https://github.com/sametcn99/hiretea/compare/18b0fce73b3392f7af3216008b41507dbdaba97c...82db80ca967a25bac2c5901fc379d95374df39fe)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [86c5479...83bd704](https://github.com/sametcn99/hiretea/compare/86c5479e594ddfe6a46bbfde26601b5162b39abb...83bd70423080dc8ae299df2ec640eae4fe67cfe5)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [0314396...86c5479](https://github.com/sametcn99/hiretea/compare/031439691175334ccff966b4172f748896117f60...86c5479e594ddfe6a46bbfde26601b5162b39abb)** _(Aug 26, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [a229837...0314396](https://github.com/sametcn99/hiretea/compare/a229837d0f7e3c97a4a72c5b17def3f30160c4ae...031439691175334ccff966b4172f748896117f60)** _(Aug 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [794f07f...a229837](https://github.com/sametcn99/hiretea/compare/794f07f3dcf2bf4572f93949e4169d3fb636e642...a229837d0f7e3c97a4a72c5b17def3f30160c4ae)** _(Aug 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [b3fd0d8...5cf5fdb](https://github.com/sametcn99/hiretea/compare/b3fd0d8d2473070e54aad2be0fbc2f9a64fcb532...5cf5fdbae27b8a178a4bd92e70304f6d7cd177d1)** _(Aug 25, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/hiretea](https://github.com/sametcn99/hiretea): [79b9946...f916392](https://github.com/sametcn99/hiretea/compare/79b9946445b3e79bd2c49d681eb05b31ea81fdfd...f91639253c4bad9c878d2d4f69a1b16a6753f529)** _(Aug 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4cf0df2...8c3bce5](https://github.com/sametcn99/personal-website-blazor/compare/4cf0df2744248e4f6b7464b9a352fbd3765b6a68...8c3bce52b93105547fc4dce707186449617df61e)** _(Aug 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [b9f1dae...6bb8a7a](https://github.com/sametcn99/libredirect-instances-list/compare/b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff...6bb8a7ad076f380ff5b583c858c117ff3df33a1c)** _(Aug 24, 2026)_
@@ -413,15 +373,14 @@ Recent public activity across pull requests, discussions, releases, and other op
 ### Other Activity
 
 - **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
-- **Public in [sametcn99/hiretea](https://github.com/sametcn99/hiretea)** _(Apr 13, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 24, 2026)_
 - **Public in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 23, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
+- **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 
 <details>
-  <summary>Show 14 more other activity...</summary>
+  <summary>Show 13 more other activity...</summary>
 
-- **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts)** _(Aug 18, 2026)_
 - **Deleted branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
 - **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
