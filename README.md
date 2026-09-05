@@ -23,7 +23,7 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 
 | Repository                                                                                | Description                                                                                          |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Aug 8, 2026  | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
+| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Sep 5, 2026  | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Aug 15, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
@@ -32,7 +32,7 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |     — | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 1 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 
 ## Latest Writing
@@ -101,8 +101,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
-| **Total Stars Earned**    | 192                                      |
-| **Commits (7d)**          | 30+                                      |
+| **Total Stars Earned**    | 193                                      |
+| **Commits (7d)**          | 40+                                      |
 | **Total Repositories**    | 78                                       |
 | **Active Repositories**   | 68                                       |
 | **Forked Repositories**   | 10                                       |
@@ -115,17 +115,18 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 Recent releases across my repositories:
 
-| Release                                                                                                          | Repository                                                                          |  Published   | Status |
-| :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :----------: | :----: |
-| [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)               | Aug 24, 2026 | Stable |
-| [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)           | Aug 21, 2026 | Stable |
-| [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) | Aug 15, 2026 | Stable |
-| [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) | Aug 14, 2026 | Stable |
-| [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — v1.1.13             | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) | Aug 11, 2026 | Stable |
+| Release                                                                                                          | Repository                                                                            |  Published   | Status |
+| :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------: | :----: |
+| [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Sep 5, 2026  | Stable |
+| [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)                 | Aug 24, 2026 | Stable |
+| [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Aug 21, 2026 | Stable |
+| [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)   | Aug 15, 2026 | Stable |
+| [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)   | Aug 14, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — v1.1.13 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 11, 2026)_
 - [**v1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — Gotify Web Extension 1.1.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — Gotify Web Extension 1.0.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — v1.2.0 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
@@ -140,7 +141,6 @@ Recent releases across my repositories:
 - [**1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — GitHub Spam Blocker 1.1 in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
 - [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — v1.1.29 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
 - [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — v1.1.12 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
-- [**v1.1.11**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.11) — v1.1.11 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Jul 22, 2026)_
 
 </details>
 
@@ -150,15 +150,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.1](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge pull request #1033 from UiP9AV6Y/feature/oidc-claim-mapping](https://github.com/sametcn99/server/commit/14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [.](https://github.com/sametcn99/orhan-elektronik/commit/17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [Merge branch &#x27;main&#x27; of https://github.com/sametcn99/sametcn99](https://github.com/sametcn99/sametcn99/commit/c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [.](https://github.com/sametcn99/computer-science-resources/commit/93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
 
 <details>
-  <summary>Show 118 more pushes...</summary>
+  <summary>Show 119 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [63ad70e...93887fe](https://github.com/sametcn99/computer-science-resources/compare/63ad70e3e3b6923124061343592d63c4c3e5b09e...93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [bb82d4b...394873b](https://github.com/sametcn99/case-fx-tool/compare/bb82d4b21db605c8e6217d346cab1757b67d2391...394873b167aeae55fe176741b7dc854b97ea0bd3)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [28a072b...0d4bf0f](https://github.com/sametcn99/sametcn99/compare/28a072b558f492f229daa7bec7c81482d1bb8d29...0d4bf0fefae18d0de1734d99c97c6f7fd99f42a9)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [394873b...e5780d9](https://github.com/sametcn99/case-fx-tool/compare/394873b167aeae55fe176741b7dc854b97ea0bd3...e5780d91c57108b9db984fb5179e0bedf00efae7)** _(Sep 1, 2026)_
@@ -288,15 +289,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Comments
 
+- **Commented on issue [希望增加菜单栏的折叠功能，令牌Mermaid图形居中功能有bug，浏览器变化时不总是居中](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 - **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 - **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 - **Commented on issue [Not able to clear notification pop-up number](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Commented on issue [[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 9, 2026)_
-- **Commented on issue [When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 
 <details>
-  <summary>Show 5 more comments...</summary>
+  <summary>Show 6 more comments...</summary>
 
+- **Commented on issue [When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Commented on issue [The zoom in/out buttons are not resized from the center of the container](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Commented on issue [Add transitions when click zoom in/out buttons](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Commented on issue [When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
@@ -307,15 +309,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
 - **Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)** _(Sep 3, 2026)_
 - **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
-- **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
+- **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
 - **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
 - **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
@@ -372,15 +375,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Assigned issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 24, 2026)_
 - **Public in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 23, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
-- **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 
 <details>
-  <summary>Show 13 more other activity...</summary>
+  <summary>Show 14 more other activity...</summary>
 
+- **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts)** _(Aug 18, 2026)_
 - **Deleted branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
 - **Created branch &#x60;extension.js&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
