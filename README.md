@@ -157,7 +157,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [.](https://github.com/sametcn99/orhan-elektronik/commit/17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 
 <details>
-  <summary>Show 107 more pushes...</summary>
+  <summary>Show 105 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [42007c1...6fd2991](https://github.com/sametcn99/sametcn99/compare/42007c1f1cc575d6b3a8b3458dcc34a6d0898845...6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [7aa9c04...c3de2f6](https://github.com/sametcn99/sametcn99/compare/7aa9c04c37e26a4c949e0042f358f469598a0e17...c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
@@ -264,8 +264,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1c26a8e...98abac9](https://github.com/sametcn99/personal-website-blazor/compare/1c26a8eeb8c6b65cdd10fc3274019820279b9b53...98abac92d37125c84e54574a7bc3d908c1704862)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [00f029d...a82f062](https://github.com/sametcn99/sametcn99/compare/00f029d3692a0f0c964221a4fca2c542280337fa...a82f062d66ec854f7f5f8680ee5453b42ca196d5)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ab12a88...1c26a8e](https://github.com/sametcn99/personal-website-blazor/compare/ab12a8830c384c2f458c07a102065bacef18df70...1c26a8eeb8c6b65cdd10fc3274019820279b9b53)** _(Aug 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [8c05207...5847999](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/8c05207514192848fa3cee2488258babd60390d6...5847999bb3e799a17226c68f261224b973657f19)** _(Aug 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [f53beda...8c05207](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/f53bedac7b35b7febad18e9ee5bb18ebcbcd3df4...8c05207514192848fa3cee2488258babd60390d6)** _(Aug 15, 2026)_
 
 </details>
 
@@ -282,16 +280,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 - **Commented on issue [Not able to clear notification pop-up number](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Commented on issue [[NEED HELP] userscript stops detecting viewed jobs after navigation to /jobs/collections/\* — avoid reloading page](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 9, 2026)_
-
-<details>
-  <summary>Show 4 more comments...</summary>
-
-- **Commented on issue [When the mermaid is not 100% zoomed, switch light/dark theme, the font size rendered abnormally](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Commented on issue [The zoom in/out buttons are not resized from the center of the container](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Commented on issue [Add transitions when click zoom in/out buttons](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Commented on issue [When enable &#x60;fitToContainer&#x60;, then click &quot;Reset View&quot; button, it will resize to 100% instead of the fitted size and centered position](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-
-</details>
 
 ### Starred Repositories
 
@@ -369,7 +357,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Assigned issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 
 <details>
-  <summary>Show 14 more other activity...</summary>
+  <summary>Show 12 more other activity...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 24, 2026)_
@@ -383,8 +371,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 - **Forked [gotify/server](https://github.com/gotify/server) to [sametcn99/server](https://github.com/sametcn99/server)** _(Aug 7, 2026)_
-- **Closed issue [#12](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/12) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Closed issue [#16](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/16) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 
 </details>
 
