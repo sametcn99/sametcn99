@@ -150,15 +150,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [bump docs version](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/cd6263326353b2122c4c0fcc05fa85febac8f7a5)** _(Sep 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.1](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge pull request #1033 from UiP9AV6Y/feature/oidc-claim-mapping](https://github.com/sametcn99/server/commit/14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [.](https://github.com/sametcn99/orhan-elektronik/commit/17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [Merge branch &#x27;main&#x27; of https://github.com/sametcn99/sametcn99](https://github.com/sametcn99/sametcn99/commit/c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
 
 <details>
-  <summary>Show 117 more pushes...</summary>
+  <summary>Show 113 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [7aa9c04...c3de2f6](https://github.com/sametcn99/sametcn99/compare/7aa9c04c37e26a4c949e0042f358f469598a0e17...c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [63ad70e...93887fe](https://github.com/sametcn99/computer-science-resources/compare/63ad70e3e3b6923124061343592d63c4c3e5b09e...93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool): [bb82d4b...394873b](https://github.com/sametcn99/case-fx-tool/compare/bb82d4b21db605c8e6217d346cab1757b67d2391...394873b167aeae55fe176741b7dc854b97ea0bd3)** _(Sep 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [28a072b...0d4bf0f](https://github.com/sametcn99/sametcn99/compare/28a072b558f492f229daa7bec7c81482d1bb8d29...0d4bf0fefae18d0de1734d99c97c6f7fd99f42a9)** _(Sep 2, 2026)_
@@ -271,11 +272,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [09b82f0...8542a02](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/09b82f0d5b958099b416422399f9bf5b86d8c0a6...8542a029b0cc1530377fb363e2449ed52030f98a)** _(Aug 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [54c50cb...09b82f0](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/54c50cb3e075e7b4dbdde43759aedc02665e7701...09b82f0d5b958099b416422399f9bf5b86d8c0a6)** _(Aug 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [28dbeb2...54c50cb](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/28dbeb285f8aefd46aa8c87a33005530d04a5aa9...54c50cb3e075e7b4dbdde43759aedc02665e7701)** _(Aug 14, 2026)_
-- **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [f0c163b...965a5db](https://github.com/sametcn99/server/compare/f0c163bfbac26aa9d5406ec7014c959960484f9d...965a5dbad664c80bd7e25e3d660403628486ca5d)** _(Aug 14, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f7109dd...ab12a88](https://github.com/sametcn99/personal-website-blazor/compare/f7109dd2de702e39bc5fa7bd43a884751e814484...ab12a8830c384c2f458c07a102065bacef18df70)** _(Aug 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3e56ec4...f7109dd](https://github.com/sametcn99/personal-website-blazor/compare/3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3...f7109dd2de702e39bc5fa7bd43a884751e814484)** _(Aug 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d8db3fc...3e56ec4](https://github.com/sametcn99/personal-website-blazor/compare/d8db3fcb61532293919a5ba53764b77472567e13...3e56ec44c5246f2a7e8b595375dc2a93fe9e93d3)** _(Aug 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0226b01...d8db3fc](https://github.com/sametcn99/personal-website-blazor/compare/0226b014bdc33c0eb6462eb7c5753eee2491e659...d8db3fcb61532293919a5ba53764b77472567e13)** _(Aug 13, 2026)_
 
 </details>
 
