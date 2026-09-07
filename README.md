@@ -150,15 +150,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [fix: avoid unnecessary sitemap lastmod updates](https://github.com/sametcn99/apps/commit/fc4e5081457698503d7e745cc4a42153c071cc69)** _(Sep 4, 2026)_
 - **Pushed 1 commit to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge branch &#x27;master&#x27; into feature/improve-responsive-ui-shell](https://github.com/sametcn99/server/commit/8378d1fc0da1b9948c0fbfdbd570c28f8bf4a61a)** _(Sep 4, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [bump docs version](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/cd6263326353b2122c4c0fcc05fa85febac8f7a5)** _(Sep 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.1](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge pull request #1033 from UiP9AV6Y/feature/oidc-claim-mapping](https://github.com/sametcn99/server/commit/14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [.](https://github.com/sametcn99/orhan-elektronik/commit/17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 
 <details>
-  <summary>Show 105 more pushes...</summary>
+  <summary>Show 100 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [42007c1...6fd2991](https://github.com/sametcn99/sametcn99/compare/42007c1f1cc575d6b3a8b3458dcc34a6d0898845...6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [7aa9c04...c3de2f6](https://github.com/sametcn99/sametcn99/compare/7aa9c04c37e26a4c949e0042f358f469598a0e17...c3de2f63dc2c4c58885e172301025d8e7f729ae1)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources): [63ad70e...93887fe](https://github.com/sametcn99/computer-science-resources/compare/63ad70e3e3b6923124061343592d63c4c3e5b09e...93887feb4ed25d965c4b23f50d9eb00faa17fa56)** _(Sep 1, 2026)_
@@ -258,12 +259,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dfd1d35...1f76de1](https://github.com/sametcn99/personal-website-blazor/compare/dfd1d35d5616ff16f8181ec4d96363cfc2227e4b...1f76de1861705d737a747bfe13f3840662d0a15f)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [25d0ec1...dfd1d35](https://github.com/sametcn99/personal-website-blazor/compare/25d0ec1c55dfa2408867c90164de76cb06687201...dfd1d35d5616ff16f8181ec4d96363cfc2227e4b)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ba772b9...25d0ec1](https://github.com/sametcn99/personal-website-blazor/compare/ba772b97929c014ca59538da4acac992e03daf22...25d0ec1c55dfa2408867c90164de76cb06687201)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1914f0e...ba772b9](https://github.com/sametcn99/personal-website-blazor/compare/1914f0e853521977b1f88dd0c0f9dfc101e89379...ba772b97929c014ca59538da4acac992e03daf22)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b566134...1914f0e](https://github.com/sametcn99/personal-website-blazor/compare/b56613452d6f024b6a031087b47e51b889e42881...1914f0e853521977b1f88dd0c0f9dfc101e89379)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [98abac9...b566134](https://github.com/sametcn99/personal-website-blazor/compare/98abac92d37125c84e54574a7bc3d908c1704862...b56613452d6f024b6a031087b47e51b889e42881)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1c26a8e...98abac9](https://github.com/sametcn99/personal-website-blazor/compare/1c26a8eeb8c6b65cdd10fc3274019820279b9b53...98abac92d37125c84e54574a7bc3d908c1704862)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [00f029d...a82f062](https://github.com/sametcn99/sametcn99/compare/00f029d3692a0f0c964221a4fca2c542280337fa...a82f062d66ec854f7f5f8680ee5453b42ca196d5)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ab12a88...1c26a8e](https://github.com/sametcn99/personal-website-blazor/compare/ab12a8830c384c2f458c07a102065bacef18df70...1c26a8eeb8c6b65cdd10fc3274019820279b9b53)** _(Aug 16, 2026)_
 
 </details>
 
@@ -290,7 +285,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 51 more starred repositories...</summary>
 
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
@@ -343,8 +338,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev)** _(Aug 9, 2026)_
 - **Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)** _(Aug 8, 2026)_
 - **Starred [extension-js/extension.js](https://github.com/extension-js/extension.js)** _(Aug 8, 2026)_
-- **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 7, 2026)_
-- **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
 
 </details>
 
@@ -357,7 +350,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Assigned issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 
 <details>
-  <summary>Show 11 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
 - **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 24, 2026)_
@@ -367,9 +360,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Created branch &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts)** _(Aug 18, 2026)_
 - **Public in [sametcn99/pdf-email-extractor](https://github.com/sametcn99/pdf-email-extractor)** _(Aug 10, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/linkedin-hide-viewed-jobs/issues/1) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 9, 2026)_
-- **Closed issue [#17](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/17) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Closed issue [#15](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/15) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
-- **Closed issue [#14](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/14) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Aug 7, 2026)_
 
 </details>
 
