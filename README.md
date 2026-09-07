@@ -290,7 +290,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
@@ -344,7 +344,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [extension-js/extension.js](https://github.com/extension-js/extension.js)** _(Aug 8, 2026)_
 - **Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)** _(Aug 7, 2026)_
 - **Starred [crafter-station/petdex](https://github.com/crafter-station/petdex)** _(Aug 7, 2026)_
-- **Starred [gotify/server](https://github.com/gotify/server)** _(Aug 7, 2026)_
 
 </details>
 
