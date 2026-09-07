@@ -157,7 +157,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge pull request #1033 from UiP9AV6Y/feature/oidc-claim-mapping](https://github.com/sametcn99/server/commit/14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
 
 <details>
-  <summary>Show 100 more pushes...</summary>
+  <summary>Show 98 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [42007c1...6fd2991](https://github.com/sametcn99/sametcn99/compare/42007c1f1cc575d6b3a8b3458dcc34a6d0898845...6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
@@ -257,8 +257,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [415903c...a35b748](https://github.com/sametcn99/personal-website-blazor/compare/415903c08279c9743c86fc817f7335f79eb1c581...a35b74859e813856db0ee2bdb47372afadf7f90f)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [1f76de1...415903c](https://github.com/sametcn99/personal-website-blazor/compare/1f76de1861705d737a747bfe13f3840662d0a15f...415903c08279c9743c86fc817f7335f79eb1c581)** _(Aug 16, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [dfd1d35...1f76de1](https://github.com/sametcn99/personal-website-blazor/compare/dfd1d35d5616ff16f8181ec4d96363cfc2227e4b...1f76de1861705d737a747bfe13f3840662d0a15f)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [25d0ec1...dfd1d35](https://github.com/sametcn99/personal-website-blazor/compare/25d0ec1c55dfa2408867c90164de76cb06687201...dfd1d35d5616ff16f8181ec4d96363cfc2227e4b)** _(Aug 16, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ba772b9...25d0ec1](https://github.com/sametcn99/personal-website-blazor/compare/ba772b97929c014ca59538da4acac992e03daf22...25d0ec1c55dfa2408867c90164de76cb06687201)** _(Aug 16, 2026)_
 
 </details>
 
