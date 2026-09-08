@@ -157,7 +157,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.1](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 
 <details>
-  <summary>Show 81 more pushes...</summary>
+  <summary>Show 80 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [c27a381...14bfc25](https://github.com/sametcn99/server/compare/c27a381a67eaaa61886be868d14d15236f9f408f...14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
@@ -239,7 +239,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [45bdd8c...5eb5a10](https://github.com/sametcn99/scripts/compare/45bdd8cb49bc2634b2ebcb08098943cf5b8207f6...5eb5a109e1921ae1c54ff64709b5afcfdbb23f38)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7185836...5f1429f](https://github.com/sametcn99/personal-website-blazor/compare/7185836148bb59191f696fb346bc7451816fccbb...5f1429f59653b78d0993323a869bac04df791800)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5f1429f...7185836](https://github.com/sametcn99/personal-website-blazor/compare/5f1429f59653b78d0993323a869bac04df791800...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [eaa3e81...68531d2](https://github.com/sametcn99/personal-website-blazor/compare/eaa3e81829033bb934d614c583ea65a1e950e62c...68531d2e0766982850abb13a4a64785cedcd0263)** _(Aug 18, 2026)_
 
 </details>
 
@@ -265,7 +264,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)** _(Sep 3, 2026)_
 
 <details>
-  <summary>Show 50 more starred repositories...</summary>
+  <summary>Show 49 more starred repositories...</summary>
 
 - **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
@@ -316,7 +315,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
 - **Starred [LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018](https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018)** _(Aug 11, 2026)_
 - **Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** _(Aug 9, 2026)_
-- **Starred [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev)** _(Aug 9, 2026)_
 
 </details>
 
