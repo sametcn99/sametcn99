@@ -102,7 +102,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
 | **Total Stars Earned**    | 193                                      |
-| **Commits (7d)**          | 40+                                      |
+| **Commits (7d)**          | 9                                        |
 | **Total Repositories**    | 78                                       |
 | **Active Repositories**   | 68                                       |
 | **Forked Repositories**   | 10                                       |
@@ -157,7 +157,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.1](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 
 <details>
-  <summary>Show 90 more pushes...</summary>
+  <summary>Show 82 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [c27a381...14bfc25](https://github.com/sametcn99/server/compare/c27a381a67eaaa61886be868d14d15236f9f408f...14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
@@ -241,14 +241,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5f1429f...7185836](https://github.com/sametcn99/personal-website-blazor/compare/5f1429f59653b78d0993323a869bac04df791800...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [eaa3e81...68531d2](https://github.com/sametcn99/personal-website-blazor/compare/eaa3e81829033bb934d614c583ea65a1e950e62c...68531d2e0766982850abb13a4a64785cedcd0263)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [68531d2...7185836](https://github.com/sametcn99/personal-website-blazor/compare/68531d2e0766982850abb13a4a64785cedcd0263...7185836148bb59191f696fb346bc7451816fccbb)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [7f96bd0...b0399df](https://github.com/sametcn99/personal-website-blazor/compare/7f96bd07c28429e1f116669b185133f6d55e4da3...b0399dffbbb75b639c740b5991bbd1e6d520c9aa)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b0399df...eaa3e81](https://github.com/sametcn99/personal-website-blazor/compare/b0399dffbbb75b639c740b5991bbd1e6d520c9aa...eaa3e81829033bb934d614c583ea65a1e950e62c)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f6d00be...7f96bd0](https://github.com/sametcn99/personal-website-blazor/compare/f6d00be1f58c117f0574969ac64c18cc9ed358d4...7f96bd07c28429e1f116669b185133f6d55e4da3)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d12f49a...f6d00be](https://github.com/sametcn99/personal-website-blazor/compare/d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc...f6d00be1f58c117f0574969ac64c18cc9ed358d4)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2e4983e...d12f49a](https://github.com/sametcn99/personal-website-blazor/compare/2e4983e7f7c4fc7920c41d86140e71b898cb0112...d12f49a0b8b1e1d33764e678c25ce1cd6fd18ccc)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d7f03be...c1f553b](https://github.com/sametcn99/personal-website-blazor/compare/d7f03bed07f87bb1f7f07737f8ba1ef92d42eda0...c1f553b63b692f5bfaa6ae1f36f5b4c2a50822c0)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [536f8e7...2e4983e](https://github.com/sametcn99/personal-website-blazor/compare/536f8e73dd99b2aa2feee075ea06635bbbc91018...2e4983e7f7c4fc7920c41d86140e71b898cb0112)** _(Aug 17, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [5225224...536f8e7](https://github.com/sametcn99/personal-website-blazor/compare/5225224ccb1f24f9f2534fb216ebb1b31c75c637...536f8e73dd99b2aa2feee075ea06635bbbc91018)** _(Aug 17, 2026)_
 
 </details>
 
@@ -267,15 +259,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
 - **Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)** _(Sep 3, 2026)_
-- **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 
 <details>
-  <summary>Show 51 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
+- **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
