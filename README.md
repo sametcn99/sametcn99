@@ -266,7 +266,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)** _(Sep 3, 2026)_
 
 <details>
-  <summary>Show 52 more starred repositories...</summary>
+  <summary>Show 50 more starred repositories...</summary>
 
 - **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
@@ -318,8 +318,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018](https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018)** _(Aug 11, 2026)_
 - **Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** _(Aug 9, 2026)_
 - **Starred [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev)** _(Aug 9, 2026)_
-- **Starred [wxt-dev/wxt](https://github.com/wxt-dev/wxt)** _(Aug 8, 2026)_
-- **Starred [extension-js/extension.js](https://github.com/extension-js/extension.js)** _(Aug 8, 2026)_
 
 </details>
 
