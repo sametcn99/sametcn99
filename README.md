@@ -157,7 +157,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.1](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 
 <details>
-  <summary>Show 73 more pushes...</summary>
+  <summary>Show 71 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [c27a381...14bfc25](https://github.com/sametcn99/server/compare/c27a381a67eaaa61886be868d14d15236f9f408f...14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
@@ -230,8 +230,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [349358e...81dbea3](https://github.com/sametcn99/personal-website-blazor/compare/349358e5b8f6e1ab8b626991c2045eb154c75725...81dbea351b311e422646adc85b7129a641833e06)** _(Aug 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [c53859a...b2edc19](https://github.com/sametcn99/sametcn99/compare/c53859ac29e8358d16b2ed0b13e4cbcc749cd788...b2edc19d0f303c040e5d25e11807b4c531f586dd)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [9da7969...2173d6f](https://github.com/sametcn99/sametcn99/compare/9da7969edab6c6c08bb61edfc0d5c7f7edcfd2eb...2173d6fd794200a9a972a1260107b142fc66fe20)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [681c690...38fa6d8](https://github.com/sametcn99/personal-website-blazor/compare/681c6908b24d0b129f58855927fc8f3cd95a25b3...38fa6d8a30427b8e1f64fe8a021f25e29f3f269b)** _(Aug 18, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [38fa6d8...349358e](https://github.com/sametcn99/personal-website-blazor/compare/38fa6d8a30427b8e1f64fe8a021f25e29f3f269b...349358e5b8f6e1ab8b626991c2045eb154c75725)** _(Aug 18, 2026)_
 
 </details>
 
