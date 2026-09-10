@@ -102,9 +102,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
 | **Total Stars Earned**    | 193                                      |
-| **Commits (7d)**          | 4                                        |
-| **Total Repositories**    | 78                                       |
-| **Active Repositories**   | 68                                       |
+| **Commits (7d)**          | 8                                        |
+| **Total Repositories**    | 79                                       |
+| **Active Repositories**   | 69                                       |
 | **Forked Repositories**   | 10                                       |
 | **Archived Repositories** | 0                                        |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99)  |
@@ -150,15 +150,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [fix-video-layout-and-speed](https://github.com/sametcn99/playwright-artifact-explorer/commit/3356e47f6c35a7b10da7d18d5fe89dadb002b2c8)** _(Sep 10, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [ui-seo-refresh](https://github.com/sametcn99/playwright-artifact-explorer/commit/6516afdb095e2faccd5618ded58ba5836cd450ce)** _(Sep 10, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [.](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/97d8fffe74e5b3610bd970525cb36fe08857c56b)** _(Sep 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [fix: avoid unnecessary sitemap lastmod updates](https://github.com/sametcn99/apps/commit/fc4e5081457698503d7e745cc4a42153c071cc69)** _(Sep 4, 2026)_
 - **Pushed 1 commit to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge branch &#x27;master&#x27; into feature/improve-responsive-ui-shell](https://github.com/sametcn99/server/commit/8378d1fc0da1b9948c0fbfdbd570c28f8bf4a61a)** _(Sep 4, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [bump docs version](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/cd6263326353b2122c4c0fcc05fa85febac8f7a5)** _(Sep 5, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.1](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 
 <details>
-  <summary>Show 64 more pushes...</summary>
+  <summary>Show 65 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7eaafc6...cd62633](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7eaafc643ff95d74a8cf87da0f449f34129b0b7a...cd6263326353b2122c4c0fcc05fa85febac8f7a5)** _(Sep 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [6353aa2...7eaafc6](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/6353aa26586e7a8380c9b4880718c5f057c015c8...7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [c27a381...14bfc25](https://github.com/sametcn99/server/compare/c27a381a67eaaa61886be868d14d15236f9f408f...14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/orhan-elektronik](https://github.com/sametcn99/orhan-elektronik): [6dd39c9...17730da](https://github.com/sametcn99/orhan-elektronik/compare/6dd39c9e25d3e0ebbf9487dc47e30c85f9c2f35b...17730da71549dee3c58c3dc22b7155fa1e923740)** _(Sep 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [42007c1...6fd2991](https://github.com/sametcn99/sametcn99/compare/42007c1f1cc575d6b3a8b3458dcc34a6d0898845...6fd299108205512e4b11f05db92673a85e224bf4)** _(Sep 2, 2026)_
@@ -222,7 +224,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [90baac4...0dfdb30](https://github.com/sametcn99/personal-website-blazor/compare/90baac4fd51ca44a7db651a614883baec3e53a86...0dfdb30ba34d8988df2227d55022f005651b33ae)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c3d1418...3d76f80](https://github.com/sametcn99/personal-website-blazor/compare/c3d14183cd870646bd4d56a1d55cd963b296a6f5...3d76f807f6c1a006c97f57f776846b1a99514215)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0dfdb30...c3d1418](https://github.com/sametcn99/personal-website-blazor/compare/0dfdb30ba34d8988df2227d55022f005651b33ae...c3d14183cd870646bd4d56a1d55cd963b296a6f5)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [62c552b...90baac4](https://github.com/sametcn99/personal-website-blazor/compare/62c552be11d16a4a600b7017d675e1af64959ee7...90baac4fd51ca44a7db651a614883baec3e53a86)** _(Aug 19, 2026)_
 
 </details>
 
