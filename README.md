@@ -102,7 +102,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
 | **Total Stars Earned**    | 193                                      |
-| **Commits (7d)**          | 7                                        |
+| **Commits (7d)**          | 10+                                      |
 | **Total Repositories**    | 79                                       |
 | **Active Repositories**   | 69                                       |
 | **Forked Repositories**   | 10                                       |
@@ -150,15 +150,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [keep-visible-thumbnails-in-place](https://github.com/sametcn99/playwright-artifact-explorer/commit/7d5d695d0a463a03386835ae19ace1bbc1fdc10e)** _(Sep 11, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [video-thumbnails-from-last-frames](https://github.com/sametcn99/playwright-artifact-explorer/commit/65338a92609a728bc1808cbd7404761240dee45b)** _(Sep 11, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [add-copyable-trace-commands](https://github.com/sametcn99/playwright-artifact-explorer/commit/abf3a8509c2dc6f00516948c681ac4b93c7bcbca)** _(Sep 11, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [add-video-click-playback-feedback](https://github.com/sametcn99/playwright-artifact-explorer/commit/00af4367e2f0a6ce30051d7930d195baf342001a)** _(Sep 11, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [fix-video-layout-and-speed](https://github.com/sametcn99/playwright-artifact-explorer/commit/3356e47f6c35a7b10da7d18d5fe89dadb002b2c8)** _(Sep 10, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [ui-seo-refresh](https://github.com/sametcn99/playwright-artifact-explorer/commit/6516afdb095e2faccd5618ded58ba5836cd450ce)** _(Sep 10, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [.](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/97d8fffe74e5b3610bd970525cb36fe08857c56b)** _(Sep 5, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [fix: avoid unnecessary sitemap lastmod updates](https://github.com/sametcn99/apps/commit/fc4e5081457698503d7e745cc4a42153c071cc69)** _(Sep 4, 2026)_
-- **Pushed 1 commit to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge branch &#x27;master&#x27; into feature/improve-responsive-ui-shell](https://github.com/sametcn99/server/commit/8378d1fc0da1b9948c0fbfdbd570c28f8bf4a61a)** _(Sep 4, 2026)_
 
 <details>
-  <summary>Show 64 more pushes...</summary>
+  <summary>Show 62 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [aabdb2d...6516afd](https://github.com/sametcn99/playwright-artifact-explorer/compare/aabdb2d2dfa35bee34803099c28a9874c626c641...6516afdb095e2faccd5618ded58ba5836cd450ce)** _(Sep 10, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cd62633...97d8fff](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cd6263326353b2122c4c0fcc05fa85febac8f7a5...97d8fffe74e5b3610bd970525cb36fe08857c56b)** _(Sep 5, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [a3fbd02...fc4e508](https://github.com/sametcn99/apps/compare/a3fbd024060395427a66dde398f428b86fd5abee...fc4e5081457698503d7e745cc4a42153c071cc69)** _(Sep 4, 2026)_
+- **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [965a5db...8378d1f](https://github.com/sametcn99/server/compare/965a5dbad664c80bd7e25e3d660403628486ca5d...8378d1fc0da1b9948c0fbfdbd570c28f8bf4a61a)** _(Sep 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7eaafc6...cd62633](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7eaafc643ff95d74a8cf87da0f449f34129b0b7a...cd6263326353b2122c4c0fcc05fa85febac8f7a5)** _(Sep 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [6353aa2...7eaafc6](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/6353aa26586e7a8380c9b4880718c5f057c015c8...7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [c27a381...14bfc25](https://github.com/sametcn99/server/compare/c27a381a67eaaa61886be868d14d15236f9f408f...14bfc256276775c425f988d621dccfe705de18ac)** _(Sep 4, 2026)_
@@ -217,12 +221,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [08101ba...de54e07](https://github.com/sametcn99/scripts/compare/08101bab5448375b33ae9edefeef6bccde15e8ab...de54e074aad19c590ca1abcf9b1f3ca4f68daff3)** _(Aug 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c734c0...f790a37](https://github.com/sametcn99/personal-website-blazor/compare/9c734c09f80404a2ebcc2261caa8e6593ce27b64...f790a374be48f8d9abe3e570c4e12324bcc521db)** _(Aug 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3515009...cb9dc31](https://github.com/sametcn99/personal-website-blazor/compare/3515009faff46c11a86e3bac8dc8696cc1ff5253...cb9dc31b8bd13d131225bb4bac586271f0c1828a)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [af13256...3515009](https://github.com/sametcn99/personal-website-blazor/compare/af132569a9b9d954eff064427ce271388077d59c...3515009faff46c11a86e3bac8dc8696cc1ff5253)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [cb9dc31...9c734c0](https://github.com/sametcn99/personal-website-blazor/compare/cb9dc31b8bd13d131225bb4bac586271f0c1828a...9c734c09f80404a2ebcc2261caa8e6593ce27b64)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3d76f80...ee3b585](https://github.com/sametcn99/personal-website-blazor/compare/3d76f807f6c1a006c97f57f776846b1a99514215...ee3b585fb56a20a8e240076be5637dda307e7101)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ee3b585...af13256](https://github.com/sametcn99/personal-website-blazor/compare/ee3b585fb56a20a8e240076be5637dda307e7101...af132569a9b9d954eff064427ce271388077d59c)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [90baac4...0dfdb30](https://github.com/sametcn99/personal-website-blazor/compare/90baac4fd51ca44a7db651a614883baec3e53a86...0dfdb30ba34d8988df2227d55022f005651b33ae)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c3d1418...3d76f80](https://github.com/sametcn99/personal-website-blazor/compare/c3d14183cd870646bd4d56a1d55cd963b296a6f5...3d76f807f6c1a006c97f57f776846b1a99514215)** _(Aug 19, 2026)_
 
 </details>
 
