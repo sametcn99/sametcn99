@@ -157,7 +157,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [fix-video-layout-and-speed](https://github.com/sametcn99/playwright-artifact-explorer/commit/3356e47f6c35a7b10da7d18d5fe89dadb002b2c8)** _(Sep 10, 2026)_
 
 <details>
-  <summary>Show 62 more pushes...</summary>
+  <summary>Show 61 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [aabdb2d...6516afd](https://github.com/sametcn99/playwright-artifact-explorer/compare/aabdb2d2dfa35bee34803099c28a9874c626c641...6516afdb095e2faccd5618ded58ba5836cd450ce)** _(Sep 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cd62633...97d8fff](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cd6263326353b2122c4c0fcc05fa85febac8f7a5...97d8fffe74e5b3610bd970525cb36fe08857c56b)** _(Sep 5, 2026)_
@@ -220,7 +220,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [5eb5a10...08101ba](https://github.com/sametcn99/scripts/compare/5eb5a109e1921ae1c54ff64709b5afcfdbb23f38...08101bab5448375b33ae9edefeef6bccde15e8ab)** _(Aug 20, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [08101ba...de54e07](https://github.com/sametcn99/scripts/compare/08101bab5448375b33ae9edefeef6bccde15e8ab...de54e074aad19c590ca1abcf9b1f3ca4f68daff3)** _(Aug 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c734c0...f790a37](https://github.com/sametcn99/personal-website-blazor/compare/9c734c09f80404a2ebcc2261caa8e6593ce27b64...f790a374be48f8d9abe3e570c4e12324bcc521db)** _(Aug 20, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [3515009...cb9dc31](https://github.com/sametcn99/personal-website-blazor/compare/3515009faff46c11a86e3bac8dc8696cc1ff5253...cb9dc31b8bd13d131225bb4bac586271f0c1828a)** _(Aug 19, 2026)_
 
 </details>
 
@@ -245,7 +244,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 50 more starred repositories...</summary>
+  <summary>Show 49 more starred repositories...</summary>
 
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
@@ -296,7 +295,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima)** _(Aug 13, 2026)_
 - **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
 - **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
-- **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
 
 </details>
 
