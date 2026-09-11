@@ -102,7 +102,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                    |
 | :------------------------ | :--------------------------------------- |
 | **Total Stars Earned**    | 193                                      |
-| **Commits (7d)**          | 8                                        |
+| **Commits (7d)**          | 7                                        |
 | **Total Repositories**    | 79                                       |
 | **Active Repositories**   | 69                                       |
 | **Forked Repositories**   | 10                                       |
@@ -157,7 +157,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [Merge branch &#x27;master&#x27; into feature/improve-responsive-ui-shell](https://github.com/sametcn99/server/commit/8378d1fc0da1b9948c0fbfdbd570c28f8bf4a61a)** _(Sep 4, 2026)_
 
 <details>
-  <summary>Show 65 more pushes...</summary>
+  <summary>Show 64 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7eaafc6...cd62633](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7eaafc643ff95d74a8cf87da0f449f34129b0b7a...cd6263326353b2122c4c0fcc05fa85febac8f7a5)** _(Sep 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [6353aa2...7eaafc6](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/6353aa26586e7a8380c9b4880718c5f057c015c8...7eaafc643ff95d74a8cf87da0f449f34129b0b7a)** _(Sep 5, 2026)_
@@ -223,7 +223,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ee3b585...af13256](https://github.com/sametcn99/personal-website-blazor/compare/ee3b585fb56a20a8e240076be5637dda307e7101...af132569a9b9d954eff064427ce271388077d59c)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [90baac4...0dfdb30](https://github.com/sametcn99/personal-website-blazor/compare/90baac4fd51ca44a7db651a614883baec3e53a86...0dfdb30ba34d8988df2227d55022f005651b33ae)** _(Aug 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c3d1418...3d76f80](https://github.com/sametcn99/personal-website-blazor/compare/c3d14183cd870646bd4d56a1d55cd963b296a6f5...3d76f807f6c1a006c97f57f776846b1a99514215)** _(Aug 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [0dfdb30...c3d1418](https://github.com/sametcn99/personal-website-blazor/compare/0dfdb30ba34d8988df2227d55022f005651b33ae...c3d14183cd870646bd4d56a1d55cd963b296a6f5)** _(Aug 19, 2026)_
 
 </details>
 
@@ -241,15 +240,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [livekit/livekit](https://github.com/livekit/livekit)** _(Sep 10, 2026)_
 - **Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** _(Sep 8, 2026)_
 - **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
-- **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 
 <details>
   <summary>Show 50 more starred repositories...</summary>
 
+- **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
 - **Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)** _(Sep 3, 2026)_
 - **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
@@ -299,7 +299,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
 - **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
 - **Starred [earendil-works/pi](https://github.com/earendil-works/pi)** _(Aug 11, 2026)_
-- **Starred [LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018](https://github.com/LinkedInLearning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced-3338018)** _(Aug 11, 2026)_
 
 </details>
 
