@@ -23,7 +23,7 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 
 | Repository                                                                                | Description                                                                                          |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Sep 5, 2026  | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
+| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Sep 11, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Aug 15, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
@@ -117,15 +117,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------: | :----: |
+| [**v1.2.2**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.2) — v1.2.2               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Sep 11, 2026 | Stable |
 | [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Sep 5, 2026  | Stable |
 | [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)                 | Aug 24, 2026 | Stable |
 | [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Aug 21, 2026 | Stable |
 | [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)   | Aug 15, 2026 | Stable |
-| [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)   | Aug 14, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 14, 2026)_
 - [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — v1.1.13 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 11, 2026)_
 - [**v1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — Gotify Web Extension 1.1.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — Gotify Web Extension 1.0.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
@@ -140,7 +141,6 @@ Recent releases across my repositories:
 - [**1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — GitHub Spam Blocker 1.2 in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
 - [**1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — GitHub Spam Blocker 1.1 in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
 - [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — v1.1.29 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
-- [**v1.1.12**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.12) — v1.1.12 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 1, 2026)_
 
 </details>
 
