@@ -243,7 +243,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 49 more starred repositories...</summary>
+  <summary>Show 48 more starred repositories...</summary>
 
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
@@ -293,7 +293,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** _(Aug 13, 2026)_
 - **Starred [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima)** _(Aug 13, 2026)_
 - **Starred [salihcantekin/loadbalancing](https://github.com/salihcantekin/loadbalancing)** _(Aug 13, 2026)_
-- **Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)** _(Aug 12, 2026)_
 
 </details>
 
