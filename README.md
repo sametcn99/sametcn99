@@ -150,15 +150,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [video-playback-controls](https://github.com/sametcn99/playwright-artifact-explorer/commit/83177bc68ad28e92d77548c35356087aef9afe52)** _(Sep 10, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.2](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/61cc3ba41e0285caa7b7131de14e8bb30c4a7bbc)** _(Sep 11, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [keep-visible-thumbnails-in-place](https://github.com/sametcn99/playwright-artifact-explorer/commit/7d5d695d0a463a03386835ae19ace1bbc1fdc10e)** _(Sep 11, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [video-thumbnails-from-last-frames](https://github.com/sametcn99/playwright-artifact-explorer/commit/65338a92609a728bc1808cbd7404761240dee45b)** _(Sep 11, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [add-copyable-trace-commands](https://github.com/sametcn99/playwright-artifact-explorer/commit/abf3a8509c2dc6f00516948c681ac4b93c7bcbca)** _(Sep 11, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [add-video-click-playback-feedback](https://github.com/sametcn99/playwright-artifact-explorer/commit/00af4367e2f0a6ce30051d7930d195baf342001a)** _(Sep 11, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [fix-video-layout-and-speed](https://github.com/sametcn99/playwright-artifact-explorer/commit/3356e47f6c35a7b10da7d18d5fe89dadb002b2c8)** _(Sep 10, 2026)_
 
 <details>
-  <summary>Show 61 more pushes...</summary>
+  <summary>Show 60 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [3356e47...00af436](https://github.com/sametcn99/playwright-artifact-explorer/compare/3356e47f6c35a7b10da7d18d5fe89dadb002b2c8...00af4367e2f0a6ce30051d7930d195baf342001a)** _(Sep 11, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [83177bc...3356e47](https://github.com/sametcn99/playwright-artifact-explorer/compare/83177bc68ad28e92d77548c35356087aef9afe52...3356e47f6c35a7b10da7d18d5fe89dadb002b2c8)** _(Sep 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [aabdb2d...6516afd](https://github.com/sametcn99/playwright-artifact-explorer/compare/aabdb2d2dfa35bee34803099c28a9874c626c641...6516afdb095e2faccd5618ded58ba5836cd450ce)** _(Sep 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cd62633...97d8fff](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cd6263326353b2122c4c0fcc05fa85febac8f7a5...97d8fffe74e5b3610bd970525cb36fe08857c56b)** _(Sep 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [a3fbd02...fc4e508](https://github.com/sametcn99/apps/compare/a3fbd024060395427a66dde398f428b86fd5abee...fc4e5081457698503d7e745cc4a42153c071cc69)** _(Sep 4, 2026)_
@@ -217,9 +219,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [6289cc2...1b0bb58](https://github.com/sametcn99/gotify-web-extension/compare/6289cc2dcad8634c955dc45fc940ee909194b177...1b0bb58ab31909328ac340bc02a57ef4dd0625b2)** _(Aug 21, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [1b0bb58...ac7ccaf](https://github.com/sametcn99/gotify-web-extension/compare/1b0bb58ab31909328ac340bc02a57ef4dd0625b2...ac7ccaf6fb58b7ec42de10ca1eb6ae10ccda1f03)** _(Aug 21, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [e05ab22...6289cc2](https://github.com/sametcn99/gotify-web-extension/compare/e05ab22eae64133e135ac06155a80afc3515bc64...6289cc2dcad8634c955dc45fc940ee909194b177)** _(Aug 21, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [5eb5a10...08101ba](https://github.com/sametcn99/scripts/compare/5eb5a109e1921ae1c54ff64709b5afcfdbb23f38...08101bab5448375b33ae9edefeef6bccde15e8ab)** _(Aug 20, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/scripts](https://github.com/sametcn99/scripts): [08101ba...de54e07](https://github.com/sametcn99/scripts/compare/08101bab5448375b33ae9edefeef6bccde15e8ab...de54e074aad19c590ca1abcf9b1f3ca4f68daff3)** _(Aug 20, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [9c734c0...f790a37](https://github.com/sametcn99/personal-website-blazor/compare/9c734c09f80404a2ebcc2261caa8e6593ce27b64...f790a374be48f8d9abe3e570c4e12324bcc521db)** _(Aug 20, 2026)_
 
 </details>
 
