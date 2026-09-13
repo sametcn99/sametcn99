@@ -39,15 +39,16 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 
+- [**Cloudflare Tunnel ile Local Ortamı Güvenle Paylaşmak**](https://sametcc.me/gist/cloudflare-tunnel-ile-local-ortami-paylasmak) _(published: Sep 13, 2026)_<br />Cloudflare Tunnel ve Access ile yerel geliştirme ortamını port açmadan; HTTPS, kimlik doğrulama ve tenant yönlendirmesiyle internete açmak.
 - [**Projeler İçin Ortak Developer ve AI Dokümantasyonu**](https://sametcc.me/blog/projeler-icin-ortak-developer-ve-ai-dokumantasyonu) _(published: Aug 16, 2026)_<br />AI coding agent&#x27;larının ihtiyaç duyduğu proje bağlamını insanlar ve makineler için ortak, sürdürülebilir bir dokümantasyon yapısıyla oluşturmak.
 - [**GitHub Account Notifications to Gotify with n8n**](https://sametcc.me/gist/github-account-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering GitHub App events from every repository in an account to a Gotify phone notification channel.
 - [**Coolify Notifications to Gotify with n8n**](https://sametcc.me/gist/coolify-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering Coolify deployment, backup, task, server, and container notifications to a Gotify phone notification channel.
 - [**LinkedIn Hide Viewed Jobs**](https://sametcc.me/project/linkedin-hide-viewed-jobs) _(published: Jul 22, 2026)_<br />A privacy-first browser tool that hides or highlights the job postings you have already viewed on LinkedIn, available as a userscript or a standalone browser extension for Chrome and Firefox.
-- [**My Stars Atlas**](https://sametcc.me/project/my-stars-atlas) _(published: Jul 20, 2026)_<br />A generated, searchable catalog of starred GitHub repositories grouped into stable categories, built with a deterministic classification engine and published as a static site on GitHub Pages.
 
 <details>
-  <summary>Show 34 more posts...</summary>
+  <summary>Show 35 more posts...</summary>
 
+- [**My Stars Atlas**](https://sametcc.me/project/my-stars-atlas) _(published: Jul 20, 2026)_<br />A generated, searchable catalog of starred GitHub repositories grouped into stable categories, built with a deterministic classification engine and published as a static site on GitHub Pages.
 - [**Application Tracker**](https://sametcc.me/project/application-tracker) _(published: May 15, 2026)_<br />A self-hosted job search operating system that keeps applications, company notes, follow-ups, documents, and progress history together in a single private dashboard.
 - [**shadcn Theme Configuration for MUI**](https://sametcc.me/gist/shadcn-ui-for-mui) _(published: May 13, 2026)_<br />A complete MUI dark theme configuration styled to resemble shadcn&#x27;s default dark theme, mapping zinc color tokens to MUI palette, typography, and component overrides.
 - [**How to Synchronize Obsidian Vault Using Git (PC + Android)**](https://sametcc.me/gist/how-to-synchronize-obsidian-vault-using-git) _(published: May 5, 2026)_<br />A comprehensive, step-by-step guide on synchronizing your Obsidian vault across PC and Android devices using Git, covering setup, workflow, conflict resolution, and best practices.
@@ -99,17 +100,17 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 ## GitHub Snapshot
 
-| Metric                    | Value                                    |
-| :------------------------ | :--------------------------------------- |
-| **Total Stars Earned**    | 193                                      |
-| **Commits (7d)**          | 10+                                      |
-| **Total Repositories**    | 79                                       |
-| **Active Repositories**   | 69                                       |
-| **Forked Repositories**   | 10                                       |
-| **Archived Repositories** | 0                                        |
-| **Total Gists**           | [56](https://gist.github.com/sametcn99)  |
-| **Top Languages**         | TypeScript, C#, JavaScript, HTML, Python |
-| **Account Age**           | 6 years                                  |
+| Metric                    | Value                                   |
+| :------------------------ | :-------------------------------------- |
+| **Total Stars Earned**    | 193                                     |
+| **Commits (7d)**          | 10+                                     |
+| **Total Repositories**    | 79                                      |
+| **Active Repositories**   | 69                                      |
+| **Forked Repositories**   | 10                                      |
+| **Archived Repositories** | 0                                       |
+| **Total Gists**           | [56](https://gist.github.com/sametcn99) |
+| **Top Languages**         | TypeScript, C#, JavaScript, HTML, MDX   |
+| **Account Age**           | 6 years                                 |
 
 ## Releases
 
@@ -150,15 +151,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [add-slow-video-speed-options](https://github.com/sametcn99/playwright-artifact-explorer/commit/744f96f5b3111a5dd3a3d11fd43c89ef549c258b)** _(Sep 11, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/c1307cba5bc881298119b39b27d7b2e6eb37238e)** _(Sep 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [video-playback-controls](https://github.com/sametcn99/playwright-artifact-explorer/commit/83177bc68ad28e92d77548c35356087aef9afe52)** _(Sep 10, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [## 1.2.2](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/61cc3ba41e0285caa7b7131de14e8bb30c4a7bbc)** _(Sep 11, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [keep-visible-thumbnails-in-place](https://github.com/sametcn99/playwright-artifact-explorer/commit/7d5d695d0a463a03386835ae19ace1bbc1fdc10e)** _(Sep 11, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [video-thumbnails-from-last-frames](https://github.com/sametcn99/playwright-artifact-explorer/commit/65338a92609a728bc1808cbd7404761240dee45b)** _(Sep 11, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [add-copyable-trace-commands](https://github.com/sametcn99/playwright-artifact-explorer/commit/abf3a8509c2dc6f00516948c681ac4b93c7bcbca)** _(Sep 11, 2026)_
 
 <details>
-  <summary>Show 59 more pushes...</summary>
+  <summary>Show 58 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [744f96f...65338a9](https://github.com/sametcn99/playwright-artifact-explorer/compare/744f96f5b3111a5dd3a3d11fd43c89ef549c258b...65338a92609a728bc1808cbd7404761240dee45b)** _(Sep 11, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [00af436...abf3a85](https://github.com/sametcn99/playwright-artifact-explorer/compare/00af4367e2f0a6ce30051d7930d195baf342001a...abf3a8509c2dc6f00516948c681ac4b93c7bcbca)** _(Sep 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [3356e47...00af436](https://github.com/sametcn99/playwright-artifact-explorer/compare/3356e47f6c35a7b10da7d18d5fe89dadb002b2c8...00af4367e2f0a6ce30051d7930d195baf342001a)** _(Sep 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [83177bc...3356e47](https://github.com/sametcn99/playwright-artifact-explorer/compare/83177bc68ad28e92d77548c35356087aef9afe52...3356e47f6c35a7b10da7d18d5fe89dadb002b2c8)** _(Sep 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [aabdb2d...6516afd](https://github.com/sametcn99/playwright-artifact-explorer/compare/aabdb2d2dfa35bee34803099c28a9874c626c641...6516afdb095e2faccd5618ded58ba5836cd450ce)** _(Sep 10, 2026)_
@@ -215,9 +218,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [fee77bf...0cc2035](https://github.com/sametcn99/libredirect-instances-list/compare/fee77bf5116d7b914b86136cef2150ef69805e28...0cc2035e36c7e2194412755fbbf95f99b4a573fc)** _(Aug 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [6d3e569...57566b6](https://github.com/sametcn99/personal-website-blazor/compare/6d3e569a021eb71b4030af1c3967a0d9decf2514...57566b68664ff41f123602a90b5eedfdd1eb5ae1)** _(Aug 22, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f790a37...6d3e569](https://github.com/sametcn99/personal-website-blazor/compare/f790a374be48f8d9abe3e570c4e12324bcc521db...6d3e569a021eb71b4030af1c3967a0d9decf2514)** _(Aug 22, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [ac7ccaf...eb33fd8](https://github.com/sametcn99/gotify-web-extension/compare/ac7ccaf6fb58b7ec42de10ca1eb6ae10ccda1f03...eb33fd8347a5aa7a476a5835e75c7001d59f4fb3)** _(Aug 21, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [6289cc2...1b0bb58](https://github.com/sametcn99/gotify-web-extension/compare/6289cc2dcad8634c955dc45fc940ee909194b177...1b0bb58ab31909328ac340bc02a57ef4dd0625b2)** _(Aug 21, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [1b0bb58...ac7ccaf](https://github.com/sametcn99/gotify-web-extension/compare/1b0bb58ab31909328ac340bc02a57ef4dd0625b2...ac7ccaf6fb58b7ec42de10ca1eb6ae10ccda1f03)** _(Aug 21, 2026)_
 
 </details>
 
@@ -242,7 +242,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 47 more starred repositories...</summary>
+  <summary>Show 45 more starred repositories...</summary>
 
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
@@ -289,8 +289,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)** _(Aug 15, 2026)_
 - **Starred [openai/codex](https://github.com/openai/codex)** _(Aug 14, 2026)_
 - **Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** _(Aug 13, 2026)_
-- **Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** _(Aug 13, 2026)_
-- **Starred [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima)** _(Aug 13, 2026)_
 
 </details>
 
