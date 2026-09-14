@@ -240,7 +240,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 44 more starred repositories...</summary>
+  <summary>Show 43 more starred repositories...</summary>
 
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
@@ -285,7 +285,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [Kikobeats/free-email-domains](https://github.com/Kikobeats/free-email-domains)** _(Aug 15, 2026)_
 - **Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)** _(Aug 15, 2026)_
 - **Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)** _(Aug 15, 2026)_
-- **Starred [openai/codex](https://github.com/openai/codex)** _(Aug 14, 2026)_
 
 </details>
 
