@@ -219,11 +219,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 </details>
 
-### Pull Requests
-
-- **Merged pull request [#5: refactor extension UI and frame detection](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
-- **Opened pull request [#5: refactor extension UI and frame detection](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5) in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Aug 14, 2026)_
-
 ### Comments
 
 - **Commented on issue [希望增加菜单栏的折叠功能，令牌Mermaid图形居中功能有bug，浏览器变化时不总是居中](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
