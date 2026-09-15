@@ -32,7 +32,7 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 1 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 
 ## Latest Writing
@@ -102,7 +102,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 193                                     |
+| **Total Stars Earned**    | 194                                     |
 | **Commits (7d)**          | 10+                                     |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
@@ -158,7 +158,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [video-playback-controls](https://github.com/sametcn99/playwright-artifact-explorer/commit/83177bc68ad28e92d77548c35356087aef9afe52)** _(Sep 10, 2026)_
 
 <details>
-  <summary>Show 54 more pushes...</summary>
+  <summary>Show 51 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [97d8fff...61cc3ba](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/97d8fffe74e5b3610bd970525cb36fe08857c56b...61cc3ba41e0285caa7b7131de14e8bb30c4a7bbc)** _(Sep 11, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [65338a9...7d5d695](https://github.com/sametcn99/playwright-artifact-explorer/compare/65338a92609a728bc1808cbd7404761240dee45b...7d5d695d0a463a03386835ae19ace1bbc1fdc10e)** _(Sep 11, 2026)_
@@ -211,9 +211,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [800ad1e...46c2fb0](https://github.com/sametcn99/apps/compare/800ad1e9f12f11dc34b34ab87955c403955a8e3d...46c2fb0177cccdcc663835f220c2225eac7c0b33)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f169a09...69cf5d1](https://github.com/sametcn99/libredirect-mobile/compare/f169a0955f88d75cea41467dd1151d40aa68e8d6...69cf5d1753667b4740a176ed38f1667445e371c1)** _(Aug 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [69cf5d1...3881a67](https://github.com/sametcn99/libredirect-mobile/compare/69cf5d1753667b4740a176ed38f1667445e371c1...3881a675f949b37d199ed98984dc606af2de7ad2)** _(Aug 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [0196b90...f169a09](https://github.com/sametcn99/libredirect-mobile/compare/0196b903b7d4413016622890f5f6aad7b6c35190...f169a0955f88d75cea41467dd1151d40aa68e8d6)** _(Aug 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [caf0975...0196b90](https://github.com/sametcn99/libredirect-mobile/compare/caf0975fd4d327a767d510efb2c97844fde9b96a...0196b903b7d4413016622890f5f6aad7b6c35190)** _(Aug 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list): [0cc2035...b9f1dae](https://github.com/sametcn99/libredirect-instances-list/compare/0cc2035e36c7e2194412755fbbf95f99b4a573fc...b9f1dae04ebe2130e6322615fb4d2a5bc160a4ff)** _(Aug 24, 2026)_
 
 </details>
 
@@ -291,11 +288,10 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Opened issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 
 <details>
-  <summary>Show 6 more other activity...</summary>
+  <summary>Show 5 more other activity...</summary>
 
 - **Assigned issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
-- **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 24, 2026)_
 - **Public in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 23, 2026)_
 - **Closed issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 - **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
