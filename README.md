@@ -151,15 +151,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [Show loading state while reading artifact folders](https://github.com/sametcn99/playwright-artifact-explorer/commit/9d9883f4176675368ba24155427dff557e60c713)** _(Sep 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [Add persistent folder restore, PWA support and layout improvements](https://github.com/sametcn99/playwright-artifact-explorer/commit/722db03046ccb6ba1604f9aa3049046c10e201ef)** _(Sep 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [Add optional white video intro skipping](https://github.com/sametcn99/playwright-artifact-explorer/commit/6d1410770be82de90a952f6f641bcfaa003f2f00)** _(Sep 15, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/d30377a820e41fd49ef3131ad0a9c7a7b24c1021)** _(Sep 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa)** _(Sep 13, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [add-slow-video-speed-options](https://github.com/sametcn99/playwright-artifact-explorer/commit/744f96f5b3111a5dd3a3d11fd43c89ef549c258b)** _(Sep 11, 2026)_
 
 <details>
   <summary>Show 49 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [abf3a85...744f96f](https://github.com/sametcn99/playwright-artifact-explorer/compare/abf3a8509c2dc6f00516948c681ac4b93c7bcbca...744f96f5b3111a5dd3a3d11fd43c89ef549c258b)** _(Sep 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ac08769...c1307cb](https://github.com/sametcn99/personal-website-blazor/compare/ac08769251aaf82f0ae21663e6c14aca8d978275...c1307cba5bc881298119b39b27d7b2e6eb37238e)** _(Sep 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [6516afd...83177bc](https://github.com/sametcn99/playwright-artifact-explorer/compare/6516afdb095e2faccd5618ded58ba5836cd450ce...83177bc68ad28e92d77548c35356087aef9afe52)** _(Sep 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [97d8fff...61cc3ba](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/97d8fffe74e5b3610bd970525cb36fe08857c56b...61cc3ba41e0285caa7b7131de14e8bb30c4a7bbc)** _(Sep 11, 2026)_
@@ -208,7 +209,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2f71670...ac08769](https://github.com/sametcn99/personal-website-blazor/compare/2f716703922857529e33546d99c1f5e5803d977a...ac08769251aaf82f0ae21663e6c14aca8d978275)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [8c3bce5...2f71670](https://github.com/sametcn99/personal-website-blazor/compare/8c3bce52b93105547fc4dce707186449617df61e...2f716703922857529e33546d99c1f5e5803d977a)** _(Aug 28, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [4cf0df2...8c3bce5](https://github.com/sametcn99/personal-website-blazor/compare/4cf0df2744248e4f6b7464b9a352fbd3765b6a68...8c3bce52b93105547fc4dce707186449617df61e)** _(Aug 25, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [57566b6...4cf0df2](https://github.com/sametcn99/personal-website-blazor/compare/57566b68664ff41f123602a90b5eedfdd1eb5ae1...4cf0df2744248e4f6b7464b9a352fbd3765b6a68)** _(Aug 24, 2026)_
 
 </details>
 
