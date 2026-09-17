@@ -227,7 +227,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 34 more starred repositories...</summary>
+  <summary>Show 32 more starred repositories...</summary>
 
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
@@ -261,8 +261,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** _(Aug 18, 2026)_
 - **Starred [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch)** _(Aug 18, 2026)_
 - **Starred [zioder/TaskbarQuota](https://github.com/zioder/TaskbarQuota)** _(Aug 18, 2026)_
-- **Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)** _(Aug 18, 2026)_
-- **Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)** _(Aug 18, 2026)_
 
 </details>
 
