@@ -227,7 +227,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 29 more starred repositories...</summary>
+  <summary>Show 28 more starred repositories...</summary>
 
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
@@ -257,7 +257,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)** _(Aug 20, 2026)_
 - **Starred [Macawls/umami-mcp-server](https://github.com/Macawls/umami-mcp-server)** _(Aug 20, 2026)_
 - **Starred [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp)** _(Aug 19, 2026)_
-- **Starred [ashkulz/committers.top](https://github.com/ashkulz/committers.top)** _(Aug 19, 2026)_
 
 </details>
 
