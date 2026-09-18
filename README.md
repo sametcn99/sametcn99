@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 10+                                     |
+| **Commits (7d)**          | 6                                       |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
 | **Forked Repositories**   | 10                                      |
@@ -227,7 +227,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 32 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
@@ -258,9 +258,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [Macawls/umami-mcp-server](https://github.com/Macawls/umami-mcp-server)** _(Aug 20, 2026)_
 - **Starred [StuMason/coolify-mcp](https://github.com/StuMason/coolify-mcp)** _(Aug 19, 2026)_
 - **Starred [ashkulz/committers.top](https://github.com/ashkulz/committers.top)** _(Aug 19, 2026)_
-- **Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** _(Aug 18, 2026)_
-- **Starred [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch)** _(Aug 18, 2026)_
-- **Starred [zioder/TaskbarQuota](https://github.com/zioder/TaskbarQuota)** _(Aug 18, 2026)_
 
 </details>
 
