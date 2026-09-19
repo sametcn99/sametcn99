@@ -25,7 +25,7 @@ badge](https://user-badge.committers.top/turkey/sametcn99.svg)](https://user-bad
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Sep 11, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
-| [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Aug 15, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
+| [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
 | [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |   ★ 8 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |   ★ 8 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 6                                       |
+| **Commits (7d)**          | 8                                       |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
 | **Forked Repositories**   | 10                                      |
@@ -151,15 +151,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [@](https://github.com/sametcn99/my-stars-atlas/commit/fc9d3b905360178f5586d7edc5b86b086caae81f)** _(Sep 19, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [.](https://github.com/sametcn99/my-stars-atlas/commit/45a6f82c065fcf3667a435c463b20342230fcce0)** _(Sep 19, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [Show loading state while reading artifact folders](https://github.com/sametcn99/playwright-artifact-explorer/commit/9d9883f4176675368ba24155427dff557e60c713)** _(Sep 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [Add persistent folder restore, PWA support and layout improvements](https://github.com/sametcn99/playwright-artifact-explorer/commit/722db03046ccb6ba1604f9aa3049046c10e201ef)** _(Sep 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [Add optional white video intro skipping](https://github.com/sametcn99/playwright-artifact-explorer/commit/6d1410770be82de90a952f6f641bcfaa003f2f00)** _(Sep 15, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/d30377a820e41fd49ef3131ad0a9c7a7b24c1021)** _(Sep 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa)** _(Sep 13, 2026)_
 
 <details>
-  <summary>Show 48 more pushes...</summary>
+  <summary>Show 50 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bbdcf9c...d30377a](https://github.com/sametcn99/personal-website-blazor/compare/bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa...d30377a820e41fd49ef3131ad0a9c7a7b24c1021)** _(Sep 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c1307cb...bbdcf9c](https://github.com/sametcn99/personal-website-blazor/compare/c1307cba5bc881298119b39b27d7b2e6eb37238e...bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa)** _(Sep 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [abf3a85...744f96f](https://github.com/sametcn99/playwright-artifact-explorer/compare/abf3a8509c2dc6f00516948c681ac4b93c7bcbca...744f96f5b3111a5dd3a3d11fd43c89ef549c258b)** _(Sep 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ac08769...c1307cb](https://github.com/sametcn99/personal-website-blazor/compare/ac08769251aaf82f0ae21663e6c14aca8d978275...c1307cba5bc881298119b39b27d7b2e6eb37238e)** _(Sep 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [6516afd...83177bc](https://github.com/sametcn99/playwright-artifact-explorer/compare/6516afdb095e2faccd5618ded58ba5836cd450ce...83177bc68ad28e92d77548c35356087aef9afe52)** _(Sep 10, 2026)_
