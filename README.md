@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 9                                       |
+| **Commits (7d)**          | 6                                       |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
 | **Forked Repositories**   | 10                                      |
@@ -230,7 +230,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 27 more starred repositories...</summary>
+  <summary>Show 23 more starred repositories...</summary>
 
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
@@ -255,10 +255,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
 - **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
 - **Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** _(Aug 20, 2026)_
-- **Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)** _(Aug 20, 2026)_
-- **Starred [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui)** _(Aug 20, 2026)_
-- **Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)** _(Aug 20, 2026)_
-- **Starred [Macawls/umami-mcp-server](https://github.com/Macawls/umami-mcp-server)** _(Aug 20, 2026)_
 
 </details>
 
