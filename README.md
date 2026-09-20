@@ -230,7 +230,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 23 more starred repositories...</summary>
+  <summary>Show 20 more starred repositories...</summary>
 
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
@@ -252,9 +252,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
 - **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 21, 2026)_
 - **Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)** _(Aug 21, 2026)_
-- **Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** _(Aug 20, 2026)_
-- **Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)** _(Aug 20, 2026)_
-- **Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** _(Aug 20, 2026)_
 
 </details>
 
