@@ -220,7 +220,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Commented on issue [希望增加菜单栏的折叠功能，令牌Mermaid图形居中功能有bug，浏览器变化时不总是居中](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 - **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 - **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
-- **Commented on issue [Not able to clear notification pop-up number](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 
 ### Starred Repositories
 
@@ -265,13 +264,11 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Opened issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 
 <details>
-  <summary>Show 5 more other activity...</summary>
+  <summary>Show 3 more other activity...</summary>
 
 - **Assigned issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
 - **Public in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Aug 23, 2026)_
-- **Closed issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
-- **Assigned issue [#1](https://github.com/sametcn99/gotify-web-extension/issues/1) in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Aug 21, 2026)_
 
 </details>
 
