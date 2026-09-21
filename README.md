@@ -230,7 +230,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 20 more starred repositories...</summary>
+  <summary>Show 16 more starred repositories...</summary>
 
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
@@ -248,10 +248,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)** _(Aug 24, 2026)_
 - **Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)** _(Aug 24, 2026)_
 - **Starred [gotify/android](https://github.com/gotify/android)** _(Aug 24, 2026)_
-- **Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)** _(Aug 21, 2026)_
-- **Starred [traycerai/traycer](https://github.com/traycerai/traycer)** _(Aug 21, 2026)_
-- **Starred [stablyai/orca](https://github.com/stablyai/orca)** _(Aug 21, 2026)_
-- **Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)** _(Aug 21, 2026)_
 
 </details>
 
