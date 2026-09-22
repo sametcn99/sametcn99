@@ -223,15 +223,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [mui/mui-design-kits](https://github.com/mui/mui-design-kits)** _(Sep 22, 2026)_
+- **Starred [mui/mui-x](https://github.com/mui/mui-x)** _(Sep 22, 2026)_
 - **Starred [yangshun/ultrastorage](https://github.com/yangshun/ultrastorage)** _(Sep 14, 2026)_
 - **Starred [livekit/livekit](https://github.com/livekit/livekit)** _(Sep 10, 2026)_
 - **Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** _(Sep 8, 2026)_
-- **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
-- **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 
 <details>
-  <summary>Show 16 more starred repositories...</summary>
+  <summary>Show 18 more starred repositories...</summary>
 
+- **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
+- **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
