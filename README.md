@@ -251,15 +251,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Closed issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 24, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer)** _(Sep 10, 2026)_
 - **Opened issue [#1754](https://github.com/traycerai/traycer/issues/1754) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 - **Closed issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 - **Closed issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
-- **Opened issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 
 <details>
-  <summary>Show 2 more other activity...</summary>
+  <summary>Show 3 more other activity...</summary>
 
+- **Opened issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 - **Assigned issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/case-fx-tool](https://github.com/sametcn99/case-fx-tool)** _(Sep 1, 2026)_
 
@@ -271,13 +272,12 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 ### Issues
 
-| Issue                                                                                                                                                   | Repository                                                                                      |       Updated        |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------- | :------------------: |
-| [**希望增加菜单栏的折叠功能，令牌Mermaid图形居中功能有bug，浏览器变化时不总是居中**](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) | [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Updated Sep 5, 2026  |
-| [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)                             | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)                     | Updated Feb 22, 2026 |
-| [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8)                           | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)                           | Updated Jan 13, 2026 |
-| [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7)                   | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)                           | Updated Jan 11, 2026 |
-| [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33)                            | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)                     | Updated Oct 23, 2025 |
+| Issue                                                                                                                                 | Repository                                                                  |       Updated        |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :------------------: |
+| [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)           | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | Updated Feb 22, 2026 |
+| [**[Bug] Git diff not showing properly when wanting to open diff view**](https://github.com/sametcn99/env-protector/issues/8)         | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)       | Updated Jan 13, 2026 |
+| [**[Bug] Env file not protected when starting repository with env last opened**](https://github.com/sametcn99/env-protector/issues/7) | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)       | Updated Jan 11, 2026 |
+| [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33)          | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) | Updated Oct 23, 2025 |
 
 ### Pull Requests
 
