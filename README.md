@@ -230,7 +230,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** _(Sep 8, 2026)_
 
 <details>
-  <summary>Show 14 more starred repositories...</summary>
+  <summary>Show 13 more starred repositories...</summary>
 
 - **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
@@ -245,7 +245,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
 - **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
-- **Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)** _(Aug 25, 2026)_
 
 </details>
 
