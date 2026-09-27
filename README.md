@@ -220,15 +220,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [poyrazavsever/neta](https://github.com/poyrazavsever/neta)** _(Sep 26, 2026)_
+- **Starred [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** _(Sep 26, 2026)_
 - **Starred [sabrogden/Ditto](https://github.com/sabrogden/Ditto)** _(Sep 25, 2026)_
 - **Starred [mui/mui-design-kits](https://github.com/mui/mui-design-kits)** _(Sep 22, 2026)_
 - **Starred [mui/mui-x](https://github.com/mui/mui-x)** _(Sep 22, 2026)_
-- **Starred [yangshun/ultrastorage](https://github.com/yangshun/ultrastorage)** _(Sep 14, 2026)_
-- **Starred [livekit/livekit](https://github.com/livekit/livekit)** _(Sep 10, 2026)_
 
 <details>
-  <summary>Show 14 more starred repositories...</summary>
+  <summary>Show 15 more starred repositories...</summary>
 
+- **Starred [yangshun/ultrastorage](https://github.com/yangshun/ultrastorage)** _(Sep 14, 2026)_
+- **Starred [livekit/livekit](https://github.com/livekit/livekit)** _(Sep 10, 2026)_
 - **Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** _(Sep 8, 2026)_
 - **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
 - **Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** _(Sep 7, 2026)_
@@ -242,7 +244,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
 - **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 - **Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)** _(Aug 30, 2026)_
-- **Starred [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu)** _(Aug 27, 2026)_
 
 </details>
 
