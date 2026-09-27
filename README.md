@@ -100,7 +100,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 1                                       |
+| **Commits (7d)**          | 3                                       |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
 | **Forked Repositories**   | 10                                      |
@@ -340,5 +340,5 @@ Open issues and pull requests that I am currently tracking or planning to work o
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sametcn99/sametcn99/refs/heads/main/public/cat.gif" alt="Cat GIF" />
+  <img src="https://raw.githubusercontent.com/sametcn99/sametcn99/refs/heads/main/public/cat.gif" alt="Cat GIF" width="150" />
 </p>
