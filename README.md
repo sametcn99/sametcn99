@@ -100,7 +100,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 0                                       |
+| **Commits (7d)**          | 1                                       |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
 | **Forked Repositories**   | 10                                      |
@@ -338,3 +338,7 @@ Open issues and pull requests that I am currently tracking or planning to work o
 - [**Letterboxd-to-IMDb**](https://github.com/sametcn99/Letterboxd-to-IMDb) — Python · Updated Jun 28, 2025<br />Import your Letterboxd ratings into IMDb
 
 </details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sametcn99/sametcn99/refs/heads/main/public/cat.gif" alt="Cat GIF" />
+</p>
