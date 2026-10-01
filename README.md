@@ -197,7 +197,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** _(Sep 26, 2026)_
 
 <details>
-  <summary>Show 17 more starred repositories...</summary>
+  <summary>Show 16 more starred repositories...</summary>
 
 - **Starred [sabrogden/Ditto](https://github.com/sabrogden/Ditto)** _(Sep 25, 2026)_
 - **Starred [mui/mui-design-kits](https://github.com/mui/mui-design-kits)** _(Sep 22, 2026)_
@@ -215,7 +215,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
 - **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
-- **Starred [superset-sh/superset](https://github.com/superset-sh/superset)** _(Aug 31, 2026)_
 
 </details>
 
