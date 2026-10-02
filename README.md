@@ -197,7 +197,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [poyrazavsever/neta](https://github.com/poyrazavsever/neta)** _(Sep 26, 2026)_
 
 <details>
-  <summary>Show 17 more starred repositories...</summary>
+  <summary>Show 16 more starred repositories...</summary>
 
 - **Starred [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** _(Sep 26, 2026)_
 - **Starred [sabrogden/Ditto](https://github.com/sabrogden/Ditto)** _(Sep 25, 2026)_
@@ -215,7 +215,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 - **Starred [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)** _(Sep 1, 2026)_
 - **Starred [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)** _(Sep 1, 2026)_
-- **Starred [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter)** _(Sep 1, 2026)_
 
 </details>
 
