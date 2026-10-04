@@ -100,7 +100,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 4                                       |
+| **Commits (7d)**          | 0                                       |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
 | **Forked Repositories**   | 10                                      |
@@ -196,7 +196,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** _(Sep 28, 2026)_
 
 <details>
-  <summary>Show 15 more starred repositories...</summary>
+  <summary>Show 14 more starred repositories...</summary>
 
 - **Starred [poyrazavsever/neta](https://github.com/poyrazavsever/neta)** _(Sep 26, 2026)_
 - **Starred [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** _(Sep 26, 2026)_
@@ -212,7 +212,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 - **Starred [yusufipk/dikte](https://github.com/yusufipk/dikte)** _(Sep 5, 2026)_
 - **Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)** _(Sep 3, 2026)_
-- **Starred [fujibee/agmsg](https://github.com/fujibee/agmsg)** _(Sep 3, 2026)_
 
 </details>
 
