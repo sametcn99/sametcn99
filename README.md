@@ -100,7 +100,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 0                                       |
+| **Commits (7d)**          | 5                                       |
 | **Total Repositories**    | 79                                      |
 | **Active Repositories**   | 69                                      |
 | **Forked Repositories**   | 10                                      |
@@ -148,15 +148,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Delete README.md](https://github.com/Hiretea/.github/commit/dba14af1c741f2265f4418aa9d6f4667fd4f6ccd)** _(Oct 4, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Create README.md](https://github.com/Hiretea/.github/commit/4c709d320688585c06f84af478ee8f3c7b2ce0f7)** _(Oct 4, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Create FUNDING.yml](https://github.com/Hiretea/.github/commit/f66ff7dd3e6738cb970661b5283bd1afa32b9395)** _(Oct 4, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/0f41627f63958c11dd3edb9914dd1277df7def3c)** _(Sep 27, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [Merge branch &#x27;main&#x27; of https://github.com/sametcn99/sametcn99](https://github.com/sametcn99/sametcn99/commit/0e53ab779b0c9828257cdec20f20ae137f8373f7)** _(Sep 27, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/90ebbc526e2bac0f8bd74bb9d14ced6bbfcc7147)** _(Sep 27, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [Replace generated README with a static one](https://github.com/sametcn99/my-stars-atlas/commit/f05c2f42535318a603d677802f4877cdc50246d1)** _(Sep 19, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [.](https://github.com/sametcn99/my-stars-atlas/commit/89f49cf68fa1e608f4cdcee5c8c9f23691a8c9d4)** _(Sep 19, 2026)_
 
 <details>
-  <summary>Show 21 more pushes...</summary>
+  <summary>Show 23 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d664416...90ebbc5](https://github.com/sametcn99/sametcn99/compare/d664416d4b211c9237b0d02f2059f76c573fe053...90ebbc526e2bac0f8bd74bb9d14ced6bbfcc7147)** _(Sep 27, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [fc9d3b9...f05c2f4](https://github.com/sametcn99/my-stars-atlas/compare/fc9d3b905360178f5586d7edc5b86b086caae81f...f05c2f42535318a603d677802f4877cdc50246d1)** _(Sep 19, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [f05c2f4...89f49cf](https://github.com/sametcn99/my-stars-atlas/compare/f05c2f42535318a603d677802f4877cdc50246d1...89f49cf68fa1e608f4cdcee5c8c9f23691a8c9d4)** _(Sep 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [45a6f82...fc9d3b9](https://github.com/sametcn99/my-stars-atlas/compare/45a6f82c065fcf3667a435c463b20342230fcce0...fc9d3b905360178f5586d7edc5b86b086caae81f)** _(Sep 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5cdbbd7...45a6f82](https://github.com/sametcn99/my-stars-atlas/compare/5cdbbd76db5e76f044fe55e50b278ffa2b705b67...45a6f82c065fcf3667a435c463b20342230fcce0)** _(Sep 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [722db03...9d9883f](https://github.com/sametcn99/playwright-artifact-explorer/compare/722db03046ccb6ba1604f9aa3049046c10e201ef...9d9883f4176675368ba24155427dff557e60c713)** _(Sep 15, 2026)_
@@ -177,7 +180,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cd62633...97d8fff](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cd6263326353b2122c4c0fcc05fa85febac8f7a5...97d8fffe74e5b3610bd970525cb36fe08857c56b)** _(Sep 5, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [a3fbd02...fc4e508](https://github.com/sametcn99/apps/compare/a3fbd024060395427a66dde398f428b86fd5abee...fc4e5081457698503d7e745cc4a42153c071cc69)** _(Sep 4, 2026)_
 - **Pushed to &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server): [965a5db...8378d1f](https://github.com/sametcn99/server/compare/965a5dbad664c80bd7e25e3d660403628486ca5d...8378d1fc0da1b9948c0fbfdbd570c28f8bf4a61a)** _(Sep 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [7eaafc6...cd62633](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/7eaafc643ff95d74a8cf87da0f449f34129b0b7a...cd6263326353b2122c4c0fcc05fa85febac8f7a5)** _(Sep 5, 2026)_
 
 </details>
 
@@ -216,15 +218,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
 - **Closed issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 24, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer)** _(Sep 10, 2026)_
 - **Opened issue [#1754](https://github.com/traycerai/traycer/issues/1754) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 - **Closed issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
-- **Closed issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 
 <details>
-  <summary>Show 2 more other activity...</summary>
+  <summary>Show 3 more other activity...</summary>
 
+- **Closed issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 - **Opened issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
 - **Assigned issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 
