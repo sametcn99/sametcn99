@@ -185,19 +185,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 - **Commented on issue [希望增加菜单栏的折叠功能，令牌Mermaid图形居中功能有bug，浏览器变化时不总是居中](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 5, 2026)_
 - **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
-- **Commented on issue [Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 
 ### Starred Repositories
 
+- **Starred [czaydev/better-payment](https://github.com/czaydev/better-payment)** _(Oct 4, 2026)_
 - **Starred [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)** _(Oct 2, 2026)_
 - **Starred [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)** _(Oct 1, 2026)_
 - **Starred [selfishprimate/seekter](https://github.com/selfishprimate/seekter)** _(Sep 29, 2026)_
 - **Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** _(Sep 29, 2026)_
-- **Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** _(Sep 28, 2026)_
 
 <details>
-  <summary>Show 13 more starred repositories...</summary>
+  <summary>Show 14 more starred repositories...</summary>
 
+- **Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** _(Sep 28, 2026)_
 - **Starred [poyrazavsever/neta](https://github.com/poyrazavsever/neta)** _(Sep 26, 2026)_
 - **Starred [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** _(Sep 26, 2026)_
 - **Starred [sabrogden/Ditto](https://github.com/sabrogden/Ditto)** _(Sep 25, 2026)_
