@@ -185,15 +185,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react)** _(Oct 6, 2026)_
 - **Starred [czaydev/better-payment](https://github.com/czaydev/better-payment)** _(Oct 4, 2026)_
 - **Starred [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)** _(Oct 2, 2026)_
 - **Starred [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)** _(Oct 1, 2026)_
 - **Starred [selfishprimate/seekter](https://github.com/selfishprimate/seekter)** _(Sep 29, 2026)_
-- **Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** _(Sep 29, 2026)_
 
 <details>
-  <summary>Show 12 more starred repositories...</summary>
+  <summary>Show 13 more starred repositories...</summary>
 
+- **Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** _(Sep 29, 2026)_
 - **Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** _(Sep 28, 2026)_
 - **Starred [poyrazavsever/neta](https://github.com/poyrazavsever/neta)** _(Sep 26, 2026)_
 - **Starred [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** _(Sep 26, 2026)_
@@ -215,16 +216,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
 - **Closed issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 24, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer)** _(Sep 10, 2026)_
-- **Opened issue [#1754](https://github.com/traycerai/traycer/issues/1754) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
-
-<details>
-  <summary>Show 3 more other activity...</summary>
-
-- **Closed issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
-- **Closed issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
-- **Opened issue [#1753](https://github.com/traycerai/traycer/issues/1753) in [traycerai/traycer](https://github.com/traycerai/traycer)** _(Sep 6, 2026)_
-
-</details>
 
 ## Collaboration
 
