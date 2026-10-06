@@ -192,7 +192,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** _(Sep 29, 2026)_
 
 <details>
-  <summary>Show 13 more starred repositories...</summary>
+  <summary>Show 12 more starred repositories...</summary>
 
 - **Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** _(Sep 28, 2026)_
 - **Starred [poyrazavsever/neta](https://github.com/poyrazavsever/neta)** _(Sep 26, 2026)_
@@ -206,7 +206,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
 - **Starred [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin)** _(Sep 7, 2026)_
 - **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
-- **Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)** _(Sep 5, 2026)_
 
 </details>
 
