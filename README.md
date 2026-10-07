@@ -155,7 +155,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/0f41627f63958c11dd3edb9914dd1277df7def3c)** _(Sep 27, 2026)_
 
 <details>
-  <summary>Show 23 more pushes...</summary>
+  <summary>Show 22 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f092ff8...0e53ab7](https://github.com/sametcn99/sametcn99/compare/f092ff8c7b0d697aca22146074ba818f7d91b7c0...0e53ab779b0c9828257cdec20f20ae137f8373f7)** _(Sep 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d664416...90ebbc5](https://github.com/sametcn99/sametcn99/compare/d664416d4b211c9237b0d02f2059f76c573fe053...90ebbc526e2bac0f8bd74bb9d14ced6bbfcc7147)** _(Sep 27, 2026)_
@@ -179,21 +179,33 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [83177bc...3356e47](https://github.com/sametcn99/playwright-artifact-explorer/compare/83177bc68ad28e92d77548c35356087aef9afe52...3356e47f6c35a7b10da7d18d5fe89dadb002b2c8)** _(Sep 10, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [aabdb2d...6516afd](https://github.com/sametcn99/playwright-artifact-explorer/compare/aabdb2d2dfa35bee34803099c28a9874c626c641...6516afdb095e2faccd5618ded58ba5836cd450ce)** _(Sep 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [cd62633...97d8fff](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/cd6263326353b2122c4c0fcc05fa85febac8f7a5...97d8fffe74e5b3610bd970525cb36fe08857c56b)** _(Sep 5, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/apps](https://github.com/sametcn99/apps): [a3fbd02...fc4e508](https://github.com/sametcn99/apps/compare/a3fbd024060395427a66dde398f428b86fd5abee...fc4e5081457698503d7e745cc4a42153c071cc69)** _(Sep 4, 2026)_
 
 </details>
 
 ### Starred Repositories
 
+- **Starred [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)** _(Oct 7, 2026)_
+- **Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)** _(Oct 7, 2026)_
+- **Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)** _(Oct 7, 2026)_
+- **Starred [react/create-react-app](https://github.com/react/create-react-app)** _(Oct 7, 2026)_
+- **Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)** _(Oct 7, 2026)_
+
+<details>
+  <summary>Show 26 more starred repositories...</summary>
+
+- **Starred [prettier/prettier](https://github.com/prettier/prettier)** _(Oct 7, 2026)_
+- **Starred [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)** _(Oct 7, 2026)_
+- **Starred [streamich/react-use](https://github.com/streamich/react-use)** _(Oct 7, 2026)_
+- **Starred [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv)** _(Oct 7, 2026)_
+- **Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)** _(Oct 7, 2026)_
+- **Starred [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)** _(Oct 7, 2026)_
+- **Starred [eslint/eslint](https://github.com/eslint/eslint)** _(Oct 7, 2026)_
+- **Starred [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** _(Oct 7, 2026)_
 - **Starred [PanaraStudios/opensend.cc](https://github.com/PanaraStudios/opensend.cc)** _(Oct 6, 2026)_
 - **Starred [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react)** _(Oct 6, 2026)_
 - **Starred [czaydev/better-payment](https://github.com/czaydev/better-payment)** _(Oct 4, 2026)_
 - **Starred [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)** _(Oct 2, 2026)_
 - **Starred [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)** _(Oct 1, 2026)_
-
-<details>
-  <summary>Show 13 more starred repositories...</summary>
-
 - **Starred [selfishprimate/seekter](https://github.com/selfishprimate/seekter)** _(Sep 29, 2026)_
 - **Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** _(Sep 29, 2026)_
 - **Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)** _(Sep 28, 2026)_
