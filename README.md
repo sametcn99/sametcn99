@@ -192,7 +192,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)** _(Oct 1, 2026)_
 
 <details>
-  <summary>Show 14 more starred repositories...</summary>
+  <summary>Show 13 more starred repositories...</summary>
 
 - **Starred [selfishprimate/seekter](https://github.com/selfishprimate/seekter)** _(Sep 29, 2026)_
 - **Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** _(Sep 29, 2026)_
@@ -207,7 +207,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** _(Sep 8, 2026)_
 - **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
 - **Starred [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin)** _(Sep 7, 2026)_
-- **Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)** _(Sep 7, 2026)_
 
 </details>
 
