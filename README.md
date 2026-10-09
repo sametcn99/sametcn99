@@ -190,7 +190,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)** _(Oct 7, 2026)_
 
 <details>
-  <summary>Show 25 more starred repositories...</summary>
+  <summary>Show 23 more starred repositories...</summary>
 
 - **Starred [prettier/prettier](https://github.com/prettier/prettier)** _(Oct 7, 2026)_
 - **Starred [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)** _(Oct 7, 2026)_
@@ -215,8 +215,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [mui/mui-x](https://github.com/mui/mui-x)** _(Sep 22, 2026)_
 - **Starred [yangshun/ultrastorage](https://github.com/yangshun/ultrastorage)** _(Sep 14, 2026)_
 - **Starred [livekit/livekit](https://github.com/livekit/livekit)** _(Sep 10, 2026)_
-- **Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** _(Sep 8, 2026)_
-- **Starred [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)** _(Sep 8, 2026)_
 
 </details>
 
