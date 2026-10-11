@@ -155,7 +155,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/0f41627f63958c11dd3edb9914dd1277df7def3c)** _(Sep 27, 2026)_
 
 <details>
-  <summary>Show 19 more pushes...</summary>
+  <summary>Show 15 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f092ff8...0e53ab7](https://github.com/sametcn99/sametcn99/compare/f092ff8c7b0d697aca22146074ba818f7d91b7c0...0e53ab779b0c9828257cdec20f20ae137f8373f7)** _(Sep 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d664416...90ebbc5](https://github.com/sametcn99/sametcn99/compare/d664416d4b211c9237b0d02f2059f76c573fe053...90ebbc526e2bac0f8bd74bb9d14ced6bbfcc7147)** _(Sep 27, 2026)_
@@ -172,10 +172,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ac08769...c1307cb](https://github.com/sametcn99/personal-website-blazor/compare/ac08769251aaf82f0ae21663e6c14aca8d978275...c1307cba5bc881298119b39b27d7b2e6eb37238e)** _(Sep 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [6516afd...83177bc](https://github.com/sametcn99/playwright-artifact-explorer/compare/6516afdb095e2faccd5618ded58ba5836cd450ce...83177bc68ad28e92d77548c35356087aef9afe52)** _(Sep 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [97d8fff...61cc3ba](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/97d8fffe74e5b3610bd970525cb36fe08857c56b...61cc3ba41e0285caa7b7131de14e8bb30c4a7bbc)** _(Sep 11, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [65338a9...7d5d695](https://github.com/sametcn99/playwright-artifact-explorer/compare/65338a92609a728bc1808cbd7404761240dee45b...7d5d695d0a463a03386835ae19ace1bbc1fdc10e)** _(Sep 11, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [744f96f...65338a9](https://github.com/sametcn99/playwright-artifact-explorer/compare/744f96f5b3111a5dd3a3d11fd43c89ef549c258b...65338a92609a728bc1808cbd7404761240dee45b)** _(Sep 11, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [00af436...abf3a85](https://github.com/sametcn99/playwright-artifact-explorer/compare/00af4367e2f0a6ce30051d7930d195baf342001a...abf3a8509c2dc6f00516948c681ac4b93c7bcbca)** _(Sep 11, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [3356e47...00af436](https://github.com/sametcn99/playwright-artifact-explorer/compare/3356e47f6c35a7b10da7d18d5fe89dadb002b2c8...00af4367e2f0a6ce30051d7930d195baf342001a)** _(Sep 11, 2026)_
 
 </details>
 
