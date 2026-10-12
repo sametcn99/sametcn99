@@ -175,15 +175,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [storytold/photocraft](https://github.com/storytold/photocraft)** _(Oct 12, 2026)_
+- **Starred [storytold/artcraft](https://github.com/storytold/artcraft)** _(Oct 12, 2026)_
 - **Starred [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox)** _(Oct 12, 2026)_
 - **Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** _(Oct 12, 2026)_
 - **Starred [nmcassa/letterboxdpy](https://github.com/nmcassa/letterboxdpy)** _(Oct 11, 2026)_
-- **Starred [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)** _(Oct 7, 2026)_
-- **Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)** _(Oct 7, 2026)_
 
 <details>
-  <summary>Show 25 more starred repositories...</summary>
+  <summary>Show 27 more starred repositories...</summary>
 
+- **Starred [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)** _(Oct 7, 2026)_
+- **Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)** _(Oct 7, 2026)_
 - **Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)** _(Oct 7, 2026)_
 - **Starred [react/create-react-app](https://github.com/react/create-react-app)** _(Oct 7, 2026)_
 - **Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)** _(Oct 7, 2026)_
