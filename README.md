@@ -100,9 +100,9 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 1                                       |
-| **Total Repositories**    | 80                                      |
-| **Active Repositories**   | 70                                      |
+| **Commits (7d)**          | 9                                       |
+| **Total Repositories**    | 82                                      |
+| **Active Repositories**   | 72                                      |
 | **Forked Repositories**   | 10                                      |
 | **Archived Repositories** | 0                                       |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99) |
