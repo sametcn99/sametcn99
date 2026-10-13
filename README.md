@@ -155,7 +155,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Create FUNDING.yml](https://github.com/Hiretea/.github/commit/f66ff7dd3e6738cb970661b5283bd1afa32b9395)** _(Oct 4, 2026)_
 
 <details>
-  <summary>Show 14 more pushes...</summary>
+  <summary>Show 13 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0304ef8...0f41627](https://github.com/sametcn99/sametcn99/compare/0304ef87dfbc24663048999ae839d3ae2d2a2b07...0f41627f63958c11dd3edb9914dd1277df7def3c)** _(Sep 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f092ff8...0e53ab7](https://github.com/sametcn99/sametcn99/compare/f092ff8c7b0d697aca22146074ba818f7d91b7c0...0e53ab779b0c9828257cdec20f20ae137f8373f7)** _(Sep 27, 2026)_
@@ -170,7 +170,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bbdcf9c...d30377a](https://github.com/sametcn99/personal-website-blazor/compare/bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa...d30377a820e41fd49ef3131ad0a9c7a7b24c1021)** _(Sep 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c1307cb...bbdcf9c](https://github.com/sametcn99/personal-website-blazor/compare/c1307cba5bc881298119b39b27d7b2e6eb37238e...bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa)** _(Sep 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [abf3a85...744f96f](https://github.com/sametcn99/playwright-artifact-explorer/compare/abf3a8509c2dc6f00516948c681ac4b93c7bcbca...744f96f5b3111a5dd3a3d11fd43c89ef549c258b)** _(Sep 11, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [ac08769...c1307cb](https://github.com/sametcn99/personal-website-blazor/compare/ac08769251aaf82f0ae21663e6c14aca8d978275...c1307cba5bc881298119b39b27d7b2e6eb37238e)** _(Sep 13, 2026)_
 
 </details>
 
@@ -221,7 +220,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Public in [Hiretea/docs](https://github.com/Hiretea/docs)** _(Oct 4, 2026)_
 - **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
 - **Closed issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 24, 2026)_
-- **Created branch &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer)** _(Sep 10, 2026)_
 
 ## Collaboration
 
