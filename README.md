@@ -113,17 +113,21 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 Recent releases across my repositories:
 
-| Release                                                                                                          | Repository                                                                            |  Published   | Status |
-| :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------: | :----: |
-| [**v1.2.2**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.2) — v1.2.2               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Sep 11, 2026 | Stable |
-| [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Sep 5, 2026  | Stable |
-| [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)                 | Aug 24, 2026 | Stable |
-| [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Aug 21, 2026 | Stable |
-| [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3                | [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)   | Aug 15, 2026 | Stable |
+| Release                                                                                            | Repository                                                                            |  Published   | Status |
+| :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------: | :----: |
+| [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0              | [tcptui](https://github.com/sametcn99/tcptui)                                         | Oct 13, 2026 | Stable |
+| [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0              | [tcptui](https://github.com/sametcn99/tcptui)                                         | Oct 13, 2026 | Stable |
+| [**v1.1.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.1.0) — tcptui v1.1.0              | [tcptui](https://github.com/sametcn99/tcptui)                                         | Oct 13, 2026 | Stable |
+| [**v1.0.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.0.0) — tcptui v1.0.0              | [tcptui](https://github.com/sametcn99/tcptui)                                         | Oct 13, 2026 | Stable |
+| [**v1.2.2**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.2) — v1.2.2 | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Sep 11, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 5, 2026)_
+- [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Aug 24, 2026)_
+- [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 21, 2026)_
+- [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 15, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 14, 2026)_
 - [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — v1.1.13 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 11, 2026)_
 - [**v1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — Gotify Web Extension 1.1.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
@@ -135,10 +139,6 @@ Recent releases across my repositories:
 - [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — release-20260807-161157 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 - [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — release-20260807-160640 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 - [**release-20260807-155649**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-155649) — release-20260807-155649 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**v1.1.30**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.30) — v1.1.30 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 6, 2026)_
-- [**1.2**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.2) — GitHub Spam Blocker 1.2 in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
-- [**1.1**](https://github.com/sametcn99/gh-block-spam-accounts/releases/tag/1.1) — GitHub Spam Blocker 1.1 in [gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(Aug 6, 2026)_
-- [**v1.1.29**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.29) — v1.1.29 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 5, 2026)_
 
 </details>
 
@@ -148,15 +148,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [fix(packaging): sync Scoop manifest, add winget templates, render per...](https://github.com/sametcn99/tcptui/commit/40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [chore(release): v1.1.0](https://github.com/sametcn99/tcptui/commit/acd5e6b0884e0e2f7cc81617253b6e3a802a412f)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Update README.md](https://github.com/Hiretea/.github/commit/f39010011f27a9844aaff88e90c1425c6c74e579)** _(Oct 4, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Delete README.md](https://github.com/Hiretea/.github/commit/dba14af1c741f2265f4418aa9d6f4667fd4f6ccd)** _(Oct 4, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Create README.md](https://github.com/Hiretea/.github/commit/4c709d320688585c06f84af478ee8f3c7b2ce0f7)** _(Oct 4, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [Create FUNDING.yml](https://github.com/Hiretea/.github/commit/f66ff7dd3e6738cb970661b5283bd1afa32b9395)** _(Oct 4, 2026)_
 
 <details>
   <summary>Show 13 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [31b068f...f66ff7d](https://github.com/Hiretea/.github/compare/31b068fb3f35f4ac403c756a1e8df8084f830d16...f66ff7dd3e6738cb970661b5283bd1afa32b9395)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0304ef8...0f41627](https://github.com/sametcn99/sametcn99/compare/0304ef87dfbc24663048999ae839d3ae2d2a2b07...0f41627f63958c11dd3edb9914dd1277df7def3c)** _(Sep 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f092ff8...0e53ab7](https://github.com/sametcn99/sametcn99/compare/f092ff8c7b0d697aca22146074ba818f7d91b7c0...0e53ab779b0c9828257cdec20f20ae137f8373f7)** _(Sep 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d664416...90ebbc5](https://github.com/sametcn99/sametcn99/compare/d664416d4b211c9237b0d02f2059f76c573fe053...90ebbc526e2bac0f8bd74bb9d14ced6bbfcc7147)** _(Sep 27, 2026)_
@@ -169,7 +170,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [7d5d695...6d14107](https://github.com/sametcn99/playwright-artifact-explorer/compare/7d5d695d0a463a03386835ae19ace1bbc1fdc10e...6d1410770be82de90a952f6f641bcfaa003f2f00)** _(Sep 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bbdcf9c...d30377a](https://github.com/sametcn99/personal-website-blazor/compare/bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa...d30377a820e41fd49ef3131ad0a9c7a7b24c1021)** _(Sep 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c1307cb...bbdcf9c](https://github.com/sametcn99/personal-website-blazor/compare/c1307cba5bc881298119b39b27d7b2e6eb37238e...bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa)** _(Sep 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [abf3a85...744f96f](https://github.com/sametcn99/playwright-artifact-explorer/compare/abf3a8509c2dc6f00516948c681ac4b93c7bcbca...744f96f5b3111a5dd3a3d11fd43c89ef549c258b)** _(Sep 11, 2026)_
 
 </details>
 
