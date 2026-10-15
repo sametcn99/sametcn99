@@ -148,15 +148,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [Add visual builders, RAG AI assistant with voice STT, bot simulator,...](https://github.com/sametcn99/tg-bot-studio/commit/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): remove top header, move language, theme, and auth actio...](https://github.com/sametcn99/tg-bot-studio/commit/c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [feat(product): dump-frame, command palette, rich copy, profile IO, sp...](https://github.com/sametcn99/tcptui/commit/8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [Add auto chat discovery for Connections and Message Score &amp; Activity...](https://github.com/sametcn99/tg-bot-studio/commit/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [fix(ci): trigger the workflow on v\* tag pushes](https://github.com/sametcn99/tcptui/commit/280f788871f3fab6f06549eb330bb412967c4a0e)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: migrate to Prisma ORM, introduce model architecture, and integr...](https://github.com/sametcn99/tg-bot-studio/commit/10b21645769dfc3121277c6220f7f64b4fef2a3b)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [fix(packaging): sync Scoop manifest, add winget templates, render per...](https://github.com/sametcn99/tcptui/commit/40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
 
 <details>
-  <summary>Show 15 more pushes...</summary>
+  <summary>Show 17 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [f4e5dad...10b2164](https://github.com/sametcn99/tg-bot-studio/compare/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b...10b21645769dfc3121277c6220f7f64b4fef2a3b)** _(Oct 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [280f788...40386a4](https://github.com/sametcn99/tcptui/compare/280f788871f3fab6f06549eb330bb412967c4a0e...40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [7a80ee8...acd5e6b](https://github.com/sametcn99/tcptui/compare/7a80ee84843de78bf20c757560d1d7f85492dd69...acd5e6b0884e0e2f7cc81617253b6e3a802a412f)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [dba14af...f390100](https://github.com/Hiretea/.github/compare/dba14af1c741f2265f4418aa9d6f4667fd4f6ccd...f39010011f27a9844aaff88e90c1425c6c74e579)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [4c709d3...dba14af](https://github.com/Hiretea/.github/compare/4c709d320688585c06f84af478ee8f3c7b2ce0f7...dba14af1c741f2265f4418aa9d6f4667fd4f6ccd)** _(Oct 4, 2026)_
