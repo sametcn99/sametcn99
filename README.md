@@ -148,15 +148,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign module docs dialog with section rail, stepper,...](https://github.com/sametcn99/tg-bot-studio/commit/f7e2902ec68c314cac025d302cccc650c53b7f2c)** _(Oct 13, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: ship ROADMAP v2 — full Turkish content, smart AI suite, Stars c...](https://github.com/sametcn99/tg-bot-studio/commit/15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign sidebar with modern SaaS UI, bot switcher, and...](https://github.com/sametcn99/tg-bot-studio/commit/bc5c01946373fe14acf105da80ebead9c30ad960)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [Add visual builders, RAG AI assistant with voice STT, bot simulator,...](https://github.com/sametcn99/tg-bot-studio/commit/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): remove top header, move language, theme, and auth actio...](https://github.com/sametcn99/tg-bot-studio/commit/c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [feat(product): dump-frame, command palette, rich copy, profile IO, sp...](https://github.com/sametcn99/tcptui/commit/8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [Add auto chat discovery for Connections and Message Score &amp; Activity...](https://github.com/sametcn99/tg-bot-studio/commit/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
 
 <details>
-  <summary>Show 18 more pushes...</summary>
+  <summary>Show 20 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [acd5e6b...8502beb](https://github.com/sametcn99/tcptui/compare/acd5e6b0884e0e2f7cc81617253b6e3a802a412f...8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [411be49...5f2b541](https://github.com/sametcn99/tg-bot-studio/compare/411be49658b2caf312896b5b5ced346e44b86b6c...5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [8502beb...280f788](https://github.com/sametcn99/tcptui/compare/8502beb0a0e14662a44aecfa59923d5c56b623c5...280f788871f3fab6f06549eb330bb412967c4a0e)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [f4e5dad...10b2164](https://github.com/sametcn99/tg-bot-studio/compare/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b...10b21645769dfc3121277c6220f7f64b4fef2a3b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [280f788...40386a4](https://github.com/sametcn99/tcptui/compare/280f788871f3fab6f06549eb330bb412967c4a0e...40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
