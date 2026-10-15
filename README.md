@@ -31,6 +31,9 @@
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
+| [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 14, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
+| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
+| [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
 
 ## Latest Writing
 
@@ -179,6 +182,10 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [7d5d695...6d14107](https://github.com/sametcn99/playwright-artifact-explorer/compare/7d5d695d0a463a03386835ae19ace1bbc1fdc10e...6d1410770be82de90a952f6f641bcfaa003f2f00)** _(Sep 15, 2026)_
 
 </details>
+
+### Pull Requests
+
+- **Closed pull request [#1: Bump next from 15.3.1 to 15.3.3 in the npm_and_yarn group across 1 di...](https://github.com/sametcn99/xls-to-gantt/pull/1) in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Dec 16, 2025)_
 
 ### Starred Repositories
 
