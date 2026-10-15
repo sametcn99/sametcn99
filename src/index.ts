@@ -1,163 +1,134 @@
-import Handlebars from "handlebars";
-import { FeedService } from "./services/feed-service/FeedService";
-import { GitHubDataProvider } from "./services/github-service/GitHubDataProvider";
-import { DataFormatter } from "./utils/DataFormatter";
+import Handlebars from "handlebars"
+import { FeedService } from "./services/feed-service/FeedService"
+import { GitHubDataProvider } from "./services/github-service/GitHubDataProvider"
+import { DataFormatter } from "./utils/DataFormatter"
 
 // Register Handlebars helpers
-Handlebars.registerHelper("or", (a, b) => a || b);
-Handlebars.registerHelper("any", (...args) => args.slice(0, -1).some(Boolean));
-Handlebars.registerHelper(
-	"tableCell",
-	(value: unknown, maxLength?: unknown) => {
-		const raw = value == null ? "" : String(value);
-		const normalized = raw
-			.replace(/\r?\n/g, " ")
-			.replace(/\s+/g, " ")
-			.replace(/\|/g, "\\|")
-			.trim();
-		const limit =
-			typeof maxLength === "number" && Number.isFinite(maxLength)
-				? Math.max(1, maxLength)
-				: 120;
+Handlebars.registerHelper("or", (a, b) => a || b)
+Handlebars.registerHelper("any", (...args) => args.slice(0, -1).some(Boolean))
+Handlebars.registerHelper("tableCell", (value: unknown, maxLength?: unknown) => {
+  const raw = value == null ? "" : String(value)
+  const normalized = raw.replace(/\r?\n/g, " ").replace(/\s+/g, " ").replace(/\|/g, "\\|").trim()
+  const limit = typeof maxLength === "number" && Number.isFinite(maxLength) ? Math.max(1, maxLength) : 120
 
-		return normalized.length > limit
-			? `${normalized.slice(0, limit - 1).trimEnd()}…`
-			: normalized;
-	},
-);
+  return normalized.length > limit ? `${normalized.slice(0, limit - 1).trimEnd()}…` : normalized
+})
 
 const HIGHLIGHT_REPOSITORY_NAMES = [
-	"vitepress-mermaid-renderer",
-	"env-protector",
-	"my-stars-atlas",
-	"booking-calendar",
-	"htwind",
-	"mermaid-viewer",
-	"instaloader-api",
-	"golter",
-	"catchapage",
-	"libredirect-mobile",
-	"computer-science-resources",
-] as const;
+  "vitepress-mermaid-renderer",
+  "env-protector",
+  "my-stars-atlas",
+  "booking-calendar",
+  "htwind",
+  "mermaid-viewer",
+  "instaloader-api",
+  "golter",
+  "catchapage",
+  "libredirect-mobile",
+  "computer-science-resources",
+  "gotify-web-extension",
+  "tg-bot-studio",
+  "tcptui",
+] as const
 
 /** Configuration overrides used when instantiating the application. */
 interface ApplicationConfig {
-	/** URL of the JSON feed that should be pulled for blog posts. */
-	feedUrl: string;
-	/** Github username whose profile, repos, and events will be queried. */
-	username: string;
-	/** Destination path for the rendered README. */
-	outputPath: string;
+  /** URL of the JSON feed that should be pulled for blog posts. */
+  feedUrl: string
+  /** Github username whose profile, repos, and events will be queried. */
+  username: string
+  /** Destination path for the rendered README. */
+  outputPath: string
 }
 
 /** Orchestrates fetching data, formatting it, and writing README.md. */
 class Application {
-	private readonly config: ApplicationConfig;
-	private readonly githubProvider: GitHubDataProvider;
-	private readonly feedService: FeedService;
+  private readonly config: ApplicationConfig
+  private readonly githubProvider: GitHubDataProvider
+  private readonly feedService: FeedService
 
-	/** Creates an application instance with optional overrides. */
-	constructor(config?: Partial<ApplicationConfig>) {
-		const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+  /** Creates an application instance with optional overrides. */
+  constructor(config?: Partial<ApplicationConfig>) {
+    const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN
 
-		this.config = {
-			feedUrl: config?.feedUrl ?? "https://sametcc.me/feed.json",
-			username: config?.username ?? "sametcn99",
-			outputPath: config?.outputPath ?? "README.md",
-		};
+    this.config = {
+      feedUrl: config?.feedUrl ?? "https://sametcc.me/feed.json",
+      username: config?.username ?? "sametcn99",
+      outputPath: config?.outputPath ?? "README.md",
+    }
 
-		this.githubProvider = new GitHubDataProvider(this.config.username, token);
-		this.feedService = new FeedService(this.config.feedUrl);
-	}
+    this.githubProvider = new GitHubDataProvider(this.config.username, token)
+    this.feedService = new FeedService(this.config.feedUrl)
+  }
 
-	/**
-	 * Fetches data from GitHub and the feed, renders the Handlebars template,
-	 * and writes the resulting README content to the configured path.
-	 */
-	public async generate(): Promise<void> {
-		const recentPostsPromise = this.feedService.fetch();
-		const reposDataPromise = this.githubProvider.fetchRepositories();
-		const eventsDataPromise = this.githubProvider.fetchEvents();
-		const issuesPromise = this.githubProvider.fetchOpenIssues(reposDataPromise);
-		const pullRequestsPromise =
-			this.githubProvider.fetchPullRequests(reposDataPromise);
-		const userProfilePromise = this.githubProvider.fetchProfile();
-		const workflowPromise = this.githubProvider.fetchWorkflow();
-		const stargazersPromise =
-			this.githubProvider.fetchStargazers(reposDataPromise);
-		const releasesPromise = this.githubProvider.fetchReleases(reposDataPromise);
+  /**
+   * Fetches data from GitHub and the feed, renders the Handlebars template,
+   * and writes the resulting README content to the configured path.
+   */
+  public async generate(): Promise<void> {
+    const recentPostsPromise = this.feedService.fetch()
+    const reposDataPromise = this.githubProvider.fetchRepositories()
+    const eventsDataPromise = this.githubProvider.fetchEvents()
+    const issuesPromise = this.githubProvider.fetchOpenIssues(reposDataPromise)
+    const pullRequestsPromise = this.githubProvider.fetchPullRequests(reposDataPromise)
+    const userProfilePromise = this.githubProvider.fetchProfile()
+    const workflowPromise = this.githubProvider.fetchWorkflow()
+    const stargazersPromise = this.githubProvider.fetchStargazers(reposDataPromise)
+    const releasesPromise = this.githubProvider.fetchReleases(reposDataPromise)
 
-		const userStatsPromise = this.githubProvider.fetchUserStats(
-			reposDataPromise,
-			userProfilePromise,
-		);
+    const userStatsPromise = this.githubProvider.fetchUserStats(reposDataPromise, userProfilePromise)
 
-		const [
-			recentPosts,
-			reposData,
-			eventsData,
-			openIssues,
-			pullRequests,
-			userProfile,
-			workflowData,
-			userStats,
-			stargazers,
-			releases,
-		] = await Promise.all([
-			recentPostsPromise,
-			reposDataPromise,
-			eventsDataPromise,
-			issuesPromise,
-			pullRequestsPromise,
-			userProfilePromise,
-			workflowPromise,
-			userStatsPromise,
-			stargazersPromise,
-			releasesPromise,
-		]);
+    const [recentPosts, reposData, eventsData, openIssues, pullRequests, userProfile, workflowData, userStats, stargazers, releases] =
+      await Promise.all([
+        recentPostsPromise,
+        reposDataPromise,
+        eventsDataPromise,
+        issuesPromise,
+        pullRequestsPromise,
+        userProfilePromise,
+        workflowPromise,
+        userStatsPromise,
+        stargazersPromise,
+        releasesPromise,
+      ])
 
-		if (!userProfile) {
-			throw new Error("Failed to fetch user profile");
-		}
+    if (!userProfile) {
+      throw new Error("Failed to fetch user profile")
+    }
 
-		const templateSource = await Bun.file("src/README.md.hbs").text();
-		const template = Handlebars.compile(templateSource);
+    const templateSource = await Bun.file("src/README.md.hbs").text()
+    const template = Handlebars.compile(templateSource)
 
-		const workflow = workflowData
-			? {
-					name: workflowData.name,
-					id: workflowData.id,
-					html_url: workflowData.html_url,
-					event: workflowData.event,
-					date: workflowData.run_started_at
-						? new Date(workflowData.run_started_at).toUTCString()
-						: "Unknown",
-				}
-			: null;
+    const workflow = workflowData
+      ? {
+          name: workflowData.name,
+          id: workflowData.id,
+          html_url: workflowData.html_url,
+          event: workflowData.event,
+          date: workflowData.run_started_at ? new Date(workflowData.run_started_at).toUTCString() : "Unknown",
+        }
+      : null
 
-		const context = {
-			posts: DataFormatter.preparePostsData(recentPosts),
-			activity: DataFormatter.prepareActivityData(eventsData, releases),
-			issues: DataFormatter.prepareIssuesData(openIssues),
-			pullRequests: DataFormatter.preparePullRequestsData(pullRequests),
-			stats: userStats,
-			repos: DataFormatter.prepareRepoData(
-				reposData,
-				HIGHLIGHT_REPOSITORY_NAMES,
-			),
-			stargazers: DataFormatter.prepareStargazersData(stargazers),
-			releases: DataFormatter.prepareReleasesData(releases),
-			workflow,
-			generatedAt: new Date().toUTCString(),
-		};
+    const context = {
+      posts: DataFormatter.preparePostsData(recentPosts),
+      activity: DataFormatter.prepareActivityData(eventsData, releases),
+      issues: DataFormatter.prepareIssuesData(openIssues),
+      pullRequests: DataFormatter.preparePullRequestsData(pullRequests),
+      stats: userStats,
+      repos: DataFormatter.prepareRepoData(reposData, HIGHLIGHT_REPOSITORY_NAMES),
+      stargazers: DataFormatter.prepareStargazersData(stargazers),
+      releases: DataFormatter.prepareReleasesData(releases),
+      workflow,
+      generatedAt: new Date().toUTCString(),
+    }
 
-		const content = template(context);
-		await Bun.write(this.config.outputPath, content);
-	}
+    const content = template(context)
+    await Bun.write(this.config.outputPath, content)
+  }
 }
 
-const app = new Application();
+const app = new Application()
 app.generate().catch((err) => {
-	console.error("Fatal error:", err);
-	process.exit(1);
-});
+  console.error("Fatal error:", err)
+  process.exit(1)
+})
