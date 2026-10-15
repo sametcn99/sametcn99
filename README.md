@@ -115,15 +115,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                                |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :----------: | :----: |
+| [**v1.3.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.3.0) — Gotify Web Extension 1.3.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) | Oct 14, 2026 | Stable |
 | [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) | Oct 14, 2026 | Stable |
 | [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0                            | [tcptui](https://github.com/sametcn99/tcptui)                             | Oct 13, 2026 | Stable |
 | [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0                            | [tcptui](https://github.com/sametcn99/tcptui)                             | Oct 13, 2026 | Stable |
 | [**v1.1.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.1.0) — tcptui v1.1.0                            | [tcptui](https://github.com/sametcn99/tcptui)                             | Oct 13, 2026 | Stable |
-| [**v1.0.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.0.0) — tcptui v1.0.0                            | [tcptui](https://github.com/sametcn99/tcptui)                             | Oct 13, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.0.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.0.0) — tcptui v1.0.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.2.2**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.2) — v1.2.2 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 11, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 5, 2026)_
 - [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Aug 24, 2026)_
@@ -138,7 +139,6 @@ Recent releases across my repositories:
 - [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — v1.1.31 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
 - [**release-20260807-173241**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-173241) — release-20260807-173241 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 - [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — release-20260807-161157 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-160640**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-160640) — release-20260807-160640 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 
 </details>
 
@@ -148,15 +148,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [feat(product): dump-frame, command palette, rich copy, profile IO, sp...](https://github.com/sametcn99/tcptui/commit/8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [Add auto chat discovery for Connections and Message Score &amp; Activity...](https://github.com/sametcn99/tg-bot-studio/commit/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [fix(ci): trigger the workflow on v\* tag pushes](https://github.com/sametcn99/tcptui/commit/280f788871f3fab6f06549eb330bb412967c4a0e)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: migrate to Prisma ORM, introduce model architecture, and integr...](https://github.com/sametcn99/tg-bot-studio/commit/10b21645769dfc3121277c6220f7f64b4fef2a3b)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [fix(packaging): sync Scoop manifest, add winget templates, render per...](https://github.com/sametcn99/tcptui/commit/40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [chore(release): v1.1.0](https://github.com/sametcn99/tcptui/commit/acd5e6b0884e0e2f7cc81617253b6e3a802a412f)** _(Oct 13, 2026)_
 
 <details>
-  <summary>Show 16 more pushes...</summary>
+  <summary>Show 15 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [7a80ee8...acd5e6b](https://github.com/sametcn99/tcptui/compare/7a80ee84843de78bf20c757560d1d7f85492dd69...acd5e6b0884e0e2f7cc81617253b6e3a802a412f)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [dba14af...f390100](https://github.com/Hiretea/.github/compare/dba14af1c741f2265f4418aa9d6f4667fd4f6ccd...f39010011f27a9844aaff88e90c1425c6c74e579)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [4c709d3...dba14af](https://github.com/Hiretea/.github/compare/4c709d320688585c06f84af478ee8f3c7b2ce0f7...dba14af1c741f2265f4418aa9d6f4667fd4f6ccd)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [f66ff7d...4c709d3](https://github.com/Hiretea/.github/compare/f66ff7dd3e6738cb970661b5283bd1afa32b9395...4c709d320688585c06f84af478ee8f3c7b2ce0f7)** _(Oct 4, 2026)_
@@ -171,8 +172,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [722db03...9d9883f](https://github.com/sametcn99/playwright-artifact-explorer/compare/722db03046ccb6ba1604f9aa3049046c10e201ef...9d9883f4176675368ba24155427dff557e60c713)** _(Sep 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [6d14107...722db03](https://github.com/sametcn99/playwright-artifact-explorer/compare/6d1410770be82de90a952f6f641bcfaa003f2f00...722db03046ccb6ba1604f9aa3049046c10e201ef)** _(Sep 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [7d5d695...6d14107](https://github.com/sametcn99/playwright-artifact-explorer/compare/7d5d695d0a463a03386835ae19ace1bbc1fdc10e...6d1410770be82de90a952f6f641bcfaa003f2f00)** _(Sep 15, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [bbdcf9c...d30377a](https://github.com/sametcn99/personal-website-blazor/compare/bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa...d30377a820e41fd49ef3131ad0a9c7a7b24c1021)** _(Sep 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [c1307cb...bbdcf9c](https://github.com/sametcn99/personal-website-blazor/compare/c1307cba5bc881298119b39b27d7b2e6eb37238e...bbdcf9c53c7404af84b5917e2fbd2745ba9f48fa)** _(Sep 13, 2026)_
 
 </details>
 
@@ -185,7 +184,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** _(Oct 12, 2026)_
 
 <details>
-  <summary>Show 28 more starred repositories...</summary>
+  <summary>Show 27 more starred repositories...</summary>
 
 - **Starred [nmcassa/letterboxdpy](https://github.com/nmcassa/letterboxdpy)** _(Oct 11, 2026)_
 - **Starred [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)** _(Oct 7, 2026)_
@@ -214,7 +213,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sabrogden/Ditto](https://github.com/sabrogden/Ditto)** _(Sep 25, 2026)_
 - **Starred [mui/mui-design-kits](https://github.com/mui/mui-design-kits)** _(Sep 22, 2026)_
 - **Starred [mui/mui-x](https://github.com/mui/mui-x)** _(Sep 22, 2026)_
-- **Starred [yangshun/ultrastorage](https://github.com/yangshun/ultrastorage)** _(Sep 14, 2026)_
 
 </details>
 
