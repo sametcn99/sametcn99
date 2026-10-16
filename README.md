@@ -151,15 +151,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [docs(client): deepen module help with per-module compatibility notes](https://github.com/sametcn99/tg-bot-studio/commit/d6d27ea3c2ea579fb24976887413fabc45bdfffa)** _(Oct 15, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [test: Add browser E2E suite with mock Gotify servers](https://github.com/sametcn99/gotify-web-extension/commit/303f050f84495f6e2179750e3b2d64bb48ecd4d0)** _(Oct 14, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(client): expand sidebar category sections by default](https://github.com/sametcn99/tg-bot-studio/commit/c0785dc99f9c24d55cd2400af223b57e12e35973)** _(Oct 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [release: Bump version to 1.2.0](https://github.com/sametcn99/gotify-web-extension/commit/1747da45a767ef70c4ee6aba22cde4d82bfd7b9a)** _(Oct 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/localizations](https://github.com/Hiretea/localizations): [feat(locales): expand full translation set to 194 keys across all dom...](https://github.com/Hiretea/localizations/commit/130c310e46c6c9d915bc821e997c0c62d3451260)** _(Oct 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign module docs dialog with section rail, stepper,...](https://github.com/sametcn99/tg-bot-studio/commit/f7e2902ec68c314cac025d302cccc650c53b7f2c)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: ship ROADMAP v2 — full Turkish content, smart AI suite, Stars c...](https://github.com/sametcn99/tg-bot-studio/commit/15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign sidebar with modern SaaS UI, bot switcher, and...](https://github.com/sametcn99/tg-bot-studio/commit/bc5c01946373fe14acf105da80ebead9c30ad960)** _(Oct 13, 2026)_
 
 <details>
-  <summary>Show 19 more pushes...</summary>
+  <summary>Show 21 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [10b2164...15cf8ae](https://github.com/sametcn99/tg-bot-studio/compare/10b21645769dfc3121277c6220f7f64b4fef2a3b...15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89)** _(Oct 13, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [15cf8ae...bc5c019](https://github.com/sametcn99/tg-bot-studio/compare/15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89...bc5c01946373fe14acf105da80ebead9c30ad960)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5f2b541...f4e5dad](https://github.com/sametcn99/tg-bot-studio/compare/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8...f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bc5c019...c299e55](https://github.com/sametcn99/tg-bot-studio/compare/bc5c01946373fe14acf105da80ebead9c30ad960...c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [acd5e6b...8502beb](https://github.com/sametcn99/tcptui/compare/acd5e6b0884e0e2f7cc81617253b6e3a802a412f...8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
