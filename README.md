@@ -32,7 +32,7 @@
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 14, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
-| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 15, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
+| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 16, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
 
 ## Latest Writing
@@ -151,15 +151,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [release: Bump version to 1.2.0](https://github.com/sametcn99/gotify-web-extension/commit/1747da45a767ef70c4ee6aba22cde4d82bfd7b9a)** _(Oct 14, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [Hiretea/localizations](https://github.com/Hiretea/localizations): [feat(locales): expand full translation set to 194 keys across all dom...](https://github.com/Hiretea/localizations/commit/130c310e46c6c9d915bc821e997c0c62d3451260)** _(Oct 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign module docs dialog with section rail, stepper,...](https://github.com/sametcn99/tg-bot-studio/commit/f7e2902ec68c314cac025d302cccc650c53b7f2c)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: ship ROADMAP v2 — full Turkish content, smart AI suite, Stars c...](https://github.com/sametcn99/tg-bot-studio/commit/15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89)** _(Oct 13, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign sidebar with modern SaaS UI, bot switcher, and...](https://github.com/sametcn99/tg-bot-studio/commit/bc5c01946373fe14acf105da80ebead9c30ad960)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [Add visual builders, RAG AI assistant with voice STT, bot simulator,...](https://github.com/sametcn99/tg-bot-studio/commit/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): remove top header, move language, theme, and auth actio...](https://github.com/sametcn99/tg-bot-studio/commit/c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
 
 <details>
   <summary>Show 19 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5f2b541...f4e5dad](https://github.com/sametcn99/tg-bot-studio/compare/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8...f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bc5c019...c299e55](https://github.com/sametcn99/tg-bot-studio/compare/bc5c01946373fe14acf105da80ebead9c30ad960...c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [acd5e6b...8502beb](https://github.com/sametcn99/tcptui/compare/acd5e6b0884e0e2f7cc81617253b6e3a802a412f...8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [411be49...5f2b541](https://github.com/sametcn99/tg-bot-studio/compare/411be49658b2caf312896b5b5ced346e44b86b6c...5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [8502beb...280f788](https://github.com/sametcn99/tcptui/compare/8502beb0a0e14662a44aecfa59923d5c56b623c5...280f788871f3fab6f06549eb330bb412967c4a0e)** _(Oct 13, 2026)_
@@ -177,8 +179,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [f05c2f4...89f49cf](https://github.com/sametcn99/my-stars-atlas/compare/f05c2f42535318a603d677802f4877cdc50246d1...89f49cf68fa1e608f4cdcee5c8c9f23691a8c9d4)** _(Sep 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [45a6f82...fc9d3b9](https://github.com/sametcn99/my-stars-atlas/compare/45a6f82c065fcf3667a435c463b20342230fcce0...fc9d3b905360178f5586d7edc5b86b086caae81f)** _(Sep 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5cdbbd7...45a6f82](https://github.com/sametcn99/my-stars-atlas/compare/5cdbbd76db5e76f044fe55e50b278ffa2b705b67...45a6f82c065fcf3667a435c463b20342230fcce0)** _(Sep 19, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [722db03...9d9883f](https://github.com/sametcn99/playwright-artifact-explorer/compare/722db03046ccb6ba1604f9aa3049046c10e201ef...9d9883f4176675368ba24155427dff557e60c713)** _(Sep 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [6d14107...722db03](https://github.com/sametcn99/playwright-artifact-explorer/compare/6d1410770be82de90a952f6f641bcfaa003f2f00...722db03046ccb6ba1604f9aa3049046c10e201ef)** _(Sep 15, 2026)_
 
 </details>
 
