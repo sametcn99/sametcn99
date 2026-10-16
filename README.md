@@ -190,15 +190,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [corsairdev/corsair](https://github.com/corsairdev/corsair)** _(Oct 16, 2026)_
 - **Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** _(Oct 15, 2026)_
 - **Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)** _(Oct 15, 2026)_
 - **Starred [zelosleone/glm-chat-provider](https://github.com/zelosleone/glm-chat-provider)** _(Oct 15, 2026)_
 - **Starred [morluto/rea](https://github.com/morluto/rea)** _(Oct 14, 2026)_
-- **Starred [storytold/photocraft](https://github.com/storytold/photocraft)** _(Oct 12, 2026)_
 
 <details>
-  <summary>Show 30 more starred repositories...</summary>
+  <summary>Show 31 more starred repositories...</summary>
 
+- **Starred [storytold/photocraft](https://github.com/storytold/photocraft)** _(Oct 12, 2026)_
 - **Starred [storytold/artcraft](https://github.com/storytold/artcraft)** _(Oct 12, 2026)_
 - **Starred [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox)** _(Oct 12, 2026)_
 - **Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** _(Oct 12, 2026)_
