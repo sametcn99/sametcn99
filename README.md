@@ -32,7 +32,7 @@
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 14, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
-| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
+| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 15, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
 
 ## Latest Writing
@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 194                                     |
-| **Commits (7d)**          | 40+                                     |
+| **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 82                                      |
 | **Active Repositories**   | 72                                      |
 | **Forked Repositories**   | 10                                      |
@@ -158,7 +158,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): remove top header, move language, theme, and auth actio...](https://github.com/sametcn99/tg-bot-studio/commit/c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
 
 <details>
-  <summary>Show 20 more pushes...</summary>
+  <summary>Show 19 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [acd5e6b...8502beb](https://github.com/sametcn99/tcptui/compare/acd5e6b0884e0e2f7cc81617253b6e3a802a412f...8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [411be49...5f2b541](https://github.com/sametcn99/tg-bot-studio/compare/411be49658b2caf312896b5b5ced346e44b86b6c...5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
@@ -179,7 +179,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5cdbbd7...45a6f82](https://github.com/sametcn99/my-stars-atlas/compare/5cdbbd76db5e76f044fe55e50b278ffa2b705b67...45a6f82c065fcf3667a435c463b20342230fcce0)** _(Sep 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [722db03...9d9883f](https://github.com/sametcn99/playwright-artifact-explorer/compare/722db03046ccb6ba1604f9aa3049046c10e201ef...9d9883f4176675368ba24155427dff557e60c713)** _(Sep 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [6d14107...722db03](https://github.com/sametcn99/playwright-artifact-explorer/compare/6d1410770be82de90a952f6f641bcfaa003f2f00...722db03046ccb6ba1604f9aa3049046c10e201ef)** _(Sep 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer): [7d5d695...6d14107](https://github.com/sametcn99/playwright-artifact-explorer/compare/7d5d695d0a463a03386835ae19ace1bbc1fdc10e...6d1410770be82de90a952f6f641bcfaa003f2f00)** _(Sep 15, 2026)_
 
 </details>
 
@@ -189,15 +188,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** _(Oct 15, 2026)_
+- **Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)** _(Oct 15, 2026)_
 - **Starred [zelosleone/glm-chat-provider](https://github.com/zelosleone/glm-chat-provider)** _(Oct 15, 2026)_
 - **Starred [morluto/rea](https://github.com/morluto/rea)** _(Oct 14, 2026)_
 - **Starred [storytold/photocraft](https://github.com/storytold/photocraft)** _(Oct 12, 2026)_
-- **Starred [storytold/artcraft](https://github.com/storytold/artcraft)** _(Oct 12, 2026)_
-- **Starred [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox)** _(Oct 12, 2026)_
 
 <details>
-  <summary>Show 28 more starred repositories...</summary>
+  <summary>Show 30 more starred repositories...</summary>
 
+- **Starred [storytold/artcraft](https://github.com/storytold/artcraft)** _(Oct 12, 2026)_
+- **Starred [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox)** _(Oct 12, 2026)_
 - **Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** _(Oct 12, 2026)_
 - **Starred [nmcassa/letterboxdpy](https://github.com/nmcassa/letterboxdpy)** _(Oct 11, 2026)_
 - **Starred [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)** _(Oct 7, 2026)_
