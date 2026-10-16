@@ -24,7 +24,7 @@
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
-| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |   ★ 8 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
+| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |   ★ 9 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |   ★ 8 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
@@ -102,7 +102,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 194                                     |
+| **Total Stars Earned**    | 195                                     |
 | **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 82                                      |
 | **Active Repositories**   | 72                                      |
@@ -151,15 +151,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/7838d43c7690ff75b6e478605c4be0494924695c)** _(Oct 15, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(client): hide language tooltip while the select menu is open](https://github.com/sametcn99/tg-bot-studio/commit/5be82032b51edeb1e70df2dec47a3239854ab566)** _(Oct 15, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/0d01fe882a3b2053772cb28dea3c3e8529593c07)** _(Oct 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [docs(client): deepen module help with per-module compatibility notes](https://github.com/sametcn99/tg-bot-studio/commit/d6d27ea3c2ea579fb24976887413fabc45bdfffa)** _(Oct 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [test: Add browser E2E suite with mock Gotify servers](https://github.com/sametcn99/gotify-web-extension/commit/303f050f84495f6e2179750e3b2d64bb48ecd4d0)** _(Oct 14, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(client): expand sidebar category sections by default](https://github.com/sametcn99/tg-bot-studio/commit/c0785dc99f9c24d55cd2400af223b57e12e35973)** _(Oct 15, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [release: Bump version to 1.2.0](https://github.com/sametcn99/gotify-web-extension/commit/1747da45a767ef70c4ee6aba22cde4d82bfd7b9a)** _(Oct 14, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign module docs dialog with section rail, stepper,...](https://github.com/sametcn99/tg-bot-studio/commit/f7e2902ec68c314cac025d302cccc650c53b7f2c)** _(Oct 13, 2026)_
 
 <details>
-  <summary>Show 21 more pushes...</summary>
+  <summary>Show 24 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [7ce3d47...c0785dc](https://github.com/sametcn99/tg-bot-studio/compare/7ce3d4770a51b7dd66b8ba647c6ad519ccf26a01...c0785dc99f9c24d55cd2400af223b57e12e35973)** _(Oct 15, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [eb33fd8...1747da4](https://github.com/sametcn99/gotify-web-extension/compare/eb33fd8347a5aa7a476a5835e75c7001d59f4fb3...1747da45a767ef70c4ee6aba22cde4d82bfd7b9a)** _(Oct 14, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [c299e55...f7e2902](https://github.com/sametcn99/tg-bot-studio/compare/c299e559cc506078eea1e048190279740c4caa20...f7e2902ec68c314cac025d302cccc650c53b7f2c)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [10b2164...15cf8ae](https://github.com/sametcn99/tg-bot-studio/compare/10b21645769dfc3121277c6220f7f64b4fef2a3b...15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [15cf8ae...bc5c019](https://github.com/sametcn99/tg-bot-studio/compare/15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89...bc5c01946373fe14acf105da80ebead9c30ad960)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5f2b541...f4e5dad](https://github.com/sametcn99/tg-bot-studio/compare/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8...f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
