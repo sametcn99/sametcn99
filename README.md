@@ -151,15 +151,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: per-group and per-channel module overrides on every module page](https://github.com/sametcn99/tg-bot-studio/commit/07cac0818599a53df4b4505fc0f282f6a3b1d227)** _(Oct 16, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): replace sidebar language cycle button with a language s...](https://github.com/sametcn99/tg-bot-studio/commit/ebfa79d52990ef9540db9833d4faacf6d79c084a)** _(Oct 15, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign flow builder into a drag-and-drop visual canvas](https://github.com/sametcn99/tg-bot-studio/commit/7ef0181ad1fe32d66e9a19a8ea75e0de39798b06)** _(Oct 16, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [i18n(dashboard): German and Russian catalogs; 14 bot-reply languages](https://github.com/sametcn99/tg-bot-studio/commit/7ce3d4770a51b7dd66b8ba647c6ad519ccf26a01)** _(Oct 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [style: apply prettier formatting across new modules and locales](https://github.com/sametcn99/tg-bot-studio/commit/9c79475aed5719bdb012163c8c9c43950dacbfdc)** _(Oct 15, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: integration wave — flows, inline-mode, media library, health mo...](https://github.com/sametcn99/tg-bot-studio/commit/a5001cf9ab0115bbc77e4e5a42a9700211b5544f)** _(Oct 15, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/7838d43c7690ff75b6e478605c4be0494924695c)** _(Oct 15, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(client): hide language tooltip while the select menu is open](https://github.com/sametcn99/tg-bot-studio/commit/5be82032b51edeb1e70df2dec47a3239854ab566)** _(Oct 15, 2026)_
 
 <details>
-  <summary>Show 27 more pushes...</summary>
+  <summary>Show 30 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5be8203...a5001cf](https://github.com/sametcn99/tg-bot-studio/compare/5be82032b51edeb1e70df2dec47a3239854ab566...a5001cf9ab0115bbc77e4e5a42a9700211b5544f)** _(Oct 15, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [95d14fc...7838d43](https://github.com/sametcn99/sametcn99/compare/95d14fc11d089a7a96951b2e6247778ec421885c...7838d43c7690ff75b6e478605c4be0494924695c)** _(Oct 15, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [9c79475...5be8203](https://github.com/sametcn99/tg-bot-studio/compare/9c79475aed5719bdb012163c8c9c43950dacbfdc...5be82032b51edeb1e70df2dec47a3239854ab566)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [d6d27ea...0d01fe8](https://github.com/sametcn99/tg-bot-studio/compare/d6d27ea3c2ea579fb24976887413fabc45bdfffa...0d01fe882a3b2053772cb28dea3c3e8529593c07)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [ebfa79d...d6d27ea](https://github.com/sametcn99/tg-bot-studio/compare/ebfa79d52990ef9540db9833d4faacf6d79c084a...d6d27ea3c2ea579fb24976887413fabc45bdfffa)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [1747da4...303f050](https://github.com/sametcn99/gotify-web-extension/compare/1747da45a767ef70c4ee6aba22cde4d82bfd7b9a...303f050f84495f6e2179750e3b2d64bb48ecd4d0)** _(Oct 14, 2026)_
@@ -243,15 +246,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-fc7ac98fdb&#x60; in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Oct 15, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 6, 2026)_
 - **Public in [Hiretea/docs](https://github.com/Hiretea/docs)** _(Oct 4, 2026)_
-- **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
 
 <details>
-  <summary>Show 1 more other activity...</summary>
+  <summary>Show 2 more other activity...</summary>
 
+- **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
 - **Closed issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 24, 2026)_
 
 </details>
