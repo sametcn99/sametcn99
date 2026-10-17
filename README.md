@@ -151,15 +151,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: hardening &amp; scale wave — security, reliability, data layer, cli...](https://github.com/sametcn99/tg-bot-studio/commit/1c06ea25adbb8fc0a7d80365ef2fb7a1830c03a7)** _(Oct 16, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: per-group and per-channel module overrides on every module page](https://github.com/sametcn99/tg-bot-studio/commit/07cac0818599a53df4b4505fc0f282f6a3b1d227)** _(Oct 16, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): replace sidebar language cycle button with a language s...](https://github.com/sametcn99/tg-bot-studio/commit/ebfa79d52990ef9540db9833d4faacf6d79c084a)** _(Oct 15, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(client): redesign flow builder into a drag-and-drop visual canvas](https://github.com/sametcn99/tg-bot-studio/commit/7ef0181ad1fe32d66e9a19a8ea75e0de39798b06)** _(Oct 16, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [i18n(dashboard): German and Russian catalogs; 14 bot-reply languages](https://github.com/sametcn99/tg-bot-studio/commit/7ce3d4770a51b7dd66b8ba647c6ad519ccf26a01)** _(Oct 15, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [style: apply prettier formatting across new modules and locales](https://github.com/sametcn99/tg-bot-studio/commit/9c79475aed5719bdb012163c8c9c43950dacbfdc)** _(Oct 15, 2026)_
 
 <details>
-  <summary>Show 30 more pushes...</summary>
+  <summary>Show 31 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [0d01fe8...9c79475](https://github.com/sametcn99/tg-bot-studio/compare/0d01fe882a3b2053772cb28dea3c3e8529593c07...9c79475aed5719bdb012163c8c9c43950dacbfdc)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5be8203...a5001cf](https://github.com/sametcn99/tg-bot-studio/compare/5be82032b51edeb1e70df2dec47a3239854ab566...a5001cf9ab0115bbc77e4e5a42a9700211b5544f)** _(Oct 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [95d14fc...7838d43](https://github.com/sametcn99/sametcn99/compare/95d14fc11d089a7a96951b2e6247778ec421885c...7838d43c7690ff75b6e478605c4be0494924695c)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [9c79475...5be8203](https://github.com/sametcn99/tg-bot-studio/compare/9c79475aed5719bdb012163c8c9c43950dacbfdc...5be82032b51edeb1e70df2dec47a3239854ab566)** _(Oct 15, 2026)_
