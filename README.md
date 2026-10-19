@@ -32,7 +32,7 @@
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 14, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
-| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 17, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
+| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 18, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
 
 ## Latest Writing
@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 195                                     |
-| **Commits (7d)**          | 60+                                     |
+| **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 82                                      |
 | **Active Repositories**   | 72                                      |
 | **Forked Repositories**   | 10                                      |
