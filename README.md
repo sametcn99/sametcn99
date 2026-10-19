@@ -24,7 +24,7 @@
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
-| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |   ★ 9 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
+| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |  ★ 10 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |   ★ 8 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
@@ -102,7 +102,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 195                                     |
+| **Total Stars Earned**    | 196                                     |
 | **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 82                                      |
 | **Active Repositories**   | 72                                      |
@@ -151,15 +151,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: per-chat module configs + uuid entity ids](https://github.com/sametcn99/tg-bot-studio/commit/82cd0c376a3ed6ac0e234c480b02cf3b117b4e2b)** _(Oct 18, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/40b2109340941ed36796232475c8c77e1aceb05b)** _(Oct 17, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/b45e43ab6c062fb76bda956966cb92668443b384)** _(Oct 17, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/8bd20d8996bf66fcc38d446e0c9f79866ed1ce8a)** _(Oct 17, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/07979bad5b1292a43416f5eb5fbdb4a4f29b62a7)** _(Oct 17, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(docker): provide prisma schema in the deps stage too — its postin...](https://github.com/sametcn99/tg-bot-studio/commit/04b9842e42c8c18b7d3a5fd0d53bb630d363bcf7)** _(Oct 16, 2026)_
 
 <details>
-  <summary>Show 40 more pushes...</summary>
+  <summary>Show 41 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bb08517...04b9842](https://github.com/sametcn99/tg-bot-studio/compare/bb08517446a87c4e05ebd85a60bbcced8b2e77a3...04b9842e42c8c18b7d3a5fd0d53bb630d363bcf7)** _(Oct 16, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [1c06ea2...3a5be30](https://github.com/sametcn99/tg-bot-studio/compare/1c06ea25adbb8fc0a7d80365ef2fb7a1830c03a7...3a5be30ce501620a938f9f0be86b842da7b86dfc)** _(Oct 16, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [04b9842...113a43c](https://github.com/sametcn99/tg-bot-studio/compare/04b9842e42c8c18b7d3a5fd0d53bb630d363bcf7...113a43c529bf278ad326c9a09b6d9b4764115530)** _(Oct 16, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [113a43c...7fb4c65](https://github.com/sametcn99/tg-bot-studio/compare/113a43c529bf278ad326c9a09b6d9b4764115530...7fb4c65b09d1404ab56521d6a8d57b5ce69460f8)** _(Oct 16, 2026)_
