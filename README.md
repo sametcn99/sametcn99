@@ -32,7 +32,7 @@
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 14, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
-| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 19, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
+| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 20, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
 
 ## Latest Writing
@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 199                                     |
-| **Commits (7d)**          | 30+                                     |
+| **Commits (7d)**          | 40+                                     |
 | **Total Repositories**    | 82                                      |
 | **Active Repositories**   | 72                                      |
 | **Forked Repositories**   | 10                                      |
@@ -151,15 +151,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(docker): Debian base + lazy GramJS imports to stop boot crash](https://github.com/sametcn99/tg-bot-studio/commit/360501b9c0c833f388e4d8688bf268983ca076fe)** _(Oct 19, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(compose): bun-based healthcheck — Debian image has no wget](https://github.com/sametcn99/tg-bot-studio/commit/b649eff4f6ea977dc0c035d9c4a1683b0f63fc59)** _(Oct 19, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: per-chat module configs + uuid entity ids](https://github.com/sametcn99/tg-bot-studio/commit/82cd0c376a3ed6ac0e234c480b02cf3b117b4e2b)** _(Oct 18, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/40b2109340941ed36796232475c8c77e1aceb05b)** _(Oct 17, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/b45e43ab6c062fb76bda956966cb92668443b384)** _(Oct 17, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/8bd20d8996bf66fcc38d446e0c9f79866ed1ce8a)** _(Oct 17, 2026)_
 
 <details>
-  <summary>Show 39 more pushes...</summary>
+  <summary>Show 40 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [07979ba...8bd20d8](https://github.com/sametcn99/tg-bot-studio/compare/07979bad5b1292a43416f5eb5fbdb4a4f29b62a7...8bd20d8996bf66fcc38d446e0c9f79866ed1ce8a)** _(Oct 17, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [40b2109...07979ba](https://github.com/sametcn99/tg-bot-studio/compare/40b2109340941ed36796232475c8c77e1aceb05b...07979bad5b1292a43416f5eb5fbdb4a4f29b62a7)** _(Oct 17, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bb08517...04b9842](https://github.com/sametcn99/tg-bot-studio/compare/bb08517446a87c4e05ebd85a60bbcced8b2e77a3...04b9842e42c8c18b7d3a5fd0d53bb630d363bcf7)** _(Oct 16, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [1c06ea2...3a5be30](https://github.com/sametcn99/tg-bot-studio/compare/1c06ea25adbb8fc0a7d80365ef2fb7a1830c03a7...3a5be30ce501620a938f9f0be86b842da7b86dfc)** _(Oct 16, 2026)_
