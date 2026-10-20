@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 199                                     |
-| **Commits (7d)**          | 50+                                     |
+| **Commits (7d)**          | 30+                                     |
 | **Total Repositories**    | 82                                      |
 | **Active Repositories**   | 72                                      |
 | **Forked Repositories**   | 10                                      |
@@ -158,7 +158,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/8bd20d8996bf66fcc38d446e0c9f79866ed1ce8a)** _(Oct 17, 2026)_
 
 <details>
-  <summary>Show 42 more pushes...</summary>
+  <summary>Show 40 more pushes...</summary>
 
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [40b2109...07979ba](https://github.com/sametcn99/tg-bot-studio/compare/40b2109340941ed36796232475c8c77e1aceb05b...07979bad5b1292a43416f5eb5fbdb4a4f29b62a7)** _(Oct 17, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bb08517...04b9842](https://github.com/sametcn99/tg-bot-studio/compare/bb08517446a87c4e05ebd85a60bbcced8b2e77a3...04b9842e42c8c18b7d3a5fd0d53bb630d363bcf7)** _(Oct 16, 2026)_
@@ -200,8 +200,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [d664416...90ebbc5](https://github.com/sametcn99/sametcn99/compare/d664416d4b211c9237b0d02f2059f76c573fe053...90ebbc526e2bac0f8bd74bb9d14ced6bbfcc7147)** _(Sep 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [fc9d3b9...f05c2f4](https://github.com/sametcn99/my-stars-atlas/compare/fc9d3b905360178f5586d7edc5b86b086caae81f...f05c2f42535318a603d677802f4877cdc50246d1)** _(Sep 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [f05c2f4...89f49cf](https://github.com/sametcn99/my-stars-atlas/compare/f05c2f42535318a603d677802f4877cdc50246d1...89f49cf68fa1e608f4cdcee5c8c9f23691a8c9d4)** _(Sep 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [45a6f82...fc9d3b9](https://github.com/sametcn99/my-stars-atlas/compare/45a6f82c065fcf3667a435c463b20342230fcce0...fc9d3b905360178f5586d7edc5b86b086caae81f)** _(Sep 19, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas): [5cdbbd7...45a6f82](https://github.com/sametcn99/my-stars-atlas/compare/5cdbbd76db5e76f044fe55e50b278ffa2b705b67...45a6f82c065fcf3667a435c463b20342230fcce0)** _(Sep 19, 2026)_
 
 </details>
 
