@@ -212,15 +212,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** _(Oct 21, 2026)_
+- **Starred [maathimself/mailflow](https://github.com/maathimself/mailflow)** _(Oct 21, 2026)_
 - **Starred [mirego/accent](https://github.com/mirego/accent)** _(Oct 19, 2026)_
 - **Starred [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** _(Oct 19, 2026)_
 - **Starred [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** _(Oct 19, 2026)_
-- **Starred [bootandy/dust](https://github.com/bootandy/dust)** _(Oct 16, 2026)_
-- **Starred [tobi/disktree](https://github.com/tobi/disktree)** _(Oct 16, 2026)_
 
 <details>
-  <summary>Show 36 more starred repositories...</summary>
+  <summary>Show 38 more starred repositories...</summary>
 
+- **Starred [bootandy/dust](https://github.com/bootandy/dust)** _(Oct 16, 2026)_
+- **Starred [tobi/disktree](https://github.com/tobi/disktree)** _(Oct 16, 2026)_
 - **Starred [corsairdev/corsair](https://github.com/corsairdev/corsair)** _(Oct 16, 2026)_
 - **Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** _(Oct 15, 2026)_
 - **Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)** _(Oct 15, 2026)_
