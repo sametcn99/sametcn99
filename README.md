@@ -151,15 +151,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(engine): add catch blocks with logger to all module runtime handlers](https://github.com/sametcn99/tg-bot-studio/commit/bf075e8e517e24465837862deee0f5e56d491df1)** _(Oct 19, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(engine): ensure grammY middleware chain propagates updates via ne...](https://github.com/sametcn99/tg-bot-studio/commit/4a50783162e2cb4cfe59c4f2d035ff3377ef5669)** _(Oct 19, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/3b69880b75ada6a11e74b2aa9ed31e1d48ff1953)** _(Oct 19, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(modules): connections-fed multi-chat targeting across modules](https://github.com/sametcn99/tg-bot-studio/commit/dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711)** _(Oct 18, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(docker): Debian base + lazy GramJS imports to stop boot crash](https://github.com/sametcn99/tg-bot-studio/commit/360501b9c0c833f388e4d8688bf268983ca076fe)** _(Oct 19, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(compose): bun-based healthcheck — Debian image has no wget](https://github.com/sametcn99/tg-bot-studio/commit/b649eff4f6ea977dc0c035d9c4a1683b0f63fc59)** _(Oct 19, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat: per-chat module configs + uuid entity ids](https://github.com/sametcn99/tg-bot-studio/commit/82cd0c376a3ed6ac0e234c480b02cf3b117b4e2b)** _(Oct 18, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/40b2109340941ed36796232475c8c77e1aceb05b)** _(Oct 17, 2026)_
 
 <details>
-  <summary>Show 40 more pushes...</summary>
+  <summary>Show 43 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [3b69880...b649eff](https://github.com/sametcn99/tg-bot-studio/compare/3b69880b75ada6a11e74b2aa9ed31e1d48ff1953...b649eff4f6ea977dc0c035d9c4a1683b0f63fc59)** _(Oct 19, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [dbe4a4f...82cd0c3](https://github.com/sametcn99/tg-bot-studio/compare/dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711...82cd0c376a3ed6ac0e234c480b02cf3b117b4e2b)** _(Oct 18, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [7fb4c65...40b2109](https://github.com/sametcn99/tg-bot-studio/compare/7fb4c65b09d1404ab56521d6a8d57b5ce69460f8...40b2109340941ed36796232475c8c77e1aceb05b)** _(Oct 17, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [8bd20d8...b45e43a](https://github.com/sametcn99/tg-bot-studio/compare/8bd20d8996bf66fcc38d446e0c9f79866ed1ce8a...b45e43ab6c062fb76bda956966cb92668443b384)** _(Oct 17, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [07979ba...8bd20d8](https://github.com/sametcn99/tg-bot-studio/compare/07979bad5b1292a43416f5eb5fbdb4a4f29b62a7...8bd20d8996bf66fcc38d446e0c9f79866ed1ce8a)** _(Oct 17, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [40b2109...07979ba](https://github.com/sametcn99/tg-bot-studio/compare/40b2109340941ed36796232475c8c77e1aceb05b...07979bad5b1292a43416f5eb5fbdb4a4f29b62a7)** _(Oct 17, 2026)_
