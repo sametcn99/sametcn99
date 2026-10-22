@@ -220,7 +220,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** _(Oct 19, 2026)_
 
 <details>
-  <summary>Show 38 more starred repositories...</summary>
+  <summary>Show 36 more starred repositories...</summary>
 
 - **Starred [bootandy/dust](https://github.com/bootandy/dust)** _(Oct 16, 2026)_
 - **Starred [tobi/disktree](https://github.com/tobi/disktree)** _(Oct 16, 2026)_
@@ -258,8 +258,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [poyrazavsever/neta](https://github.com/poyrazavsever/neta)** _(Sep 26, 2026)_
 - **Starred [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** _(Sep 26, 2026)_
 - **Starred [sabrogden/Ditto](https://github.com/sabrogden/Ditto)** _(Sep 25, 2026)_
-- **Starred [mui/mui-design-kits](https://github.com/mui/mui-design-kits)** _(Sep 22, 2026)_
-- **Starred [mui/mui-x](https://github.com/mui/mui-x)** _(Sep 22, 2026)_
 
 </details>
 
