@@ -151,15 +151,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(ci): fix eslint regex escape and clean up unused variables](https://github.com/sametcn99/tg-bot-studio/commit/9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0)** _(Oct 20, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/e2f9fddc6cd28a29e5c758ff3aa05f6504a13177)** _(Oct 20, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/6aab15212efa19693a6bd2d6556e57d8374d134f)** _(Oct 21, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(engine): add catch blocks with logger to all module runtime handlers](https://github.com/sametcn99/tg-bot-studio/commit/bf075e8e517e24465837862deee0f5e56d491df1)** _(Oct 19, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(engine): ensure grammY middleware chain propagates updates via ne...](https://github.com/sametcn99/tg-bot-studio/commit/4a50783162e2cb4cfe59c4f2d035ff3377ef5669)** _(Oct 19, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/3b69880b75ada6a11e74b2aa9ed31e1d48ff1953)** _(Oct 19, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [feat(modules): connections-fed multi-chat targeting across modules](https://github.com/sametcn99/tg-bot-studio/commit/dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711)** _(Oct 18, 2026)_
 
 <details>
-  <summary>Show 44 more pushes...</summary>
+  <summary>Show 46 more pushes...</summary>
 
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [360501b...3b69880](https://github.com/sametcn99/tg-bot-studio/compare/360501b9c0c833f388e4d8688bf268983ca076fe...3b69880b75ada6a11e74b2aa9ed31e1d48ff1953)** _(Oct 19, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [b45e43a...dbe4a4f](https://github.com/sametcn99/tg-bot-studio/compare/b45e43ab6c062fb76bda956966cb92668443b384...dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711)** _(Oct 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bb601a7...360501b](https://github.com/sametcn99/tg-bot-studio/compare/bb601a71e07483f0d6ca9ed5ee06c27c7154056d...360501b9c0c833f388e4d8688bf268983ca076fe)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [3b69880...b649eff](https://github.com/sametcn99/tg-bot-studio/compare/3b69880b75ada6a11e74b2aa9ed31e1d48ff1953...b649eff4f6ea977dc0c035d9c4a1683b0f63fc59)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [dbe4a4f...82cd0c3](https://github.com/sametcn99/tg-bot-studio/compare/dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711...82cd0c376a3ed6ac0e234c480b02cf3b117b4e2b)** _(Oct 18, 2026)_
