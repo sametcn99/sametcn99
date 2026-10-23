@@ -6,7 +6,6 @@
 <summary>Table of Contents</summary>
 
 - [Highlight Repositories](#highlight-repositories)
-- [Latest Writing](#latest-writing)
 - [Tech Stack](#tech-stack)
 - [GitHub Snapshot](#github-snapshot)
 - [Releases](#releases)
@@ -34,57 +33,6 @@
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 14, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
-
-## Latest Writing
-
-I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
-
-- [**Cloudflare Tunnel ile Local Ortamı Güvenle Paylaşmak**](https://sametcc.me/gist/cloudflare-tunnel-ile-local-ortami-paylasmak) _(published: Sep 13, 2026)_<br />Cloudflare Tunnel ve Access ile yerel geliştirme ortamını port açmadan; HTTPS, kimlik doğrulama ve tenant yönlendirmesiyle internete açmak.
-- [**Projeler İçin Ortak Developer ve AI Dokümantasyonu**](https://sametcc.me/blog/projeler-icin-ortak-developer-ve-ai-dokumantasyonu) _(published: Aug 16, 2026)_<br />AI coding agent&#x27;larının ihtiyaç duyduğu proje bağlamını insanlar ve makineler için ortak, sürdürülebilir bir dokümantasyon yapısıyla oluşturmak.
-- [**GitHub Account Notifications to Gotify with n8n**](https://sametcc.me/gist/github-account-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering GitHub App events from every repository in an account to a Gotify phone notification channel.
-- [**Coolify Notifications to Gotify with n8n**](https://sametcc.me/gist/coolify-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering Coolify deployment, backup, task, server, and container notifications to a Gotify phone notification channel.
-- [**LinkedIn Hide Viewed Jobs**](https://sametcc.me/project/linkedin-hide-viewed-jobs) _(published: Jul 22, 2026)_<br />A privacy-first browser tool that hides or highlights the job postings you have already viewed on LinkedIn, available as a userscript or a standalone browser extension for Chrome and Firefox.
-
-<details>
-  <summary>Show 35 more posts...</summary>
-
-- [**My Stars Atlas**](https://sametcc.me/project/my-stars-atlas) _(published: Jul 20, 2026)_<br />A generated, searchable catalog of starred GitHub repositories grouped into stable categories, built with a deterministic classification engine and published as a static site on GitHub Pages.
-- [**Application Tracker**](https://sametcc.me/project/application-tracker) _(published: May 15, 2026)_<br />A self-hosted job search operating system that keeps applications, company notes, follow-ups, documents, and progress history together in a single private dashboard.
-- [**shadcn Theme Configuration for MUI**](https://sametcc.me/gist/shadcn-ui-for-mui) _(published: May 13, 2026)_<br />A complete MUI dark theme configuration styled to resemble shadcn&#x27;s default dark theme, mapping zinc color tokens to MUI palette, typography, and component overrides.
-- [**How to Synchronize Obsidian Vault Using Git (PC + Android)**](https://sametcc.me/gist/how-to-synchronize-obsidian-vault-using-git) _(published: May 5, 2026)_<br />A comprehensive, step-by-step guide on synchronizing your Obsidian vault across PC and Android devices using Git, covering setup, workflow, conflict resolution, and best practices.
-- [**Docker Usage Guide**](https://sametcc.me/gist/docker-commands) _(published: Aug 25, 2024 • updated: Apr 27, 2026)_<br />Comprehensive guide to Docker commands for containerization, image management, and container orchestration with practical examples and best practices.
-- [**Hiretea**](https://sametcc.me/project/hiretea) _(published: Apr 15, 2026)_<br />A self-hosted platform for running technical assessments end to end, bundling Gitea as the code host and PostgreSQL as the data store with no external SaaS dependencies.
-- [**Booking Calendar (Self-Hosted)**](https://sametcc.me/project/booking-calendar) _(published: Apr 4, 2026)_<br />A self-hosted PWA designed for single-admin appointment management, running on your own server with shareable booking links, smart notifications, and integrations for webhooks, CalDAV, and iCal.
-- [**DreamTUI**](https://sametcc.me/project/dreamtui) _(published: Mar 17, 2026)_<br />A terminal-based generative dream engine that transforms written dreams into full-screen, animated ASCII art experiences using a two-stage AI pipeline.
-- [**HTWind**](https://sametcc.me/project/htwind) _(published: Mar 15, 2026)_<br />A highly customizable, HTML-based widget manager for Windows built with .NET and WPF, bringing web tools and system helpers directly to your desktop with native PowerShell execution support.
-- [**ArcDrop**](https://sametcc.me/project/arcdrop) _(published: Mar 10, 2026)_<br />A self-host-first bookmarking platform with cross-platform desktop clients and AI-assisted organization, built as a .NET 10 monorepo with MAUI, Blazor, and ASP.NET Core.
-- [**GitHub Repo TUI Cloner (PowerShell)**](https://sametcc.me/gist/git-clone-repo-tui) _(published: Feb 19, 2026)_<br />An interactive PowerShell script to fetch and clone your owned GitHub repositories using a terminal UI (TUI).
-- [**TypeSpec for .NET and Next.js Teams**](https://sametcc.me/gist/typespec-for-dotnet-nextjs) _(published: Feb 19, 2026)_<br />Practical TypeSpec workflow for contract-first API design with ASP.NET Core and Next.js, including OpenAPI generation and typed client usage.
-- [**Rendering HTML Details/Summary in MDX with Custom Components**](https://sametcc.me/gist/mdx-details-custom-components) _(published: Jan 30, 2026)_<br />A comprehensive guide on how to transform HTML details and summary elements into custom React components in Next.js MDX projects
-- [**Golter**](https://sametcc.me/project/golter) _(published: Jan 17, 2026)_<br />A terminal-based file converter with a modern TUI, built with Go. Supports batch conversion of images, videos, audio, and documents.
-- [**Payload Docker Config: PostgreSQL + BunJS**](https://sametcc.me/gist/payload-docker-config-pgsql-bunjs) _(published: Dec 25, 2025)_<br />Docker configuration files to run PayloadCMS using the Bun runtime and PostgreSQL database.
-- [**Migrate from prettier-eslint to Biome**](https://sametcc.me/gist/migrate-from-prettier-eslint-to-biome) _(published: Dec 24, 2025)_<br />A fully automated Bash script to migrate from ESLint + Prettier to Biome. It initializes Biome, migrates ESLint and Prettier configurations, removes old config files, and updates package.json scripts. Designed for Bun environments with full Next.js ESLint compatibility.
-- [**Insta Public Archiver**](https://sametcc.me/gist/insta-public-archiver) _(published: Dec 23, 2025)_<br />A Python script to download all media from public Instagram profiles without login.
-- [**Tracing Edgar Allan Poe&#x27;s Ghost in the Fog of Silent Hill**](https://sametcc.me/blog/tracing-edgar-allan-poes-ghost-in-the-fog-of-silent-hill) _(published: Dec 17, 2025)_<br />An analysis of the deep, foundational connections that bind Edgar Allan Poe&#x27;s literary universe to the nightmarish town of Silent Hill.
-- [**Deploying Calibre-Web on Coolify with Docker Compose**](https://sametcc.me/gist/running-calibre-on-coolify) _(published: Oct 15, 2025)_<br />A comprehensive guide to deploying Calibre-Web on Coolify with Docker Compose and persistent storage
-- [**GitHub Profile Viewer**](https://sametcc.me/project/github-profile-viewer) _(published: Oct 15, 2025)_<br />A dynamic web platform that transforms how you explore GitHub profiles, built with Blazor and .NET. Dive deep into developers&#x27; open-source contributions with a sleek interface and robust performance.
-- [**Mermaid Live Editor &amp; Viewer**](https://sametcc.me/project/mermaid-viewer) _(published: Apr 23, 2025)_<br />A powerful web application built with Next.js, React, and TypeScript that allows users to create, edit, and share Mermaid diagrams in real-time with live preview and instant sharing capabilities.
-- [**VitePress Mermaid Renderer**](https://sametcc.me/project/vitepress-mermaid-renderer) _(published: Mar 15, 2025)_<br />A VitePress plugin that transforms static Mermaid diagrams into interactive, dynamic visualizations with zoom, pan, fullscreen, and more.
-- [**Env Protector**](https://sametcc.me/project/env-protector) _(published: Sep 14, 2024)_<br />A Visual Studio Code extension that enhances the security of environment files by masking sensitive data, providing confirmation prompts before opening, and allowing users to manage environment variables without exposing their contents.
-- [**Using JSON Schema in VS Code**](https://sametcc.me/gist/using-json-schema-in-vscode) _(published: Aug 25, 2024)_<br />Step-by-step guide to implementing JSON Schema validation in VS Code for automatic error detection and IntelliSense support.
-- [**TypeScript Types and Utility Types**](https://sametcc.me/gist/typescript-types) _(published: Aug 25, 2024)_<br />Complete guide to TypeScript&#x27;s built-in utility types, advanced type transformations, and custom type definitions for robust type safety.
-- [**Using Glob Patterns in TypeScript Projects**](https://sametcc.me/gist/typescript-glob-patterns) _(published: Aug 25, 2024)_<br />Comprehensive guide to glob patterns in TypeScript with detailed character explanations, examples, and practical applications for file matching.
-- [**Product Requirements Document**](https://sametcc.me/gist/product-requirement-doc-guide) _(published: Aug 25, 2024)_<br />Complete guide to writing effective Product Requirements Documents (PRDs) with templates, best practices, and real-world examples for software development.
-- [**React Component Lifecycle**](https://sametcc.me/gist/react-component-lifecycle) _(published: Aug 25, 2024)_<br />Deep dive into React component lifecycle methods, hooks, and modern patterns for managing component state and side effects in React applications.
-- [**A Comprehensive Guide to Creating and Using Tasks in Visual Studio Code**](https://sametcc.me/gist/using-tasks-in-vscode) _(published: Aug 25, 2024)_<br />Complete guide to VS Code tasks configuration including custom tasks, automation, debugging, and integration with build systems.
-- [**Git Hooks: A Comprehensive Guide**](https://sametcc.me/gist/git-hooks-guide) _(published: Aug 25, 2024)_<br />Complete guide to Git hooks implementation, best practices, and advanced automation techniques for client-side and server-side workflows.
-- [**Script Gists**](https://sametcc.me/gist/scripts-gist) _(published: Aug 25, 2024)_<br />Collection of useful development scripts including Prettier setup, Git utilities, and automation tools for modern development workflows.
-- [**Running Scripts in Linux**](https://sametcc.me/gist/running-scripts-in-linux) _(published: Aug 25, 2024)_<br />Essential guide to running scripts in Linux including permissions, execution methods, and best practices for shell scripting.
-- [**PowerShell Scripting**](https://sametcc.me/gist/powershell-scripting) _(published: Aug 25, 2024)_<br />Complete PowerShell scripting guide covering automation, DevOps practices, Azure integration, and advanced techniques for cross-platform environments.
-- [**Electron Widgets**](https://sametcc.me/project/electron-widgets) _(published: Mar 25, 2024)_<br />A desktop application built with Electron.js and Node.js that allows users to create and manage customizable widgets on their desktops.
-- [**Resume Builder**](https://sametcc.me/project/resume-builder) _(published: Jan 12, 2023)_<br />A desktop application developed with C# and Windows Forms that allows users to create, manage, and export resumes using various templates, with features like automatic saving, import/export, and multi-language support.
-
-</details>
 
 ## Tech Stack
 
