@@ -20,7 +20,7 @@
 
 | Repository                                                                                | Description                                                                                          |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Sep 11, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
+| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 199                                     |
-| **Commits (7d)**          | 10+                                     |
+| **Commits (7d)**          | 20+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
 | **Forked Repositories**   | 10                                      |
@@ -116,17 +116,19 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 Recent releases across my repositories:
 
-| Release                                                                                                          | Repository                                                                |  Published   | Status |
-| :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :----------: | :----: |
-| [**v1.3.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.3.0) — Gotify Web Extension 1.3.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) | Oct 14, 2026 | Stable |
-| [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) | Oct 14, 2026 | Stable |
-| [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0                            | [tcptui](https://github.com/sametcn99/tcptui)                             | Oct 13, 2026 | Stable |
-| [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0                            | [tcptui](https://github.com/sametcn99/tcptui)                             | Oct 13, 2026 | Stable |
-| [**v1.1.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.1.0) — tcptui v1.1.0                            | [tcptui](https://github.com/sametcn99/tcptui)                             | Oct 13, 2026 | Stable |
+| Release                                                                                                          | Repository                                                                            |  Published   | Status |
+| :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------: | :----: |
+| [**v1.2.3**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.3) — v1.2.3               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Oct 24, 2026 | Stable |
+| [**v0.1.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.1.0) — v0.1.0                                | [repotruck](https://github.com/sametcn99/repotruck)                                   | Oct 24, 2026 | Stable |
+| [**v1.3.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.3.0) — Gotify Web Extension 1.3.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Oct 14, 2026 | Stable |
+| [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Oct 14, 2026 | Stable |
+| [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0                            | [tcptui](https://github.com/sametcn99/tcptui)                                         | Oct 13, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
+- [**v1.1.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.1.0) — tcptui v1.1.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.0.0) — tcptui v1.0.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.2.2**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.2) — v1.2.2 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 11, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 5, 2026)_
@@ -140,8 +142,6 @@ Recent releases across my repositories:
 - [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — v1.2.0 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
 - [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — v1.1.32 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
 - [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — v1.1.31 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
-- [**release-20260807-173241**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-173241) — release-20260807-173241 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
-- [**release-20260807-161157**](https://github.com/sametcn99/n8n-automations/releases/tag/release-20260807-161157) — release-20260807-161157 in [n8n-automations](https://github.com/sametcn99/n8n-automations) _(Aug 7, 2026)_
 
 </details>
 
@@ -151,15 +151,21 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(ci): fix eslint regex escape and clean up unused variables](https://github.com/sametcn99/tg-bot-studio/commit/9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0)** _(Oct 20, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/e2f9fddc6cd28a29e5c758ff3aa05f6504a13177)** _(Oct 20, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [.](https://github.com/sametcn99/tg-bot-studio/commit/6aab15212efa19693a6bd2d6556e57d8374d134f)** _(Oct 21, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(engine): add catch blocks with logger to all module runtime handlers](https://github.com/sametcn99/tg-bot-studio/commit/bf075e8e517e24465837862deee0f5e56d491df1)** _(Oct 19, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [fix(engine): ensure grammY middleware chain propagates updates via ne...](https://github.com/sametcn99/tg-bot-studio/commit/4a50783162e2cb4cfe59c4f2d035ff3377ef5669)** _(Oct 19, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [change license MIT](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/5b2556adf16dceae3918e458cc5a2e2965694f58)** _(Oct 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ci: configure git identity in release workflow](https://github.com/sametcn99/repotruck/commit/1217786413f9371cbbbfb44f7899866b1a2c2af4)** _(Oct 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(ci): normalize 8.3 paths in workspaces registry sorting test](https://github.com/sametcn99/repotruck/commit/7d9d6be5828120443c9e7b61ca7fc56b382ff81e)** _(Oct 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(ci): fix CI workflow, web-tree-sitter version, path realpath reso...](https://github.com/sametcn99/repotruck/commit/e4956750a561c84c02b91092a97549d7290f4358)** _(Oct 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(website): remove changelog section and navigation link](https://github.com/sametcn99/repotruck/commit/cd79adf111206a07dfa1941b53f0a8feb6b86756)** _(Oct 24, 2026)_
 
 <details>
-  <summary>Show 46 more pushes...</summary>
+  <summary>Show 52 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e495675...b429cbe](https://github.com/sametcn99/repotruck/compare/e4956750a561c84c02b91092a97549d7290f4358...b429cbef7706ac180a5af3fb17cdd3906185a687)** _(Oct 24, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [428cc5f...9b3a19e](https://github.com/sametcn99/tg-bot-studio/compare/428cc5fa0a09ff47fd1afeb8bdd07b1c2ccba20b...9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0)** _(Oct 20, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [960e1bd...e2f9fdd](https://github.com/sametcn99/tg-bot-studio/compare/960e1bdd6529de90d5d8290c39b0362a663fcef9...e2f9fddc6cd28a29e5c758ff3aa05f6504a13177)** _(Oct 20, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [9b3a19e...6aab152](https://github.com/sametcn99/tg-bot-studio/compare/9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0...6aab15212efa19693a6bd2d6556e57d8374d134f)** _(Oct 21, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [4a50783...bf075e8](https://github.com/sametcn99/tg-bot-studio/compare/4a50783162e2cb4cfe59c4f2d035ff3377ef5669...bf075e8e517e24465837862deee0f5e56d491df1)** _(Oct 19, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [674bfed...4a50783](https://github.com/sametcn99/tg-bot-studio/compare/674bfedbf32f92cce2e1681b9295489b24132430...4a50783162e2cb4cfe59c4f2d035ff3377ef5669)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [360501b...3b69880](https://github.com/sametcn99/tg-bot-studio/compare/360501b9c0c833f388e4d8688bf268983ca076fe...3b69880b75ada6a11e74b2aa9ed31e1d48ff1953)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [b45e43a...dbe4a4f](https://github.com/sametcn99/tg-bot-studio/compare/b45e43ab6c062fb76bda956966cb92668443b384...dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711)** _(Oct 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bb601a7...360501b](https://github.com/sametcn99/tg-bot-studio/compare/bb601a71e07483f0d6ca9ed5ee06c27c7154056d...360501b9c0c833f388e4d8688bf268983ca076fe)** _(Oct 19, 2026)_
@@ -225,6 +231,10 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 </details>
 
+### Comments
+
+- **Commented on issue [Change the license to MIT](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
+
 ### Starred Repositories
 
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
@@ -278,17 +288,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Closed issue [#19](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
 - **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-fc7ac98fdb&#x60; in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Oct 15, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 6, 2026)_
-- **Public in [Hiretea/docs](https://github.com/Hiretea/docs)** _(Oct 4, 2026)_
 
 <details>
   <summary>Show 2 more other activity...</summary>
 
+- **Public in [Hiretea/docs](https://github.com/Hiretea/docs)** _(Oct 4, 2026)_
 - **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
-- **Closed issue [#18](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/18) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Sep 24, 2026)_
 
 </details>
 
