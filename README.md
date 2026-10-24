@@ -104,8 +104,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 199                                     |
 | **Commits (7d)**          | 10+                                     |
-| **Total Repositories**    | 82                                      |
-| **Active Repositories**   | 72                                      |
+| **Total Repositories**    | 83                                      |
+| **Active Repositories**   | 73                                      |
 | **Forked Repositories**   | 10                                      |
 | **Archived Repositories** | 0                                       |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99) |
@@ -211,7 +211,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pull Requests
 
+- **Closed pull request [#6: Bump the website-dependencies group in /website with 5 updates](https://github.com/sametcn99/repotruck/pull/6) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#5: Bump web-tree-sitter from 0.25.10 to 0.27.1 in the root-dependencies...](https://github.com/sametcn99/repotruck/pull/5) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#4: Bump actions/deploy-pages from 4 to 5](https://github.com/sametcn99/repotruck/pull/4) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#3: Bump actions/setup-node from 4 to 7](https://github.com/sametcn99/repotruck/pull/3) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#2: Bump actions/upload-pages-artifact from 3 to 5](https://github.com/sametcn99/repotruck/pull/2) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+
+<details>
+  <summary>Show 2 more pull requests...</summary>
+
+- **Closed pull request [#1: Bump actions/checkout from 4 to 7](https://github.com/sametcn99/repotruck/pull/1) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 - **Closed pull request [#1: Bump next from 15.3.1 to 15.3.3 in the npm_and_yarn group across 1 di...](https://github.com/sametcn99/xls-to-gantt/pull/1) in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Dec 16, 2025)_
+
+</details>
 
 ### Starred Repositories
 
