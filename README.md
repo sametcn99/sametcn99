@@ -151,15 +151,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [remove dependebot and update packages](https://github.com/sametcn99/repotruck/commit/fb1b1b2c260cc1061715ebe1c432c105b445dff8)** _(Oct 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [docs: add npm package links and badges to README and website](https://github.com/sametcn99/repotruck/commit/c2cf41c4df60e74b667b62306fe651f3c2cdb6f9)** _(Oct 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(backups): ensure deterministic sorting for snapshots created in t...](https://github.com/sametcn99/repotruck/commit/f2e7cf5afedf7fb38696060b295034470a09e6cf)** _(Oct 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [change license MIT](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/5b2556adf16dceae3918e458cc5a2e2965694f58)** _(Oct 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ci: configure git identity in release workflow](https://github.com/sametcn99/repotruck/commit/1217786413f9371cbbbfb44f7899866b1a2c2af4)** _(Oct 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(ci): normalize 8.3 paths in workspaces registry sorting test](https://github.com/sametcn99/repotruck/commit/7d9d6be5828120443c9e7b61ca7fc56b382ff81e)** _(Oct 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(ci): fix CI workflow, web-tree-sitter version, path realpath reso...](https://github.com/sametcn99/repotruck/commit/e4956750a561c84c02b91092a97549d7290f4358)** _(Oct 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(website): remove changelog section and navigation link](https://github.com/sametcn99/repotruck/commit/cd79adf111206a07dfa1941b53f0a8feb6b86756)** _(Oct 24, 2026)_
 
 <details>
-  <summary>Show 52 more pushes...</summary>
+  <summary>Show 55 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [b429cbe...7d9d6be](https://github.com/sametcn99/repotruck/compare/b429cbef7706ac180a5af3fb17cdd3906185a687...7d9d6be5828120443c9e7b61ca7fc56b382ff81e)** _(Oct 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fb1b1b2...e495675](https://github.com/sametcn99/repotruck/compare/fb1b1b2c260cc1061715ebe1c432c105b445dff8...e4956750a561c84c02b91092a97549d7290f4358)** _(Oct 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7d9d6be...cd79adf](https://github.com/sametcn99/repotruck/compare/7d9d6be5828120443c9e7b61ca7fc56b382ff81e...cd79adf111206a07dfa1941b53f0a8feb6b86756)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e495675...b429cbe](https://github.com/sametcn99/repotruck/compare/e4956750a561c84c02b91092a97549d7290f4358...b429cbef7706ac180a5af3fb17cdd3906185a687)** _(Oct 24, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [428cc5f...9b3a19e](https://github.com/sametcn99/tg-bot-studio/compare/428cc5fa0a09ff47fd1afeb8bdd07b1c2ccba20b...9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0)** _(Oct 20, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [960e1bd...e2f9fdd](https://github.com/sametcn99/tg-bot-studio/compare/960e1bdd6529de90d5d8290c39b0362a663fcef9...e2f9fddc6cd28a29e5c758ff3aa05f6504a13177)** _(Oct 20, 2026)_
@@ -237,15 +240,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
+- **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
 - **Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** _(Oct 21, 2026)_
 - **Starred [maathimself/mailflow](https://github.com/maathimself/mailflow)** _(Oct 21, 2026)_
-- **Starred [mirego/accent](https://github.com/mirego/accent)** _(Oct 19, 2026)_
-- **Starred [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** _(Oct 19, 2026)_
 
 <details>
-  <summary>Show 37 more starred repositories...</summary>
+  <summary>Show 39 more starred repositories...</summary>
 
+- **Starred [mirego/accent](https://github.com/mirego/accent)** _(Oct 19, 2026)_
+- **Starred [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** _(Oct 19, 2026)_
 - **Starred [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** _(Oct 19, 2026)_
 - **Starred [bootandy/dust](https://github.com/bootandy/dust)** _(Oct 16, 2026)_
 - **Starred [tobi/disktree](https://github.com/tobi/disktree)** _(Oct 16, 2026)_
