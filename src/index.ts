@@ -20,6 +20,7 @@ const HIGHLIGHT_REPOSITORY_NAMES = [
   "my-stars-atlas",
   "booking-calendar",
   "htwind",
+  "repotruck",
   "mermaid-viewer",
   "instaloader-api",
   "golter",
