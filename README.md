@@ -110,7 +110,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | **Archived Repositories** | 0                                       |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99) |
 | **Top Languages**         | TypeScript, C#, JavaScript, HTML, MDX   |
-| **Account Age**           | 6 years                                 |
+| **Account Age**           | 7 years                                 |
 
 ## Releases
 
@@ -240,15 +240,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse)** _(Oct 25, 2026)_
+- **Starred [microsoft/vscode-tree-sitter-wasm](https://github.com/microsoft/vscode-tree-sitter-wasm)** _(Oct 25, 2026)_
+- **Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** _(Oct 25, 2026)_
 - **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
 - **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
+
+<details>
+  <summary>Show 42 more starred repositories...</summary>
+
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
 - **Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** _(Oct 21, 2026)_
 - **Starred [maathimself/mailflow](https://github.com/maathimself/mailflow)** _(Oct 21, 2026)_
-
-<details>
-  <summary>Show 39 more starred repositories...</summary>
-
 - **Starred [mirego/accent](https://github.com/mirego/accent)** _(Oct 19, 2026)_
 - **Starred [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** _(Oct 19, 2026)_
 - **Starred [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** _(Oct 19, 2026)_
