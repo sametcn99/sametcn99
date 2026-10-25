@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 199                                     |
-| **Commits (7d)**          | 20+                                     |
+| **Commits (7d)**          | 30+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
 | **Forked Repositories**   | 10                                      |
@@ -151,15 +151,20 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [remove dependebot and update packages](https://github.com/sametcn99/repotruck/commit/fb1b1b2c260cc1061715ebe1c432c105b445dff8)** _(Oct 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [docs: add npm package links and badges to README and website](https://github.com/sametcn99/repotruck/commit/c2cf41c4df60e74b667b62306fe651f3c2cdb6f9)** _(Oct 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(backups): ensure deterministic sorting for snapshots created in t...](https://github.com/sametcn99/repotruck/commit/f2e7cf5afedf7fb38696060b295034470a09e6cf)** _(Oct 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [change license MIT](https://github.com/sametcn99/vitepress-mermaid-renderer/commit/5b2556adf16dceae3918e458cc5a2e2965694f58)** _(Oct 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ci: configure git identity in release workflow](https://github.com/sametcn99/repotruck/commit/1217786413f9371cbbbfb44f7899866b1a2c2af4)** _(Oct 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(cli,website): add scan and status detail commands, update websit...](https://github.com/sametcn99/repotruck/commit/4b5cb6caa863f3f01361f5a1b8fc671a8b1c4a37)** _(Oct 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ci: pin bun-version to 1.4.2 in CI and cover core/repos functions](https://github.com/sametcn99/repotruck/commit/53c2d2be061d3de3ef15b328d97d576cd80670d7)** _(Oct 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test(lifecycle): fix biome import order and type assertions for core/...](https://github.com/sametcn99/repotruck/commit/71fe73f9d7084ab3a7e381f37a197585f7ff28b0)** _(Oct 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(codeSearch): bypass and clear languageCache for custom and offlin...](https://github.com/sametcn99/repotruck/commit/415d33392cbb785bcdbab349252d7fdb09cfc42b)** _(Oct 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat: modular CLI and MCP architecture, core use-case layer, and pipe...](https://github.com/sametcn99/repotruck/commit/e1abc5fd85f06c2379f7aec54690d5d199f545f5)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 55 more pushes...</summary>
+  <summary>Show 60 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7ac3e1a...fb1b1b2](https://github.com/sametcn99/repotruck/compare/7ac3e1a6db88efd94a6c246eddb602b0e2d04072...fb1b1b2c260cc1061715ebe1c432c105b445dff8)** _(Oct 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [f2e7cf5...c2cf41c](https://github.com/sametcn99/repotruck/compare/f2e7cf5afedf7fb38696060b295034470a09e6cf...c2cf41c4df60e74b667b62306fe651f3c2cdb6f9)** _(Oct 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [f0a757a...f2e7cf5](https://github.com/sametcn99/repotruck/compare/f0a757ae9bd676fc24b2db0d4c3c36a3246e9278...f2e7cf5afedf7fb38696060b295034470a09e6cf)** _(Oct 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [61cc3ba...5b2556a](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/61cc3ba41e0285caa7b7131de14e8bb30c4a7bbc...5b2556adf16dceae3918e458cc5a2e2965694f58)** _(Oct 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [cd79adf...1217786](https://github.com/sametcn99/repotruck/compare/cd79adf111206a07dfa1941b53f0a8feb6b86756...1217786413f9371cbbbfb44f7899866b1a2c2af4)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [b429cbe...7d9d6be](https://github.com/sametcn99/repotruck/compare/b429cbef7706ac180a5af3fb17cdd3906185a687...7d9d6be5828120443c9e7b61ca7fc56b382ff81e)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fb1b1b2...e495675](https://github.com/sametcn99/repotruck/compare/fb1b1b2c260cc1061715ebe1c432c105b445dff8...e4956750a561c84c02b91092a97549d7290f4358)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7d9d6be...cd79adf](https://github.com/sametcn99/repotruck/compare/7d9d6be5828120443c9e7b61ca7fc56b382ff81e...cd79adf111206a07dfa1941b53f0a8feb6b86756)** _(Oct 24, 2026)_
@@ -240,15 +245,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [frittlechasm/repohealth](https://github.com/frittlechasm/repohealth)** _(Oct 25, 2026)_
 - **Starred [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse)** _(Oct 25, 2026)_
 - **Starred [microsoft/vscode-tree-sitter-wasm](https://github.com/microsoft/vscode-tree-sitter-wasm)** _(Oct 25, 2026)_
 - **Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** _(Oct 25, 2026)_
 - **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
-- **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
 
 <details>
-  <summary>Show 42 more starred repositories...</summary>
+  <summary>Show 43 more starred repositories...</summary>
 
+- **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
 - **Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** _(Oct 21, 2026)_
 - **Starred [maathimself/mailflow](https://github.com/maathimself/mailflow)** _(Oct 21, 2026)_
