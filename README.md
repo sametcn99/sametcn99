@@ -25,6 +25,7 @@
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
 | [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |  ★ 10 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
+| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md… | TypeScript |     — | Oct 25, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |   ★ 9 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
@@ -118,15 +119,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------: | :----: |
+| [**v0.3.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.3.0) — v0.3.0                                | [repotruck](https://github.com/sametcn99/repotruck)                                   | Oct 25, 2026 | Stable |
 | [**v1.2.3**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.3) — v1.2.3               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Oct 24, 2026 | Stable |
 | [**v0.1.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.1.0) — v0.1.0                                | [repotruck](https://github.com/sametcn99/repotruck)                                   | Oct 24, 2026 | Stable |
 | [**v1.3.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.3.0) — Gotify Web Extension 1.3.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Oct 14, 2026 | Stable |
 | [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Oct 14, 2026 | Stable |
-| [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0                            | [tcptui](https://github.com/sametcn99/tcptui)                                         | Oct 13, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.1.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.1.0) — tcptui v1.1.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.0.0) — tcptui v1.0.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
@@ -141,7 +143,6 @@ Recent releases across my repositories:
 - [**v1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — Gotify Web Extension 1.0.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — v1.2.0 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
 - [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — v1.1.32 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
-- [**v1.1.31**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.31) — v1.1.31 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 7, 2026)_
 
 </details>
 
@@ -151,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(status): print &#x27;no repositories tracked&#x27; when workspace inventory...](https://github.com/sametcn99/repotruck/commit/e878e12292151758ab73c12bc0af645b6b2ac08d)** _(Oct 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(cli,website): add scan and status detail commands, update websit...](https://github.com/sametcn99/repotruck/commit/4b5cb6caa863f3f01361f5a1b8fc671a8b1c4a37)** _(Oct 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ci: pin bun-version to 1.4.2 in CI and cover core/repos functions](https://github.com/sametcn99/repotruck/commit/53c2d2be061d3de3ef15b328d97d576cd80670d7)** _(Oct 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test(lifecycle): fix biome import order and type assertions for core/...](https://github.com/sametcn99/repotruck/commit/71fe73f9d7084ab3a7e381f37a197585f7ff28b0)** _(Oct 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(codeSearch): bypass and clear languageCache for custom and offlin...](https://github.com/sametcn99/repotruck/commit/415d33392cbb785bcdbab349252d7fdb09cfc42b)** _(Oct 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat: modular CLI and MCP architecture, core use-case layer, and pipe...](https://github.com/sametcn99/repotruck/commit/e1abc5fd85f06c2379f7aec54690d5d199f545f5)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 60 more pushes...</summary>
+  <summary>Show 61 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [c2cf41c...e1abc5f](https://github.com/sametcn99/repotruck/compare/c2cf41c4df60e74b667b62306fe651f3c2cdb6f9...e1abc5fd85f06c2379f7aec54690d5d199f545f5)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7ac3e1a...fb1b1b2](https://github.com/sametcn99/repotruck/compare/7ac3e1a6db88efd94a6c246eddb602b0e2d04072...fb1b1b2c260cc1061715ebe1c432c105b445dff8)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [f2e7cf5...c2cf41c](https://github.com/sametcn99/repotruck/compare/f2e7cf5afedf7fb38696060b295034470a09e6cf...c2cf41c4df60e74b667b62306fe651f3c2cdb6f9)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [f0a757a...f2e7cf5](https://github.com/sametcn99/repotruck/compare/f0a757ae9bd676fc24b2db0d4c3c36a3246e9278...f2e7cf5afedf7fb38696060b295034470a09e6cf)** _(Oct 24, 2026)_
@@ -302,15 +304,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 - **Closed issue [#19](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
 - **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-fc7ac98fdb&#x60; in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Oct 15, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
 
 <details>
-  <summary>Show 3 more other activity...</summary>
+  <summary>Show 4 more other activity...</summary>
 
+- **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 6, 2026)_
 - **Public in [Hiretea/docs](https://github.com/Hiretea/docs)** _(Oct 4, 2026)_
 - **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
