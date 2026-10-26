@@ -104,7 +104,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 201                                     |
-| **Commits (7d)**          | 40+                                     |
+| **Commits (7d)**          | 30+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
 | **Forked Repositories**   | 10                                      |
@@ -152,15 +152,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(release): wire NODE_AUTH_TOKEN secret into npm publish step](https://github.com/sametcn99/repotruck/commit/e3c9a7e396bf72026aafd2d535a6a29ce5acd0da)** _(Oct 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/9ee8b02651632a3e6e4c9bc42377002d5a4fc0e3)** _(Oct 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(website): add agent-readiness metadata, skills, llms.txt, and co...](https://github.com/sametcn99/repotruck/commit/956a28db0175df558f1d090a53786d3faa4f8ffb)** _(Oct 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(release): specify public access for npm publish with provenance](https://github.com/sametcn99/repotruck/commit/f0a757ae9bd676fc24b2db0d4c3c36a3246e9278)** _(Oct 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(status): print &#x27;no repositories tracked&#x27; when workspace inventory...](https://github.com/sametcn99/repotruck/commit/e878e12292151758ab73c12bc0af645b6b2ac08d)** _(Oct 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(cli,website): add scan and status detail commands, update websit...](https://github.com/sametcn99/repotruck/commit/4b5cb6caa863f3f01361f5a1b8fc671a8b1c4a37)** _(Oct 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ci: pin bun-version to 1.4.2 in CI and cover core/repos functions](https://github.com/sametcn99/repotruck/commit/53c2d2be061d3de3ef15b328d97d576cd80670d7)** _(Oct 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test(lifecycle): fix biome import order and type assertions for core/...](https://github.com/sametcn99/repotruck/commit/71fe73f9d7084ab3a7e381f37a197585f7ff28b0)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 62 more pushes...</summary>
+  <summary>Show 65 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [71fe73f...4b5cb6c](https://github.com/sametcn99/repotruck/compare/71fe73f9d7084ab3a7e381f37a197585f7ff28b0...4b5cb6caa863f3f01361f5a1b8fc671a8b1c4a37)** _(Oct 25, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [415d333...53c2d2b](https://github.com/sametcn99/repotruck/compare/415d33392cbb785bcdbab349252d7fdb09cfc42b...53c2d2be061d3de3ef15b328d97d576cd80670d7)** _(Oct 25, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [53c2d2b...71fe73f](https://github.com/sametcn99/repotruck/compare/53c2d2be061d3de3ef15b328d97d576cd80670d7...71fe73f9d7084ab3a7e381f37a197585f7ff28b0)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e1abc5f...415d333](https://github.com/sametcn99/repotruck/compare/e1abc5fd85f06c2379f7aec54690d5d199f545f5...415d33392cbb785bcdbab349252d7fdb09cfc42b)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [c2cf41c...e1abc5f](https://github.com/sametcn99/repotruck/compare/c2cf41c4df60e74b667b62306fe651f3c2cdb6f9...e1abc5fd85f06c2379f7aec54690d5d199f545f5)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7ac3e1a...fb1b1b2](https://github.com/sametcn99/repotruck/compare/7ac3e1a6db88efd94a6c246eddb602b0e2d04072...fb1b1b2c260cc1061715ebe1c432c105b445dff8)** _(Oct 24, 2026)_
