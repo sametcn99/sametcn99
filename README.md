@@ -32,7 +32,7 @@
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
-| [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 14, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
+| [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |     — | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
 
@@ -119,15 +119,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------: | :----: |
+| [**v1.4.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.4.0) — Gotify Web Extension 1.4.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Oct 26, 2026 | Stable |
 | [**v0.3.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.3.0) — v0.3.0                                | [repotruck](https://github.com/sametcn99/repotruck)                                   | Oct 25, 2026 | Stable |
 | [**v1.2.3**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.3) — v1.2.3               | [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) | Oct 24, 2026 | Stable |
 | [**v0.1.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.1.0) — v0.1.0                                | [repotruck](https://github.com/sametcn99/repotruck)                                   | Oct 24, 2026 | Stable |
 | [**v1.3.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.3.0) — Gotify Web Extension 1.3.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Oct 14, 2026 | Stable |
-| [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)             | Oct 14, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 14, 2026)_
 - [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.1.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.1.0) — tcptui v1.1.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
@@ -142,7 +143,6 @@ Recent releases across my repositories:
 - [**v1.1.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.0) — Gotify Web Extension 1.1.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.0.0) — Gotify Web Extension 1.0.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 9, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.0) — v1.2.0 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
-- [**v1.1.32**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.1.32) — v1.1.32 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Aug 8, 2026)_
 
 </details>
 
@@ -257,15 +257,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [novuhq/novu](https://github.com/novuhq/novu)** _(Oct 26, 2026)_
 - **Starred [frittlechasm/repohealth](https://github.com/frittlechasm/repohealth)** _(Oct 25, 2026)_
 - **Starred [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse)** _(Oct 25, 2026)_
 - **Starred [microsoft/vscode-tree-sitter-wasm](https://github.com/microsoft/vscode-tree-sitter-wasm)** _(Oct 25, 2026)_
 - **Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** _(Oct 25, 2026)_
-- **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
 
 <details>
-  <summary>Show 42 more starred repositories...</summary>
+  <summary>Show 43 more starred repositories...</summary>
 
+- **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
 - **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
 - **Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** _(Oct 21, 2026)_
