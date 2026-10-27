@@ -20,20 +20,20 @@
 
 | Repository                                                                                | Description                                                                                          |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 67 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
-| [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 14 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
-| [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 5 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
-| [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 10 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
-| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |  ★ 10 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
-| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md… | TypeScript |   ★ 4 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
-| [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |   ★ 9 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
+| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 69 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
+| [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 15 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
+| [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
+| [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 11 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
+| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |  ★ 11 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
+| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md… | TypeScript |   ★ 5 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
+| [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |  ★ 10 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 2 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
-| [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |     — | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
-| [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 1 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
-| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |   ★ 1 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 3 | Aug 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
+| [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
+| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |   ★ 2 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
 
 ## Latest Writing
@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 204                                     |
+| **Total Stars Earned**    | 227                                     |
 | **Commits (7d)**          | 30+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
@@ -257,15 +257,41 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)** _(Oct 27, 2026)_
+- **Starred [sametcn99/markdown-file-renamer-web-app](https://github.com/sametcn99/markdown-file-renamer-web-app)** _(Oct 27, 2026)_
+- **Starred [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists)** _(Oct 27, 2026)_
+- **Starred [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Oct 27, 2026)_
+- **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
+
+<details>
+  <summary>Show 67 more starred repositories...</summary>
+
+- **Starred [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer)** _(Oct 27, 2026)_
+- **Starred [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)** _(Oct 27, 2026)_
+- **Starred [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Oct 27, 2026)_
+- **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Oct 27, 2026)_
+- **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Oct 27, 2026)_
+- **Starred [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Oct 27, 2026)_
+- **Starred [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Oct 27, 2026)_
+- **Starred [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer)** _(Oct 27, 2026)_
+- **Starred [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 27, 2026)_
+- **Starred [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Oct 27, 2026)_
+- **Starred [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 27, 2026)_
+- **Starred [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 27, 2026)_
+- **Starred [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 27, 2026)_
+- **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Oct 27, 2026)_
+- **Starred [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources)** _(Oct 27, 2026)_
+- **Starred [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(Oct 27, 2026)_
+- **Starred [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Oct 27, 2026)_
+- **Starred [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI)** _(Oct 27, 2026)_
+- **Starred [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)** _(Oct 27, 2026)_
+- **Starred [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker)** _(Oct 27, 2026)_
+- **Starred [orkunisitmak/banana-studio](https://github.com/orkunisitmak/banana-studio)** _(Oct 27, 2026)_
 - **Starred [novuhq/novu](https://github.com/novuhq/novu)** _(Oct 26, 2026)_
 - **Starred [frittlechasm/repohealth](https://github.com/frittlechasm/repohealth)** _(Oct 25, 2026)_
 - **Starred [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse)** _(Oct 25, 2026)_
 - **Starred [microsoft/vscode-tree-sitter-wasm](https://github.com/microsoft/vscode-tree-sitter-wasm)** _(Oct 25, 2026)_
 - **Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** _(Oct 25, 2026)_
-
-<details>
-  <summary>Show 41 more starred repositories...</summary>
-
 - **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
 - **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
