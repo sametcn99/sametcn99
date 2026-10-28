@@ -159,7 +159,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [docs(changelog): document scan command, status detail flag, and MCP p...](https://github.com/sametcn99/repotruck/commit/a02c80338a32c44a0efe1d2522a8098e98ba4705)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 69 more pushes...</summary>
+  <summary>Show 67 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [8aad1b3...e3c9a7e](https://github.com/sametcn99/repotruck/compare/8aad1b326bd51421079d21f78b82bf9b6ffd5e0f...e3c9a7e396bf72026aafd2d535a6a29ce5acd0da)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [789b253...9ee8b02](https://github.com/sametcn99/sametcn99/compare/789b253726cc387b265c093ee86998eb760ac55b...9ee8b02651632a3e6e4c9bc42377002d5a4fc0e3)** _(Oct 25, 2026)_
@@ -228,8 +228,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [4c709d3...dba14af](https://github.com/Hiretea/.github/compare/4c709d320688585c06f84af478ee8f3c7b2ce0f7...dba14af1c741f2265f4418aa9d6f4667fd4f6ccd)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [f66ff7d...4c709d3](https://github.com/Hiretea/.github/compare/f66ff7dd3e6738cb970661b5283bd1afa32b9395...4c709d320688585c06f84af478ee8f3c7b2ce0f7)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [31b068f...f66ff7d](https://github.com/Hiretea/.github/compare/31b068fb3f35f4ac403c756a1e8df8084f830d16...f66ff7dd3e6738cb970661b5283bd1afa32b9395)** _(Oct 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [0304ef8...0f41627](https://github.com/sametcn99/sametcn99/compare/0304ef87dfbc24663048999ae839d3ae2d2a2b07...0f41627f63958c11dd3edb9914dd1277df7def3c)** _(Sep 27, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [f092ff8...0e53ab7](https://github.com/sametcn99/sametcn99/compare/f092ff8c7b0d697aca22146074ba818f7d91b7c0...0e53ab779b0c9828257cdec20f20ae137f8373f7)** _(Sep 27, 2026)_
 
 </details>
 
