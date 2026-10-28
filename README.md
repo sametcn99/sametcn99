@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(ci): fix worktree canonical path comparison and website command c...](https://github.com/sametcn99/repotruck/commit/8385decbd5bc149dc8e9309f9aafecb650a1e05d)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [release: Bump version to 1.4.0](https://github.com/sametcn99/gotify-web-extension/commit/ab5460751068d4584c8bac2632c69772e6326add)** _(Oct 26, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(package): normalize bin script path for npm publishing](https://github.com/sametcn99/repotruck/commit/5acf9a5a2ab1b33ae994c8f07cfafa409e2d6266)** _(Oct 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(release): wire NPM_TOKEN into release workflow and update static...](https://github.com/sametcn99/repotruck/commit/6410a453cf70022ebb38fc5ab6fa86d926243b0c)** _(Oct 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(registry): isolate sort test and use native realpath for Windows...](https://github.com/sametcn99/repotruck/commit/8aad1b326bd51421079d21f78b82bf9b6ffd5e0f)** _(Oct 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [docs(changelog): document scan command, status detail flag, and MCP p...](https://github.com/sametcn99/repotruck/commit/a02c80338a32c44a0efe1d2522a8098e98ba4705)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 67 more pushes...</summary>
+  <summary>Show 68 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e878e12...a02c803](https://github.com/sametcn99/repotruck/compare/e878e12292151758ab73c12bc0af645b6b2ac08d...a02c80338a32c44a0efe1d2522a8098e98ba4705)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [8aad1b3...e3c9a7e](https://github.com/sametcn99/repotruck/compare/8aad1b326bd51421079d21f78b82bf9b6ffd5e0f...e3c9a7e396bf72026aafd2d535a6a29ce5acd0da)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [789b253...9ee8b02](https://github.com/sametcn99/sametcn99/compare/789b253726cc387b265c093ee86998eb760ac55b...9ee8b02651632a3e6e4c9bc42377002d5a4fc0e3)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [6410a45...956a28d](https://github.com/sametcn99/repotruck/compare/6410a453cf70022ebb38fc5ab6fa86d926243b0c...956a28db0175df558f1d090a53786d3faa4f8ffb)** _(Oct 25, 2026)_
@@ -343,7 +344,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted branch &#x60;dependabot/github_actions/actions/setup-node-7&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 9 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
@@ -352,7 +353,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 6, 2026)_
-- **Public in [Hiretea/docs](https://github.com/Hiretea/docs)** _(Oct 4, 2026)_
 - **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
 
 </details>
