@@ -267,7 +267,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 66 more starred repositories...</summary>
+  <summary>Show 65 more starred repositories...</summary>
 
 - **Starred [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer)** _(Oct 27, 2026)_
 - **Starred [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)** _(Oct 27, 2026)_
@@ -334,7 +334,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)** _(Oct 2, 2026)_
 - **Starred [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)** _(Oct 1, 2026)_
 - **Starred [selfishprimate/seekter](https://github.com/selfishprimate/seekter)** _(Sep 29, 2026)_
-- **Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** _(Sep 29, 2026)_
 
 </details>
 
