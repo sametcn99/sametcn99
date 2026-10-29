@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat: release v0.4.1 with worktree manager, sync resolver, instructio...](https://github.com/sametcn99/repotruck/commit/707d0768a536a2116539dad70962227c30b68ebd)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(website): resolve Lighthouse accessibility contrast and touch tar...](https://github.com/sametcn99/repotruck/commit/5831f531d1d660105186530132f2a5c907732b52)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [docs(website): update landing page and docs for v0.4.1 features](https://github.com/sametcn99/repotruck/commit/46909dc2371021d5067d7221407a590b4a3c7911)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(ci): fix worktree canonical path comparison and website command c...](https://github.com/sametcn99/repotruck/commit/8385decbd5bc149dc8e9309f9aafecb650a1e05d)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [release: Bump version to 1.4.0](https://github.com/sametcn99/gotify-web-extension/commit/ab5460751068d4584c8bac2632c69772e6326add)** _(Oct 26, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(package): normalize bin script path for npm publishing](https://github.com/sametcn99/repotruck/commit/5acf9a5a2ab1b33ae994c8f07cfafa409e2d6266)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 70 more pushes...</summary>
+  <summary>Show 71 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e3c9a7e...5acf9a5](https://github.com/sametcn99/repotruck/compare/e3c9a7e396bf72026aafd2d535a6a29ce5acd0da...5acf9a5a2ab1b33ae994c8f07cfafa409e2d6266)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [5acf9a5...6410a45](https://github.com/sametcn99/repotruck/compare/5acf9a5a2ab1b33ae994c8f07cfafa409e2d6266...6410a453cf70022ebb38fc5ab6fa86d926243b0c)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [a02c803...8aad1b3](https://github.com/sametcn99/repotruck/compare/a02c80338a32c44a0efe1d2522a8098e98ba4705...8aad1b326bd51421079d21f78b82bf9b6ffd5e0f)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e878e12...a02c803](https://github.com/sametcn99/repotruck/compare/e878e12292151758ab73c12bc0af645b6b2ac08d...a02c80338a32c44a0efe1d2522a8098e98ba4705)** _(Oct 25, 2026)_
