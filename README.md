@@ -104,7 +104,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 226                                     |
-| **Commits (7d)**          | 20+                                     |
+| **Commits (7d)**          | 10+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
 | **Forked Repositories**   | 10                                      |
@@ -267,7 +267,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 64 more starred repositories...</summary>
+  <summary>Show 63 more starred repositories...</summary>
 
 - **Starred [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer)** _(Oct 27, 2026)_
 - **Starred [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)** _(Oct 27, 2026)_
@@ -332,7 +332,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react)** _(Oct 6, 2026)_
 - **Starred [czaydev/better-payment](https://github.com/czaydev/better-payment)** _(Oct 4, 2026)_
 - **Starred [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)** _(Oct 2, 2026)_
-- **Starred [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)** _(Oct 1, 2026)_
 
 </details>
 
