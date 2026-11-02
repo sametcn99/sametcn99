@@ -104,7 +104,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 225                                     |
-| **Commits (7d)**          | 10+                                     |
+| **Commits (7d)**          | 20+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
 | **Forked Repositories**   | 10                                      |
@@ -117,17 +117,19 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 Recent releases across my repositories:
 
-| Release                                                                                                          | Repository                                                                |  Published   | Status |
-| :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :----------: | :----: |
-| [**v1.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.1.0) — LibRedirect Mobile v1.1.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)     | Nov 1, 2026  | Stable |
-| [**v1.0.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.0.0) — LibRedirect Mobile v1.0.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)     | Oct 30, 2026 | Stable |
-| [**v0.4.1**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.1) — v0.4.1                                | [repotruck](https://github.com/sametcn99/repotruck)                       | Oct 27, 2026 | Stable |
-| [**v0.4.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.0) — v0.4.0                                | [repotruck](https://github.com/sametcn99/repotruck)                       | Oct 27, 2026 | Stable |
-| [**v1.4.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.4.0) — Gotify Web Extension 1.4.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) | Oct 26, 2026 | Stable |
+| Release                                                                                                       | Repository                                                            |  Published   | Status |
+| :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :----------: | :----: |
+| [**v1.2.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.1) — LibRedirect Mobile v1.2.1 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026  | Stable |
+| [**v1.2.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.0) — LibRedirect Mobile v1.2.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026  | Stable |
+| [**v1.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.1.0) — LibRedirect Mobile v1.1.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 1, 2026  | Stable |
+| [**v1.0.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.0.0) — LibRedirect Mobile v1.0.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Oct 30, 2026 | Stable |
+| [**v0.4.1**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.1) — v0.4.1                             | [repotruck](https://github.com/sametcn99/repotruck)                   | Oct 27, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.4.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.0) — v0.4.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 27, 2026)_
+- [**v1.4.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.4.0) — Gotify Web Extension 1.4.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 26, 2026)_
 - [**v0.3.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.3.0) — v0.3.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 25, 2026)_
 - [**v1.2.3**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.3) — v1.2.3 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Oct 24, 2026)_
 - [**v0.1.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.1.0) — v0.1.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 24, 2026)_
@@ -141,8 +143,6 @@ Recent releases across my repositories:
 - [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 5, 2026)_
 - [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Aug 24, 2026)_
 - [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 21, 2026)_
-- [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 15, 2026)_
-- [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 14, 2026)_
 
 </details>
 
@@ -262,15 +262,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [php/php-src](https://github.com/php/php-src)** _(Nov 2, 2026)_
 - **Starred [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)** _(Oct 27, 2026)_
 - **Starred [sametcn99/markdown-file-renamer-web-app](https://github.com/sametcn99/markdown-file-renamer-web-app)** _(Oct 27, 2026)_
 - **Starred [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists)** _(Oct 27, 2026)_
 - **Starred [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Oct 27, 2026)_
-- **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 62 more starred repositories...</summary>
+  <summary>Show 63 more starred repositories...</summary>
 
+- **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
 - **Starred [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer)** _(Oct 27, 2026)_
 - **Starred [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)** _(Oct 27, 2026)_
 - **Starred [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Oct 27, 2026)_
