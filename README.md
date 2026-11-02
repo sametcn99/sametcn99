@@ -30,7 +30,7 @@
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 3 | Oct 30, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 3 | Nov 1, 2026  | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |   ★ 2 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
@@ -119,15 +119,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                                |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :----------: | :----: |
+| [**v1.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.1.0) — LibRedirect Mobile v1.1.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)     | Nov 1, 2026  | Stable |
 | [**v1.0.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.0.0) — LibRedirect Mobile v1.0.0    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)     | Oct 30, 2026 | Stable |
 | [**v0.4.1**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.1) — v0.4.1                                | [repotruck](https://github.com/sametcn99/repotruck)                       | Oct 27, 2026 | Stable |
 | [**v0.4.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.0) — v0.4.0                                | [repotruck](https://github.com/sametcn99/repotruck)                       | Oct 27, 2026 | Stable |
 | [**v1.4.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.4.0) — Gotify Web Extension 1.4.0 | [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) | Oct 26, 2026 | Stable |
-| [**v0.3.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.3.0) — v0.3.0                                | [repotruck](https://github.com/sametcn99/repotruck)                       | Oct 25, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.3.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.3.0) — v0.3.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 25, 2026)_
 - [**v1.2.3**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.3) — v1.2.3 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Oct 24, 2026)_
 - [**v0.1.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.1.0) — v0.1.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 24, 2026)_
 - [**v1.3.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.3.0) — Gotify Web Extension 1.3.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 14, 2026)_
@@ -142,7 +143,6 @@ Recent releases across my repositories:
 - [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 21, 2026)_
 - [**v1.2.3**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.3) — v1.2.3 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 15, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.2.1) — v1.2.1 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 14, 2026)_
-- [**v1.1.13**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/releases/tag/v1.1.13) — v1.1.13 in [linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs) _(Aug 11, 2026)_
 
 </details>
 
@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/f04d97dbe4d6cdb6f561b1de81b7131c7149b9f2)** _(Oct 31, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Add service sorter unit tests](https://github.com/sametcn99/libredirect-mobile/commit/f796dc9c5d6970ad79a69978c382e795d4fd539d)** _(Oct 30, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [chore(release): v0.4.0 - TUI v2 cockpit, CLI commands, worktree suppo...](https://github.com/sametcn99/repotruck/commit/9a8011c4a832988608c9bbabd7ae8ad20e2302fe)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat: release v0.4.1 with worktree manager, sync resolver, instructio...](https://github.com/sametcn99/repotruck/commit/707d0768a536a2116539dad70962227c30b68ebd)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(website): resolve Lighthouse accessibility contrast and touch tar...](https://github.com/sametcn99/repotruck/commit/5831f531d1d660105186530132f2a5c907732b52)** _(Oct 27, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [docs(website): update landing page and docs for v0.4.1 features](https://github.com/sametcn99/repotruck/commit/46909dc2371021d5067d7221407a590b4a3c7911)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 73 more pushes...</summary>
+  <summary>Show 74 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [8385dec...46909dc](https://github.com/sametcn99/repotruck/compare/8385decbd5bc149dc8e9309f9aafecb650a1e05d...46909dc2371021d5067d7221407a590b4a3c7911)** _(Oct 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [707d076...8385dec](https://github.com/sametcn99/repotruck/compare/707d0768a536a2116539dad70962227c30b68ebd...8385decbd5bc149dc8e9309f9aafecb650a1e05d)** _(Oct 27, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [303f050...ab54607](https://github.com/sametcn99/gotify-web-extension/compare/303f050f84495f6e2179750e3b2d64bb48ecd4d0...ab5460751068d4584c8bac2632c69772e6326add)** _(Oct 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e3c9a7e...5acf9a5](https://github.com/sametcn99/repotruck/compare/e3c9a7e396bf72026aafd2d535a6a29ce5acd0da...5acf9a5a2ab1b33ae994c8f07cfafa409e2d6266)** _(Oct 25, 2026)_
@@ -268,7 +269,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 63 more starred repositories...</summary>
+  <summary>Show 62 more starred repositories...</summary>
 
 - **Starred [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer)** _(Oct 27, 2026)_
 - **Starred [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)** _(Oct 27, 2026)_
@@ -332,7 +333,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [PanaraStudios/opensend.cc](https://github.com/PanaraStudios/opensend.cc)** _(Oct 6, 2026)_
 - **Starred [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react)** _(Oct 6, 2026)_
 - **Starred [czaydev/better-payment](https://github.com/czaydev/better-payment)** _(Oct 4, 2026)_
-- **Starred [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)** _(Oct 2, 2026)_
 
 </details>
 
