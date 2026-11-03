@@ -119,15 +119,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                       | Repository                                                            |  Published   | Status |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :----------: | :----: |
+| [**v1.2.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.2) — LibRedirect Mobile v1.2.2 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026  | Stable |
 | [**v1.2.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.1) — LibRedirect Mobile v1.2.1 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026  | Stable |
 | [**v1.2.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.0) — LibRedirect Mobile v1.2.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026  | Stable |
 | [**v1.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.1.0) — LibRedirect Mobile v1.1.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 1, 2026  | Stable |
 | [**v1.0.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.0.0) — LibRedirect Mobile v1.0.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Oct 30, 2026 | Stable |
-| [**v0.4.1**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.1) — v0.4.1                             | [repotruck](https://github.com/sametcn99/repotruck)                   | Oct 27, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.4.1**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.1) — v0.4.1 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 27, 2026)_
 - [**v0.4.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.0) — v0.4.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 27, 2026)_
 - [**v1.4.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.4.0) — Gotify Web Extension 1.4.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 26, 2026)_
 - [**v0.3.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.3.0) — v0.3.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 25, 2026)_
@@ -142,7 +143,6 @@ Recent releases across my repositories:
 - [**v1.2.2**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.2) — v1.2.2 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 11, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 5, 2026)_
 - [**v0.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v0.1.0) — LibRedirect Mobile v0.1.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Aug 24, 2026)_
-- [**v1.1.1**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.1.1) — Gotify Web Extension 1.1.1 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Aug 21, 2026)_
 
 </details>
 
@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(update): GitHub Releases update check with manual refresh and th...](https://github.com/sametcn99/libredirect-mobile/commit/dd7261690bb6516ec908ff1b05be56740cd19890)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/f04d97dbe4d6cdb6f561b1de81b7131c7149b9f2)** _(Oct 31, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Add service sorter unit tests](https://github.com/sametcn99/libredirect-mobile/commit/f796dc9c5d6970ad79a69978c382e795d4fd539d)** _(Oct 30, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [chore(release): v0.4.0 - TUI v2 cockpit, CLI commands, worktree suppo...](https://github.com/sametcn99/repotruck/commit/9a8011c4a832988608c9bbabd7ae8ad20e2302fe)** _(Oct 27, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat: release v0.4.1 with worktree manager, sync resolver, instructio...](https://github.com/sametcn99/repotruck/commit/707d0768a536a2116539dad70962227c30b68ebd)** _(Oct 27, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(website): resolve Lighthouse accessibility contrast and touch tar...](https://github.com/sametcn99/repotruck/commit/5831f531d1d660105186530132f2a5c907732b52)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 74 more pushes...</summary>
+  <summary>Show 75 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [46909dc...5831f53](https://github.com/sametcn99/repotruck/compare/46909dc2371021d5067d7221407a590b4a3c7911...5831f531d1d660105186530132f2a5c907732b52)** _(Oct 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [8385dec...46909dc](https://github.com/sametcn99/repotruck/compare/8385decbd5bc149dc8e9309f9aafecb650a1e05d...46909dc2371021d5067d7221407a590b4a3c7911)** _(Oct 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [707d076...8385dec](https://github.com/sametcn99/repotruck/compare/707d0768a536a2116539dad70962227c30b68ebd...8385decbd5bc149dc8e9309f9aafecb650a1e05d)** _(Oct 27, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [303f050...ab54607](https://github.com/sametcn99/gotify-web-extension/compare/303f050f84495f6e2179750e3b2d64bb48ecd4d0...ab5460751068d4584c8bac2632c69772e6326add)** _(Oct 26, 2026)_
