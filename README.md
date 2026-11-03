@@ -152,15 +152,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add search engine selection support](https://github.com/sametcn99/libredirect-mobile/commit/dcea4247ee3f517e06ef510b633420d4f3958692)** _(Nov 2, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add bookmark import and export for HTML and JSON](https://github.com/sametcn99/libredirect-mobile/commit/558d4b05d34a25571303c327f255a8b456e3dbd0)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(update): GitHub Releases update check with manual refresh and th...](https://github.com/sametcn99/libredirect-mobile/commit/dd7261690bb6516ec908ff1b05be56740cd19890)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/f04d97dbe4d6cdb6f561b1de81b7131c7149b9f2)** _(Oct 31, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Add service sorter unit tests](https://github.com/sametcn99/libredirect-mobile/commit/f796dc9c5d6970ad79a69978c382e795d4fd539d)** _(Oct 30, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [chore(release): v0.4.0 - TUI v2 cockpit, CLI commands, worktree suppo...](https://github.com/sametcn99/repotruck/commit/9a8011c4a832988608c9bbabd7ae8ad20e2302fe)** _(Oct 27, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat: release v0.4.1 with worktree manager, sync resolver, instructio...](https://github.com/sametcn99/repotruck/commit/707d0768a536a2116539dad70962227c30b68ebd)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 75 more pushes...</summary>
+  <summary>Show 77 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [956a28d...9a8011c](https://github.com/sametcn99/repotruck/compare/956a28db0175df558f1d090a53786d3faa4f8ffb...9a8011c4a832988608c9bbabd7ae8ad20e2302fe)** _(Oct 27, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [9a8011c...707d076](https://github.com/sametcn99/repotruck/compare/9a8011c4a832988608c9bbabd7ae8ad20e2302fe...707d0768a536a2116539dad70962227c30b68ebd)** _(Oct 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [46909dc...5831f53](https://github.com/sametcn99/repotruck/compare/46909dc2371021d5067d7221407a590b4a3c7911...5831f531d1d660105186530132f2a5c907732b52)** _(Oct 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [8385dec...46909dc](https://github.com/sametcn99/repotruck/compare/8385decbd5bc149dc8e9309f9aafecb650a1e05d...46909dc2371021d5067d7221407a590b4a3c7911)** _(Oct 27, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [707d076...8385dec](https://github.com/sametcn99/repotruck/compare/707d0768a536a2116539dad70962227c30b68ebd...8385decbd5bc149dc8e9309f9aafecb650a1e05d)** _(Oct 27, 2026)_
