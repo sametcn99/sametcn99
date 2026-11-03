@@ -152,15 +152,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add desktop site toggle support](https://github.com/sametcn99/libredirect-mobile/commit/f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(ui): localize strings into strings.xml, fix toggle contrast and...](https://github.com/sametcn99/libredirect-mobile/commit/d30e11ee730d0828ffb36680f71665234a001766)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Add in-app browser with real-time redirection and modernize UI (v1.1.0)](https://github.com/sametcn99/libredirect-mobile/commit/3f688978fe37a871f1947f0b225881a29c7a6861)** _(Nov 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add bookmarks and browsing history support](https://github.com/sametcn99/libredirect-mobile/commit/f7ef174895e701d95c8c62c7460d462eb84fb12f)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add search engine selection support](https://github.com/sametcn99/libredirect-mobile/commit/dcea4247ee3f517e06ef510b633420d4f3958692)** _(Nov 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add bookmark import and export for HTML and JSON](https://github.com/sametcn99/libredirect-mobile/commit/558d4b05d34a25571303c327f255a8b456e3dbd0)** _(Nov 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(update): GitHub Releases update check with manual refresh and th...](https://github.com/sametcn99/libredirect-mobile/commit/dd7261690bb6516ec908ff1b05be56740cd19890)** _(Nov 2, 2026)_
 
 <details>
-  <summary>Show 79 more pushes...</summary>
+  <summary>Show 80 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [dcea424...558d4b0](https://github.com/sametcn99/libredirect-mobile/compare/dcea4247ee3f517e06ef510b633420d4f3958692...558d4b05d34a25571303c327f255a8b456e3dbd0)** _(Nov 2, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [6dcf028...dd72616](https://github.com/sametcn99/libredirect-mobile/compare/6dcf0286fcfb94d6d0c986de8facf06563d18430...dd7261690bb6516ec908ff1b05be56740cd19890)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d30377a...f04d97d](https://github.com/sametcn99/personal-website-blazor/compare/d30377a820e41fd49ef3131ad0a9c7a7b24c1021...f04d97dbe4d6cdb6f561b1de81b7131c7149b9f2)** _(Oct 31, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [3881a67...f796dc9](https://github.com/sametcn99/libredirect-mobile/compare/3881a675f949b37d199ed98984dc606af2de7ad2...f796dc9c5d6970ad79a69978c382e795d4fd539d)** _(Oct 30, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [956a28d...9a8011c](https://github.com/sametcn99/repotruck/compare/956a28db0175df558f1d090a53786d3faa4f8ffb...9a8011c4a832988608c9bbabd7ae8ad20e2302fe)** _(Oct 27, 2026)_
@@ -239,7 +241,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [dba14af...f390100](https://github.com/Hiretea/.github/compare/dba14af1c741f2265f4418aa9d6f4667fd4f6ccd...f39010011f27a9844aaff88e90c1425c6c74e579)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [4c709d3...dba14af](https://github.com/Hiretea/.github/compare/4c709d320688585c06f84af478ee8f3c7b2ce0f7...dba14af1c741f2265f4418aa9d6f4667fd4f6ccd)** _(Oct 4, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [f66ff7d...4c709d3](https://github.com/Hiretea/.github/compare/f66ff7dd3e6738cb970661b5283bd1afa32b9395...4c709d320688585c06f84af478ee8f3c7b2ce0f7)** _(Oct 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [31b068f...f66ff7d](https://github.com/Hiretea/.github/compare/31b068fb3f35f4ac403c756a1e8df8084f830d16...f66ff7dd3e6738cb970661b5283bd1afa32b9395)** _(Oct 4, 2026)_
 
 </details>
 
@@ -274,7 +275,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 64 more starred repositories...</summary>
+  <summary>Show 63 more starred repositories...</summary>
 
 - **Starred [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Oct 27, 2026)_
 - **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
@@ -339,7 +340,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** _(Oct 7, 2026)_
 - **Starred [PanaraStudios/opensend.cc](https://github.com/PanaraStudios/opensend.cc)** _(Oct 6, 2026)_
 - **Starred [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react)** _(Oct 6, 2026)_
-- **Starred [czaydev/better-payment](https://github.com/czaydev/better-payment)** _(Oct 4, 2026)_
 
 </details>
 
@@ -352,7 +352,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted branch &#x60;dependabot/github_actions/actions/setup-node-7&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 8 more other activity...</summary>
+  <summary>Show 7 more other activity...</summary>
 
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
@@ -361,7 +361,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 6, 2026)_
-- **Created branch &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github)** _(Oct 4, 2026)_
 
 </details>
 
