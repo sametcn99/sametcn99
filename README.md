@@ -159,7 +159,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add search engine selection support](https://github.com/sametcn99/libredirect-mobile/commit/dcea4247ee3f517e06ef510b633420d4f3958692)** _(Nov 2, 2026)_
 
 <details>
-  <summary>Show 80 more pushes...</summary>
+  <summary>Show 78 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [dcea424...558d4b0](https://github.com/sametcn99/libredirect-mobile/compare/dcea4247ee3f517e06ef510b633420d4f3958692...558d4b05d34a25571303c327f255a8b456e3dbd0)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [6dcf028...dd72616](https://github.com/sametcn99/libredirect-mobile/compare/6dcf0286fcfb94d6d0c986de8facf06563d18430...dd7261690bb6516ec908ff1b05be56740cd19890)** _(Nov 2, 2026)_
@@ -239,8 +239,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [280f788...40386a4](https://github.com/sametcn99/tcptui/compare/280f788871f3fab6f06549eb330bb412967c4a0e...40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [7a80ee8...acd5e6b](https://github.com/sametcn99/tcptui/compare/7a80ee84843de78bf20c757560d1d7f85492dd69...acd5e6b0884e0e2f7cc81617253b6e3a802a412f)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [dba14af...f390100](https://github.com/Hiretea/.github/compare/dba14af1c741f2265f4418aa9d6f4667fd4f6ccd...f39010011f27a9844aaff88e90c1425c6c74e579)** _(Oct 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [4c709d3...dba14af](https://github.com/Hiretea/.github/compare/4c709d320688585c06f84af478ee8f3c7b2ce0f7...dba14af1c741f2265f4418aa9d6f4667fd4f6ccd)** _(Oct 4, 2026)_
-- **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [f66ff7d...4c709d3](https://github.com/Hiretea/.github/compare/f66ff7dd3e6738cb970661b5283bd1afa32b9395...4c709d320688585c06f84af478ee8f3c7b2ce0f7)** _(Oct 4, 2026)_
 
 </details>
 
@@ -345,15 +343,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Deleted tag &#x60;v1.3.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted branch &#x60;dependabot/bun/website/dev-dependencies-e4a9b127d5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted branch &#x60;dependabot/github_actions/actions/deploy-pages-5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
-- **Deleted branch &#x60;dependabot/github_actions/actions/setup-node-7&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 7 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
+- **Deleted branch &#x60;dependabot/github_actions/actions/setup-node-7&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 - **Closed issue [#19](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
