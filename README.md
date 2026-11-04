@@ -20,7 +20,7 @@
 
 | Repository                                                                                | Description                                                                                          |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 68 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
+| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…  | TypeScript |  ★ 69 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 15 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 11 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
@@ -103,7 +103,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 225                                     |
+| **Total Stars Earned**    | 226                                     |
 | **Commits (7d)**          | 30+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.2.0](https://github.com/sametcn99/libredirect-mobile/commit/8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add desktop site toggle support](https://github.com/sametcn99/libredirect-mobile/commit/f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(ui): localize strings into strings.xml, fix toggle contrast and...](https://github.com/sametcn99/libredirect-mobile/commit/d30e11ee730d0828ffb36680f71665234a001766)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Add in-app browser with real-time redirection and modernize UI (v1.1.0)](https://github.com/sametcn99/libredirect-mobile/commit/3f688978fe37a871f1947f0b225881a29c7a6861)** _(Nov 1, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add bookmarks and browsing history support](https://github.com/sametcn99/libredirect-mobile/commit/f7ef174895e701d95c8c62c7460d462eb84fb12f)** _(Nov 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add search engine selection support](https://github.com/sametcn99/libredirect-mobile/commit/dcea4247ee3f517e06ef510b633420d4f3958692)** _(Nov 2, 2026)_
 
 <details>
   <summary>Show 78 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f11f2c0...dcea424](https://github.com/sametcn99/libredirect-mobile/compare/f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8...dcea4247ee3f517e06ef510b633420d4f3958692)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [dcea424...558d4b0](https://github.com/sametcn99/libredirect-mobile/compare/dcea4247ee3f517e06ef510b633420d4f3958692...558d4b05d34a25571303c327f255a8b456e3dbd0)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [6dcf028...dd72616](https://github.com/sametcn99/libredirect-mobile/compare/6dcf0286fcfb94d6d0c986de8facf06563d18430...dd7261690bb6516ec908ff1b05be56740cd19890)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d30377a...f04d97d](https://github.com/sametcn99/personal-website-blazor/compare/d30377a820e41fd49ef3131ad0a9c7a7b24c1021...f04d97dbe4d6cdb6f561b1de81b7131c7149b9f2)** _(Oct 31, 2026)_
@@ -238,7 +239,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [f4e5dad...10b2164](https://github.com/sametcn99/tg-bot-studio/compare/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b...10b21645769dfc3121277c6220f7f64b4fef2a3b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [280f788...40386a4](https://github.com/sametcn99/tcptui/compare/280f788871f3fab6f06549eb330bb412967c4a0e...40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [7a80ee8...acd5e6b](https://github.com/sametcn99/tcptui/compare/7a80ee84843de78bf20c757560d1d7f85492dd69...acd5e6b0884e0e2f7cc81617253b6e3a802a412f)** _(Oct 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [Hiretea/.github](https://github.com/Hiretea/.github): [dba14af...f390100](https://github.com/Hiretea/.github/compare/dba14af1c741f2265f4418aa9d6f4667fd4f6ccd...f39010011f27a9844aaff88e90c1425c6c74e579)** _(Oct 4, 2026)_
 
 </details>
 
