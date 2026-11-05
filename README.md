@@ -30,7 +30,7 @@
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 3 | Nov 3, 2026  | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 3 | Nov 5, 2026  | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |   ★ 2 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
@@ -119,15 +119,19 @@ Recent releases across my repositories:
 
 | Release                                                                                                       | Repository                                                            |  Published  | Status |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :---------: | :----: |
+| [**v1.3.4**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.4) — LibRedirect Mobile v1.3.4 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
+| [**v1.3.3**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.3) — LibRedirect Mobile v1.3.3 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
+| [**v1.3.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.2) — LibRedirect Mobile v1.3.2 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
+| [**v1.3.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.1) — LibRedirect Mobile v1.3.1 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
 | [**v1.3.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.0) — LibRedirect Mobile v1.3.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 3, 2026 | Stable |
-| [**v1.2.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.2) — LibRedirect Mobile v1.2.2 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026 | Stable |
-| [**v1.2.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.1) — LibRedirect Mobile v1.2.1 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026 | Stable |
-| [**v1.2.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.0) — LibRedirect Mobile v1.2.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 2, 2026 | Stable |
-| [**v1.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.1.0) — LibRedirect Mobile v1.1.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 1, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.2.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.2) — LibRedirect Mobile v1.2.2 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
+- [**v1.2.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.1) — LibRedirect Mobile v1.2.1 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
+- [**v1.2.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.0) — LibRedirect Mobile v1.2.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
+- [**v1.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.1.0) — LibRedirect Mobile v1.1.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 1, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.0.0) — LibRedirect Mobile v1.0.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Oct 30, 2026)_
 - [**v0.4.1**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.1) — v0.4.1 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 27, 2026)_
 - [**v0.4.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.0) — v0.4.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 27, 2026)_
@@ -139,10 +143,6 @@ Recent releases across my repositories:
 - [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 14, 2026)_
 - [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
-- [**v1.1.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.1.0) — tcptui v1.1.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
-- [**v1.0.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.0.0) — tcptui v1.0.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
-- [**v1.2.2**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.2) — v1.2.2 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 11, 2026)_
-- [**v1.2.1**](https://github.com/sametcn99/vitepress-mermaid-renderer/releases/tag/v1.2.1) — v1.2.1 in [vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(Sep 5, 2026)_
 
 </details>
 
@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(app): harden link routing and per-tab browser state (1.3.1)](https://github.com/sametcn99/libredirect-mobile/commit/52abae13b63c77a4464ea3126503054a03b7834f)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.3.0](https://github.com/sametcn99/libredirect-mobile/commit/45759203a8c974ad5308d99f7f2568be07df948a)** _(Nov 3, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): open external links in new tabs with instance switching](https://github.com/sametcn99/libredirect-mobile/commit/6dcf0286fcfb94d6d0c986de8facf06563d18430)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.2.1](https://github.com/sametcn99/libredirect-mobile/commit/df7e98d56250478a8c74a6981f2e18730ab1bec8)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.2.0](https://github.com/sametcn99/libredirect-mobile/commit/8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): add desktop site toggle support](https://github.com/sametcn99/libredirect-mobile/commit/f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
 
 <details>
-  <summary>Show 81 more pushes...</summary>
+  <summary>Show 82 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f7ef174...f11f2c0](https://github.com/sametcn99/libredirect-mobile/compare/f7ef174895e701d95c8c62c7460d462eb84fb12f...f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [3f68897...d30e11e](https://github.com/sametcn99/libredirect-mobile/compare/3f688978fe37a871f1947f0b225881a29c7a6861...d30e11ee730d0828ffb36680f71665234a001766)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f796dc9...3f68897](https://github.com/sametcn99/libredirect-mobile/compare/f796dc9c5d6970ad79a69978c382e795d4fd539d...3f688978fe37a871f1947f0b225881a29c7a6861)** _(Nov 1, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [38c2275...f7ef174](https://github.com/sametcn99/libredirect-mobile/compare/38c2275e8c3b58773a1aa283fe5214e21ae1f0b9...f7ef174895e701d95c8c62c7460d462eb84fb12f)** _(Nov 2, 2026)_
@@ -276,7 +277,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 63 more starred repositories...</summary>
+  <summary>Show 62 more starred repositories...</summary>
 
 - **Starred [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Oct 27, 2026)_
 - **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
@@ -340,7 +341,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [eslint/eslint](https://github.com/eslint/eslint)** _(Oct 7, 2026)_
 - **Starred [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** _(Oct 7, 2026)_
 - **Starred [PanaraStudios/opensend.cc](https://github.com/PanaraStudios/opensend.cc)** _(Oct 6, 2026)_
-- **Starred [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react)** _(Oct 6, 2026)_
 
 </details>
 
