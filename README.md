@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [refactor(generator): collapse the frontend filter loop to a single ex...](https://github.com/sametcn99/libredirect-mobile/commit/c98fd018eb2d27bc21c24bab81d33cf8e3817f28)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(browser): make page theme choice effective and add live tab thumb...](https://github.com/sametcn99/libredirect-mobile/commit/b5cf06bd8bb2e867de40c5ba229029d7afa18583)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(app): harden link routing and per-tab browser state (1.3.1)](https://github.com/sametcn99/libredirect-mobile/commit/52abae13b63c77a4464ea3126503054a03b7834f)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.3.0](https://github.com/sametcn99/libredirect-mobile/commit/45759203a8c974ad5308d99f7f2568be07df948a)** _(Nov 3, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): open external links in new tabs with instance switching](https://github.com/sametcn99/libredirect-mobile/commit/6dcf0286fcfb94d6d0c986de8facf06563d18430)** _(Nov 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.2.1](https://github.com/sametcn99/libredirect-mobile/commit/df7e98d56250478a8c74a6981f2e18730ab1bec8)** _(Nov 2, 2026)_
 
 <details>
-  <summary>Show 83 more pushes...</summary>
+  <summary>Show 84 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [8a25925...df7e98d](https://github.com/sametcn99/libredirect-mobile/compare/8a25925f04082fd2fb339f03ae3a808b5781f81a...df7e98d56250478a8c74a6981f2e18730ab1bec8)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [558d4b0...8a25925](https://github.com/sametcn99/libredirect-mobile/compare/558d4b05d34a25571303c327f255a8b456e3dbd0...8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f7ef174...f11f2c0](https://github.com/sametcn99/libredirect-mobile/compare/f7ef174895e701d95c8c62c7460d462eb84fb12f...f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [3f68897...d30e11e](https://github.com/sametcn99/libredirect-mobile/compare/3f688978fe37a871f1947f0b225881a29c7a6861...d30e11ee730d0828ffb36680f71665234a001766)** _(Nov 2, 2026)_
@@ -346,15 +347,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Deleted tag &#x60;v1.3.4&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 5, 2026)_
 - **Deleted tag &#x60;v1.3.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted branch &#x60;dependabot/bun/website/dev-dependencies-e4a9b127d5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
-- **Deleted branch &#x60;dependabot/github_actions/actions/deploy-pages-5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 7 more other activity...</summary>
+  <summary>Show 8 more other activity...</summary>
 
+- **Deleted branch &#x60;dependabot/github_actions/actions/deploy-pages-5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted branch &#x60;dependabot/github_actions/actions/setup-node-7&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
