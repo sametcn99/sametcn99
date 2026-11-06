@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [style: satisfy ktlint in the new upstream sources; drop dead dependab...](https://github.com/sametcn99/libredirect-mobile/commit/bad0cead213ac3421199473e5929e8c2449de234)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [refactor(generator): collapse the frontend filter loop to a single ex...](https://github.com/sametcn99/libredirect-mobile/commit/c98fd018eb2d27bc21c24bab81d33cf8e3817f28)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(browser): make page theme choice effective and add live tab thumb...](https://github.com/sametcn99/libredirect-mobile/commit/b5cf06bd8bb2e867de40c5ba229029d7afa18583)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(app): harden link routing and per-tab browser state (1.3.1)](https://github.com/sametcn99/libredirect-mobile/commit/52abae13b63c77a4464ea3126503054a03b7834f)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.3.0](https://github.com/sametcn99/libredirect-mobile/commit/45759203a8c974ad5308d99f7f2568be07df948a)** _(Nov 3, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): open external links in new tabs with instance switching](https://github.com/sametcn99/libredirect-mobile/commit/6dcf0286fcfb94d6d0c986de8facf06563d18430)** _(Nov 2, 2026)_
 
 <details>
-  <summary>Show 84 more pushes...</summary>
+  <summary>Show 85 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f61c4e7...6dcf028](https://github.com/sametcn99/libredirect-mobile/compare/f61c4e7a80231de510159cb1038bba0958cc653b...6dcf0286fcfb94d6d0c986de8facf06563d18430)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [8a25925...df7e98d](https://github.com/sametcn99/libredirect-mobile/compare/8a25925f04082fd2fb339f03ae3a808b5781f81a...df7e98d56250478a8c74a6981f2e18730ab1bec8)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [558d4b0...8a25925](https://github.com/sametcn99/libredirect-mobile/compare/558d4b05d34a25571303c327f255a8b456e3dbd0...8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f7ef174...f11f2c0](https://github.com/sametcn99/libredirect-mobile/compare/f7ef174895e701d95c8c62c7460d462eb84fb12f...f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
