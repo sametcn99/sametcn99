@@ -119,15 +119,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                       | Repository                                                            |  Published  | Status |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :---------: | :----: |
+| [**v1.3.5**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.5) — LibRedirect Mobile v1.3.5 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
 | [**v1.3.4**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.4) — LibRedirect Mobile v1.3.4 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
 | [**v1.3.3**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.3) — LibRedirect Mobile v1.3.3 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
 | [**v1.3.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.2) — LibRedirect Mobile v1.3.2 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
 | [**v1.3.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.1) — LibRedirect Mobile v1.3.1 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 5, 2026 | Stable |
-| [**v1.3.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.0) — LibRedirect Mobile v1.3.0 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 3, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.3.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.0) — LibRedirect Mobile v1.3.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 3, 2026)_
 - [**v1.2.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.2) — LibRedirect Mobile v1.2.2 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.1) — LibRedirect Mobile v1.2.1 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.0) — LibRedirect Mobile v1.2.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
@@ -142,7 +143,6 @@ Recent releases across my repositories:
 - [**v1.3.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.3.0) — Gotify Web Extension 1.3.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 14, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.2.0) — Gotify Web Extension 1.2.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 14, 2026)_
 - [**v1.3.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.3.0) — tcptui v1.3.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
-- [**v1.2.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.2.0) — tcptui v1.2.0 in [tcptui](https://github.com/sametcn99/tcptui) _(Oct 13, 2026)_
 
 </details>
 
@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(browser): make page theme choice effective and add live tab thumb...](https://github.com/sametcn99/libredirect-mobile/commit/b5cf06bd8bb2e867de40c5ba229029d7afa18583)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(app): harden link routing and per-tab browser state (1.3.1)](https://github.com/sametcn99/libredirect-mobile/commit/52abae13b63c77a4464ea3126503054a03b7834f)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.3.0](https://github.com/sametcn99/libredirect-mobile/commit/45759203a8c974ad5308d99f7f2568be07df948a)** _(Nov 3, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(browser): open external links in new tabs with instance switching](https://github.com/sametcn99/libredirect-mobile/commit/6dcf0286fcfb94d6d0c986de8facf06563d18430)** _(Nov 2, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.2.1](https://github.com/sametcn99/libredirect-mobile/commit/df7e98d56250478a8c74a6981f2e18730ab1bec8)** _(Nov 2, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.2.0](https://github.com/sametcn99/libredirect-mobile/commit/8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
 
 <details>
-  <summary>Show 82 more pushes...</summary>
+  <summary>Show 83 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [558d4b0...8a25925](https://github.com/sametcn99/libredirect-mobile/compare/558d4b05d34a25571303c327f255a8b456e3dbd0...8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f7ef174...f11f2c0](https://github.com/sametcn99/libredirect-mobile/compare/f7ef174895e701d95c8c62c7460d462eb84fb12f...f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [3f68897...d30e11e](https://github.com/sametcn99/libredirect-mobile/compare/3f688978fe37a871f1947f0b225881a29c7a6861...d30e11ee730d0828ffb36680f71665234a001766)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f796dc9...3f68897](https://github.com/sametcn99/libredirect-mobile/compare/f796dc9c5d6970ad79a69978c382e795d4fd539d...3f688978fe37a871f1947f0b225881a29c7a6861)** _(Nov 1, 2026)_
@@ -277,7 +278,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists)** _(Oct 27, 2026)_
 
 <details>
-  <summary>Show 62 more starred repositories...</summary>
+  <summary>Show 61 more starred repositories...</summary>
 
 - **Starred [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Oct 27, 2026)_
 - **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
@@ -340,7 +341,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)** _(Oct 7, 2026)_
 - **Starred [eslint/eslint](https://github.com/eslint/eslint)** _(Oct 7, 2026)_
 - **Starred [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** _(Oct 7, 2026)_
-- **Starred [PanaraStudios/opensend.cc](https://github.com/PanaraStudios/opensend.cc)** _(Oct 6, 2026)_
 
 </details>
 
@@ -353,7 +353,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted branch &#x60;dependabot/github_actions/actions/deploy-pages-5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 
 <details>
-  <summary>Show 8 more other activity...</summary>
+  <summary>Show 7 more other activity...</summary>
 
 - **Deleted branch &#x60;dependabot/github_actions/actions/setup-node-7&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
@@ -362,7 +362,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-fc7ac98fdb&#x60; in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Oct 15, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 6, 2026)_
 
 </details>
 
