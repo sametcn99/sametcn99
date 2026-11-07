@@ -30,7 +30,7 @@
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                     |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple… | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 3 | Nov 5, 2026  | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…  |   Kotlin   |   ★ 3 | Nov 6, 2026  | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |   ★ 2 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
@@ -104,7 +104,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 227                                     |
-| **Commits (7d)**          | 30+                                     |
+| **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 83                                      |
 | **Active Repositories**   | 73                                      |
 | **Forked Repositories**   | 10                                      |
@@ -152,15 +152,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(generator): drop ids outside the manifest id grammar instead of e...](https://github.com/sametcn99/libredirect-mobile/commit/d5644d98f493a2e8d31ea9a7fec62834bc898cb0)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [style: satisfy ktlint in the new upstream sources; drop dead dependab...](https://github.com/sametcn99/libredirect-mobile/commit/bad0cead213ac3421199473e5929e8c2449de234)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [refactor(generator): collapse the frontend filter loop to a single ex...](https://github.com/sametcn99/libredirect-mobile/commit/c98fd018eb2d27bc21c24bab81d33cf8e3817f28)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(browser): make page theme choice effective and add live tab thumb...](https://github.com/sametcn99/libredirect-mobile/commit/b5cf06bd8bb2e867de40c5ba229029d7afa18583)** _(Nov 5, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(app): harden link routing and per-tab browser state (1.3.1)](https://github.com/sametcn99/libredirect-mobile/commit/52abae13b63c77a4464ea3126503054a03b7834f)** _(Nov 5, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.3.0](https://github.com/sametcn99/libredirect-mobile/commit/45759203a8c974ad5308d99f7f2568be07df948a)** _(Nov 3, 2026)_
 
 <details>
-  <summary>Show 85 more pushes...</summary>
+  <summary>Show 86 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [dd72616...4575920](https://github.com/sametcn99/libredirect-mobile/compare/dd7261690bb6516ec908ff1b05be56740cd19890...45759203a8c974ad5308d99f7f2568be07df948a)** _(Nov 3, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f61c4e7...6dcf028](https://github.com/sametcn99/libredirect-mobile/compare/f61c4e7a80231de510159cb1038bba0958cc653b...6dcf0286fcfb94d6d0c986de8facf06563d18430)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [8a25925...df7e98d](https://github.com/sametcn99/libredirect-mobile/compare/8a25925f04082fd2fb339f03ae3a808b5781f81a...df7e98d56250478a8c74a6981f2e18730ab1bec8)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [558d4b0...8a25925](https://github.com/sametcn99/libredirect-mobile/compare/558d4b05d34a25571303c327f255a8b456e3dbd0...8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
@@ -251,19 +252,26 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pull Requests
 
+- **Closed pull request [#6: build(deps): bump androidx.webkit:webkit from 1.12.1 to 1.18.0 in /an...](https://github.com/sametcn99/libredirect-mobile/pull/6) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
+- **Closed pull request [#8: build(deps): bump androidx.datastore:datastore-preferences from 1.1.1...](https://github.com/sametcn99/libredirect-mobile/pull/8) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
+- **Closed pull request [#9: build(deps): bump com.squareup.okhttp3:okhttp from 4.12.0 to 5.5.1 in...](https://github.com/sametcn99/libredirect-mobile/pull/9) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
+- **Closed pull request [#10: build(deps): bump androidx.compose:compose-bom from 2024.12.01 to 202...](https://github.com/sametcn99/libredirect-mobile/pull/10) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
+- **Closed pull request [#1: build(deps): bump actions/setup-java from 4 to 6](https://github.com/sametcn99/libredirect-mobile/pull/1) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
+
+<details>
+  <summary>Show 11 more pull requests...</summary>
+
+- **Closed pull request [#3: build(deps): bump actions/checkout from 4 to 7](https://github.com/sametcn99/libredirect-mobile/pull/3) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
+- **Closed pull request [#5: build(deps): bump gradle/actions from 4 to 6](https://github.com/sametcn99/libredirect-mobile/pull/5) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#8: chore(deps): bump the dev-dependencies group in /website with 5 updates](https://github.com/sametcn99/repotruck/pull/8) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Closed pull request [#7: chore(deps): bump the actions group with 4 updates](https://github.com/sametcn99/repotruck/pull/7) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Closed pull request [#6: Bump the website-dependencies group in /website with 5 updates](https://github.com/sametcn99/repotruck/pull/6) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#5: Bump web-tree-sitter from 0.25.10 to 0.27.1 in the root-dependencies...](https://github.com/sametcn99/repotruck/pull/5) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#4: Bump actions/deploy-pages from 4 to 5](https://github.com/sametcn99/repotruck/pull/4) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-
-<details>
-  <summary>Show 4 more pull requests...</summary>
-
-- **Closed pull request [#3: Bump actions/setup-node from 4 to 7](https://github.com/sametcn99/repotruck/pull/3) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#2: Bump actions/upload-pages-artifact from 3 to 5](https://github.com/sametcn99/repotruck/pull/2) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#1: Bump actions/checkout from 4 to 7](https://github.com/sametcn99/repotruck/pull/1) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#1: Bump next from 15.3.1 to 15.3.3 in the npm_and_yarn group across 1 di...](https://github.com/sametcn99/xls-to-gantt/pull/1) in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Dec 16, 2025)_
+- **Closed pull request [#5](https://github.com/sametcn99/repotruck/pull/5) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#4](https://github.com/sametcn99/repotruck/pull/4) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#3](https://github.com/sametcn99/repotruck/pull/3) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#2](https://github.com/sametcn99/repotruck/pull/2) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#1](https://github.com/sametcn99/repotruck/pull/1) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#1](https://github.com/sametcn99/xls-to-gantt/pull/1) in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Dec 16, 2025)_
 
 </details>
 
@@ -273,15 +281,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
+- **Starred [g0runmezadam/what-is-jev](https://github.com/g0runmezadam/what-is-jev)** _(Nov 6, 2026)_
+- **Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)** _(Nov 6, 2026)_
 - **Starred [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT)** _(Nov 6, 2026)_
 - **Starred [libracoder/kiri](https://github.com/libracoder/kiri)** _(Nov 6, 2026)_
+
+<details>
+  <summary>Show 53 more starred repositories...</summary>
+
 - **Starred [Milvasoft/kabuk](https://github.com/Milvasoft/kabuk)** _(Nov 3, 2026)_
 - **Starred [php/php-src](https://github.com/php/php-src)** _(Nov 2, 2026)_
 - **Starred [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)** _(Oct 27, 2026)_
-
-<details>
-  <summary>Show 63 more starred repositories...</summary>
-
 - **Starred [sametcn99/markdown-file-renamer-web-app](https://github.com/sametcn99/markdown-file-renamer-web-app)** _(Oct 27, 2026)_
 - **Starred [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists)** _(Oct 27, 2026)_
 - **Starred [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Oct 27, 2026)_
@@ -332,19 +343,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox)** _(Oct 12, 2026)_
 - **Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** _(Oct 12, 2026)_
 - **Starred [nmcassa/letterboxdpy](https://github.com/nmcassa/letterboxdpy)** _(Oct 11, 2026)_
-- **Starred [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)** _(Oct 7, 2026)_
-- **Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)** _(Oct 7, 2026)_
-- **Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)** _(Oct 7, 2026)_
-- **Starred [react/create-react-app](https://github.com/react/create-react-app)** _(Oct 7, 2026)_
-- **Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)** _(Oct 7, 2026)_
-- **Starred [prettier/prettier](https://github.com/prettier/prettier)** _(Oct 7, 2026)_
-- **Starred [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)** _(Oct 7, 2026)_
-- **Starred [streamich/react-use](https://github.com/streamich/react-use)** _(Oct 7, 2026)_
-- **Starred [dotenvx/react-native-dotenv](https://github.com/dotenvx/react-native-dotenv)** _(Oct 7, 2026)_
-- **Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)** _(Oct 7, 2026)_
-- **Starred [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)** _(Oct 7, 2026)_
-- **Starred [eslint/eslint](https://github.com/eslint/eslint)** _(Oct 7, 2026)_
-- **Starred [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** _(Oct 7, 2026)_
 
 </details>
 
