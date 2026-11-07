@@ -152,15 +152,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(r8): restore default-constructor keeping; release 1.3.7](https://github.com/sametcn99/libredirect-mobile/commit/970cd1e0fdd168100d279405a663c6386638b2ac)** _(Nov 7, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [.](https://github.com/sametcn99/ArcDrop/commit/9f2428653dea16aeb7a05763437917a86eea0922)** _(Nov 6, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump version to 1.4.0](https://github.com/sametcn99/libredirect-mobile/commit/3b7b04c7099d2733de8bbe8a0019aab444ee18d6)** _(Nov 6, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [build: move to Gradle 9.5.1, clear remaining toolchain warnings](https://github.com/sametcn99/libredirect-mobile/commit/9a175564cf64eb5d3b6e328fda5071854a3be248)** _(Nov 7, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: clear remaining Kotlin compile warnings on CI](https://github.com/sametcn99/libredirect-mobile/commit/c8cedfec4336b0bca1186c0728dcfc354eba6356)** _(Nov 7, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ci: clear runner/toolchain deprecation warnings; bump AGP to 8.13.2](https://github.com/sametcn99/libredirect-mobile/commit/35e3a2d0c9563a92fb163ef4d1d1b9889bd0bafe)** _(Nov 7, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat: Close web workspace gap plan and add Avalonia Linux client](https://github.com/sametcn99/ArcDrop/commit/4ee5dbbff1deef6a94dba44ccff7bedd36825c9c)** _(Nov 6, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ci: fix reproducible-build job working directory](https://github.com/sametcn99/libredirect-mobile/commit/0526ea3452892c7cb181f8ffc60609e3ad89ae2f)** _(Nov 6, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [docs: Remove references to deleted .github guardrail files](https://github.com/sametcn99/ArcDrop/commit/cf2c111a6b4bd322b216fd9fb8fd233b1928168d)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 94 more pushes...</summary>
+  <summary>Show 98 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [0526ea3...35e3a2d](https://github.com/sametcn99/libredirect-mobile/compare/0526ea3452892c7cb181f8ffc60609e3ad89ae2f...35e3a2d0c9563a92fb163ef4d1d1b9889bd0bafe)** _(Nov 7, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [18cad4e...4ee5dbb](https://github.com/sametcn99/ArcDrop/compare/18cad4e459588d1333b4de9b1a83924cdc53e6ef...4ee5dbbff1deef6a94dba44ccff7bedd36825c9c)** _(Nov 6, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [546e74e...0526ea3](https://github.com/sametcn99/libredirect-mobile/compare/546e74e0485bd3d384d490d0e92495cbf447b104...0526ea3452892c7cb181f8ffc60609e3ad89ae2f)** _(Nov 6, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [9f24286...cf2c111](https://github.com/sametcn99/ArcDrop/compare/9f2428653dea16aeb7a05763437917a86eea0922...cf2c111a6b4bd322b216fd9fb8fd233b1928168d)** _(Nov 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [3b7b04c...feb393d](https://github.com/sametcn99/libredirect-mobile/compare/3b7b04c7099d2733de8bbe8a0019aab444ee18d6...feb393dc4d6de0ececa8af64f52d24c2df18adc4)** _(Nov 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feb393d...20b5d8b](https://github.com/sametcn99/libredirect-mobile/compare/feb393dc4d6de0ececa8af64f52d24c2df18adc4...20b5d8b5cb3f3fd84e041526e1c0a7b968752ee1)** _(Nov 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [d3fd50f...f78bf37](https://github.com/sametcn99/libredirect-mobile/compare/d3fd50f75e891fe565ec2d24a0b0a8c9bf01d572...f78bf376de2e7776714342d7b0bcb56406256646)** _(Nov 6, 2026)_
