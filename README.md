@@ -152,15 +152,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat: batch release v1.3.6 — instance health, privacy pipeline, brows...](https://github.com/sametcn99/libredirect-mobile/commit/546e74e0485bd3d384d490d0e92495cbf447b104)** _(Nov 6, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(lock): keep navigation alive under the app lock so routed links l...](https://github.com/sametcn99/libredirect-mobile/commit/b238456872be473f992a8fc34ae90ce2e4a7357a)** _(Nov 6, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(browser): survive in-use incognito profile deletion](https://github.com/sametcn99/libredirect-mobile/commit/d3fd50f75e891fe565ec2d24a0b0a8c9bf01d572)** _(Nov 6, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [Bump versionCode to 14](https://github.com/sametcn99/libredirect-mobile/commit/9afb25fb17c20594fd9a481909297f97da5f5aba)** _(Nov 6, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: release 1.3.8 (versionCode 17)](https://github.com/sametcn99/libredirect-mobile/commit/dcc6848795b170838c1eae59a91fb536dcaaaa6a)** _(Nov 7, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(browser): stop per-frame recomposition from scroll state; remove...](https://github.com/sametcn99/libredirect-mobile/commit/2f63b9e3e92868da1e1033f966b46c308a51e180)** _(Nov 7, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: release 1.3.9 (versionCode 18)](https://github.com/sametcn99/libredirect-mobile/commit/218da6d5758c0a94ae56bf9f8f87115abc65a098)** _(Nov 7, 2026)_
 
 <details>
-  <summary>Show 103 more pushes...</summary>
+  <summary>Show 105 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [970cd1e...2f63b9e](https://github.com/sametcn99/libredirect-mobile/compare/970cd1e0fdd168100d279405a663c6386638b2ac...2f63b9e3e92868da1e1033f966b46c308a51e180)** _(Nov 7, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [dcc6848...218da6d](https://github.com/sametcn99/libredirect-mobile/compare/dcc6848795b170838c1eae59a91fb536dcaaaa6a...218da6d5758c0a94ae56bf9f8f87115abc65a098)** _(Nov 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ab509b3...970cd1e](https://github.com/sametcn99/libredirect-mobile/compare/ab509b321211513dd0d019f67ef228355165d9ed...970cd1e0fdd168100d279405a663c6386638b2ac)** _(Nov 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [4ee5dbb...9f24286](https://github.com/sametcn99/ArcDrop/compare/4ee5dbbff1deef6a94dba44ccff7bedd36825c9c...9f2428653dea16aeb7a05763437917a86eea0922)** _(Nov 6, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [d5644d9...3b7b04c](https://github.com/sametcn99/libredirect-mobile/compare/d5644d98f493a2e8d31ea9a7fec62834bc898cb0...3b7b04c7099d2733de8bbe8a0019aab444ee18d6)** _(Nov 6, 2026)_
