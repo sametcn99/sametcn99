@@ -274,20 +274,22 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pull Requests
 
+- **Closed pull request [#6](https://github.com/sametcn99/tg-bot-studio/pull/6) in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 19, 2026)_
+- **Closed pull request [#1](https://github.com/sametcn99/tg-bot-studio/pull/1) in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 16, 2026)_
 - **Closed pull request [#6: build(deps): bump androidx.webkit:webkit from 1.12.1 to 1.18.0 in /an...](https://github.com/sametcn99/libredirect-mobile/pull/6) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
 - **Closed pull request [#8: build(deps): bump androidx.datastore:datastore-preferences from 1.1.1...](https://github.com/sametcn99/libredirect-mobile/pull/8) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#9: build(deps): bump com.squareup.okhttp3:okhttp from 4.12.0 to 5.5.1 in...](https://github.com/sametcn99/libredirect-mobile/pull/9) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
-- **Closed pull request [#10: build(deps): bump androidx.compose:compose-bom from 2024.12.01 to 202...](https://github.com/sametcn99/libredirect-mobile/pull/10) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
-- **Closed pull request [#1: build(deps): bump actions/setup-java from 4 to 6](https://github.com/sametcn99/libredirect-mobile/pull/1) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 11 more pull requests...</summary>
+  <summary>Show 13 more pull requests...</summary>
 
+- **Closed pull request [#10: build(deps): bump androidx.compose:compose-bom from 2024.12.01 to 202...](https://github.com/sametcn99/libredirect-mobile/pull/10) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
+- **Closed pull request [#1: build(deps): bump actions/setup-java from 4 to 6](https://github.com/sametcn99/libredirect-mobile/pull/1) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#3: build(deps): bump actions/checkout from 4 to 7](https://github.com/sametcn99/libredirect-mobile/pull/3) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#5: build(deps): bump gradle/actions from 4 to 6](https://github.com/sametcn99/libredirect-mobile/pull/5) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#8: chore(deps): bump the dev-dependencies group in /website with 5 updates](https://github.com/sametcn99/repotruck/pull/8) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
-- **Closed pull request [#7: chore(deps): bump the actions group with 4 updates](https://github.com/sametcn99/repotruck/pull/7) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
-- **Closed pull request [#6: Bump the website-dependencies group in /website with 5 updates](https://github.com/sametcn99/repotruck/pull/6) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
+- **Closed pull request [#7](https://github.com/sametcn99/repotruck/pull/7) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
+- **Closed pull request [#6](https://github.com/sametcn99/repotruck/pull/6) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 - **Closed pull request [#5](https://github.com/sametcn99/repotruck/pull/5) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 - **Closed pull request [#4](https://github.com/sametcn99/repotruck/pull/4) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 - **Closed pull request [#3](https://github.com/sametcn99/repotruck/pull/3) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
@@ -303,15 +305,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
 - **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
 - **Starred [g0runmezadam/what-is-jev](https://github.com/g0runmezadam/what-is-jev)** _(Nov 6, 2026)_
 - **Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)** _(Nov 6, 2026)_
 - **Starred [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT)** _(Nov 6, 2026)_
-- **Starred [libracoder/kiri](https://github.com/libracoder/kiri)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 54 more starred repositories...</summary>
 
+- **Starred [libracoder/kiri](https://github.com/libracoder/kiri)** _(Nov 6, 2026)_
 - **Starred [Milvasoft/kabuk](https://github.com/Milvasoft/kabuk)** _(Nov 3, 2026)_
 - **Starred [php/php-src](https://github.com/php/php-src)** _(Nov 2, 2026)_
 - **Starred [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)** _(Oct 27, 2026)_
