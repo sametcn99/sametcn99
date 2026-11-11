@@ -34,7 +34,7 @@
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an… | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific… | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro… | TypeScript |   ★ 2 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
-| [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Oct 13, 2026 | [Repo](https://github.com/sametcn99/tcptui)                                                                                              |
+| [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.               |    Rust    |     — | Nov 10, 2026 | [Repo](https://github.com/sametcn99/tcptui) · [Demo](https://sametcn99.github.io/tcptui/)                                                |
 
 ## Latest Writing
 
@@ -104,30 +104,36 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 227                                     |
-| **Commits (7d)**          | 40+                                     |
-| **Total Repositories**    | 83                                      |
-| **Active Repositories**   | 73                                      |
+| **Commits (7d)**          | 50+                                     |
+| **Total Repositories**    | 84                                      |
+| **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
 | **Archived Repositories** | 0                                       |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99) |
-| **Top Languages**         | TypeScript, C#, JavaScript, HTML, MDX   |
+| **Top Languages**         | TypeScript, C#, JavaScript, HTML, Rust  |
 | **Account Age**           | 7 years                                 |
 
 ## Releases
 
 Recent releases across my repositories:
 
-| Release                                                                                                          | Repository                                                            |  Published  | Status |
-| :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :---------: | :----: |
-| [**v1.3.10**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.10) — LibRedirect Mobile v1.3.10 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 8, 2026 | Stable |
-| [**v1.3.9**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.9) — LibRedirect Mobile v1.3.9    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 7, 2026 | Stable |
-| [**v1.3.8**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.8) — LibRedirect Mobile v1.3.8    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 7, 2026 | Stable |
-| [**v1.3.7**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.7) — LibRedirect Mobile v1.3.7    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 7, 2026 | Stable |
-| [**v1.3.6**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.6) — LibRedirect Mobile v1.3.6    | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 7, 2026 | Stable |
+| Release                                                                       | Repository                                  |  Published   | Status |
+| :---------------------------------------------------------------------------- | :------------------------------------------ | :----------: | :----: |
+| [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
+| [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
+| [**v0.1.3**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.3) — v0.1.3 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
+| [**v0.1.2**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.2) — v0.1.2 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
+| [**v0.1.1**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.1) — v0.1.1 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.1.0**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.0) — v0.1.0 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
+- [**v1.3.10**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.10) — LibRedirect Mobile v1.3.10 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 8, 2026)_
+- [**v1.3.9**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.9) — LibRedirect Mobile v1.3.9 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
+- [**v1.3.8**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.8) — LibRedirect Mobile v1.3.8 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
+- [**v1.3.7**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.7) — LibRedirect Mobile v1.3.7 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
+- [**v1.3.6**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.6) — LibRedirect Mobile v1.3.6 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
 - [**v1.3.5**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.5) — LibRedirect Mobile v1.3.5 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
 - [**v1.3.4**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.4) — LibRedirect Mobile v1.3.4 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
 - [**v1.3.3**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.3) — LibRedirect Mobile v1.3.3 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
@@ -137,12 +143,6 @@ Recent releases across my repositories:
 - [**v1.2.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.2) — LibRedirect Mobile v1.2.2 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.1) — LibRedirect Mobile v1.2.1 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
 - [**v1.2.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.0) — LibRedirect Mobile v1.2.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
-- [**v1.1.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.1.0) — LibRedirect Mobile v1.1.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 1, 2026)_
-- [**v1.0.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.0.0) — LibRedirect Mobile v1.0.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Oct 30, 2026)_
-- [**v0.4.1**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.1) — v0.4.1 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 27, 2026)_
-- [**v0.4.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.4.0) — v0.4.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 27, 2026)_
-- [**v1.4.0**](https://github.com/sametcn99/gotify-web-extension/releases/tag/v1.4.0) — Gotify Web Extension 1.4.0 in [gotify-web-extension](https://github.com/sametcn99/gotify-web-extension) _(Oct 26, 2026)_
-- [**v0.3.0**](https://github.com/sametcn99/repotruck/releases/tag/v0.3.0) — v0.3.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Oct 25, 2026)_
 
 </details>
 
