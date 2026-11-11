@@ -312,7 +312,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 55 more starred repositories...</summary>
+  <summary>Show 54 more starred repositories...</summary>
 
 - **Starred [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT)** _(Nov 6, 2026)_
 - **Starred [libracoder/kiri](https://github.com/libracoder/kiri)** _(Nov 6, 2026)_
@@ -368,7 +368,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [storytold/artcraft](https://github.com/storytold/artcraft)** _(Oct 12, 2026)_
 - **Starred [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox)** _(Oct 12, 2026)_
 - **Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** _(Oct 12, 2026)_
-- **Starred [nmcassa/letterboxdpy](https://github.com/nmcassa/letterboxdpy)** _(Oct 11, 2026)_
 
 </details>
 
