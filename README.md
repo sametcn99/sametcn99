@@ -24,7 +24,7 @@
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                              | TypeScript |  ★ 15 | Jan 12, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                  | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…  | TypeScript |  ★ 11 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
-| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |  ★ 11 | Jul 14, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
+| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                              |     C#     |  ★ 11 | Nov 11, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
 | [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md… | TypeScript |   ★ 4 | Nov 2, 2026  | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev… | TypeScript |  ★ 10 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                  |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
@@ -40,15 +40,20 @@
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 
+- [**rcptx**](https://sametcc.me/project/rcptx) _(published: Nov 10, 2026)_<br />A command-line tool that checks whether email addresses on a domain really exist — by asking the mail server directly, without sending a single email.
 - [**Hiretea**](https://sametcc.me/project/hiretea) _(published: Oct 31, 2026)_<br />A transparent, evidence-driven technical hiring platform that runs applications, structured assessments, repository-based challenges, live interviews and auditable decisions in one workspace, deployable self-hosted or as SaaS.
+- [**repotruck**](https://sametcc.me/project/repotruck) _(published: Oct 24, 2026)_<br />One tool that mirrors your whole GitHub into a tidy local folder layout and keeps it in sync — with a built-in map for AI coding agents.
+- [**tcptui**](https://sametcc.me/project/tcptui) _(published: Oct 12, 2026)_<br />A terminal version of the classic Sysinternals TCPView for Windows — see every network connection on your system, live, with the process that owns it.
+- [**TG Bot Studio**](https://sametcc.me/project/tg-bot-studio) _(published: Oct 12, 2026)_<br />A self-hosted web dashboard for running and managing multiple Telegram bots and Mini Apps from one place — flows, broadcasts, AI replies, and a shop included.
+
+<details>
+  <summary>Show 40 more posts...</summary>
+
 - [**Cloudflare Tunnel ile Local Ortamı Güvenle Paylaşmak**](https://sametcc.me/gist/cloudflare-tunnel-ile-local-ortami-paylasmak) _(published: Sep 13, 2026)_<br />Cloudflare Tunnel ve Access ile yerel geliştirme ortamını port açmadan; HTTPS, kimlik doğrulama ve tenant yönlendirmesiyle internete açmak.
+- [**LibRedirect Mobile**](https://sametcc.me/project/libredirect-mobile) _(published: Aug 23, 2026)_<br />An Android app that quietly rewrites links to YouTube, Reddit, X and other big services so they open in privacy-friendly alternative frontends instead.
 - [**Projeler İçin Ortak Developer ve AI Dokümantasyonu**](https://sametcc.me/blog/projeler-icin-ortak-developer-ve-ai-dokumantasyonu) _(published: Aug 16, 2026)_<br />AI coding agent&#x27;larının ihtiyaç duyduğu proje bağlamını insanlar ve makineler için ortak, sürdürülebilir bir dokümantasyon yapısıyla oluşturmak.
 - [**GitHub Account Notifications to Gotify with n8n**](https://sametcc.me/gist/github-account-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering GitHub App events from every repository in an account to a Gotify phone notification channel.
 - [**Coolify Notifications to Gotify with n8n**](https://sametcc.me/gist/coolify-notifications-to-gotify-with-n8n) _(published: Aug 7, 2026)_<br />A production-ready guide for delivering Coolify deployment, backup, task, server, and container notifications to a Gotify phone notification channel.
-
-<details>
-  <summary>Show 35 more posts...</summary>
-
 - [**LinkedIn Hide Viewed Jobs**](https://sametcc.me/project/linkedin-hide-viewed-jobs) _(published: Jul 22, 2026)_<br />A privacy-first browser tool that hides or highlights the job postings you have already viewed on LinkedIn, available as a userscript or a standalone browser extension for Chrome and Firefox.
 - [**My Stars Atlas**](https://sametcc.me/project/my-stars-atlas) _(published: Jul 20, 2026)_<br />A generated, searchable catalog of starred GitHub repositories grouped into stable categories, built with a deterministic classification engine and published as a static site on GitHub Pages.
 - [**Application Tracker**](https://sametcc.me/project/application-tracker) _(published: May 15, 2026)_<br />A self-hosted job search operating system that keeps applications, company notes, follow-ups, documents, and progress history together in a single private dashboard.
@@ -110,24 +115,25 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | **Forked Repositories**   | 10                                      |
 | **Archived Repositories** | 0                                       |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99) |
-| **Top Languages**         | TypeScript, C#, JavaScript, HTML, Rust  |
+| **Top Languages**         | TypeScript, C#, JavaScript, HTML, MDX   |
 | **Account Age**           | 7 years                                 |
 
 ## Releases
 
 Recent releases across my repositories:
 
-| Release                                                                       | Repository                                  |  Published   | Status |
-| :---------------------------------------------------------------------------- | :------------------------------------------ | :----------: | :----: |
-| [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
-| [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
-| [**v0.1.3**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.3) — v0.1.3 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
-| [**v0.1.2**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.2) — v0.1.2 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
-| [**v0.1.1**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.1) — v0.1.1 | [rcptx](https://github.com/sametcn99/rcptx) | Nov 10, 2026 | Stable |
+| Release                                                                               | Repository                                    |  Published   | Status |
+| :------------------------------------------------------------------------------------ | :-------------------------------------------- | :----------: | :----: |
+| [**v0.3.0**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.0) — HTWind v0.3.0 | [HTWind](https://github.com/sametcn99/HTWind) | Nov 11, 2026 | Stable |
+| [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5         | [rcptx](https://github.com/sametcn99/rcptx)   | Nov 10, 2026 | Stable |
+| [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4         | [rcptx](https://github.com/sametcn99/rcptx)   | Nov 10, 2026 | Stable |
+| [**v0.1.3**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.3) — v0.1.3         | [rcptx](https://github.com/sametcn99/rcptx)   | Nov 10, 2026 | Stable |
+| [**v0.1.2**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.2) — v0.1.2         | [rcptx](https://github.com/sametcn99/rcptx)   | Nov 10, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.1.1**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.1) — v0.1.1 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.0**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.0) — v0.1.0 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v1.3.10**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.10) — LibRedirect Mobile v1.3.10 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 8, 2026)_
 - [**v1.3.9**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.9) — LibRedirect Mobile v1.3.9 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
@@ -142,7 +148,6 @@ Recent releases across my repositories:
 - [**v1.3.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.0) — LibRedirect Mobile v1.3.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 3, 2026)_
 - [**v1.2.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.2) — LibRedirect Mobile v1.2.2 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
 - [**v1.2.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.1) — LibRedirect Mobile v1.2.1 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
-- [**v1.2.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.2.0) — LibRedirect Mobile v1.2.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 2, 2026)_
 
 </details>
 
