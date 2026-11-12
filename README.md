@@ -25,7 +25,7 @@
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                    | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 11 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
 | [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                                |     C#     |  ★ 11 | Nov 11, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
-| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 4 | Nov 2, 2026  | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
+| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 5 | Nov 2, 2026  | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev…   | TypeScript |  ★ 10 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
@@ -109,7 +109,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 229                                     |
+| **Total Stars Earned**    | 230                                     |
 | **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
@@ -158,15 +158,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [release v0.1.5](https://github.com/sametcn99/rcptx/commit/6353001f4f34d1b66c6c2bafe018def239e60de1)** _(Nov 10, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [ci: bump actions to Node 24 majors; release v0.1.1](https://github.com/sametcn99/rcptx/commit/4ac08904f221e83f1a486d24b3ebad34b00aebd4)** _(Nov 10, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [license: switch to MIT-only licensing](https://github.com/sametcn99/rcptx/commit/4943d42bb582391224a4099dc5b5c080d288dd35)** _(Nov 10, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [feat(cli): providers subcommand + fingerprint match provenance](https://github.com/sametcn99/rcptx/commit/c57891a07630dbcfefb6bbbaa3650915822845ee)** _(Nov 10, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [docs: add interactive GitHub Pages site and auto-deploy workflow](https://github.com/sametcn99/tcptui/commit/1be79b636f2703f0db50dce9028c133bb0957602)** _(Nov 10, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [docs(pages): redesign site as interactive telemetry workstation](https://github.com/sametcn99/tcptui/commit/37aa01c428be2614435d55807df82613eec29d22)** _(Nov 10, 2026)_
 
 <details>
   <summary>Show 114 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [1be79b6...37aa01c](https://github.com/sametcn99/tcptui/compare/1be79b636f2703f0db50dce9028c133bb0957602...37aa01c428be2614435d55807df82613eec29d22)** _(Nov 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [a6d81a2...577b47f](https://github.com/sametcn99/rcptx/compare/a6d81a2168e00fa75f6388e9bacf4099436b1def...577b47f11745785c6d162783116f09978879d1b8)** _(Nov 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f04d97d...f411577](https://github.com/sametcn99/personal-website-blazor/compare/f04d97dbe4d6cdb6f561b1de81b7131c7149b9f2...f4115776e2be253ef33a638ba273831ed27eff01)** _(Nov 7, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [218da6d...8f18222](https://github.com/sametcn99/libredirect-mobile/compare/218da6d5758c0a94ae56bf9f8f87115abc65a098...8f182227159561b388a494b4c4ea9df5d91bda38)** _(Nov 8, 2026)_
@@ -280,7 +281,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [8502beb...280f788](https://github.com/sametcn99/tcptui/compare/8502beb0a0e14662a44aecfa59923d5c56b623c5...280f788871f3fab6f06549eb330bb412967c4a0e)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [f4e5dad...10b2164](https://github.com/sametcn99/tg-bot-studio/compare/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b...10b21645769dfc3121277c6220f7f64b4fef2a3b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [280f788...40386a4](https://github.com/sametcn99/tcptui/compare/280f788871f3fab6f06549eb330bb412967c4a0e...40386a46ec529d6648a42a3c99f543bc725e974b)** _(Oct 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [7a80ee8...acd5e6b](https://github.com/sametcn99/tcptui/compare/7a80ee84843de78bf20c757560d1d7f85492dd69...acd5e6b0884e0e2f7cc81617253b6e3a802a412f)** _(Oct 13, 2026)_
 
 </details>
 
@@ -383,15 +383,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
 - **Deleted branch &#x60;dependabot/gradle/android/androidx.webkit-webkit-1.18.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Deleted tag &#x60;v1.4.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Deleted branch &#x60;dependabot/gradle/android/kotlin-2.4.21&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
-- **Deleted tag &#x60;v1.3.4&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 5, 2026)_
 
 <details>
-  <summary>Show 12 more other activity...</summary>
+  <summary>Show 13 more other activity...</summary>
 
+- **Deleted tag &#x60;v1.3.4&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 5, 2026)_
 - **Deleted tag &#x60;v1.3.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted branch &#x60;dependabot/bun/website/dev-dependencies-e4a9b127d5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
