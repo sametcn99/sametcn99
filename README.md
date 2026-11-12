@@ -109,7 +109,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 230                                     |
+| **Total Stars Earned**    | 231                                     |
 | **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
@@ -317,15 +317,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** _(Nov 12, 2026)_
 - **Starred [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 12, 2026)_
 - **Starred [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Nov 12, 2026)_
 - **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 - **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
-- **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 52 more starred repositories...</summary>
+  <summary>Show 53 more starred repositories...</summary>
 
+- **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
 - **Starred [g0runmezadam/what-is-jev](https://github.com/g0runmezadam/what-is-jev)** _(Nov 6, 2026)_
 - **Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)** _(Nov 6, 2026)_
 - **Starred [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT)** _(Nov 6, 2026)_
