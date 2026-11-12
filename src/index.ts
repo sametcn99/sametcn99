@@ -30,6 +30,7 @@ const HIGHLIGHT_REPOSITORY_NAMES = [
   "gotify-web-extension",
   "tg-bot-studio",
   "tcptui",
+  "rcptx"
 ] as const
 
 /** Configuration overrides used when instantiating the application. */
