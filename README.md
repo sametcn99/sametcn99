@@ -110,7 +110,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 231                                     |
-| **Commits (7d)**          | 50+                                     |
+| **Commits (7d)**          | 30+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -165,7 +165,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [docs: add interactive GitHub Pages site and auto-deploy workflow](https://github.com/sametcn99/tcptui/commit/1be79b636f2703f0db50dce9028c133bb0957602)** _(Nov 10, 2026)_
 
 <details>
-  <summary>Show 113 more pushes...</summary>
+  <summary>Show 112 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [1be79b6...37aa01c](https://github.com/sametcn99/tcptui/compare/1be79b636f2703f0db50dce9028c133bb0957602...37aa01c428be2614435d55807df82613eec29d22)** _(Nov 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [a6d81a2...577b47f](https://github.com/sametcn99/rcptx/compare/a6d81a2168e00fa75f6388e9bacf4099436b1def...577b47f11745785c6d162783116f09978879d1b8)** _(Nov 10, 2026)_
@@ -279,7 +279,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [acd5e6b...8502beb](https://github.com/sametcn99/tcptui/compare/acd5e6b0884e0e2f7cc81617253b6e3a802a412f...8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [411be49...5f2b541](https://github.com/sametcn99/tg-bot-studio/compare/411be49658b2caf312896b5b5ced346e44b86b6c...5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [8502beb...280f788](https://github.com/sametcn99/tcptui/compare/8502beb0a0e14662a44aecfa59923d5c56b623c5...280f788871f3fab6f06549eb330bb412967c4a0e)** _(Oct 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [f4e5dad...10b2164](https://github.com/sametcn99/tg-bot-studio/compare/f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b...10b21645769dfc3121277c6220f7f64b4fef2a3b)** _(Oct 13, 2026)_
 
 </details>
 
