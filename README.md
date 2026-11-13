@@ -109,7 +109,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 231                                     |
+| **Total Stars Earned**    | 232                                     |
 | **Commits (7d)**          | 30+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
@@ -158,15 +158,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/2e471f72db023f2150b3693c36995a985a8d95da)** _(Nov 11, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/390625ed43f5a1c76657f40a329d428ade1f9c41)** _(Nov 12, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [fix(tests): make storage and state-store tests order-independent](https://github.com/sametcn99/HTWind/commit/623d60a8451579b74714d148b1f78e7609d3d86e)** _(Nov 11, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [feat: release v0.3.0 - gallery, PowerShell widgets, Monaco editor, te...](https://github.com/sametcn99/HTWind/commit/b9842265e6bdf6182f2db17622e2984340064e0e)** _(Nov 11, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [add cover SVGs for libredirect-mobile, tcptui, tg-bot-studio, repotru...](https://github.com/sametcn99/personal-website-blazor/commit/b2f8975bddf416023cb5a21574724a9bdbb05f67)** _(Nov 11, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [fix(screenshots): capture real composited window pixels instead of Re...](https://github.com/sametcn99/HTWind/commit/0d4cc2cc7866d5151f9fb64a577d78b9a698f5f4)** _(Nov 11, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [add project entries for libredirect-mobile, tcptui, tg-bot-studio, re...](https://github.com/sametcn99/personal-website-blazor/commit/fe6ece4e342637d7b9b4e23441c6028912ee3522)** _(Nov 11, 2026)_
 
 <details>
-  <summary>Show 117 more pushes...</summary>
+  <summary>Show 119 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [623d60a...0d4cc2c](https://github.com/sametcn99/HTWind/compare/623d60a8451579b74714d148b1f78e7609d3d86e...0d4cc2cc7866d5151f9fb64a577d78b9a698f5f4)** _(Nov 11, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [f411577...fe6ece4](https://github.com/sametcn99/personal-website-blazor/compare/f4115776e2be253ef33a638ba273831ed27eff01...fe6ece4e342637d7b9b4e23441c6028912ee3522)** _(Nov 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [373fb1e...6353001](https://github.com/sametcn99/rcptx/compare/373fb1eba5ad3d1d688ccf3b7c1786309329613b...6353001f4f34d1b66c6c2bafe018def239e60de1)** _(Nov 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [42ecb2c...4ac0890](https://github.com/sametcn99/rcptx/compare/42ecb2c3fe628ce6323c305706fb9f0a280246cb...4ac08904f221e83f1a486d24b3ebad34b00aebd4)** _(Nov 10, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx): [4ac0890...4943d42](https://github.com/sametcn99/rcptx/compare/4ac08904f221e83f1a486d24b3ebad34b00aebd4...4943d42bb582391224a4099dc5b5c080d288dd35)** _(Nov 10, 2026)_
