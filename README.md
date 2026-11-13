@@ -394,7 +394,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted branch &#x60;dependabot/gradle/android/kotlin-2.4.21&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 13 more other activity...</summary>
+  <summary>Show 12 more other activity...</summary>
 
 - **Deleted tag &#x60;v1.3.4&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 5, 2026)_
 - **Deleted tag &#x60;v1.3.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
@@ -408,7 +408,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Closed issue [#19](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
 - **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-fc7ac98fdb&#x60; in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Oct 15, 2026)_
 - **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
-- **Created branch &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Oct 12, 2026)_
 
 </details>
 
