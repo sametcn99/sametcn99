@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 232                                     |
-| **Commits (7d)**          | 50+                                     |
+| **Commits (7d)**          | 60+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [.](https://github.com/sametcn99/ArcDrop/commit/e01bc6d8816c6c2d2d75b8bbda77ef1f301101cc)** _(Nov 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(api): M6 — prettier formatting](https://github.com/sametcn99/ArcDrop/commit/d51ab1a6fa437cf29bd044a12bee038aecdc86f2)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M1 - API foundation](https://github.com/sametcn99/ArcDrop/commit/7ef7b7abeb8d2a59053114b34201b86369b7cb67)** _(Nov 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [docs: add collapsed v1.3.11 in-app screenshots to README](https://github.com/sametcn99/libredirect-mobile/commit/d7b3203f9dfef1415db6f70e6e7b1a1f46cc836a)** _(Nov 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/12f08e38553bb61c85286730792fafc2de5ba2ce)** _(Nov 12, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/2e471f72db023f2150b3693c36995a985a8d95da)** _(Nov 11, 2026)_
 
 <details>
   <summary>Show 121 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [b2f8975...2e471f7](https://github.com/sametcn99/personal-website-blazor/compare/b2f8975bddf416023cb5a21574724a9bdbb05f67...2e471f72db023f2150b3693c36995a985a8d95da)** _(Nov 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [2386fa5...390625e](https://github.com/sametcn99/sametcn99/compare/2386fa5863cd6a746f652f0f6de69120ca850a27...390625ed43f5a1c76657f40a329d428ade1f9c41)** _(Nov 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [b984226...623d60a](https://github.com/sametcn99/HTWind/compare/b9842265e6bdf6182f2db17622e2984340064e0e...623d60a8451579b74714d148b1f78e7609d3d86e)** _(Nov 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [52ab262...b984226](https://github.com/sametcn99/HTWind/compare/52ab2624b8f90adac42c90f809f402abc773ef26...b9842265e6bdf6182f2db17622e2984340064e0e)** _(Nov 11, 2026)_
@@ -288,7 +289,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [15cf8ae...bc5c019](https://github.com/sametcn99/tg-bot-studio/compare/15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89...bc5c01946373fe14acf105da80ebead9c30ad960)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5f2b541...f4e5dad](https://github.com/sametcn99/tg-bot-studio/compare/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8...f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bc5c019...c299e55](https://github.com/sametcn99/tg-bot-studio/compare/bc5c01946373fe14acf105da80ebead9c30ad960...c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [acd5e6b...8502beb](https://github.com/sametcn99/tcptui/compare/acd5e6b0884e0e2f7cc81617253b6e3a802a412f...8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
 
 </details>
 
