@@ -41,15 +41,16 @@
 
 I publish notes, guides, and project write-ups about software engineering, tooling, and things I learn while building.
 
+- [**Hype-Driven Development in the Age of AI**](https://sametcc.me/blog/hype-driven-development) _(published: Nov 14, 2026)_<br />Model launches increasingly feel the same, and the fatigue is measurable. What research actually says about homogenization, benchmark gaming and the psychology of hype, and a calmer way to build.
 - [**rcptx**](https://sametcc.me/project/rcptx) _(published: Nov 10, 2026)_<br />A command-line tool that checks whether email addresses on a domain really exist — by asking the mail server directly, without sending a single email.
 - [**Hiretea**](https://sametcc.me/project/hiretea) _(published: Oct 31, 2026)_<br />A transparent, evidence-driven technical hiring platform that runs applications, structured assessments, repository-based challenges, live interviews and auditable decisions in one workspace, deployable self-hosted or as SaaS.
 - [**repotruck**](https://sametcc.me/project/repotruck) _(published: Oct 24, 2026)_<br />One tool that mirrors your whole GitHub into a tidy local folder layout and keeps it in sync — with a built-in map for AI coding agents.
 - [**tcptui**](https://sametcc.me/project/tcptui) _(published: Oct 12, 2026)_<br />A terminal version of the classic Sysinternals TCPView for Windows — see every network connection on your system, live, with the process that owns it.
-- [**TG Bot Studio**](https://sametcc.me/project/tg-bot-studio) _(published: Oct 12, 2026)_<br />A self-hosted web dashboard for running and managing multiple Telegram bots and Mini Apps from one place — flows, broadcasts, AI replies, and a shop included.
 
 <details>
-  <summary>Show 40 more posts...</summary>
+  <summary>Show 41 more posts...</summary>
 
+- [**TG Bot Studio**](https://sametcc.me/project/tg-bot-studio) _(published: Oct 12, 2026)_<br />A self-hosted web dashboard for running and managing multiple Telegram bots and Mini Apps from one place — flows, broadcasts, AI replies, and a shop included.
 - [**Cloudflare Tunnel ile Local Ortamı Güvenle Paylaşmak**](https://sametcc.me/gist/cloudflare-tunnel-ile-local-ortami-paylasmak) _(published: Sep 13, 2026)_<br />Cloudflare Tunnel ve Access ile yerel geliştirme ortamını port açmadan; HTTPS, kimlik doğrulama ve tenant yönlendirmesiyle internete açmak.
 - [**LibRedirect Mobile**](https://sametcc.me/project/libredirect-mobile) _(published: Aug 23, 2026)_<br />An Android app that quietly rewrites links to YouTube, Reddit, X and other big services so they open in privacy-friendly alternative frontends instead.
 - [**Projeler İçin Ortak Developer ve AI Dokümantasyonu**](https://sametcc.me/blog/projeler-icin-ortak-developer-ve-ai-dokumantasyonu) _(published: Aug 16, 2026)_<br />AI coding agent&#x27;larının ihtiyaç duyduğu proje bağlamını insanlar ve makineler için ortak, sürdürülebilir bir dokümantasyon yapısıyla oluşturmak.
@@ -110,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 232                                     |
-| **Commits (7d)**          | 40+                                     |
+| **Commits (7d)**          | 50+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -158,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(api): M6 — prettier formatting](https://github.com/sametcn99/ArcDrop/commit/d51ab1a6fa437cf29bd044a12bee038aecdc86f2)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M1 - API foundation](https://github.com/sametcn99/ArcDrop/commit/7ef7b7abeb8d2a59053114b34201b86369b7cb67)** _(Nov 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [docs: add collapsed v1.3.11 in-app screenshots to README](https://github.com/sametcn99/libredirect-mobile/commit/d7b3203f9dfef1415db6f70e6e7b1a1f46cc836a)** _(Nov 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/12f08e38553bb61c85286730792fafc2de5ba2ce)** _(Nov 12, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/2e471f72db023f2150b3693c36995a985a8d95da)** _(Nov 11, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [.](https://github.com/sametcn99/sametcn99/commit/390625ed43f5a1c76657f40a329d428ade1f9c41)** _(Nov 12, 2026)_
 
 <details>
-  <summary>Show 122 more pushes...</summary>
+  <summary>Show 121 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [2386fa5...390625e](https://github.com/sametcn99/sametcn99/compare/2386fa5863cd6a746f652f0f6de69120ca850a27...390625ed43f5a1c76657f40a329d428ade1f9c41)** _(Nov 12, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [b984226...623d60a](https://github.com/sametcn99/HTWind/compare/b9842265e6bdf6182f2db17622e2984340064e0e...623d60a8451579b74714d148b1f78e7609d3d86e)** _(Nov 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [52ab262...b984226](https://github.com/sametcn99/HTWind/compare/52ab2624b8f90adac42c90f809f402abc773ef26...b9842265e6bdf6182f2db17622e2984340064e0e)** _(Nov 11, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fe6ece4...b2f8975](https://github.com/sametcn99/personal-website-blazor/compare/fe6ece4e342637d7b9b4e23441c6028912ee3522...b2f8975bddf416023cb5a21574724a9bdbb05f67)** _(Nov 11, 2026)_
@@ -287,8 +289,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5f2b541...f4e5dad](https://github.com/sametcn99/tg-bot-studio/compare/5f2b541a90a8fa6396b6ee0a5be5af03efc842f8...f4e5dad67cf29b81bfa1d75b182e3b6f50a0a51b)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bc5c019...c299e55](https://github.com/sametcn99/tg-bot-studio/compare/bc5c01946373fe14acf105da80ebead9c30ad960...c299e559cc506078eea1e048190279740c4caa20)** _(Oct 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [acd5e6b...8502beb](https://github.com/sametcn99/tcptui/compare/acd5e6b0884e0e2f7cc81617253b6e3a802a412f...8502beb0a0e14662a44aecfa59923d5c56b623c5)** _(Oct 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [411be49...5f2b541](https://github.com/sametcn99/tg-bot-studio/compare/411be49658b2caf312896b5b5ced346e44b86b6c...5f2b541a90a8fa6396b6ee0a5be5af03efc842f8)** _(Oct 13, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [8502beb...280f788](https://github.com/sametcn99/tcptui/compare/8502beb0a0e14662a44aecfa59923d5c56b623c5...280f788871f3fab6f06549eb330bb412967c4a0e)** _(Oct 13, 2026)_
 
 </details>
 
@@ -399,7 +399,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted branch &#x60;dependabot/gradle/android/kotlin-2.4.21&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 12 more other activity...</summary>
+  <summary>Show 11 more other activity...</summary>
 
 - **Deleted tag &#x60;v1.3.4&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 5, 2026)_
 - **Deleted tag &#x60;v1.3.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
@@ -412,7 +412,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Created branch &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 - **Closed issue [#19](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
 - **Deleted branch &#x60;dependabot/npm_and_yarn/npm_and_yarn-fc7ac98fdb&#x60; in [sametcn99/xls-to-gantt](https://github.com/sametcn99/xls-to-gantt)** _(Oct 15, 2026)_
-- **Created branch &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 12, 2026)_
 
 </details>
 
