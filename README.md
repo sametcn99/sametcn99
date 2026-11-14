@@ -30,7 +30,7 @@
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple…   | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 13, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an…   | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific…   | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro…   | TypeScript |   ★ 2 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
@@ -110,8 +110,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 233                                     |
-| **Commits (7d)**          | 70+                                     |
+| **Total Stars Earned**    | 234                                     |
+| **Commits (7d)**          | 80+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -126,15 +126,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------: | :----: |
+| [**v1.3.12**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.12) — LibRedirect Mobile v1.3.12 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 14, 2026 | Stable |
 | [**1.0.13**](https://github.com/sametcn99/env-protector/releases/tag/1.0.13) — 1.0.13                            | [env-protector](https://github.com/sametcn99/env-protector)           | Nov 14, 2026 | Stable |
 | [**v1.3.11**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.11) — LibRedirect Mobile v1.3.11 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 13, 2026 | Stable |
 | [**v0.3.0**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.0) — HTWind v0.3.0                            | [HTWind](https://github.com/sametcn99/HTWind)                         | Nov 11, 2026 | Stable |
 | [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5                                    | [rcptx](https://github.com/sametcn99/rcptx)                           | Nov 10, 2026 | Stable |
-| [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4                                    | [rcptx](https://github.com/sametcn99/rcptx)                           | Nov 10, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.3**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.3) — v0.1.3 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.2**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.2) — v0.1.2 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.1**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.1) — v0.1.1 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
@@ -149,7 +150,6 @@ Recent releases across my repositories:
 - [**v1.3.3**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.3) — LibRedirect Mobile v1.3.3 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
 - [**v1.3.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.2) — LibRedirect Mobile v1.3.2 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
 - [**v1.3.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.1) — LibRedirect Mobile v1.3.1 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
-- [**v1.3.0**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.0) — LibRedirect Mobile v1.3.0 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 3, 2026)_
 
 </details>
 
@@ -159,15 +159,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [.](https://github.com/sametcn99/ArcDrop/commit/59f6072d902d7f7af3450c4fcaff808da8086f96)** _(Nov 13, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W7 — health, bulk &amp; portability](https://github.com/sametcn99/ArcDrop/commit/aea93259cca68069baa25af50ef29e4c7ef6b379)** _(Nov 14, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M17 — archive &amp; full-text search](https://github.com/sametcn99/ArcDrop/commit/3e16b3b6e962580997310cd37c15033a0e577f11)** _(Nov 14, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(web): format W6 files and preserve multipart FormData across Node...](https://github.com/sametcn99/ArcDrop/commit/31c8056e77cce5cff95736c92feeac12e9b8a525)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/547aaef3147829aa3298689f1c015fd26e123a72)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W0 — scaffold &amp; theming](https://github.com/sametcn99/ArcDrop/commit/2f03702983fcfe850a01ca3daafebd90a3e15416)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M19 — public sharing &amp; RSS](https://github.com/sametcn99/ArcDrop/commit/42d483f33116abb8b420a6dc84e00f6a2fe63785)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(api): make M18 orphan-eviction e2e deterministic](https://github.com/sametcn99/ArcDrop/commit/105381f9ee5d9f49bfa35e43524753f337058045)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M0 — workspace bootstrap](https://github.com/sametcn99/ArcDrop/commit/337e1d874e4e61f613a9c2d239fc5b8b43c2f229)** _(Nov 13, 2026)_
 
 <details>
-  <summary>Show 123 more pushes...</summary>
+  <summary>Show 125 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [42d483f...2f03702](https://github.com/sametcn99/ArcDrop/compare/42d483f33116abb8b420a6dc84e00f6a2fe63785...2f03702983fcfe850a01ca3daafebd90a3e15416)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [105381f...42d483f](https://github.com/sametcn99/ArcDrop/compare/105381f9ee5d9f49bfa35e43524753f337058045...42d483f33116abb8b420a6dc84e00f6a2fe63785)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [d7b9b18...105381f](https://github.com/sametcn99/ArcDrop/compare/d7b9b1806e9056ddcdff1e65deb5af002c8d712b...105381f9ee5d9f49bfa35e43524753f337058045)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [e01bc6d...337e1d8](https://github.com/sametcn99/ArcDrop/compare/e01bc6d8816c6c2d2d75b8bbda77ef1f301101cc...337e1d874e4e61f613a9c2d239fc5b8b43c2f229)** _(Nov 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [59f6072...e01bc6d](https://github.com/sametcn99/ArcDrop/compare/59f6072d902d7f7af3450c4fcaff808da8086f96...e01bc6d8816c6c2d2d75b8bbda77ef1f301101cc)** _(Nov 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [4bc59e2...d51ab1a](https://github.com/sametcn99/ArcDrop/compare/4bc59e20491f2213a2ac31917bd5048c6d50c004...d51ab1a6fa437cf29bd044a12bee038aecdc86f2)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [337e1d8...7ef7b7a](https://github.com/sametcn99/ArcDrop/compare/337e1d874e4e61f613a9c2d239fc5b8b43c2f229...7ef7b7abeb8d2a59053114b34201b86369b7cb67)** _(Nov 13, 2026)_
@@ -289,8 +293,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [1747da4...303f050](https://github.com/sametcn99/gotify-web-extension/compare/1747da45a767ef70c4ee6aba22cde4d82bfd7b9a...303f050f84495f6e2179750e3b2d64bb48ecd4d0)** _(Oct 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [7ce3d47...c0785dc](https://github.com/sametcn99/tg-bot-studio/compare/7ce3d4770a51b7dd66b8ba647c6ad519ccf26a01...c0785dc99f9c24d55cd2400af223b57e12e35973)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [eb33fd8...1747da4](https://github.com/sametcn99/gotify-web-extension/compare/eb33fd8347a5aa7a476a5835e75c7001d59f4fb3...1747da45a767ef70c4ee6aba22cde4d82bfd7b9a)** _(Oct 14, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [c299e55...f7e2902](https://github.com/sametcn99/tg-bot-studio/compare/c299e559cc506078eea1e048190279740c4caa20...f7e2902ec68c314cac025d302cccc650c53b7f2c)** _(Oct 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [10b2164...15cf8ae](https://github.com/sametcn99/tg-bot-studio/compare/10b21645769dfc3121277c6220f7f64b4fef2a3b...15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89)** _(Oct 13, 2026)_
 
 </details>
 
@@ -339,15 +341,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [YildizDikme/zeyvola-screen-recorder](https://github.com/YildizDikme/zeyvola-screen-recorder)** _(Nov 14, 2026)_
 - **Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** _(Nov 12, 2026)_
 - **Starred [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 12, 2026)_
 - **Starred [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Nov 12, 2026)_
 - **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
-- **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
 
 <details>
-  <summary>Show 52 more starred repositories...</summary>
+  <summary>Show 53 more starred repositories...</summary>
 
+- **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
 - **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
 - **Starred [g0runmezadam/what-is-jev](https://github.com/g0runmezadam/what-is-jev)** _(Nov 6, 2026)_
 - **Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)** _(Nov 6, 2026)_
