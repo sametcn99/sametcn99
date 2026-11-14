@@ -21,7 +21,7 @@
 | Repository                                                                                | Description                                                                                            |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…    | TypeScript |  ★ 70 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
-| [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                                | TypeScript |  ★ 15 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
+| [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                                | TypeScript |  ★ 16 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                    | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 11 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
 | [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                                |     C#     |  ★ 11 | Nov 11, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
@@ -110,8 +110,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 232                                     |
-| **Commits (7d)**          | 60+                                     |
+| **Total Stars Earned**    | 233                                     |
+| **Commits (7d)**          | 70+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/547aaef3147829aa3298689f1c015fd26e123a72)** _(Nov 14, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W0 — scaffold &amp; theming](https://github.com/sametcn99/ArcDrop/commit/2f03702983fcfe850a01ca3daafebd90a3e15416)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M19 — public sharing &amp; RSS](https://github.com/sametcn99/ArcDrop/commit/42d483f33116abb8b420a6dc84e00f6a2fe63785)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(api): make M18 orphan-eviction e2e deterministic](https://github.com/sametcn99/ArcDrop/commit/105381f9ee5d9f49bfa35e43524753f337058045)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M0 — workspace bootstrap](https://github.com/sametcn99/ArcDrop/commit/337e1d874e4e61f613a9c2d239fc5b8b43c2f229)** _(Nov 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [.](https://github.com/sametcn99/ArcDrop/commit/e01bc6d8816c6c2d2d75b8bbda77ef1f301101cc)** _(Nov 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(api): M6 — prettier formatting](https://github.com/sametcn99/ArcDrop/commit/d51ab1a6fa437cf29bd044a12bee038aecdc86f2)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 122 more pushes...</summary>
+  <summary>Show 123 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [59f6072...e01bc6d](https://github.com/sametcn99/ArcDrop/compare/59f6072d902d7f7af3450c4fcaff808da8086f96...e01bc6d8816c6c2d2d75b8bbda77ef1f301101cc)** _(Nov 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [4bc59e2...d51ab1a](https://github.com/sametcn99/ArcDrop/compare/4bc59e20491f2213a2ac31917bd5048c6d50c004...d51ab1a6fa437cf29bd044a12bee038aecdc86f2)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [337e1d8...7ef7b7a](https://github.com/sametcn99/ArcDrop/compare/337e1d874e4e61f613a9c2d239fc5b8b43c2f229...7ef7b7abeb8d2a59053114b34201b86369b7cb67)** _(Nov 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [76e416d...d7b3203](https://github.com/sametcn99/libredirect-mobile/compare/76e416da59adb74bd1024def8e71cab1210c971e...d7b3203f9dfef1415db6f70e6e7b1a1f46cc836a)** _(Nov 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [2e471f7...12f08e3](https://github.com/sametcn99/personal-website-blazor/compare/2e471f72db023f2150b3693c36995a985a8d95da...12f08e38553bb61c85286730792fafc2de5ba2ce)** _(Nov 12, 2026)_
@@ -289,7 +291,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [eb33fd8...1747da4](https://github.com/sametcn99/gotify-web-extension/compare/eb33fd8347a5aa7a476a5835e75c7001d59f4fb3...1747da45a767ef70c4ee6aba22cde4d82bfd7b9a)** _(Oct 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [c299e55...f7e2902](https://github.com/sametcn99/tg-bot-studio/compare/c299e559cc506078eea1e048190279740c4caa20...f7e2902ec68c314cac025d302cccc650c53b7f2c)** _(Oct 13, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [10b2164...15cf8ae](https://github.com/sametcn99/tg-bot-studio/compare/10b21645769dfc3121277c6220f7f64b4fef2a3b...15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89)** _(Oct 13, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [15cf8ae...bc5c019](https://github.com/sametcn99/tg-bot-studio/compare/15cf8ae6a4f6d8cb20ec3959aedd0fb106e06b89...bc5c01946373fe14acf105da80ebead9c30ad960)** _(Oct 13, 2026)_
 
 </details>
 
@@ -323,11 +324,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Comments
 
+- **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 14, 2026)_
 - **Commented on issue [fix: preserve Source Control diff view for env files](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Commented on issue [[Bug] Git diff not showing properly when wanting to open diff view](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Commented on issue [[Bug] Env file not protected when starting repository with env last opened](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 13, 2026)_
+
+<details>
+  <summary>Show 1 more comments...</summary>
+
 - **Commented on issue [Change the license to MIT](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
+
+</details>
 
 ### Starred Repositories
 
@@ -430,7 +438,7 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 | Issue                                                                                                                        | Repository                                                                      |       Updated        |
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :------------------: |
-| [**[Bug] Can&#x27;t open Instagram links with parameter**](https://github.com/sametcn99/libredirect-mobile/issues/12)        | [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Updated Nov 13, 2026 |
+| [**[Bug] Can&#x27;t open Instagram links with parameter**](https://github.com/sametcn99/libredirect-mobile/issues/12)        | [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Updated Nov 14, 2026 |
 | [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)  | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)     | Updated Feb 22, 2026 |
 | [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)     | Updated Oct 23, 2025 |
 
