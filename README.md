@@ -350,7 +350,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 
 <details>
-  <summary>Show 52 more starred repositories...</summary>
+  <summary>Show 50 more starred repositories...</summary>
 
 - **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
 - **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
@@ -402,8 +402,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [bootandy/dust](https://github.com/bootandy/dust)** _(Oct 16, 2026)_
 - **Starred [tobi/disktree](https://github.com/tobi/disktree)** _(Oct 16, 2026)_
 - **Starred [corsairdev/corsair](https://github.com/corsairdev/corsair)** _(Oct 16, 2026)_
-- **Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** _(Oct 15, 2026)_
-- **Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)** _(Oct 15, 2026)_
 
 </details>
 
