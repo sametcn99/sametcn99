@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): responsive fixes — compact sidebar header mode and mobile...](https://github.com/sametcn99/ArcDrop/commit/a354358c9f8147db5310d7c2f7ce24921b53e5bb)** _(Nov 15, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M12 — library health](https://github.com/sametcn99/ArcDrop/commit/7a8e8075ebc45a313a2d682b71c0b1780a4044de)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M11 — search operators](https://github.com/sametcn99/ArcDrop/commit/f22ad9eebfda36322996a0b7099725d11ae8e088)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W2 — shell, library core &amp; sync engine](https://github.com/sametcn99/ArcDrop/commit/a153ab27a9e2a08d019632bdb365e84bbc29e690)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [perf(web): webapp performance optimization — virtualized lists, LRU b...](https://github.com/sametcn99/ArcDrop/commit/470248c5fa87215f7082b1566b95c4a3529fb6e2)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M18 — file uploads](https://github.com/sametcn99/ArcDrop/commit/d7b9b1806e9056ddcdff1e65deb5af002c8d712b)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 129 more pushes...</summary>
+  <summary>Show 130 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [183a007...d7b9b18](https://github.com/sametcn99/ArcDrop/compare/183a007a6ff2162439ecc8ee55b9753c60d8e8f2...d7b9b1806e9056ddcdff1e65deb5af002c8d712b)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [cf2c111...59f6072](https://github.com/sametcn99/ArcDrop/compare/cf2c111a6b4bd322b216fd9fb8fd233b1928168d...59f6072d902d7f7af3450c4fcaff808da8086f96)** _(Nov 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [31c8056...aea9325](https://github.com/sametcn99/ArcDrop/compare/31c8056e77cce5cff95736c92feeac12e9b8a525...aea93259cca68069baa25af50ef29e4c7ef6b379)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [2f8090d...3e16b3b](https://github.com/sametcn99/ArcDrop/compare/2f8090d808b348b9b2c1ac274228fd66771a33b9...3e16b3b6e962580997310cd37c15033a0e577f11)** _(Nov 14, 2026)_
