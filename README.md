@@ -110,7 +110,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 235                                     |
+| **Total Stars Earned**    | 236                                     |
 | **Commits (7d)**          | 80+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M12 — library health](https://github.com/sametcn99/ArcDrop/commit/7a8e8075ebc45a313a2d682b71c0b1780a4044de)** _(Nov 14, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M11 — search operators](https://github.com/sametcn99/ArcDrop/commit/f22ad9eebfda36322996a0b7099725d11ae8e088)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W2 — shell, library core &amp; sync engine](https://github.com/sametcn99/ArcDrop/commit/a153ab27a9e2a08d019632bdb365e84bbc29e690)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [perf(web): webapp performance optimization — virtualized lists, LRU b...](https://github.com/sametcn99/ArcDrop/commit/470248c5fa87215f7082b1566b95c4a3529fb6e2)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M18 — file uploads](https://github.com/sametcn99/ArcDrop/commit/d7b9b1806e9056ddcdff1e65deb5af002c8d712b)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [.](https://github.com/sametcn99/ArcDrop/commit/59f6072d902d7f7af3450c4fcaff808da8086f96)** _(Nov 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W7 — health, bulk &amp; portability](https://github.com/sametcn99/ArcDrop/commit/aea93259cca68069baa25af50ef29e4c7ef6b379)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 128 more pushes...</summary>
+  <summary>Show 129 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [cf2c111...59f6072](https://github.com/sametcn99/ArcDrop/compare/cf2c111a6b4bd322b216fd9fb8fd233b1928168d...59f6072d902d7f7af3450c4fcaff808da8086f96)** _(Nov 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [31c8056...aea9325](https://github.com/sametcn99/ArcDrop/compare/31c8056e77cce5cff95736c92feeac12e9b8a525...aea93259cca68069baa25af50ef29e4c7ef6b379)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [2f8090d...3e16b3b](https://github.com/sametcn99/ArcDrop/compare/2f8090d808b348b9b2c1ac274228fd66771a33b9...3e16b3b6e962580997310cd37c15033a0e577f11)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [0b6e861...31c8056](https://github.com/sametcn99/ArcDrop/compare/0b6e861c428d776b171cee42f947ff28da4c168c...31c8056e77cce5cff95736c92feeac12e9b8a525)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [beca4f1...547aaef](https://github.com/sametcn99/personal-website-blazor/compare/beca4f111ff4b3d373ceba41628ff04741780ff0...547aaef3147829aa3298689f1c015fd26e123a72)** _(Nov 14, 2026)_
@@ -295,7 +297,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [ebfa79d...d6d27ea](https://github.com/sametcn99/tg-bot-studio/compare/ebfa79d52990ef9540db9833d4faacf6d79c084a...d6d27ea3c2ea579fb24976887413fabc45bdfffa)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [1747da4...303f050](https://github.com/sametcn99/gotify-web-extension/compare/1747da45a767ef70c4ee6aba22cde4d82bfd7b9a...303f050f84495f6e2179750e3b2d64bb48ecd4d0)** _(Oct 14, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [7ce3d47...c0785dc](https://github.com/sametcn99/tg-bot-studio/compare/7ce3d4770a51b7dd66b8ba647c6ad519ccf26a01...c0785dc99f9c24d55cd2400af223b57e12e35973)** _(Oct 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [eb33fd8...1747da4](https://github.com/sametcn99/gotify-web-extension/compare/eb33fd8347a5aa7a476a5835e75c7001d59f4fb3...1747da45a767ef70c4ee6aba22cde4d82bfd7b9a)** _(Oct 14, 2026)_
 
 </details>
 
