@@ -33,7 +33,7 @@
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an…   | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific…   | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
-| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro…   | TypeScript |   ★ 2 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
+| [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro…   | TypeScript |   ★ 3 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
 | [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.                 |    Rust    |   ★ 1 | Nov 10, 2026 | [Repo](https://github.com/sametcn99/tcptui) · [Demo](https://sametcn99.github.io/tcptui/)                                                |
 | [**rcptx**](https://github.com/sametcn99/rcptx)                                           | Smart, asynchronous SMTP reconnaissance &amp; deliverability probing — without sending a single email. |    Rust    |   ★ 1 | Nov 12, 2026 | [Repo](https://github.com/sametcn99/rcptx) · [Demo](https://sametcn99.github.io/rcptx/)                                                  |
 
@@ -110,7 +110,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 234                                     |
+| **Total Stars Earned**    | 235                                     |
 | **Commits (7d)**          | 80+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [perf(web): webapp performance optimization — virtualized lists, LRU b...](https://github.com/sametcn99/ArcDrop/commit/470248c5fa87215f7082b1566b95c4a3529fb6e2)** _(Nov 14, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M18 — file uploads](https://github.com/sametcn99/ArcDrop/commit/d7b9b1806e9056ddcdff1e65deb5af002c8d712b)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [.](https://github.com/sametcn99/ArcDrop/commit/59f6072d902d7f7af3450c4fcaff808da8086f96)** _(Nov 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W7 — health, bulk &amp; portability](https://github.com/sametcn99/ArcDrop/commit/aea93259cca68069baa25af50ef29e4c7ef6b379)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M17 — archive &amp; full-text search](https://github.com/sametcn99/ArcDrop/commit/3e16b3b6e962580997310cd37c15033a0e577f11)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(web): format W6 files and preserve multipart FormData across Node...](https://github.com/sametcn99/ArcDrop/commit/31c8056e77cce5cff95736c92feeac12e9b8a525)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/547aaef3147829aa3298689f1c015fd26e123a72)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 125 more pushes...</summary>
+  <summary>Show 127 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [0b6e861...31c8056](https://github.com/sametcn99/ArcDrop/compare/0b6e861c428d776b171cee42f947ff28da4c168c...31c8056e77cce5cff95736c92feeac12e9b8a525)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [beca4f1...547aaef](https://github.com/sametcn99/personal-website-blazor/compare/beca4f111ff4b3d373ceba41628ff04741780ff0...547aaef3147829aa3298689f1c015fd26e123a72)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [42d483f...2f03702](https://github.com/sametcn99/ArcDrop/compare/42d483f33116abb8b420a6dc84e00f6a2fe63785...2f03702983fcfe850a01ca3daafebd90a3e15416)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [105381f...42d483f](https://github.com/sametcn99/ArcDrop/compare/105381f9ee5d9f49bfa35e43524753f337058045...42d483f33116abb8b420a6dc84e00f6a2fe63785)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [d7b9b18...105381f](https://github.com/sametcn99/ArcDrop/compare/d7b9b1806e9056ddcdff1e65deb5af002c8d712b...105381f9ee5d9f49bfa35e43524753f337058045)** _(Nov 14, 2026)_
@@ -348,7 +350,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
 - **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
 - **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
@@ -402,7 +404,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [corsairdev/corsair](https://github.com/corsairdev/corsair)** _(Oct 16, 2026)_
 - **Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** _(Oct 15, 2026)_
 - **Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)** _(Oct 15, 2026)_
-- **Starred [zelosleone/glm-chat-provider](https://github.com/zelosleone/glm-chat-provider)** _(Oct 15, 2026)_
 
 </details>
 
