@@ -166,7 +166,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M2 — auth &amp; users](https://github.com/sametcn99/ArcDrop/commit/9371328368f52d18b5a674c860e417c3b7bf6b09)** _(Nov 13, 2026)_
 
 <details>
-  <summary>Show 130 more pushes...</summary>
+  <summary>Show 129 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [56b2821...8abc188](https://github.com/sametcn99/personal-website-blazor/compare/56b28217b0023e482abec6babff073d4dcce322d...8abc18813a3a3def0b48791e1711fc897a604b6f)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [3d43ed0...76e416d](https://github.com/sametcn99/libredirect-mobile/compare/3d43ed0f9cd0c2990b93399877c03c2972f80440...76e416da59adb74bd1024def8e71cab1210c971e)** _(Nov 13, 2026)_
@@ -297,7 +297,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [04b9842...113a43c](https://github.com/sametcn99/tg-bot-studio/compare/04b9842e42c8c18b7d3a5fd0d53bb630d363bcf7...113a43c529bf278ad326c9a09b6d9b4764115530)** _(Oct 16, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [113a43c...7fb4c65](https://github.com/sametcn99/tg-bot-studio/compare/113a43c529bf278ad326c9a09b6d9b4764115530...7fb4c65b09d1404ab56521d6a8d57b5ce69460f8)** _(Oct 16, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [3a5be30...bb08517](https://github.com/sametcn99/tg-bot-studio/compare/3a5be30ce501620a938f9f0be86b842da7b86dfc...bb08517446a87c4e05ebd85a60bbcced8b2e77a3)** _(Oct 16, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [07cac08...1c06ea2](https://github.com/sametcn99/tg-bot-studio/compare/07cac0818599a53df4b4505fc0f282f6a3b1d227...1c06ea25adbb8fc0a7d80365ef2fb7a1830c03a7)** _(Oct 16, 2026)_
 
 </details>
 
