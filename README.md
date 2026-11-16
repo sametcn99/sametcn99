@@ -159,15 +159,20 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(web): borderless content-type chips on list/grid/headline bookm...](https://github.com/sametcn99/ArcDrop/commit/6436994988e6244ea59333216862609633d2291b)** _(Nov 15, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: release 1.3.11 (versionCode 20)](https://github.com/sametcn99/libredirect-mobile/commit/3d43ed0f9cd0c2990b93399877c03c2972f80440)** _(Nov 13, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(web): format files failing CI prettier check](https://github.com/sametcn99/ArcDrop/commit/5a5538862f5a4cecc090bb61df4e1e584ee2d0b4)** _(Nov 15, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W1 — API client &amp; auth](https://github.com/sametcn99/ArcDrop/commit/cb1b5bf4a35c247672827c9792d9fc43a9002708)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): responsive fixes — compact sidebar header mode and mobile...](https://github.com/sametcn99/ArcDrop/commit/a354358c9f8147db5310d7c2f7ce24921b53e5bb)** _(Nov 15, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(api): make readyz data-dir probe cleanup best-effort (cross-platf...](https://github.com/sametcn99/ArcDrop/commit/765edf4c201bb760a74fb00b66a8a886374a6ee2)** _(Nov 13, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M2 — auth &amp; users](https://github.com/sametcn99/ArcDrop/commit/9371328368f52d18b5a674c860e417c3b7bf6b09)** _(Nov 13, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [fix hype-driven-development svg to match asset sizing convention](https://github.com/sametcn99/personal-website-blazor/commit/8abc18813a3a3def0b48791e1711fc897a604b6f)** _(Nov 14, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [fix(downloads): serialize control operations and prevent overlapping...](https://github.com/sametcn99/libredirect-mobile/commit/76e416da59adb74bd1024def8e71cab1210c971e)** _(Nov 13, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/env-protector](https://github.com/sametcn99/env-protector): [some updates](https://github.com/sametcn99/env-protector/commit/7f999ca14da4b8ef3f1f1a0fed19bbf3773046db)** _(Nov 13, 2026)_
 
 <details>
-  <summary>Show 128 more pushes...</summary>
+  <summary>Show 133 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [a354358...6436994](https://github.com/sametcn99/ArcDrop/compare/a354358c9f8147db5310d7c2f7ce24921b53e5bb...6436994988e6244ea59333216862609633d2291b)** _(Nov 15, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [8f18222...3d43ed0](https://github.com/sametcn99/libredirect-mobile/compare/8f182227159561b388a494b4c4ea9df5d91bda38...3d43ed0f9cd0c2990b93399877c03c2972f80440)** _(Nov 13, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [6436994...5a55388](https://github.com/sametcn99/ArcDrop/compare/6436994988e6244ea59333216862609633d2291b...5a5538862f5a4cecc090bb61df4e1e584ee2d0b4)** _(Nov 15, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [2f03702...cb1b5bf](https://github.com/sametcn99/ArcDrop/compare/2f03702983fcfe850a01ca3daafebd90a3e15416...cb1b5bf4a35c247672827c9792d9fc43a9002708)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [470248c...a354358](https://github.com/sametcn99/ArcDrop/compare/470248c5fa87215f7082b1566b95c4a3529fb6e2...a354358c9f8147db5310d7c2f7ce24921b53e5bb)** _(Nov 15, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [f22ad9e...7a8e807](https://github.com/sametcn99/ArcDrop/compare/f22ad9eebfda36322996a0b7099725d11ae8e088...7a8e8075ebc45a313a2d682b71c0b1780a4044de)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [2bb1ee0...f22ad9e](https://github.com/sametcn99/ArcDrop/compare/2bb1ee06ed51675c03bc8f618345c5c863ae9856...f22ad9eebfda36322996a0b7099725d11ae8e088)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [cb1b5bf...a153ab2](https://github.com/sametcn99/ArcDrop/compare/cb1b5bf4a35c247672827c9792d9fc43a9002708...a153ab27a9e2a08d019632bdb365e84bbc29e690)** _(Nov 14, 2026)_
@@ -352,7 +357,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Nov 12, 2026)_
 
 <details>
-  <summary>Show 50 more starred repositories...</summary>
+  <summary>Show 48 more starred repositories...</summary>
 
 - **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 - **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
@@ -402,8 +407,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [mirego/accent](https://github.com/mirego/accent)** _(Oct 19, 2026)_
 - **Starred [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** _(Oct 19, 2026)_
 - **Starred [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** _(Oct 19, 2026)_
-- **Starred [bootandy/dust](https://github.com/bootandy/dust)** _(Oct 16, 2026)_
-- **Starred [tobi/disktree](https://github.com/tobi/disktree)** _(Oct 16, 2026)_
 
 </details>
 
