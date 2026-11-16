@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(web): borderless content-type chips on list/grid/headline bookm...](https://github.com/sametcn99/ArcDrop/commit/6436994988e6244ea59333216862609633d2291b)** _(Nov 15, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: release 1.3.11 (versionCode 20)](https://github.com/sametcn99/libredirect-mobile/commit/3d43ed0f9cd0c2990b93399877c03c2972f80440)** _(Nov 13, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(web): format files failing CI prettier check](https://github.com/sametcn99/ArcDrop/commit/5a5538862f5a4cecc090bb61df4e1e584ee2d0b4)** _(Nov 15, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W1 — API client &amp; auth](https://github.com/sametcn99/ArcDrop/commit/cb1b5bf4a35c247672827c9792d9fc43a9002708)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): responsive fixes — compact sidebar header mode and mobile...](https://github.com/sametcn99/ArcDrop/commit/a354358c9f8147db5310d7c2f7ce24921b53e5bb)** _(Nov 15, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M12 — library health](https://github.com/sametcn99/ArcDrop/commit/7a8e8075ebc45a313a2d682b71c0b1780a4044de)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M11 — search operators](https://github.com/sametcn99/ArcDrop/commit/f22ad9eebfda36322996a0b7099725d11ae8e088)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 129 more pushes...</summary>
+  <summary>Show 128 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [f22ad9e...7a8e807](https://github.com/sametcn99/ArcDrop/compare/f22ad9eebfda36322996a0b7099725d11ae8e088...7a8e8075ebc45a313a2d682b71c0b1780a4044de)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [2bb1ee0...f22ad9e](https://github.com/sametcn99/ArcDrop/compare/2bb1ee06ed51675c03bc8f618345c5c863ae9856...f22ad9eebfda36322996a0b7099725d11ae8e088)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [cb1b5bf...a153ab2](https://github.com/sametcn99/ArcDrop/compare/cb1b5bf4a35c247672827c9792d9fc43a9002708...a153ab27a9e2a08d019632bdb365e84bbc29e690)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [5b596ff...470248c](https://github.com/sametcn99/ArcDrop/compare/5b596ff8be895b280c0dd025ab3996a51c1669bd...470248c5fa87215f7082b1566b95c4a3529fb6e2)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [183a007...d7b9b18](https://github.com/sametcn99/ArcDrop/compare/183a007a6ff2162439ecc8ee55b9753c60d8e8f2...d7b9b1806e9056ddcdff1e65deb5af002c8d712b)** _(Nov 14, 2026)_
@@ -294,9 +296,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [f7e2902...7ce3d47](https://github.com/sametcn99/tg-bot-studio/compare/f7e2902ec68c314cac025d302cccc650c53b7f2c...7ce3d4770a51b7dd66b8ba647c6ad519ccf26a01)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [0d01fe8...9c79475](https://github.com/sametcn99/tg-bot-studio/compare/0d01fe882a3b2053772cb28dea3c3e8529593c07...9c79475aed5719bdb012163c8c9c43950dacbfdc)** _(Oct 15, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [5be8203...a5001cf](https://github.com/sametcn99/tg-bot-studio/compare/5be82032b51edeb1e70df2dec47a3239854ab566...a5001cf9ab0115bbc77e4e5a42a9700211b5544f)** _(Oct 15, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/sametcn99](https://github.com/sametcn99/sametcn99): [95d14fc...7838d43](https://github.com/sametcn99/sametcn99/compare/95d14fc11d089a7a96951b2e6247778ec421885c...7838d43c7690ff75b6e478605c4be0494924695c)** _(Oct 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [9c79475...5be8203](https://github.com/sametcn99/tg-bot-studio/compare/9c79475aed5719bdb012163c8c9c43950dacbfdc...5be82032b51edeb1e70df2dec47a3239854ab566)** _(Oct 15, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [d6d27ea...0d01fe8](https://github.com/sametcn99/tg-bot-studio/compare/d6d27ea3c2ea579fb24976887413fabc45bdfffa...0d01fe882a3b2053772cb28dea3c3e8529593c07)** _(Oct 15, 2026)_
 
 </details>
 
@@ -346,15 +345,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)** _(Nov 16, 2026)_
 - **Starred [YildizDikme/zeyvola-screen-recorder](https://github.com/YildizDikme/zeyvola-screen-recorder)** _(Nov 14, 2026)_
 - **Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** _(Nov 12, 2026)_
 - **Starred [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 12, 2026)_
 - **Starred [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Nov 12, 2026)_
-- **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 
 <details>
-  <summary>Show 49 more starred repositories...</summary>
+  <summary>Show 50 more starred repositories...</summary>
 
+- **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 - **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
 - **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
 - **Starred [g0runmezadam/what-is-jev](https://github.com/g0runmezadam/what-is-jev)** _(Nov 6, 2026)_
