@@ -30,7 +30,7 @@
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple…   | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 15, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an…   | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific…   | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro…   | TypeScript |   ★ 3 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 236                                     |
-| **Commits (7d)**          | 80+                                     |
+| **Commits (7d)**          | 90+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -126,15 +126,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------: | :----: |
+| [**v1.3.13**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.13) — LibRedirect Mobile v1.3.13 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 15, 2026 | Stable |
 | [**v1.3.12**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.12) — LibRedirect Mobile v1.3.12 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 14, 2026 | Stable |
 | [**1.0.13**](https://github.com/sametcn99/env-protector/releases/tag/1.0.13) — 1.0.13                            | [env-protector](https://github.com/sametcn99/env-protector)           | Nov 14, 2026 | Stable |
 | [**v1.3.11**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.11) — LibRedirect Mobile v1.3.11 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 13, 2026 | Stable |
 | [**v0.3.0**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.0) — HTWind v0.3.0                            | [HTWind](https://github.com/sametcn99/HTWind)                         | Nov 11, 2026 | Stable |
-| [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5                                    | [rcptx](https://github.com/sametcn99/rcptx)                           | Nov 10, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.3**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.3) — v0.1.3 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.2**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.2) — v0.1.2 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
@@ -149,7 +150,6 @@ Recent releases across my repositories:
 - [**v1.3.4**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.4) — LibRedirect Mobile v1.3.4 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
 - [**v1.3.3**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.3) — LibRedirect Mobile v1.3.3 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
 - [**v1.3.2**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.2) — LibRedirect Mobile v1.3.2 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
-- [**v1.3.1**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.1) — LibRedirect Mobile v1.3.1 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 5, 2026)_
 
 </details>
 
@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [style(web): format files failing CI prettier check](https://github.com/sametcn99/ArcDrop/commit/5a5538862f5a4cecc090bb61df4e1e584ee2d0b4)** _(Nov 15, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W1 — API client &amp; auth](https://github.com/sametcn99/ArcDrop/commit/cb1b5bf4a35c247672827c9792d9fc43a9002708)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): responsive fixes — compact sidebar header mode and mobile...](https://github.com/sametcn99/ArcDrop/commit/a354358c9f8147db5310d7c2f7ce24921b53e5bb)** _(Nov 15, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M12 — library health](https://github.com/sametcn99/ArcDrop/commit/7a8e8075ebc45a313a2d682b71c0b1780a4044de)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M11 — search operators](https://github.com/sametcn99/ArcDrop/commit/f22ad9eebfda36322996a0b7099725d11ae8e088)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W2 — shell, library core &amp; sync engine](https://github.com/sametcn99/ArcDrop/commit/a153ab27a9e2a08d019632bdb365e84bbc29e690)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 128 more pushes...</summary>
+  <summary>Show 129 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [cb1b5bf...a153ab2](https://github.com/sametcn99/ArcDrop/compare/cb1b5bf4a35c247672827c9792d9fc43a9002708...a153ab27a9e2a08d019632bdb365e84bbc29e690)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [5b596ff...470248c](https://github.com/sametcn99/ArcDrop/compare/5b596ff8be895b280c0dd025ab3996a51c1669bd...470248c5fa87215f7082b1566b95c4a3529fb6e2)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [183a007...d7b9b18](https://github.com/sametcn99/ArcDrop/compare/183a007a6ff2162439ecc8ee55b9753c60d8e8f2...d7b9b1806e9056ddcdff1e65deb5af002c8d712b)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [cf2c111...59f6072](https://github.com/sametcn99/ArcDrop/compare/cf2c111a6b4bd322b216fd9fb8fd233b1928168d...59f6072d902d7f7af3450c4fcaff808da8086f96)** _(Nov 13, 2026)_
@@ -328,15 +329,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Comments
 
+- **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
+- **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 14, 2026)_
 - **Commented on issue [fix: preserve Source Control diff view for env files](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Commented on issue [[Bug] Git diff not showing properly when wanting to open diff view](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
-- **Commented on issue [[Bug] Env file not protected when starting repository with env last opened](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
-- **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 13, 2026)_
 
 <details>
-  <summary>Show 1 more comments...</summary>
+  <summary>Show 3 more comments...</summary>
 
+- **Commented on issue [[Bug] Env file not protected when starting repository with env last opened](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
+- **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 13, 2026)_
 - **Commented on issue [Change the license to MIT](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
 
 </details>
@@ -350,7 +353,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 
 <details>
-  <summary>Show 50 more starred repositories...</summary>
+  <summary>Show 49 more starred repositories...</summary>
 
 - **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
 - **Starred [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev)** _(Nov 6, 2026)_
@@ -401,21 +404,23 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** _(Oct 19, 2026)_
 - **Starred [bootandy/dust](https://github.com/bootandy/dust)** _(Oct 16, 2026)_
 - **Starred [tobi/disktree](https://github.com/tobi/disktree)** _(Oct 16, 2026)_
-- **Starred [corsairdev/corsair](https://github.com/corsairdev/corsair)** _(Oct 16, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
+- **Reopened issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
+- **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Closed issue [#7](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
+
+<details>
+  <summary>Show 16 more other activity...</summary>
+
 - **Created branch &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
 - **Deleted branch &#x60;dependabot/gradle/android/androidx.webkit-webkit-1.18.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
-
-<details>
-  <summary>Show 13 more other activity...</summary>
-
 - **Deleted tag &#x60;v1.4.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Deleted branch &#x60;dependabot/gradle/android/kotlin-2.4.21&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Deleted tag &#x60;v1.3.4&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 5, 2026)_
@@ -438,11 +443,10 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 ### Issues
 
-| Issue                                                                                                                        | Repository                                                                      |       Updated        |
-| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :------------------: |
-| [**[Bug] Can&#x27;t open Instagram links with parameter**](https://github.com/sametcn99/libredirect-mobile/issues/12)        | [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Updated Nov 14, 2026 |
-| [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)  | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)     | Updated Feb 22, 2026 |
-| [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)     | Updated Oct 23, 2025 |
+| Issue                                                                                                                        | Repository                                                                  |       Updated        |
+| :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------: |
+| [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)  | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | Updated Feb 22, 2026 |
+| [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) | Updated Oct 23, 2025 |
 
 ### Pull Requests
 
