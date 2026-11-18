@@ -23,7 +23,7 @@
 | [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…    | TypeScript |  ★ 70 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                                | TypeScript |  ★ 17 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                    | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
-| [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 11 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
+| [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 12 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
 | [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                                |     C#     |  ★ 11 | Nov 11, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
 | [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 5 | Nov 16, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev…   | TypeScript |  ★ 10 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
@@ -110,8 +110,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 237                                     |
-| **Commits (7d)**          | 100+                                    |
+| **Total Stars Earned**    | 238                                     |
+| **Commits (7d)**          | 110+                                    |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): tauri build bundle flag is --bundles (release v0...](https://github.com/sametcn99/ArcDrop/commit/659516ef39bc7ff997b9e75348a834a7b65ac7d5)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): Material You (M3) theming — selectable color palettes, One...](https://github.com/sametcn99/ArcDrop/commit/1b6a674f6d72880d1a1d02bf685a68a66c556f3a)** _(Nov 17, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E5: options page + polish)](https://github.com/sametcn99/ArcDrop/commit/d84147090247e753fb9ed20fdc80086cb1612a02)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W5 — search &amp; filters](https://github.com/sametcn99/ArcDrop/commit/1380231d552fa11eb8194d16fd5e6990bc6eff71)** _(Nov 14, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [test(web): harden bootstrap/loading waits and timeouts under parallel...](https://github.com/sametcn99/ArcDrop/commit/1c462bcd5533e7378c87cdd41b049e89798c1510)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [.](https://github.com/sametcn99/personal-website-blazor/commit/beca4f111ff4b3d373ceba41628ff04741780ff0)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(api): M13 — bulk operations](https://github.com/sametcn99/ArcDrop/commit/b108c881371fcfd74c177871c711b9818cba8a90)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 123 more pushes...</summary>
+  <summary>Show 125 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [12f08e3...beca4f1](https://github.com/sametcn99/personal-website-blazor/compare/12f08e38553bb61c85286730792fafc2de5ba2ce...beca4f111ff4b3d373ceba41628ff04741780ff0)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [7a8e807...b108c88](https://github.com/sametcn99/ArcDrop/compare/7a8e8075ebc45a313a2d682b71c0b1780a4044de...b108c881371fcfd74c177871c711b9818cba8a90)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [9371328...0be6e94](https://github.com/sametcn99/ArcDrop/compare/9371328368f52d18b5a674c860e417c3b7bf6b09...0be6e94291fedb4c5b13bb017d00463196ec7a55)** _(Nov 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [7ef7b7a...765edf4](https://github.com/sametcn99/ArcDrop/compare/7ef7b7abeb8d2a59053114b34201b86369b7cb67...765edf4c201bb760a74fb00b66a8a886374a6ee2)** _(Nov 13, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [123afac...9371328](https://github.com/sametcn99/ArcDrop/compare/123afac849712bf90ab9c57768e76b833abfff92...9371328368f52d18b5a674c860e417c3b7bf6b09)** _(Nov 13, 2026)_
