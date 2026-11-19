@@ -166,7 +166,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [test(web): harden bootstrap/loading waits and timeouts under parallel...](https://github.com/sametcn99/ArcDrop/commit/1c462bcd5533e7378c87cdd41b049e89798c1510)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 125 more pushes...</summary>
+  <summary>Show 124 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [12f08e3...beca4f1](https://github.com/sametcn99/personal-website-blazor/compare/12f08e38553bb61c85286730792fafc2de5ba2ce...beca4f111ff4b3d373ceba41628ff04741780ff0)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [7a8e807...b108c88](https://github.com/sametcn99/ArcDrop/compare/7a8e8075ebc45a313a2d682b71c0b1780a4044de...b108c881371fcfd74c177871c711b9818cba8a90)** _(Nov 14, 2026)_
@@ -292,7 +292,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [b45e43a...dbe4a4f](https://github.com/sametcn99/tg-bot-studio/compare/b45e43ab6c062fb76bda956966cb92668443b384...dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711)** _(Oct 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bb601a7...360501b](https://github.com/sametcn99/tg-bot-studio/compare/bb601a71e07483f0d6ca9ed5ee06c27c7154056d...360501b9c0c833f388e4d8688bf268983ca076fe)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [3b69880...b649eff](https://github.com/sametcn99/tg-bot-studio/compare/3b69880b75ada6a11e74b2aa9ed31e1d48ff1953...b649eff4f6ea977dc0c035d9c4a1683b0f63fc59)** _(Oct 19, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [dbe4a4f...82cd0c3](https://github.com/sametcn99/tg-bot-studio/compare/dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711...82cd0c376a3ed6ac0e234c480b02cf3b117b4e2b)** _(Oct 18, 2026)_
 
 </details>
 
