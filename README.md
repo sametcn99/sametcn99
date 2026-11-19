@@ -159,15 +159,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): CI first-run fixes — rustfmt/clippy components +...](https://github.com/sametcn99/ArcDrop/commit/b00e0be7d1578bc2badd0637401b6d08462fde5e)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E2: full popup editor + quick save + badge)](https://github.com/sametcn99/ArcDrop/commit/f0fe0d3da13cc383b7ffb44a9a6ce2ea4db0dfff)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E6: release pipeline + store assets)](https://github.com/sametcn99/ArcDrop/commit/2018cc1ab719dbc592eb956bf177d5f8c3b311d8)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(extension): connection &amp; auth + storage + host permission (E1)](https://github.com/sametcn99/ArcDrop/commit/ffe0a2ea4b79502f6238c7ae10f348cf257b9059)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): iOS sim build target triple + target input name...](https://github.com/sametcn99/ArcDrop/commit/6a0014c16aceb2aaf41a82427c7108ef67152e16)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): tauri build bundle flag is --bundles (release v0...](https://github.com/sametcn99/ArcDrop/commit/659516ef39bc7ff997b9e75348a834a7b65ac7d5)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): Material You (M3) theming — selectable color palettes, One...](https://github.com/sametcn99/ArcDrop/commit/1b6a674f6d72880d1a1d02bf685a68a66c556f3a)** _(Nov 17, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E5: options page + polish)](https://github.com/sametcn99/ArcDrop/commit/d84147090247e753fb9ed20fdc80086cb1612a02)** _(Nov 18, 2026)_
 
 <details>
-  <summary>Show 125 more pushes...</summary>
+  <summary>Show 128 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [81365a6...659516e](https://github.com/sametcn99/ArcDrop/compare/81365a66a398fad711f5708cbd90679b8caf05cf...659516ef39bc7ff997b9e75348a834a7b65ac7d5)** _(Nov 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [5a55388...1b6a674](https://github.com/sametcn99/ArcDrop/compare/5a5538862f5a4cecc090bb61df4e1e584ee2d0b4...1b6a674f6d72880d1a1d02bf685a68a66c556f3a)** _(Nov 17, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [0c06102...d841470](https://github.com/sametcn99/ArcDrop/compare/0c06102e65f5a5a8ae72931c85402dbef7981ebf...d84147090247e753fb9ed20fdc80086cb1612a02)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [1c462bc...1380231](https://github.com/sametcn99/ArcDrop/compare/1c462bcd5533e7378c87cdd41b049e89798c1510...1380231d552fa11eb8194d16fd5e6990bc6eff71)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [61916b9...1c462bc](https://github.com/sametcn99/ArcDrop/compare/61916b9459df20a56f6096a8a3b07dab3c907674...1c462bcd5533e7378c87cdd41b049e89798c1510)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [12f08e3...beca4f1](https://github.com/sametcn99/personal-website-blazor/compare/12f08e38553bb61c85286730792fafc2de5ba2ce...beca4f111ff4b3d373ceba41628ff04741780ff0)** _(Nov 14, 2026)_
