@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(extension): connection &amp; auth + storage + host permission (E1)](https://github.com/sametcn99/ArcDrop/commit/ffe0a2ea4b79502f6238c7ae10f348cf257b9059)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): iOS sim build target triple + target input name...](https://github.com/sametcn99/ArcDrop/commit/6a0014c16aceb2aaf41a82427c7108ef67152e16)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): tauri build bundle flag is --bundles (release v0...](https://github.com/sametcn99/ArcDrop/commit/659516ef39bc7ff997b9e75348a834a7b65ac7d5)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): Material You (M3) theming — selectable color palettes, One...](https://github.com/sametcn99/ArcDrop/commit/1b6a674f6d72880d1a1d02bf685a68a66c556f3a)** _(Nov 17, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E5: options page + polish)](https://github.com/sametcn99/ArcDrop/commit/d84147090247e753fb9ed20fdc80086cb1612a02)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): W5 — search &amp; filters](https://github.com/sametcn99/ArcDrop/commit/1380231d552fa11eb8194d16fd5e6990bc6eff71)** _(Nov 14, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [test(web): harden bootstrap/loading waits and timeouts under parallel...](https://github.com/sametcn99/ArcDrop/commit/1c462bcd5533e7378c87cdd41b049e89798c1510)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 124 more pushes...</summary>
+  <summary>Show 125 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [1c462bc...1380231](https://github.com/sametcn99/ArcDrop/compare/1c462bcd5533e7378c87cdd41b049e89798c1510...1380231d552fa11eb8194d16fd5e6990bc6eff71)** _(Nov 14, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [61916b9...1c462bc](https://github.com/sametcn99/ArcDrop/compare/61916b9459df20a56f6096a8a3b07dab3c907674...1c462bcd5533e7378c87cdd41b049e89798c1510)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [12f08e3...beca4f1](https://github.com/sametcn99/personal-website-blazor/compare/12f08e38553bb61c85286730792fafc2de5ba2ce...beca4f111ff4b3d373ceba41628ff04741780ff0)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [7a8e807...b108c88](https://github.com/sametcn99/ArcDrop/compare/7a8e8075ebc45a313a2d682b71c0b1780a4044de...b108c881371fcfd74c177871c711b9818cba8a90)** _(Nov 14, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [9371328...0be6e94](https://github.com/sametcn99/ArcDrop/compare/9371328368f52d18b5a674c860e417c3b7bf6b09...0be6e94291fedb4c5b13bb017d00463196ec7a55)** _(Nov 13, 2026)_
@@ -291,7 +293,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [360501b...3b69880](https://github.com/sametcn99/tg-bot-studio/compare/360501b9c0c833f388e4d8688bf268983ca076fe...3b69880b75ada6a11e74b2aa9ed31e1d48ff1953)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [b45e43a...dbe4a4f](https://github.com/sametcn99/tg-bot-studio/compare/b45e43ab6c062fb76bda956966cb92668443b384...dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711)** _(Oct 18, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [bb601a7...360501b](https://github.com/sametcn99/tg-bot-studio/compare/bb601a71e07483f0d6ca9ed5ee06c27c7154056d...360501b9c0c833f388e4d8688bf268983ca076fe)** _(Oct 19, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [3b69880...b649eff](https://github.com/sametcn99/tg-bot-studio/compare/3b69880b75ada6a11e74b2aa9ed31e1d48ff1953...b649eff4f6ea977dc0c035d9c4a1683b0f63fc59)** _(Oct 19, 2026)_
 
 </details>
 
@@ -341,15 +342,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [synle/display-dj](https://github.com/synle/display-dj)** _(Nov 19, 2026)_
+- **Starred [tzawezin/gnome-ddc-brightness-contrast-extra-dimming](https://github.com/tzawezin/gnome-ddc-brightness-contrast-extra-dimming)** _(Nov 19, 2026)_
 - **Starred [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** _(Nov 17, 2026)_
 - **Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)** _(Nov 16, 2026)_
 - **Starred [YildizDikme/zeyvola-screen-recorder](https://github.com/YildizDikme/zeyvola-screen-recorder)** _(Nov 14, 2026)_
-- **Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** _(Nov 12, 2026)_
-- **Starred [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 12, 2026)_
 
 <details>
-  <summary>Show 49 more starred repositories...</summary>
+  <summary>Show 48 more starred repositories...</summary>
 
+- **Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** _(Nov 12, 2026)_
+- **Starred [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 12, 2026)_
 - **Starred [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Nov 12, 2026)_
 - **Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)** _(Nov 10, 2026)_
 - **Starred [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)** _(Nov 9, 2026)_
@@ -396,9 +399,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
 - **Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** _(Oct 21, 2026)_
 - **Starred [maathimself/mailflow](https://github.com/maathimself/mailflow)** _(Oct 21, 2026)_
-- **Starred [mirego/accent](https://github.com/mirego/accent)** _(Oct 19, 2026)_
-- **Starred [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** _(Oct 19, 2026)_
-- **Starred [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** _(Oct 19, 2026)_
 
 </details>
 
