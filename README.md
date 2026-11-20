@@ -159,15 +159,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): optional android release signing + node-script e...](https://github.com/sametcn99/ArcDrop/commit/81365a66a398fad711f5708cbd90679b8caf05cf)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): silence mobile-cfg lints in lib.rs (unused_mut +...](https://github.com/sametcn99/ArcDrop/commit/7fe82f53947c1e167292632c80966a8a88900513)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(cross-platform): offline UX + desktop polish (T5)](https://github.com/sametcn99/ArcDrop/commit/2f36ee37613199dad0728dcf4e6b934e7efde09d)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [redesign GitHub Pages with release downloads and install guides](https://github.com/sametcn99/linkedin-hide-viewed-jobs/commit/d174fe64c6ef0d02dba82853a66ae91aad08bf48)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): consume window/event params on mobile in on_wind...](https://github.com/sametcn99/ArcDrop/commit/7f9179f08c5de241e3f0a22e4e0bede2cb8d373b)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E7: cover assignment API + popup cover picker)](https://github.com/sametcn99/ArcDrop/commit/53a315412f56ef40e8cb6d9c17531e9572d1ecf7)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): scope deep-link capability to desktop platforms...](https://github.com/sametcn99/ArcDrop/commit/ce398f2305803d9aec7bb02182aaea1cea427349)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): revert in-flight T6 plugin registrations committ...](https://github.com/sametcn99/ArcDrop/commit/e1d6e20747205fd10066160918921ad6533d8f1e)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): iOS target short-form value aarch64-sim (T2 CI)](https://github.com/sametcn99/ArcDrop/commit/6191452072538cf563ea4332203ecc8b42b5bccc)** _(Nov 18, 2026)_
 
 <details>
-  <summary>Show 133 more pushes...</summary>
+  <summary>Show 136 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [ecdc783...53a3154](https://github.com/sametcn99/ArcDrop/compare/ecdc7830acc9d642361117b03814dcb77faa2d4f...53a315412f56ef40e8cb6d9c17531e9572d1ecf7)** _(Nov 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [53a3154...ce398f2](https://github.com/sametcn99/ArcDrop/compare/53a315412f56ef40e8cb6d9c17531e9572d1ecf7...ce398f2305803d9aec7bb02182aaea1cea427349)** _(Nov 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [7f9179f...e1d6e20](https://github.com/sametcn99/ArcDrop/compare/7f9179f08c5de241e3f0a22e4e0bede2cb8d373b...e1d6e20747205fd10066160918921ad6533d8f1e)** _(Nov 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [6a0014c...6191452](https://github.com/sametcn99/ArcDrop/compare/6a0014c16aceb2aaf41a82427c7108ef67152e16...6191452072538cf563ea4332203ecc8b42b5bccc)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [28b6db3...83efa44](https://github.com/sametcn99/ArcDrop/compare/28b6db340d304be806b8fcac3f513975185fa44d...83efa4460bc661ea450e4161b7edceccc1029c0d)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [f0fe0d3...b00e0be](https://github.com/sametcn99/ArcDrop/compare/f0fe0d3da13cc383b7ffb44a9a6ce2ea4db0dfff...b00e0be7d1578bc2badd0637401b6d08462fde5e)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [ffe0a2e...f0fe0d3](https://github.com/sametcn99/ArcDrop/compare/ffe0a2ea4b79502f6238c7ae10f348cf257b9059...f0fe0d3da13cc383b7ffb44a9a6ce2ea4db0dfff)** _(Nov 18, 2026)_
@@ -300,7 +304,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [4a50783...bf075e8](https://github.com/sametcn99/tg-bot-studio/compare/4a50783162e2cb4cfe59c4f2d035ff3377ef5669...bf075e8e517e24465837862deee0f5e56d491df1)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [674bfed...4a50783](https://github.com/sametcn99/tg-bot-studio/compare/674bfedbf32f92cce2e1681b9295489b24132430...4a50783162e2cb4cfe59c4f2d035ff3377ef5669)** _(Oct 19, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [360501b...3b69880](https://github.com/sametcn99/tg-bot-studio/compare/360501b9c0c833f388e4d8688bf268983ca076fe...3b69880b75ada6a11e74b2aa9ed31e1d48ff1953)** _(Oct 19, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [b45e43a...dbe4a4f](https://github.com/sametcn99/tg-bot-studio/compare/b45e43ab6c062fb76bda956966cb92668443b384...dbe4a4f28ceb622d4f880d0b91bf649d8f6b6711)** _(Oct 18, 2026)_
 
 </details>
 
@@ -419,15 +422,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Reopened issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
-- **Closed issue [#7](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 15 more other activity...</summary>
+  <summary>Show 16 more other activity...</summary>
 
+- **Closed issue [#7](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
 - **Deleted branch &#x60;dependabot/gradle/android/androidx.webkit-webkit-1.18.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
