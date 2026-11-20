@@ -25,7 +25,7 @@
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                    | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 12 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
 | [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                                |     C#     |  ★ 11 | Nov 19, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
-| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 5 | Nov 19, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
+| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 5 | Nov 20, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev…   | TypeScript |  ★ 10 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 238                                     |
-| **Commits (7d)**          | 90+                                     |
+| **Commits (7d)**          | 100+                                    |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): consume window/event params on mobile in on_wind...](https://github.com/sametcn99/ArcDrop/commit/7f9179f08c5de241e3f0a22e4e0bede2cb8d373b)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E7: cover assignment API + popup cover picker)](https://github.com/sametcn99/ArcDrop/commit/53a315412f56ef40e8cb6d9c17531e9572d1ecf7)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): scope deep-link capability to desktop platforms...](https://github.com/sametcn99/ArcDrop/commit/ce398f2305803d9aec7bb02182aaea1cea427349)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): revert in-flight T6 plugin registrations committ...](https://github.com/sametcn99/ArcDrop/commit/e1d6e20747205fd10066160918921ad6533d8f1e)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): iOS target short-form value aarch64-sim (T2 CI)](https://github.com/sametcn99/ArcDrop/commit/6191452072538cf563ea4332203ecc8b42b5bccc)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): runtime server URL onboarding + platform adapter (T0)](https://github.com/sametcn99/ArcDrop/commit/83efa4460bc661ea450e4161b7edceccc1029c0d)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): CI first-run fixes — rustfmt/clippy components +...](https://github.com/sametcn99/ArcDrop/commit/b00e0be7d1578bc2badd0637401b6d08462fde5e)** _(Nov 18, 2026)_
 
 <details>
-  <summary>Show 131 more pushes...</summary>
+  <summary>Show 133 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [28b6db3...83efa44](https://github.com/sametcn99/ArcDrop/compare/28b6db340d304be806b8fcac3f513975185fa44d...83efa4460bc661ea450e4161b7edceccc1029c0d)** _(Nov 18, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [f0fe0d3...b00e0be](https://github.com/sametcn99/ArcDrop/compare/f0fe0d3da13cc383b7ffb44a9a6ce2ea4db0dfff...b00e0be7d1578bc2badd0637401b6d08462fde5e)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [ffe0a2e...f0fe0d3](https://github.com/sametcn99/ArcDrop/compare/ffe0a2ea4b79502f6238c7ae10f348cf257b9059...f0fe0d3da13cc383b7ffb44a9a6ce2ea4db0dfff)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [d841470...2018cc1](https://github.com/sametcn99/ArcDrop/compare/d84147090247e753fb9ed20fdc80086cb1612a02...2018cc1ab719dbc592eb956bf177d5f8c3b311d8)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [83efa44...ffe0a2e](https://github.com/sametcn99/ArcDrop/compare/83efa4460bc661ea450e4161b7edceccc1029c0d...ffe0a2ea4b79502f6238c7ae10f348cf257b9059)** _(Nov 18, 2026)_
@@ -331,15 +333,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Comments
 
+- **Commented on issue [Can&#x27;t access settings](https://github.com/sametcn99/HTWind/issues/8) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 19, 2026)_
 - **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 14, 2026)_
 - **Commented on issue [fix: preserve Source Control diff view for env files](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
-- **Commented on issue [[Bug] Git diff not showing properly when wanting to open diff view](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 3 more comments...</summary>
+  <summary>Show 4 more comments...</summary>
 
+- **Commented on issue [[Bug] Git diff not showing properly when wanting to open diff view](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Commented on issue [[Bug] Env file not protected when starting repository with env last opened](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Commented on issue [[Bug] Can&#x27;t open Instagram links with parameter](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 13, 2026)_
 - **Commented on issue [Change the license to MIT](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
