@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [chore: remove unfilled .gitkeep placeholder directories](https://github.com/sametcn99/ArcDrop/commit/f3226a2fecc62dd6d00bf084234055942d54c0b1)** _(Nov 18, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E8: web cover picker)](https://github.com/sametcn99/ArcDrop/commit/4d8f8186cb1d9ec7873eb91f381edb143b443f64)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): full-path sdkmanager in release android job (v0....](https://github.com/sametcn99/ArcDrop/commit/534e755df10f61f428f7ef4be73c6d5102f58151)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): optional android release signing + node-script e...](https://github.com/sametcn99/ArcDrop/commit/81365a66a398fad711f5708cbd90679b8caf05cf)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): silence mobile-cfg lints in lib.rs (unused_mut +...](https://github.com/sametcn99/ArcDrop/commit/7fe82f53947c1e167292632c80966a8a88900513)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(cross-platform): offline UX + desktop polish (T5)](https://github.com/sametcn99/ArcDrop/commit/2f36ee37613199dad0728dcf4e6b934e7efde09d)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [redesign GitHub Pages with release downloads and install guides](https://github.com/sametcn99/linkedin-hide-viewed-jobs/commit/d174fe64c6ef0d02dba82853a66ae91aad08bf48)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 134 more pushes...</summary>
+  <summary>Show 136 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [0ae6db9...2f36ee3](https://github.com/sametcn99/ArcDrop/compare/0ae6db991e62d32b65335674a4cfecc424139bb7...2f36ee37613199dad0728dcf4e6b934e7efde09d)** _(Nov 18, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [5847999...d174fe6](https://github.com/sametcn99/linkedin-hide-viewed-jobs/compare/5847999bb3e799a17226c68f261224b973657f19...d174fe64c6ef0d02dba82853a66ae91aad08bf48)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [2f36ee3...7f9179f](https://github.com/sametcn99/ArcDrop/compare/2f36ee37613199dad0728dcf4e6b934e7efde09d...7f9179f08c5de241e3f0a22e4e0bede2cb8d373b)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [ecdc783...53a3154](https://github.com/sametcn99/ArcDrop/compare/ecdc7830acc9d642361117b03814dcb77faa2d4f...53a315412f56ef40e8cb6d9c17531e9572d1ecf7)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [53a3154...ce398f2](https://github.com/sametcn99/ArcDrop/compare/53a315412f56ef40e8cb6d9c17531e9572d1ecf7...ce398f2305803d9aec7bb02182aaea1cea427349)** _(Nov 18, 2026)_
@@ -307,20 +309,21 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pull Requests
 
+- **Opened pull request [#15: feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log...](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#9: fix: preserve Source Control diff view for env files](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jul 19, 2026)_
 - **Closed pull request [#6](https://github.com/sametcn99/tg-bot-studio/pull/6) in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 19, 2026)_
 - **Closed pull request [#1](https://github.com/sametcn99/tg-bot-studio/pull/1) in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 16, 2026)_
 - **Closed pull request [#6: build(deps): bump androidx.webkit:webkit from 1.12.1 to 1.18.0 in /an...](https://github.com/sametcn99/libredirect-mobile/pull/6) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
-- **Closed pull request [#8: build(deps): bump androidx.datastore:datastore-preferences from 1.1.1...](https://github.com/sametcn99/libredirect-mobile/pull/8) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 
 <details>
-  <summary>Show 13 more pull requests...</summary>
+  <summary>Show 14 more pull requests...</summary>
 
+- **Closed pull request [#8: build(deps): bump androidx.datastore:datastore-preferences from 1.1.1...](https://github.com/sametcn99/libredirect-mobile/pull/8) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#9: build(deps): bump com.squareup.okhttp3:okhttp from 4.12.0 to 5.5.1 in...](https://github.com/sametcn99/libredirect-mobile/pull/9) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#10: build(deps): bump androidx.compose:compose-bom from 2024.12.01 to 202...](https://github.com/sametcn99/libredirect-mobile/pull/10) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
 - **Closed pull request [#1: build(deps): bump actions/setup-java from 4 to 6](https://github.com/sametcn99/libredirect-mobile/pull/1) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#3: build(deps): bump actions/checkout from 4 to 7](https://github.com/sametcn99/libredirect-mobile/pull/3) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
-- **Closed pull request [#5: build(deps): bump gradle/actions from 4 to 6](https://github.com/sametcn99/libredirect-mobile/pull/5) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
+- **Closed pull request [#5](https://github.com/sametcn99/libredirect-mobile/pull/5) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#8](https://github.com/sametcn99/repotruck/pull/8) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Closed pull request [#7](https://github.com/sametcn99/repotruck/pull/7) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Closed pull request [#6](https://github.com/sametcn99/repotruck/pull/6) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
@@ -359,7 +362,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [LoopyLuci/VM-Harness](https://github.com/LoopyLuci/VM-Harness)** _(Nov 19, 2026)_
 
 <details>
-  <summary>Show 54 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
 - **Starred [VannsanNin/angkor-displayctl](https://github.com/VannsanNin/angkor-displayctl)** _(Nov 19, 2026)_
 - **Starred [synle/display-dj](https://github.com/synle/display-dj)** _(Nov 19, 2026)_
@@ -413,22 +416,21 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
 - **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
 - **Starred [n1crack/anvil](https://github.com/n1crack/anvil)** _(Oct 22, 2026)_
-- **Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** _(Oct 21, 2026)_
-- **Starred [maathimself/mailflow](https://github.com/maathimself/mailflow)** _(Oct 21, 2026)_
 
 </details>
 
 ### Other Activity
 
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
+- **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Reopened issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
-- **Closed issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 
 <details>
-  <summary>Show 16 more other activity...</summary>
+  <summary>Show 17 more other activity...</summary>
 
+- **Closed issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Closed issue [#7](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Created branch &#x60;main&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/rcptx](https://github.com/sametcn99/rcptx)** _(Nov 10, 2026)_
@@ -462,17 +464,18 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 ### Pull Requests
 
-| Pull Request                                                                                                                       | Repository                                                                                      | Status |       Updated        |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :----: | :------------------: |
-| [**fix: preserve Source Control diff view for env files**](https://github.com/sametcn99/env-protector/pull/9)                      | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)                           | closed | Updated Nov 14, 2026 |
-| [**data: add PracHub free coding-interview study-plan generator**](https://github.com/sametcn99/computer-science-resources/pull/1) | [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) | merged | Updated Sep 1, 2026  |
-| [**Add FrontendAtlas Essential 60**](https://github.com/sametcn99/computer-science-resources/pull/2)                               | [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) | merged | Updated Sep 1, 2026  |
-| [**refactor extension UI and frame detection**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5)                     | [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)   | merged | Updated Aug 14, 2026 |
-| [**Install Vercel Web Analytics**](https://github.com/sametcn99/gh-block-spam-accounts/pull/1)                                     | [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)         | closed | Updated Jun 16, 2026 |
+| Pull Request                                                                                                                            | Repository                                                                                      | Status  |       Updated        |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :-----: | :------------------: |
+| [**feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log view (1.0.0)**](https://github.com/sametcn99/repotruck/pull/15) | [sametcn99/repotruck](https://github.com/sametcn99/repotruck)                                   | waiting | Updated Nov 20, 2026 |
+| [**fix: preserve Source Control diff view for env files**](https://github.com/sametcn99/env-protector/pull/9)                           | [sametcn99/env-protector](https://github.com/sametcn99/env-protector)                           | closed  | Updated Nov 14, 2026 |
+| [**data: add PracHub free coding-interview study-plan generator**](https://github.com/sametcn99/computer-science-resources/pull/1)      | [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) | merged  | Updated Sep 1, 2026  |
+| [**Add FrontendAtlas Essential 60**](https://github.com/sametcn99/computer-science-resources/pull/2)                                    | [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) | merged  | Updated Sep 1, 2026  |
+| [**refactor extension UI and frame detection**](https://github.com/sametcn99/linkedin-hide-viewed-jobs/pull/5)                          | [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)   | merged  | Updated Aug 14, 2026 |
 
 <details>
-  <summary>Show 27 more pull requests...</summary>
+  <summary>Show 28 more pull requests...</summary>
 
+- [**Install Vercel Web Analytics**](https://github.com/sametcn99/gh-block-spam-accounts/pull/1) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(closed, Updated Jun 16, 2026)_
 - [**Install Vercel Speed Insights**](https://github.com/sametcn99/gh-block-spam-accounts/pull/2) in [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts) _(merged, Updated Jun 13, 2026)_
 - [**[codex] fix css export path**](https://github.com/sametcn99/vitepress-mermaid-renderer/pull/11) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer) _(merged, Updated Jun 13, 2026)_
 - [**chore: update dependencies in package.json**](https://github.com/sametcn99/booking-calendar/pull/11) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) _(merged, Updated Apr 4, 2026)_
