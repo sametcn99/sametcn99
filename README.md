@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 238                                     |
-| **Commits (7d)**          | 110+                                    |
+| **Commits (7d)**          | 90+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): scope deep-link capability to desktop platforms...](https://github.com/sametcn99/ArcDrop/commit/ce398f2305803d9aec7bb02182aaea1cea427349)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): revert in-flight T6 plugin registrations committ...](https://github.com/sametcn99/ArcDrop/commit/e1d6e20747205fd10066160918921ad6533d8f1e)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): iOS target short-form value aarch64-sim (T2 CI)](https://github.com/sametcn99/ArcDrop/commit/6191452072538cf563ea4332203ecc8b42b5bccc)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(web): runtime server URL onboarding + platform adapter (T0)](https://github.com/sametcn99/ArcDrop/commit/83efa4460bc661ea450e4161b7edceccc1029c0d)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): CI first-run fixes — rustfmt/clippy components +...](https://github.com/sametcn99/ArcDrop/commit/b00e0be7d1578bc2badd0637401b6d08462fde5e)** _(Nov 18, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge branch &#x27;extension&#x27; (E2: full popup editor + quick save + badge)](https://github.com/sametcn99/ArcDrop/commit/f0fe0d3da13cc383b7ffb44a9a6ce2ea4db0dfff)** _(Nov 18, 2026)_
 
 <details>
-  <summary>Show 130 more pushes...</summary>
+  <summary>Show 131 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [ffe0a2e...f0fe0d3](https://github.com/sametcn99/ArcDrop/compare/ffe0a2ea4b79502f6238c7ae10f348cf257b9059...f0fe0d3da13cc383b7ffb44a9a6ce2ea4db0dfff)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [d841470...2018cc1](https://github.com/sametcn99/ArcDrop/compare/d84147090247e753fb9ed20fdc80086cb1612a02...2018cc1ab719dbc592eb956bf177d5f8c3b311d8)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [83efa44...ffe0a2e](https://github.com/sametcn99/ArcDrop/compare/83efa4460bc661ea450e4161b7edceccc1029c0d...ffe0a2ea4b79502f6238c7ae10f348cf257b9059)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [1b3c48f...6a0014c](https://github.com/sametcn99/ArcDrop/compare/1b3c48fd2adcf007d95f8ccbb87f6377abeb64e6...6a0014c16aceb2aaf41a82427c7108ef67152e16)** _(Nov 18, 2026)_
@@ -347,15 +348,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)** _(Nov 19, 2026)_
+- **Starred [UCS-Care-Group/mailcraft](https://github.com/UCS-Care-Group/mailcraft)** _(Nov 19, 2026)_
+- **Starred [gotify/cli](https://github.com/gotify/cli)** _(Nov 19, 2026)_
 - **Starred [Status-Labs/boxcar](https://github.com/Status-Labs/boxcar)** _(Nov 19, 2026)_
 - **Starred [LoopyLuci/VM-Harness](https://github.com/LoopyLuci/VM-Harness)** _(Nov 19, 2026)_
+
+<details>
+  <summary>Show 54 more starred repositories...</summary>
+
 - **Starred [VannsanNin/angkor-displayctl](https://github.com/VannsanNin/angkor-displayctl)** _(Nov 19, 2026)_
 - **Starred [synle/display-dj](https://github.com/synle/display-dj)** _(Nov 19, 2026)_
 - **Starred [tzawezin/gnome-ddc-brightness-contrast-extra-dimming](https://github.com/tzawezin/gnome-ddc-brightness-contrast-extra-dimming)** _(Nov 19, 2026)_
-
-<details>
-  <summary>Show 51 more starred repositories...</summary>
-
 - **Starred [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** _(Nov 17, 2026)_
 - **Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)** _(Nov 16, 2026)_
 - **Starred [YildizDikme/zeyvola-screen-recorder](https://github.com/YildizDikme/zeyvola-screen-recorder)** _(Nov 14, 2026)_
