@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): full-path sdkmanager in release android job (v0....](https://github.com/sametcn99/ArcDrop/commit/534e755df10f61f428f7ef4be73c6d5102f58151)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): optional android release signing + node-script e...](https://github.com/sametcn99/ArcDrop/commit/81365a66a398fad711f5708cbd90679b8caf05cf)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): silence mobile-cfg lints in lib.rs (unused_mut +...](https://github.com/sametcn99/ArcDrop/commit/7fe82f53947c1e167292632c80966a8a88900513)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [feat(cross-platform): offline UX + desktop polish (T5)](https://github.com/sametcn99/ArcDrop/commit/2f36ee37613199dad0728dcf4e6b934e7efde09d)** _(Nov 18, 2026)_
 - **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs): [redesign GitHub Pages with release downloads and install guides](https://github.com/sametcn99/linkedin-hide-viewed-jobs/commit/d174fe64c6ef0d02dba82853a66ae91aad08bf48)** _(Nov 20, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [fix(cross-platform): consume window/event params on mobile in on_wind...](https://github.com/sametcn99/ArcDrop/commit/7f9179f08c5de241e3f0a22e4e0bede2cb8d373b)** _(Nov 18, 2026)_
 
 <details>
-  <summary>Show 136 more pushes...</summary>
+  <summary>Show 134 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [2f36ee3...7f9179f](https://github.com/sametcn99/ArcDrop/compare/2f36ee37613199dad0728dcf4e6b934e7efde09d...7f9179f08c5de241e3f0a22e4e0bede2cb8d373b)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [ecdc783...53a3154](https://github.com/sametcn99/ArcDrop/compare/ecdc7830acc9d642361117b03814dcb77faa2d4f...53a315412f56ef40e8cb6d9c17531e9572d1ecf7)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [53a3154...ce398f2](https://github.com/sametcn99/ArcDrop/compare/53a315412f56ef40e8cb6d9c17531e9572d1ecf7...ce398f2305803d9aec7bb02182aaea1cea427349)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [7f9179f...e1d6e20](https://github.com/sametcn99/ArcDrop/compare/7f9179f08c5de241e3f0a22e4e0bede2cb8d373b...e1d6e20747205fd10066160918921ad6533d8f1e)** _(Nov 18, 2026)_
@@ -301,9 +302,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [428cc5f...9b3a19e](https://github.com/sametcn99/tg-bot-studio/compare/428cc5fa0a09ff47fd1afeb8bdd07b1c2ccba20b...9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0)** _(Oct 20, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [960e1bd...e2f9fdd](https://github.com/sametcn99/tg-bot-studio/compare/960e1bdd6529de90d5d8290c39b0362a663fcef9...e2f9fddc6cd28a29e5c758ff3aa05f6504a13177)** _(Oct 20, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [9b3a19e...6aab152](https://github.com/sametcn99/tg-bot-studio/compare/9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0...6aab15212efa19693a6bd2d6556e57d8374d134f)** _(Oct 21, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [4a50783...bf075e8](https://github.com/sametcn99/tg-bot-studio/compare/4a50783162e2cb4cfe59c4f2d035ff3377ef5669...bf075e8e517e24465837862deee0f5e56d491df1)** _(Oct 19, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [674bfed...4a50783](https://github.com/sametcn99/tg-bot-studio/compare/674bfedbf32f92cce2e1681b9295489b24132430...4a50783162e2cb4cfe59c4f2d035ff3377ef5669)** _(Oct 19, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [360501b...3b69880](https://github.com/sametcn99/tg-bot-studio/compare/360501b9c0c833f388e4d8688bf268983ca076fe...3b69880b75ada6a11e74b2aa9ed31e1d48ff1953)** _(Oct 19, 2026)_
 
 </details>
 
