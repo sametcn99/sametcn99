@@ -124,17 +124,18 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 Recent releases across my repositories:
 
-| Release                                                                                                                       | Repository                                          |  Published   | Status |
-| :---------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- | :----------: | :----: |
-| [**v1.0.2**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.2) — v1.0.2                                             | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
-| [**v1.0.1**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.1) — v1.0.1                                             | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
-| [**v1.0.0**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.0) — v1.0.0                                             | [repotruck](https://github.com/sametcn99/repotruck) | Nov 20, 2026 | Stable |
-| [**v0.3.1**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.1) — HTWind v0.3.1                                         | [HTWind](https://github.com/sametcn99/HTWind)       | Nov 19, 2026 | Stable |
-| [**extension-v0.2.0**](https://github.com/sametcn99/ArcDrop/releases/tag/extension-v0.2.0) — ArcDrop Browser Extension v0.2.0 | [ArcDrop](https://github.com/sametcn99/ArcDrop)     | Nov 18, 2026 | Stable |
+| Release                                                                               | Repository                                          |  Published   | Status |
+| :------------------------------------------------------------------------------------ | :-------------------------------------------------- | :----------: | :----: |
+| [**v1.0.3**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.3) — v1.0.3     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
+| [**v1.0.2**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.2) — v1.0.2     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
+| [**v1.0.1**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.1) — v1.0.1     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
+| [**v1.0.0**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.0) — v1.0.0     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 20, 2026 | Stable |
+| [**v0.3.1**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.1) — HTWind v0.3.1 | [HTWind](https://github.com/sametcn99/HTWind)       | Nov 19, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**extension-v0.2.0**](https://github.com/sametcn99/ArcDrop/releases/tag/extension-v0.2.0) — ArcDrop Browser Extension v0.2.0 in [ArcDrop](https://github.com/sametcn99/ArcDrop) _(Nov 18, 2026)_
 - [**v1.3.13**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.13) — LibRedirect Mobile v1.3.13 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 15, 2026)_
 - [**v1.3.12**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.12) — LibRedirect Mobile v1.3.12 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 14, 2026)_
 - [**1.0.13**](https://github.com/sametcn99/env-protector/releases/tag/1.0.13) — 1.0.13 in [env-protector](https://github.com/sametcn99/env-protector) _(Nov 14, 2026)_
@@ -149,7 +150,6 @@ Recent releases across my repositories:
 - [**v1.3.10**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.10) — LibRedirect Mobile v1.3.10 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 8, 2026)_
 - [**v1.3.9**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.9) — LibRedirect Mobile v1.3.9 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
 - [**v1.3.8**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.8) — LibRedirect Mobile v1.3.8 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
-- [**v1.3.7**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.7) — LibRedirect Mobile v1.3.7 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
 
 </details>
 
@@ -166,7 +166,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [chore: remove unfilled .gitkeep placeholder directories](https://github.com/sametcn99/ArcDrop/commit/f3226a2fecc62dd6d00bf084234055942d54c0b1)** _(Nov 18, 2026)_
 
 <details>
-  <summary>Show 139 more pushes...</summary>
+  <summary>Show 138 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [e1d6e20...4d8f818](https://github.com/sametcn99/ArcDrop/compare/e1d6e20747205fd10066160918921ad6533d8f1e...4d8f8186cb1d9ec7873eb91f381edb143b443f64)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [659516e...534e755](https://github.com/sametcn99/ArcDrop/compare/659516ef39bc7ff997b9e75348a834a7b65ac7d5...534e755df10f61f428f7ef4be73c6d5102f58151)** _(Nov 18, 2026)_
@@ -306,21 +306,21 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7d9d6be...cd79adf](https://github.com/sametcn99/repotruck/compare/7d9d6be5828120443c9e7b61ca7fc56b382ff81e...cd79adf111206a07dfa1941b53f0a8feb6b86756)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e495675...b429cbe](https://github.com/sametcn99/repotruck/compare/e4956750a561c84c02b91092a97549d7290f4358...b429cbef7706ac180a5af3fb17cdd3906185a687)** _(Oct 24, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [428cc5f...9b3a19e](https://github.com/sametcn99/tg-bot-studio/compare/428cc5fa0a09ff47fd1afeb8bdd07b1c2ccba20b...9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0)** _(Oct 20, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [960e1bd...e2f9fdd](https://github.com/sametcn99/tg-bot-studio/compare/960e1bdd6529de90d5d8290c39b0362a663fcef9...e2f9fddc6cd28a29e5c758ff3aa05f6504a13177)** _(Oct 20, 2026)_
 
 </details>
 
 ### Pull Requests
 
+- **Closed pull request [#1024: Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 - **Merged pull request [#15: feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log...](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#18: probe: bisect 3bbf544](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Opened pull request [#18: probe: bisect 3bbf544](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#17: probe: bisect 41d0b91](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Opened pull request [#17: probe: bisect 41d0b91](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 21 more pull requests...</summary>
+  <summary>Show 22 more pull requests...</summary>
 
+- **Opened pull request [#17: probe: bisect 41d0b91](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#16: chore: CI health probe (no functional change)](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Opened pull request [#16: chore: CI health probe (no functional change)](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Opened pull request [#15: feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log...](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
@@ -432,15 +432,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Deleted branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Nov 21, 2026)_
 - **Deleted branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
-- **Reopened issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 
 <details>
-  <summary>Show 18 more other activity...</summary>
+  <summary>Show 19 more other activity...</summary>
 
+- **Reopened issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **Closed issue [#7](https://github.com/sametcn99/env-protector/issues/7) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
@@ -528,7 +529,7 @@ Open issues and pull requests that I am currently tracking or planning to work o
 <details>
   <summary>Show 10 forked repositories...</summary>
 
-- [**server**](https://github.com/sametcn99/server) — Go · Updated Sep 4, 2026<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [**server**](https://github.com/sametcn99/server) — Go · Updated Nov 21, 2026<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader) · Updated Jul 7, 2026<br />Query and download archive.org as simple as possible.
 - [**wvw.dev**](https://github.com/sametcn99/wvw.dev) — JavaScript · Updated May 24, 2026<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 
