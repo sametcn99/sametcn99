@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [probe: relax size limit to reach tests](https://github.com/sametcn99/repotruck/commit/6fc1d2851e4992fb02e49e5e46625575a2829efc)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [chore(release): prepare v1.0.1](https://github.com/sametcn99/repotruck/commit/68bea409bbd99a3c46babc9b8352c0915f6bec39)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: fix Windows CI — revert node resolution in shell-quote, warm ch...](https://github.com/sametcn99/repotruck/commit/9a4e28adfe4ec668d29060667d77040c215bdb78)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(agents-md): embed a CLI + MCP usage guide, auto-updated across v...](https://github.com/sametcn99/repotruck/commit/a26630b650dd4f7e5066e4a5b18c0f2dde84621f)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: run CLI subprocesses through node:child_process spawnSync](https://github.com/sametcn99/repotruck/commit/67cd6868fca4988ffd2ff8b033158f36183ee730)** _(Nov 20, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [chore: remove unfilled .gitkeep placeholder directories](https://github.com/sametcn99/ArcDrop/commit/f3226a2fecc62dd6d00bf084234055942d54c0b1)** _(Nov 18, 2026)_
 
 <details>
   <summary>Show 138 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [534e755...f3226a2](https://github.com/sametcn99/ArcDrop/compare/534e755df10f61f428f7ef4be73c6d5102f58151...f3226a2fecc62dd6d00bf084234055942d54c0b1)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [e1d6e20...4d8f818](https://github.com/sametcn99/ArcDrop/compare/e1d6e20747205fd10066160918921ad6533d8f1e...4d8f8186cb1d9ec7873eb91f381edb143b443f64)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [659516e...534e755](https://github.com/sametcn99/ArcDrop/compare/659516ef39bc7ff997b9e75348a834a7b65ac7d5...534e755df10f61f428f7ef4be73c6d5102f58151)** _(Nov 18, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [4d8f818...81365a6](https://github.com/sametcn99/ArcDrop/compare/4d8f8186cb1d9ec7873eb91f381edb143b443f64...81365a66a398fad711f5708cbd90679b8caf05cf)** _(Nov 18, 2026)_
@@ -305,7 +306,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fb1b1b2...e495675](https://github.com/sametcn99/repotruck/compare/fb1b1b2c260cc1061715ebe1c432c105b445dff8...e4956750a561c84c02b91092a97549d7290f4358)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7d9d6be...cd79adf](https://github.com/sametcn99/repotruck/compare/7d9d6be5828120443c9e7b61ca7fc56b382ff81e...cd79adf111206a07dfa1941b53f0a8feb6b86756)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e495675...b429cbe](https://github.com/sametcn99/repotruck/compare/e4956750a561c84c02b91092a97549d7290f4358...b429cbef7706ac180a5af3fb17cdd3906185a687)** _(Oct 24, 2026)_
-- **Pushed to &#x60;master&#x60; in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio): [428cc5f...9b3a19e](https://github.com/sametcn99/tg-bot-studio/compare/428cc5fa0a09ff47fd1afeb8bdd07b1c2ccba20b...9b3a19ee8c324354ba3683ba3f2a2140a5d26ac0)** _(Oct 20, 2026)_
 
 </details>
 
@@ -432,15 +432,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Created branch &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 19, 2026)_
 - **Deleted branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Nov 21, 2026)_
 - **Deleted branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
-- **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
-- **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 
 <details>
-  <summary>Show 19 more other activity...</summary>
+  <summary>Show 21 more other activity...</summary>
 
+- **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
+- **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Reopened issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/env-protector/issues/8) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
