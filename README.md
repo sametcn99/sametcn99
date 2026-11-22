@@ -166,7 +166,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [Add measurable project records and expertise story](https://github.com/sametcn99/personal-website-blazor/commit/8ea4057b2ceb83e9b73cbbd047993b470e99a8f0)** _(Nov 19, 2026)_
 
 <details>
-  <summary>Show 137 more pushes...</summary>
+  <summary>Show 136 more pushes...</summary>
 
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [0d4cc2c...91cd77e](https://github.com/sametcn99/HTWind/compare/0d4cc2cc7866d5151f9fb64a577d78b9a698f5f4...91cd77ef640a24f4957ab532a31616fe27281d35)** _(Nov 19, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [68bea40...0850259](https://github.com/sametcn99/repotruck/compare/68bea409bbd99a3c46babc9b8352c0915f6bec39...0850259fa5bfc351aada0a14510bbe1ff69fe295)** _(Nov 20, 2026)_
@@ -304,7 +304,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [71fe73f...4b5cb6c](https://github.com/sametcn99/repotruck/compare/71fe73f9d7084ab3a7e381f37a197585f7ff28b0...4b5cb6caa863f3f01361f5a1b8fc671a8b1c4a37)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [415d333...53c2d2b](https://github.com/sametcn99/repotruck/compare/415d33392cbb785bcdbab349252d7fdb09cfc42b...53c2d2be061d3de3ef15b328d97d576cd80670d7)** _(Oct 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [53c2d2b...71fe73f](https://github.com/sametcn99/repotruck/compare/53c2d2be061d3de3ef15b328d97d576cd80670d7...71fe73f9d7084ab3a7e381f37a197585f7ff28b0)** _(Oct 25, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e1abc5f...415d333](https://github.com/sametcn99/repotruck/compare/e1abc5fd85f06c2379f7aec54690d5d199f545f5...415d33392cbb785bcdbab349252d7fdb09cfc42b)** _(Oct 25, 2026)_
 
 </details>
 
