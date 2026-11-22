@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 238                                     |
-| **Commits (7d)**          | 100+                                    |
+| **Commits (7d)**          | 90+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [Add measurable project records and expertise story](https://github.com/sametcn99/personal-website-blazor/commit/8ea4057b2ceb83e9b73cbbd047993b470e99a8f0)** _(Nov 19, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [chore: release v0.3.1 - preserve settingsSchema on import/export and...](https://github.com/sametcn99/HTWind/commit/91cd77ef640a24f4957ab532a31616fe27281d35)** _(Nov 19, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(ci): deploy Pages after the artifact upload job](https://github.com/sametcn99/repotruck/commit/0850259fa5bfc351aada0a14510bbe1ff69fe295)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(shots): replace all real identities with fictional mock data](https://github.com/sametcn99/repotruck/commit/e1056c48d8608d597139c223d311f7b4baa3b4d5)** _(Nov 19, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: expand test suite to 91% line coverage and fix Biome lint warnings](https://github.com/sametcn99/repotruck/commit/718e4113287d0d89402729dd854918ef5807ccdd)** _(Nov 19, 2026)_
-- **Pushed 1 commit to &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [probe: relax size limit to reach tests](https://github.com/sametcn99/repotruck/commit/6fc1d2851e4992fb02e49e5e46625575a2829efc)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 142 more pushes...</summary>
+  <summary>Show 139 more pushes...</summary>
 
+- **Pushed to &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [41d0b91...6fc1d28](https://github.com/sametcn99/repotruck/compare/41d0b91a7e0a5c7dfe1b1b3720754c80483d6042...6fc1d2851e4992fb02e49e5e46625575a2829efc)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ed66163...68bea40](https://github.com/sametcn99/repotruck/compare/ed6616372ac5b136ccc50d4622fb5ec45eeb4afb...68bea409bbd99a3c46babc9b8352c0915f6bec39)** _(Nov 20, 2026)_
 - **Pushed to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [9ca67cd...9a4e28a](https://github.com/sametcn99/repotruck/compare/9ca67cd47a523fbe2a72481b5327d22eda36ea7e...9a4e28adfe4ec668d29060667d77040c215bdb78)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [c50b6c8...a26630b](https://github.com/sametcn99/repotruck/compare/c50b6c8dc1e9be5d48db9d95f5ae3267c548e7b5...a26630b650dd4f7e5066e4a5b18c0f2dde84621f)** _(Nov 20, 2026)_
@@ -306,10 +307,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [f0a757a...f2e7cf5](https://github.com/sametcn99/repotruck/compare/f0a757ae9bd676fc24b2db0d4c3c36a3246e9278...f2e7cf5afedf7fb38696060b295034470a09e6cf)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer): [61cc3ba...5b2556a](https://github.com/sametcn99/vitepress-mermaid-renderer/compare/61cc3ba41e0285caa7b7131de14e8bb30c4a7bbc...5b2556adf16dceae3918e458cc5a2e2965694f58)** _(Oct 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [cd79adf...1217786](https://github.com/sametcn99/repotruck/compare/cd79adf111206a07dfa1941b53f0a8feb6b86756...1217786413f9371cbbbfb44f7899866b1a2c2af4)** _(Oct 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [b429cbe...7d9d6be](https://github.com/sametcn99/repotruck/compare/b429cbef7706ac180a5af3fb17cdd3906185a687...7d9d6be5828120443c9e7b61ca7fc56b382ff81e)** _(Oct 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fb1b1b2...e495675](https://github.com/sametcn99/repotruck/compare/fb1b1b2c260cc1061715ebe1c432c105b445dff8...e4956750a561c84c02b91092a97549d7290f4358)** _(Oct 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7d9d6be...cd79adf](https://github.com/sametcn99/repotruck/compare/7d9d6be5828120443c9e7b61ca7fc56b382ff81e...cd79adf111206a07dfa1941b53f0a8feb6b86756)** _(Oct 24, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e495675...b429cbe](https://github.com/sametcn99/repotruck/compare/e4956750a561c84c02b91092a97549d7290f4358...b429cbef7706ac180a5af3fb17cdd3906185a687)** _(Oct 24, 2026)_
 
 </details>
 
@@ -436,15 +433,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Deleted branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Created branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 19, 2026)_
+
+<details>
+  <summary>Show 24 more other activity...</summary>
+
 - **Deleted branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Nov 21, 2026)_
 - **Deleted branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
-
-<details>
-  <summary>Show 21 more other activity...</summary>
-
 - **Deleted tag &#x60;v0.1.0&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop)** _(Nov 18, 2026)_
 - **Closed issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
 - **Reopened issue [#12](https://github.com/sametcn99/libredirect-mobile/issues/12) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 15, 2026)_
