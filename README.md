@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/reddit-rss-api](https://github.com/sametcn99/reddit-rss-api): [docs: discontinue Reddit RSS API](https://github.com/sametcn99/reddit-rss-api/commit/61e4815a5057deb6345df2d1d3148398df07329a)** _(Nov 21, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(website): serve screenshot gallery under the Pages base path](https://github.com/sametcn99/repotruck/commit/0ed1878ce3ffb43345b90ea427d206dbdeb9d73b)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(tui): fit box contents, eliminate double chrome subtraction, and...](https://github.com/sametcn99/repotruck/commit/1ca5fc07fd4b6c4464e0eaf987d6a635785a208c)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [ci: serialize the coverage test run to stop subprocess pipe races](https://github.com/sametcn99/repotruck/commit/9ca67cd47a523fbe2a72481b5327d22eda36ea7e)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [wip: temporary CI diagnostics for empty subprocess stdout](https://github.com/sametcn99/repotruck/commit/96af6039ba3f8c139e741b8b66a3f46793910c32)** _(Nov 20, 2026)_
-- **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [chore(release): bump version to 1.0.0](https://github.com/sametcn99/repotruck/commit/02c205f71f04f219ab9ce3a1cb3ba3e817d887cb)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 137 more pushes...</summary>
+  <summary>Show 138 more pushes...</summary>
 
+- **Pushed to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [5de8044...02c205f](https://github.com/sametcn99/repotruck/compare/5de80449ea9d8990bb55cf3a1a524dffaaf1db9e...02c205f71f04f219ab9ce3a1cb3ba3e817d887cb)** _(Nov 20, 2026)_
 - **Pushed to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [718e411...75e5d7a](https://github.com/sametcn99/repotruck/compare/718e4113287d0d89402729dd854918ef5807ccdd...75e5d7a7e011ad9066861096f788774827ad1907)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e94588a...44574d9](https://github.com/sametcn99/repotruck/compare/e94588a30427c3dc9bcd5ad219bad58f68ac136f...44574d9a0b9768523a8faa51b0bd90d067f277b3)** _(Nov 21, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [f3226a2...02c402a](https://github.com/sametcn99/ArcDrop/compare/f3226a2fecc62dd6d00bf084234055942d54c0b1...02c402a4cf3d98ccc52db854ff9590ef0e5a3142)** _(Nov 19, 2026)_
@@ -437,7 +438,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Created branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 22 more other activity...</summary>
+  <summary>Show 21 more other activity...</summary>
 
 - **Created branch &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 19, 2026)_
 - **Deleted branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Nov 21, 2026)_
@@ -459,7 +460,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted branch &#x60;dependabot/bun/website/dev-dependencies-e4a9b127d5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
-- **Deleted branch &#x60;dependabot/github_actions/actions/deploy-pages-5&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Closed issue [#19](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
 
 </details>
@@ -472,7 +472,7 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 | Issue                                                                                                                        | Repository                                                                  |       Updated        |
 | :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------: |
-| [**Can&#x27;t access settings**](https://github.com/sametcn99/HTWind/issues/8)                                               | [sametcn99/HTWind](https://github.com/sametcn99/HTWind)                     | Updated Nov 19, 2026 |
+| [**Can&#x27;t access settings**](https://github.com/sametcn99/HTWind/issues/8)                                               | [sametcn99/HTWind](https://github.com/sametcn99/HTWind)                     | Updated Nov 23, 2026 |
 | [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)  | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | Updated Feb 22, 2026 |
 | [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) | Updated Oct 23, 2025 |
 
