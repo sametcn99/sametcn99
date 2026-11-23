@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 238                                     |
-| **Commits (7d)**          | 90+                                     |
+| **Commits (7d)**          | 100+                                    |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -124,17 +124,18 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 Recent releases across my repositories:
 
-| Release                                                                           | Repository                                          |  Published   | Status |
-| :-------------------------------------------------------------------------------- | :-------------------------------------------------- | :----------: | :----: |
-| [**v1.0.4**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.4) — v1.0.4 | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
-| [**v1.0.3**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.3) — v1.0.3 | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
-| [**v1.0.2**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.2) — v1.0.2 | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
-| [**v1.0.1**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.1) — v1.0.1 | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
-| [**v1.0.0**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.0) — v1.0.0 | [repotruck](https://github.com/sametcn99/repotruck) | Nov 20, 2026 | Stable |
+| Release                                                                               | Repository                                          |  Published   | Status |
+| :------------------------------------------------------------------------------------ | :-------------------------------------------------- | :----------: | :----: |
+| [**v0.3.2**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.2) — HTWind v0.3.2 | [HTWind](https://github.com/sametcn99/HTWind)       | Nov 23, 2026 | Stable |
+| [**v1.0.4**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.4) — v1.0.4     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
+| [**v1.0.3**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.3) — v1.0.3     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
+| [**v1.0.2**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.2) — v1.0.2     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
+| [**v1.0.1**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.1) — v1.0.1     | [repotruck](https://github.com/sametcn99/repotruck) | Nov 21, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.0.0**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.0) — v1.0.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 20, 2026)_
 - [**v0.3.1**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.1) — HTWind v0.3.1 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 19, 2026)_
 - [**extension-v0.2.0**](https://github.com/sametcn99/ArcDrop/releases/tag/extension-v0.2.0) — ArcDrop Browser Extension v0.2.0 in [ArcDrop](https://github.com/sametcn99/ArcDrop) _(Nov 18, 2026)_
 - [**v1.3.13**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.13) — LibRedirect Mobile v1.3.13 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 15, 2026)_
@@ -149,7 +150,6 @@ Recent releases across my repositories:
 - [**v0.1.1**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.1) — v0.1.1 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.0**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.0) — v0.1.0 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v1.3.10**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.10) — LibRedirect Mobile v1.3.10 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 8, 2026)_
-- [**v1.3.9**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.9) — LibRedirect Mobile v1.3.9 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 7, 2026)_
 
 </details>
 
@@ -435,15 +435,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Closed issue [#8](https://github.com/sametcn99/HTWind/issues/8) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#9](https://github.com/sametcn99/HTWind/issues/9) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Deleted branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Deleted branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Created branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 20 more other activity...</summary>
+  <summary>Show 21 more other activity...</summary>
 
+- **Created branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 19, 2026)_
 - **Deleted branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Nov 21, 2026)_
@@ -475,7 +476,6 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 | Issue                                                                                                                        | Repository                                                                  |       Updated        |
 | :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------: |
-| [**Can&#x27;t access settings**](https://github.com/sametcn99/HTWind/issues/8)                                               | [sametcn99/HTWind](https://github.com/sametcn99/HTWind)                     | Updated Nov 23, 2026 |
 | [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)  | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | Updated Feb 22, 2026 |
 | [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) | Updated Oct 23, 2025 |
 
