@@ -24,7 +24,7 @@
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                                | TypeScript |  ★ 17 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                    | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
 | [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 12 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
-| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                                |     C#     |  ★ 11 | Nov 19, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
+| [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                                |     C#     |  ★ 11 | Nov 23, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
 | [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 5 | Nov 23, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev…   | TypeScript |  ★ 10 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
@@ -435,15 +435,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Closed issue [#9](https://github.com/sametcn99/HTWind/issues/9) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Deleted branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Deleted branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Created branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 19 more other activity...</summary>
+  <summary>Show 20 more other activity...</summary>
 
+- **Created branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 19, 2026)_
 - **Deleted branch &#x60;feature/improve-responsive-ui-shell&#x60; in [sametcn99/server](https://github.com/sametcn99/server)** _(Nov 21, 2026)_
 - **Deleted branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
