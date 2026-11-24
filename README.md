@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;fix/complete-artifact-acceptance-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix: canonicalize clean-install smoke workspace paths](https://github.com/sametcn99/repotruck/commit/a2b880d2c472c1ec1bb298c4a191788cb8eed7e8)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [chore: release v0.3.2](https://github.com/sametcn99/HTWind/commit/c08ca71bb66b96bb2147b4bc4793dba64d0a2b70)** _(Nov 23, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [fix(web): polish Turkish copy and capability descriptions](https://github.com/sametcn99/HTWind/commit/39e95d839f280e73e33c96ab22e4b11aa01e5e20)** _(Nov 23, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [test: defer modal save until Fluent window initialization completes](https://github.com/sametcn99/HTWind/commit/ef98a73cb2368a45950491525c401e3db591c0ac)** _(Nov 23, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: raise budgets for slow Windows CI runs](https://github.com/sametcn99/repotruck/commit/5c354fccaf84850d6c4b8c2a46ee2a73d77c5bef)** _(Nov 20, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(website): one-click copy chip and a command builder mini-app](https://github.com/sametcn99/repotruck/commit/c50b6c8dc1e9be5d48db9d95f5ae3267c548e7b5)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 142 more pushes...</summary>
+  <summary>Show 143 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [d1d7d20...c50b6c8](https://github.com/sametcn99/repotruck/compare/d1d7d20ac6dcc906c9e980c09048ec890abd938a...c50b6c8dc1e9be5d48db9d95f5ae3267c548e7b5)** _(Nov 20, 2026)_
 - **Pushed to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7155204...96cead9](https://github.com/sametcn99/repotruck/compare/715520400b201c534dab249d847b5070c0a54c00...96cead98aad6ecb3c3ac0e6ee939c3745701ba37)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [44574d9...6eedc1e](https://github.com/sametcn99/repotruck/compare/44574d9a0b9768523a8faa51b0bd90d067f277b3...6eedc1ee6593ad9c7392cf04518a7c882aa82c05)** _(Nov 21, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [77f6b69...e94588a](https://github.com/sametcn99/repotruck/compare/77f6b690fad922cf86601abf2d0e724e08c37de0...e94588a30427c3dc9bcd5ad219bad58f68ac136f)** _(Nov 20, 2026)_
@@ -370,7 +371,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [Status-Labs/boxcar](https://github.com/Status-Labs/boxcar)** _(Nov 19, 2026)_
 
 <details>
-  <summary>Show 52 more starred repositories...</summary>
+  <summary>Show 50 more starred repositories...</summary>
 
 - **Starred [LoopyLuci/VM-Harness](https://github.com/LoopyLuci/VM-Harness)** _(Nov 19, 2026)_
 - **Starred [VannsanNin/angkor-displayctl](https://github.com/VannsanNin/angkor-displayctl)** _(Nov 19, 2026)_
@@ -422,8 +423,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse)** _(Oct 25, 2026)_
 - **Starred [microsoft/vscode-tree-sitter-wasm](https://github.com/microsoft/vscode-tree-sitter-wasm)** _(Oct 25, 2026)_
 - **Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** _(Oct 25, 2026)_
-- **Starred [salihcantekin/ruvio](https://github.com/salihcantekin/ruvio)** _(Oct 24, 2026)_
-- **Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)** _(Oct 24, 2026)_
 
 </details>
 
