@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [fix(web): polish Turkish copy and capability descriptions](https://github.com/sametcn99/HTWind/commit/39e95d839f280e73e33c96ab22e4b11aa01e5e20)** _(Nov 23, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [test: defer modal save until Fluent window initialization completes](https://github.com/sametcn99/HTWind/commit/ef98a73cb2368a45950491525c401e3db591c0ac)** _(Nov 23, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: raise budgets for slow Windows CI runs](https://github.com/sametcn99/repotruck/commit/5c354fccaf84850d6c4b8c2a46ee2a73d77c5bef)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [feat(website): one-click copy chip and a command builder mini-app](https://github.com/sametcn99/repotruck/commit/c50b6c8dc1e9be5d48db9d95f5ae3267c548e7b5)** _(Nov 20, 2026)_
 - **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: harden CLI subprocess tests against empty-pipe flakes on CI](https://github.com/sametcn99/repotruck/commit/96cead98aad6ecb3c3ac0e6ee939c3745701ba37)** _(Nov 20, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: account for platform-specific paths and line endings](https://github.com/sametcn99/repotruck/commit/6eedc1ee6593ad9c7392cf04518a7c882aa82c05)** _(Nov 21, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix(website): show built command and examples above options](https://github.com/sametcn99/repotruck/commit/e94588a30427c3dc9bcd5ad219bad58f68ac136f)** _(Nov 20, 2026)_
 
 <details>
   <summary>Show 142 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [44574d9...6eedc1e](https://github.com/sametcn99/repotruck/compare/44574d9a0b9768523a8faa51b0bd90d067f277b3...6eedc1ee6593ad9c7392cf04518a7c882aa82c05)** _(Nov 21, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [77f6b69...e94588a](https://github.com/sametcn99/repotruck/compare/77f6b690fad922cf86601abf2d0e724e08c37de0...e94588a30427c3dc9bcd5ad219bad58f68ac136f)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [a26630b...ed66163](https://github.com/sametcn99/repotruck/compare/a26630b650dd4f7e5066e4a5b18c0f2dde84621f...ed6616372ac5b136ccc50d4622fb5ec45eeb4afb)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [0ed1878...d1d7d20](https://github.com/sametcn99/repotruck/compare/0ed1878ce3ffb43345b90ea427d206dbdeb9d73b...d1d7d20ac6dcc906c9e980c09048ec890abd938a)** _(Nov 20, 2026)_
 - **Pushed to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [1ca5fc0...41d0b91](https://github.com/sametcn99/repotruck/compare/1ca5fc07fd4b6c4464e0eaf987d6a635785a208c...41d0b91a7e0a5c7dfe1b1b3720754c80483d6042)** _(Nov 20, 2026)_
@@ -308,8 +310,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [707d076...8385dec](https://github.com/sametcn99/repotruck/compare/707d0768a536a2116539dad70962227c30b68ebd...8385decbd5bc149dc8e9309f9aafecb650a1e05d)** _(Oct 27, 2026)_
 - **Pushed to &#x60;master&#x60; in [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension): [303f050...ab54607](https://github.com/sametcn99/gotify-web-extension/compare/303f050f84495f6e2179750e3b2d64bb48ecd4d0...ab5460751068d4584c8bac2632c69772e6326add)** _(Oct 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [e3c9a7e...5acf9a5](https://github.com/sametcn99/repotruck/compare/e3c9a7e396bf72026aafd2d535a6a29ce5acd0da...5acf9a5a2ab1b33ae994c8f07cfafa409e2d6266)** _(Oct 25, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [5acf9a5...6410a45](https://github.com/sametcn99/repotruck/compare/5acf9a5a2ab1b33ae994c8f07cfafa409e2d6266...6410a453cf70022ebb38fc5ab6fa86d926243b0c)** _(Oct 25, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [a02c803...8aad1b3](https://github.com/sametcn99/repotruck/compare/a02c80338a32c44a0efe1d2522a8098e98ba4705...8aad1b326bd51421079d21f78b82bf9b6ffd5e0f)** _(Oct 25, 2026)_
 
 </details>
 
@@ -322,7 +322,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Closed pull request [#17: probe: bisect 41d0b91](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 22 more pull requests...</summary>
+  <summary>Show 16 more pull requests...</summary>
 
 - **Opened pull request [#17: probe: bisect 41d0b91](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#16: chore: CI health probe (no functional change)](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
@@ -340,12 +340,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Closed pull request [#5](https://github.com/sametcn99/libredirect-mobile/pull/5) in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Closed pull request [#8](https://github.com/sametcn99/repotruck/pull/8) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Closed pull request [#7](https://github.com/sametcn99/repotruck/pull/7) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
-- **Closed pull request [#6](https://github.com/sametcn99/repotruck/pull/6) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#5](https://github.com/sametcn99/repotruck/pull/5) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#4](https://github.com/sametcn99/repotruck/pull/4) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#3](https://github.com/sametcn99/repotruck/pull/3) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#2](https://github.com/sametcn99/repotruck/pull/2) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
-- **Closed pull request [#1](https://github.com/sametcn99/repotruck/pull/1) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 24, 2026)_
 
 </details>
 
@@ -435,15 +429,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Created branch &#x60;fix/issue-9-launcher-widget-removal&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/HTWind/issues/8) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#9](https://github.com/sametcn99/HTWind/issues/9) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Deleted branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Deleted branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 
 <details>
   <summary>Show 21 more other activity...</summary>
 
+- **Deleted branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/main-ci-health&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 19, 2026)_
@@ -463,7 +458,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Deleted branch &#x60;dependabot/gradle/android/kotlin-2.4.21&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 6, 2026)_
 - **Deleted tag &#x60;v1.3.4&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 5, 2026)_
 - **Deleted tag &#x60;v1.3.0&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 3, 2026)_
-- **Deleted tag &#x60;v0.3.0&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 25, 2026)_
 - **Closed issue [#19](https://github.com/sametcn99/vitepress-mermaid-renderer/issues/19) in [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 24, 2026)_
 
 </details>
