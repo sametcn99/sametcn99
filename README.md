@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 238                                     |
-| **Commits (7d)**          | 100+                                    |
+| **Commits (7d)**          | 110+                                    |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Merge pull request #22 from sametcn99/fix/cache-persistence-await-202...](https://github.com/sametcn99/repotruck/commit/e763083690d4cf78a2aa01d466ac8b43452609d6)** _(Nov 24, 2026)_
+- **Pushed 1 commit to &#x60;fix/complete-artifact-acceptance-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix: resolve hosted CI portability and shutdown failures](https://github.com/sametcn99/repotruck/commit/b6a17d3ead72f69cbde7f37fb7a2353172c477fb)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;fix/complete-artifact-acceptance-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [fix: canonicalize clean-install smoke workspace paths](https://github.com/sametcn99/repotruck/commit/a2b880d2c472c1ec1bb298c4a191788cb8eed7e8)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [chore: release v0.3.2](https://github.com/sametcn99/HTWind/commit/c08ca71bb66b96bb2147b4bc4793dba64d0a2b70)** _(Nov 23, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [fix(web): polish Turkish copy and capability descriptions](https://github.com/sametcn99/HTWind/commit/39e95d839f280e73e33c96ab22e4b11aa01e5e20)** _(Nov 23, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [test: defer modal save until Fluent window initialization completes](https://github.com/sametcn99/HTWind/commit/ef98a73cb2368a45950491525c401e3db591c0ac)** _(Nov 23, 2026)_
-- **Pushed 1 commit to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: raise budgets for slow Windows CI runs](https://github.com/sametcn99/repotruck/commit/5c354fccaf84850d6c4b8c2a46ee2a73d77c5bef)** _(Nov 20, 2026)_
 
 <details>
-  <summary>Show 143 more pushes...</summary>
+  <summary>Show 145 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [1798af7...ef98a73](https://github.com/sametcn99/HTWind/compare/1798af7cb3c49793603538d7a7cbeadd2a618918...ef98a73cb2368a45950491525c401e3db591c0ac)** _(Nov 23, 2026)_
+- **Pushed to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [9a4e28a...5c354fc](https://github.com/sametcn99/repotruck/compare/9a4e28adfe4ec668d29060667d77040c215bdb78...5c354fccaf84850d6c4b8c2a46ee2a73d77c5bef)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [d1d7d20...c50b6c8](https://github.com/sametcn99/repotruck/compare/d1d7d20ac6dcc906c9e980c09048ec890abd938a...c50b6c8dc1e9be5d48db9d95f5ae3267c548e7b5)** _(Nov 20, 2026)_
 - **Pushed to &#x60;tuiv2&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [7155204...96cead9](https://github.com/sametcn99/repotruck/compare/715520400b201c534dab249d847b5070c0a54c00...96cead98aad6ecb3c3ac0e6ee939c3745701ba37)** _(Nov 20, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [44574d9...6eedc1e](https://github.com/sametcn99/repotruck/compare/44574d9a0b9768523a8faa51b0bd90d067f277b3...6eedc1ee6593ad9c7392cf04518a7c882aa82c05)** _(Nov 21, 2026)_
@@ -316,20 +318,25 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pull Requests
 
+- **Merged pull request [#22: test(cache): wait for the completed atomic cache replacement](https://github.com/sametcn99/repotruck/pull/22) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Opened pull request [#22: test(cache): wait for the completed atomic cache replacement](https://github.com/sametcn99/repotruck/pull/22) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Merged pull request [#21: test(tui): await page writes before cleaning acceptance fixtures](https://github.com/sametcn99/repotruck/pull/21) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Opened pull request [#21: test(tui): await page writes before cleaning acceptance fixtures](https://github.com/sametcn99/repotruck/pull/21) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Merged pull request [#19: Harden workspace workflows and deepen CLI/TUI acceptance coverage](https://github.com/sametcn99/repotruck/pull/19) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+
+<details>
+  <summary>Show 22 more pull requests...</summary>
+
 - **Opened pull request [#19: Harden workspace workflows and deepen CLI/TUI acceptance coverage](https://github.com/sametcn99/repotruck/pull/19) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 - **Closed pull request [#1024: Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
 - **Merged pull request [#15: feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log...](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#18: probe: bisect 3bbf544](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Opened pull request [#18: probe: bisect 3bbf544](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-
-<details>
-  <summary>Show 17 more pull requests...</summary>
-
-- **Closed pull request [#17: probe: bisect 41d0b91](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Opened pull request [#17: probe: bisect 41d0b91](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Closed pull request [#16: chore: CI health probe (no functional change)](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Opened pull request [#16: chore: CI health probe (no functional change)](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Opened pull request [#15: feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log...](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Closed pull request [#17](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Opened pull request [#17](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Closed pull request [#16](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Opened pull request [#16](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Opened pull request [#15](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#9](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Jul 19, 2026)_
 - **Closed pull request [#6](https://github.com/sametcn99/tg-bot-studio/pull/6) in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 19, 2026)_
 - **Closed pull request [#1](https://github.com/sametcn99/tg-bot-studio/pull/1) in [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 16, 2026)_
@@ -473,17 +480,19 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 ### Pull Requests
 
-| Pull Request                                                                                                                            | Repository                                                    | Status  |       Updated        |
-| :-------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :-----: | :------------------: |
-| [**Harden workspace workflows and deepen CLI/TUI acceptance coverage**](https://github.com/sametcn99/repotruck/pull/19)                 | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | waiting | Updated Nov 24, 2026 |
-| [**feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log view (1.0.0)**](https://github.com/sametcn99/repotruck/pull/15) | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged  | Updated Nov 21, 2026 |
-| [**probe: bisect 3bbf544**](https://github.com/sametcn99/repotruck/pull/18)                                                             | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | closed  | Updated Nov 20, 2026 |
-| [**probe: bisect 41d0b91**](https://github.com/sametcn99/repotruck/pull/17)                                                             | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | closed  | Updated Nov 20, 2026 |
-| [**chore: CI health probe (no functional change)**](https://github.com/sametcn99/repotruck/pull/16)                                     | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | closed  | Updated Nov 20, 2026 |
+| Pull Request                                                                                                                            | Repository                                                    | Status |       Updated        |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :----: | :------------------: |
+| [**test(cache): wait for the completed atomic cache replacement**](https://github.com/sametcn99/repotruck/pull/22)                      | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 24, 2026 |
+| [**test(tui): await page writes before cleaning acceptance fixtures**](https://github.com/sametcn99/repotruck/pull/21)                  | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 24, 2026 |
+| [**Harden workspace workflows and deepen CLI/TUI acceptance coverage**](https://github.com/sametcn99/repotruck/pull/19)                 | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 24, 2026 |
+| [**feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log view (1.0.0)**](https://github.com/sametcn99/repotruck/pull/15) | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 21, 2026 |
+| [**probe: bisect 3bbf544**](https://github.com/sametcn99/repotruck/pull/18)                                                             | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | closed | Updated Nov 20, 2026 |
 
 <details>
-  <summary>Show 32 more pull requests...</summary>
+  <summary>Show 34 more pull requests...</summary>
 
+- [**probe: bisect 41d0b91**](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(closed, Updated Nov 20, 2026)_
+- [**chore: CI health probe (no functional change)**](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(closed, Updated Nov 20, 2026)_
 - [**fix: preserve Source Control diff view for env files**](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(closed, Updated Nov 14, 2026)_
 - [**data: add PracHub free coding-interview study-plan generator**](https://github.com/sametcn99/computer-science-resources/pull/1) in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) _(merged, Updated Sep 1, 2026)_
 - [**Add FrontendAtlas Essential 60**](https://github.com/sametcn99/computer-science-resources/pull/2) in [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources) _(merged, Updated Sep 1, 2026)_
