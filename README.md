@@ -159,15 +159,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Keep the Compose web address outside the dynamic IP pool](https://github.com/sametcn99/ArcDrop/commit/a0cc9dc091fb94fb7d6d940a2211d832fc639730)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Merge pull request #21 from sametcn99/fix/acceptance-async-boundaries...](https://github.com/sametcn99/repotruck/commit/6fd271dfa855aff00f013241da0da0292a0b73d3)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [test: host Fluent dialogs on the application dispatcher with theme re...](https://github.com/sametcn99/HTWind/commit/1798af7cb3c49793603538d7a7cbeadd2a618918)** _(Nov 23, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Merge pull request #20 from sametcn99/dependabot/github_actions/actio...](https://github.com/sametcn99/repotruck/commit/3f3c1f9bae2a487cf82e3804956da551a25e7451)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: stabilize loading and Windows launch checks](https://github.com/sametcn99/repotruck/commit/94bddd11df219b25fe787a4bd852409fdea567c3)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Merge pull request #19 from sametcn99/fix/complete-artifact-acceptanc...](https://github.com/sametcn99/repotruck/commit/bf1baf52ab3fda97671a8836fc0900230ff94c70)** _(Nov 24, 2026)_
 
 <details>
-  <summary>Show 149 more pushes...</summary>
+  <summary>Show 150 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [76ee57f...bf1baf5](https://github.com/sametcn99/repotruck/compare/76ee57fb219413e6263720053021e93725bbecfc...bf1baf52ab3fda97671a8836fc0900230ff94c70)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [fbdbbeb...e106165](https://github.com/sametcn99/HTWind/compare/fbdbbeb983be759b67f2f63aaecb89ad7e374dfa...e1061654e5a47022a993f123e2510ab42b2d0296)** _(Nov 23, 2026)_
 - **Pushed to &#x60;dependabot/github_actions/actions-1ea542e15f&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [5c03bfa...0c81cd5](https://github.com/sametcn99/repotruck/compare/5c03bfa3cf23991fc55dbb7d7e54a3a1ee110cc8...0c81cd53ced3b9993d68dd8a3bb0dd274f90998a)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [91cd77e...fbdbbeb](https://github.com/sametcn99/HTWind/compare/91cd77ef640a24f4957ab532a31616fe27281d35...fbdbbeb983be759b67f2f63aaecb89ad7e374dfa)** _(Nov 23, 2026)_
@@ -373,15 +374,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [omergulcicek/gitscout](https://github.com/omergulcicek/gitscout)** _(Nov 25, 2026)_
 - **Starred [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)** _(Nov 20, 2026)_
 - **Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)** _(Nov 19, 2026)_
 - **Starred [UCSLabs/mailcraft](https://github.com/UCSLabs/mailcraft)** _(Nov 19, 2026)_
 - **Starred [gotify/cli](https://github.com/gotify/cli)** _(Nov 19, 2026)_
-- **Starred [Status-Labs/boxcar](https://github.com/Status-Labs/boxcar)** _(Nov 19, 2026)_
 
 <details>
-  <summary>Show 46 more starred repositories...</summary>
+  <summary>Show 47 more starred repositories...</summary>
 
+- **Starred [Status-Labs/boxcar](https://github.com/Status-Labs/boxcar)** _(Nov 19, 2026)_
 - **Starred [LoopyLuci/VM-Harness](https://github.com/LoopyLuci/VM-Harness)** _(Nov 19, 2026)_
 - **Starred [VannsanNin/angkor-displayctl](https://github.com/VannsanNin/angkor-displayctl)** _(Nov 19, 2026)_
 - **Starred [synle/display-dj](https://github.com/synle/display-dj)** _(Nov 19, 2026)_
