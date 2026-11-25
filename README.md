@@ -30,7 +30,7 @@
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple…   | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 24, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 25, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an…   | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific…   | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro…   | TypeScript |   ★ 3 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
@@ -126,15 +126,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------: | :----: |
+| [**v1.3.15**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.15) — LibRedirect Mobile v1.3.15 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
 | [**v1.3.14**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.14) — LibRedirect Mobile v1.3.14 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 24, 2026 | Stable |
 | [**v1.0.5**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.5) — v1.0.5                                | [repotruck](https://github.com/sametcn99/repotruck)                   | Nov 24, 2026 | Stable |
 | [**v0.3.2**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.2) — HTWind v0.3.2                            | [HTWind](https://github.com/sametcn99/HTWind)                         | Nov 23, 2026 | Stable |
 | [**v1.0.4**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.4) — v1.0.4                                | [repotruck](https://github.com/sametcn99/repotruck)                   | Nov 21, 2026 | Stable |
-| [**v1.0.3**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.3) — v1.0.3                                | [repotruck](https://github.com/sametcn99/repotruck)                   | Nov 21, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.0.3**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.3) — v1.0.3 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.2**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.2) — v1.0.2 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.1**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.1) — v1.0.1 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.0) — v1.0.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 20, 2026)_
@@ -149,7 +150,6 @@ Recent releases across my repositories:
 - [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.3**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.3) — v0.1.3 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.2**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.2) — v0.1.2 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
-- [**v0.1.1**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.1) — v0.1.1 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 
 </details>
 
@@ -159,15 +159,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: release 1.3.14 (versionCode 23)](https://github.com/sametcn99/libredirect-mobile/commit/5e77b168138d14fbdb20ee5eddd61978bf58eebb)** _(Nov 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge screenshot gallery into main](https://github.com/sametcn99/ArcDrop/commit/1127137f30bd425ef676338b2c5293bddc816b48)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Keep the Compose web address outside the dynamic IP pool](https://github.com/sametcn99/ArcDrop/commit/a0cc9dc091fb94fb7d6d940a2211d832fc639730)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Merge pull request #21 from sametcn99/fix/acceptance-async-boundaries...](https://github.com/sametcn99/repotruck/commit/6fd271dfa855aff00f013241da0da0292a0b73d3)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [test: host Fluent dialogs on the application dispatcher with theme re...](https://github.com/sametcn99/HTWind/commit/1798af7cb3c49793603538d7a7cbeadd2a618918)** _(Nov 23, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Merge pull request #20 from sametcn99/dependabot/github_actions/actio...](https://github.com/sametcn99/repotruck/commit/3f3c1f9bae2a487cf82e3804956da551a25e7451)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [test: stabilize loading and Windows launch checks](https://github.com/sametcn99/repotruck/commit/94bddd11df219b25fe787a4bd852409fdea567c3)** _(Nov 24, 2026)_
 
 <details>
-  <summary>Show 150 more pushes...</summary>
+  <summary>Show 152 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [bf1baf5...3f3c1f9](https://github.com/sametcn99/repotruck/compare/bf1baf52ab3fda97671a8836fc0900230ff94c70...3f3c1f9bae2a487cf82e3804956da551a25e7451)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [55440f7...94bddd1](https://github.com/sametcn99/repotruck/compare/55440f70820c6a9a30bb2add8d34893df0ddfaa4...94bddd11df219b25fe787a4bd852409fdea567c3)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [76ee57f...bf1baf5](https://github.com/sametcn99/repotruck/compare/76ee57fb219413e6263720053021e93725bbecfc...bf1baf52ab3fda97671a8836fc0900230ff94c70)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [fbdbbeb...e106165](https://github.com/sametcn99/HTWind/compare/fbdbbeb983be759b67f2f63aaecb89ad7e374dfa...e1061654e5a47022a993f123e2510ab42b2d0296)** _(Nov 23, 2026)_
 - **Pushed to &#x60;dependabot/github_actions/actions-1ea542e15f&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [5c03bfa...0c81cd5](https://github.com/sametcn99/repotruck/compare/5c03bfa3cf23991fc55dbb7d7e54a3a1ee110cc8...0c81cd53ced3b9993d68dd8a3bb0dd274f90998a)** _(Nov 24, 2026)_
@@ -374,15 +376,17 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [snap24/notification-vault](https://github.com/snap24/notification-vault)** _(Nov 25, 2026)_
+- **Starred [konstaui/konsta](https://github.com/konstaui/konsta)** _(Nov 25, 2026)_
 - **Starred [omergulcicek/gitscout](https://github.com/omergulcicek/gitscout)** _(Nov 25, 2026)_
 - **Starred [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)** _(Nov 20, 2026)_
 - **Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)** _(Nov 19, 2026)_
-- **Starred [UCSLabs/mailcraft](https://github.com/UCSLabs/mailcraft)** _(Nov 19, 2026)_
-- **Starred [gotify/cli](https://github.com/gotify/cli)** _(Nov 19, 2026)_
 
 <details>
-  <summary>Show 47 more starred repositories...</summary>
+  <summary>Show 49 more starred repositories...</summary>
 
+- **Starred [UCSLabs/mailcraft](https://github.com/UCSLabs/mailcraft)** _(Nov 19, 2026)_
+- **Starred [gotify/cli](https://github.com/gotify/cli)** _(Nov 19, 2026)_
 - **Starred [Status-Labs/boxcar](https://github.com/Status-Labs/boxcar)** _(Nov 19, 2026)_
 - **Starred [LoopyLuci/VM-Harness](https://github.com/LoopyLuci/VM-Harness)** _(Nov 19, 2026)_
 - **Starred [VannsanNin/angkor-displayctl](https://github.com/VannsanNin/angkor-displayctl)** _(Nov 19, 2026)_
