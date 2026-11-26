@@ -59,7 +59,7 @@ class Application {
       outputPath: config?.outputPath ?? "README.md",
     }
 
-    this.githubProvider = new GitHubDataProvider(this.config.username, token)
+    this.githubProvider = new GitHubDataProvider(this.config.username, token, process.env.STARGAZERS_TOKEN)
     this.feedService = new FeedService(this.config.feedUrl)
   }
 
@@ -75,12 +75,12 @@ class Application {
     const pullRequestsPromise = this.githubProvider.fetchPullRequests(reposDataPromise)
     const userProfilePromise = this.githubProvider.fetchProfile()
     const workflowPromise = this.githubProvider.fetchWorkflow()
-    const stargazersPromise = this.githubProvider.fetchStargazers(reposDataPromise)
+    const starsAndForksPromise = this.githubProvider.fetchStarsAndForks(reposDataPromise)
     const releasesPromise = this.githubProvider.fetchReleases(reposDataPromise)
 
     const userStatsPromise = this.githubProvider.fetchUserStats(reposDataPromise, userProfilePromise)
 
-    const [recentPosts, reposData, eventsData, openIssues, pullRequests, userProfile, workflowData, userStats, stargazers, releases] =
+    const [recentPosts, reposData, eventsData, openIssues, pullRequests, userProfile, workflowData, userStats, starsAndForks, releases] =
       await Promise.all([
         recentPostsPromise,
         reposDataPromise,
@@ -90,7 +90,7 @@ class Application {
         userProfilePromise,
         workflowPromise,
         userStatsPromise,
-        stargazersPromise,
+        starsAndForksPromise,
         releasesPromise,
       ])
 
@@ -118,7 +118,7 @@ class Application {
       pullRequests: DataFormatter.preparePullRequestsData(pullRequests),
       stats: userStats,
       repos: DataFormatter.prepareRepoData(reposData, HIGHLIGHT_REPOSITORY_NAMES),
-      stargazers: DataFormatter.prepareStargazersData(stargazers),
+      starsAndForks: DataFormatter.prepareStarsAndForksData(starsAndForks),
       releases: DataFormatter.prepareReleasesData(releases),
       workflow,
       generatedAt: new Date().toUTCString(),

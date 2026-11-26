@@ -24,7 +24,9 @@ type UserStats = {
 
 /** Repository payload returned by Octokit listForUser. */
 type Repository =
-	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number];
+	import("@octokit/rest").RestEndpointMethodTypes["repos"]["listForUser"]["response"]["data"][number] & {
+		parent?: { full_name: string } | null;
+	};
 
 /** Release payload returned when listing releases for a repo. */
 type GitHubRelease =
@@ -41,14 +43,14 @@ type Release = {
 	is_prerelease: boolean;
 };
 
-/** Stargazer shape returned when listing stargazers with star+json media type. */
-type Stargazer = {
+/** An incoming star or fork of one of the profile owner's repositories. */
+type StarOrFork = {
+	action: "starred" | "forked";
 	login: string;
-	avatar_url: string;
-	html_url: string;
-	starred_at: string | null;
-	repo_name: string;
-	repo_html_url: string;
+	userUrl: string;
+	repoName: string;
+	repoUrl: string;
+	date: string | null;
 };
 
 /** Activity payload returned when listing public events for a user. */

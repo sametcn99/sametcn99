@@ -12,6 +12,7 @@ export interface FormattedPost {
 /** Shape used by the template when rendering repository information. */
 export interface FormattedRepo {
 	name: string;
+	forkLabel: string;
 	html_url: string;
 	stargazers_count?: number;
 	language?: string | null;
@@ -19,16 +20,6 @@ export interface FormattedRepo {
 	dateStr: string;
 	updatedAt: string;
 	homepage?: string | null;
-}
-
-/** Shape used by the template when rendering stargazers. */
-export interface FormattedStargazer {
-	login: string;
-	avatar_url: string;
-	html_url: string;
-	starredAt: string;
-	repoName: string;
-	repoUrl: string;
 }
 
 /** Shape used by the template when rendering releases. */
@@ -327,28 +318,17 @@ export class DataFormatter {
 		};
 	}
 
-	/**
-	 * Splits stargazers into visible (latest 5) and remaining hidden for the template.
-	 */
-	static prepareStargazersData(stargazers: Stargazer[]): {
-		visible: FormattedStargazer[];
-		hidden: FormattedStargazer[];
-		length: number;
-	} {
-		const format = (entry: Stargazer): FormattedStargazer => ({
-			login: entry.login,
-			avatar_url: entry.avatar_url,
-			html_url: entry.html_url,
-			starredAt: entry.starred_at ? formatDateLong(entry.starred_at) : "",
-			repoName: entry.repo_name,
-			repoUrl: entry.repo_html_url,
-		});
+	/** Shares a single newest-first limit across stars and forks. */
+	static prepareStarsAndForksData(entries: StarOrFork[]) {
+		const recent = entries
+			.toSorted((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
+			.slice(0, 20)
+			.map((entry) => ({ ...entry, date: formatDateLong(entry.date) }));
 
-		const formatted = stargazers.map(format);
 		return {
-			visible: formatted.slice(0, 5),
-			hidden: formatted.slice(5),
-			length: formatted.length,
+			visible: recent.slice(0, 5),
+			hidden: recent.slice(5),
+			length: recent.length,
 		};
 	}
 
@@ -392,6 +372,7 @@ export class DataFormatter {
 
 		return {
 			name: repo.name,
+			forkLabel: repo.parent?.full_name ?? repo.full_name,
 			html_url: repo.html_url,
 			stargazers_count: repo.stargazers_count,
 			language: repo.language,

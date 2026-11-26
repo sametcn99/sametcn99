@@ -15,7 +15,7 @@ export class RepositoryFetcher implements IDataFetcher<Repository[]> {
 	async fetch(): Promise<Repository[]> {
 		const username = this.service.getUsername();
 		try {
-			const data = await this.octokit.paginate(
+			const data: Repository[] = await this.octokit.paginate(
 				this.octokit.rest.repos.listForUser,
 				{
 					username,
@@ -23,6 +23,23 @@ export class RepositoryFetcher implements IDataFetcher<Repository[]> {
 					type: "owner",
 				},
 			);
+
+			// The list endpoint omits the parent of a fork.
+			for (const repo of data) {
+				if (!repo.fork || repo.archived) continue;
+				try {
+					const { data: fork } = await this.octokit.rest.repos.get({
+						owner: repo.owner.login,
+						repo: repo.name,
+					});
+					repo.parent = fork.parent;
+				} catch (error) {
+					console.warn(
+						`Could not resolve the parent of ${repo.full_name}:`,
+						error,
+					);
+				}
+			}
 
 			return data.sort((a, b) => {
 				const starsA = a.stargazers_count ?? 0;

@@ -43,6 +43,7 @@ jobs:
         run: bun run start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STARGAZERS_TOKEN: ${{ secrets.STARGAZERS_TOKEN || secrets.FOLLOW_BACK_TOKEN }}
 
       - name: Format and lint
         run: |

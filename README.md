@@ -13,6 +13,7 @@
 - [Recent GitHub Activity](#recent-github-activity)
 - [Collaboration](#collaboration)
 - [More Repositories](#more-repositories)
+- [Recent Stars and Forks](#recent-stars-and-forks)
 
 </details>
 
@@ -556,17 +557,46 @@ Open issues and pull requests that I am currently tracking or planning to work o
 <details>
   <summary>Show 10 forked repositories...</summary>
 
-- [**server**](https://github.com/sametcn99/server) — Go · Updated Nov 21, 2026<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [**python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader) · Updated Jul 7, 2026<br />Query and download archive.org as simple as possible.
-- [**wvw.dev**](https://github.com/sametcn99/wvw.dev) — JavaScript · Updated May 24, 2026<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
+- [**gotify/server**](https://github.com/sametcn99/server) — Go · Updated Nov 21, 2026<br />A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [**bitdruid/python-wayback-machine-downloader**](https://github.com/sametcn99/python-wayback-machine-downloader) · Updated Jul 7, 2026<br />Query and download archive.org as simple as possible.
+- [**f/wvw.dev**](https://github.com/sametcn99/wvw.dev) — JavaScript · Updated May 24, 2026<br />World Vibe Web — The distributed app store for vibe-coded projects. Aggregates apps from multiple GitHub repos.
 
-- [**instances**](https://github.com/sametcn99/instances) · Updated May 6, 2026<br />Automated instances list for LibRedirect
-- [**vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) — JavaScript · Updated Feb 23, 2026<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
-- [**crono-event**](https://github.com/sametcn99/crono-event) · Updated Feb 7, 2026<br />This program is a timer for events and activities that allows you to set the time and set alarms.
-- [**letterboxd-api**](https://github.com/sametcn99/letterboxd-api) — Python · Updated Feb 2, 2026<br />An API to expose scraped Letterboxd data
-- [**nestlens**](https://github.com/sametcn99/nestlens) — TypeScript · Updated Jan 25, 2026<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
-- [**RepoHub**](https://github.com/sametcn99/RepoHub) — TypeScript · Updated Dec 5, 2025<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
-- [**Letterboxd-to-IMDb**](https://github.com/sametcn99/Letterboxd-to-IMDb) — Python · Updated Jun 28, 2025<br />Import your Letterboxd ratings into IMDb
+- [**libredirect/instances**](https://github.com/sametcn99/instances) · Updated May 6, 2026<br />Automated instances list for LibRedirect
+- [**belikellwyd/vitepress-image-viewer**](https://github.com/sametcn99/vitepress-image-viewer) — JavaScript · Updated Feb 23, 2026<br />VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.
+- [**alexander4096/crono-event**](https://github.com/sametcn99/crono-event) · Updated Feb 7, 2026<br />This program is a timer for events and activities that allows you to set the time and set alarms.
+- [**LetterBoxd-Stats/letterboxd-api**](https://github.com/sametcn99/letterboxd-api) — Python · Updated Feb 2, 2026<br />An API to expose scraped Letterboxd data
+- [**mogretici/nestlens**](https://github.com/sametcn99/nestlens) — TypeScript · Updated Jan 25, 2026<br />Laravel Telescope-inspired debugging and monitoring for NestJS. Track requests, queries, exceptions, jobs, and 14 more watchers with a beautiful real-time dashboard.
+- [**yusufipk/RepoHub**](https://github.com/sametcn99/RepoHub) — TypeScript · Updated Dec 5, 2025<br />RepoHub provides a unified interface for package discovery and installation across different operating systems.
+- [**TobiasPankner/Letterboxd-to-IMDb**](https://github.com/sametcn99/Letterboxd-to-IMDb) — Python · Updated Jun 28, 2025<br />Import your Letterboxd ratings into IMDb
+
+</details>
+
+## Recent Stars and Forks
+
+- **[@maelchiotti](https://github.com/maelchiotti)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 26, 2026)_
+- **[@oldman20](https://github.com/oldman20)** starred **[libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Nov 26, 2026)_
+- **[@Petr-Kozlov](https://github.com/Petr-Kozlov)** forked **[tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Nov 20, 2026)_
+- **[@nmendozas](https://github.com/nmendozas)** forked **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Nov 20, 2026)_
+- **[@ussrlongbow](https://github.com/ussrlongbow)** starred **[booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Nov 18, 2026)_
+
+<details>
+  <summary>Show 15 more stars and forks...</summary>
+
+- **[@shirokuma-xv](https://github.com/shirokuma-xv)** starred **[env-protector](https://github.com/sametcn99/env-protector)** _(Nov 17, 2026)_
+- **[@anvarmehrani](https://github.com/anvarmehrani)** starred **[linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Nov 15, 2026)_
+- **[@Hill-TreX](https://github.com/Hill-TreX)** starred **[tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Nov 15, 2026)_
+- **[@aviangray](https://github.com/aviangray)** starred **[linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Nov 14, 2026)_
+- **[@The-LukeZ](https://github.com/The-LukeZ)** starred **[env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
+- **[@eleanorbowley3-art](https://github.com/eleanorbowley3-art)** starred **[reddit-rss-api](https://github.com/sametcn99/reddit-rss-api)** _(Nov 13, 2026)_
+- **[@kiding](https://github.com/kiding)** starred **[reddit-rss-api](https://github.com/sametcn99/reddit-rss-api)** _(Nov 12, 2026)_
+- **[@Mr-Dazmo](https://github.com/Mr-Dazmo)** starred **[repotruck](https://github.com/sametcn99/repotruck)** _(Nov 12, 2026)_
+- **[@sametcn99](https://github.com/sametcn99)** starred **[rcptx](https://github.com/sametcn99/rcptx)** _(Nov 12, 2026)_
+- **[@sametcn99](https://github.com/sametcn99)** starred **[tcptui](https://github.com/sametcn99/tcptui)** _(Nov 12, 2026)_
+- **[@rezamahrm100-ops](https://github.com/rezamahrm100-ops)** forked **[tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Nov 9, 2026)_
+- **[@PawelBalcerek](https://github.com/PawelBalcerek)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 6, 2026)_
+- **[@nikescar](https://github.com/nikescar)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 4, 2026)_
+- **[@YarikMix](https://github.com/YarikMix)** forked **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 2, 2026)_
+- **[@Cringe-Driven-Development-Team](https://github.com/Cringe-Driven-Development-Team)** forked **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 2, 2026)_
 
 </details>
 

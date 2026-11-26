@@ -25,8 +25,8 @@
 {{#if (or repos.forked.length repos.archived.length)}}
 - [More Repositories](#more-repositories)
 {{/if}}
-{{#if stargazers.length}}
-- [Recent Stargazers](#recent-stargazers)
+{{#if starsAndForks.length}}
+- [Recent Stars and Forks](#recent-stars-and-forks)
 {{/if}}
 
 </details>
@@ -250,12 +250,12 @@ Open issues and pull requests that I am currently tracking or planning to work o
   <summary>Show {{repos.forked.length}} forked repositories...</summary>
 
 {{#each repos.forked.visible}}
-- [**{{name}}**]({{html_url}}){{#if language}} — {{language}}{{/if}}{{#if stargazers_count}} · ★{{stargazers_count}}{{/if}}{{#if updatedAt}} · Updated {{updatedAt}}{{/if}}<br />{{description}}
+- [**{{forkLabel}}**]({{html_url}}){{#if language}} — {{language}}{{/if}}{{#if stargazers_count}} · ★{{stargazers_count}}{{/if}}{{#if updatedAt}} · Updated {{updatedAt}}{{/if}}<br />{{description}}
 {{/each}}
 {{#if repos.forked.hidden.length}}
 
 {{#each repos.forked.hidden}}
-- [**{{name}}**]({{html_url}}){{#if language}} — {{language}}{{/if}}{{#if stargazers_count}} · ★{{stargazers_count}}{{/if}}{{#if updatedAt}} · Updated {{updatedAt}}{{/if}}<br />{{description}}
+- [**{{forkLabel}}**]({{html_url}}){{#if language}} — {{language}}{{/if}}{{#if stargazers_count}} · ★{{stargazers_count}}{{/if}}{{#if updatedAt}} · Updated {{updatedAt}}{{/if}}<br />{{description}}
 {{/each}}
 {{/if}}
 </details>
@@ -280,21 +280,19 @@ Open issues and pull requests that I am currently tracking or planning to work o
 {{/if}}
 {{/if}}
 
-{{#if stargazers.length}}
-## Recent Stargazers
+{{#if starsAndForks.length}}
+## Recent Stars and Forks
 
-Thanks to everyone who has starred my repositories. Here are the most recent supporters:
-
-{{#each stargazers.visible}}
-- **[@{{login}}]({{html_url}})** starred **[{{repoName}}]({{repoUrl}})** {{#if starredAt}}*({{starredAt}})*{{/if}}
+{{#each starsAndForks.visible}}
+- **[@{{login}}]({{userUrl}})** {{action}} **[{{repoName}}]({{repoUrl}})**{{#if date}} *({{date}})*{{/if}}
 {{/each}}
 
-{{#if stargazers.hidden.length}}
+{{#if starsAndForks.hidden.length}}
 <details>
-  <summary>Show {{stargazers.hidden.length}} more stargazers...</summary>
+  <summary>Show {{starsAndForks.hidden.length}} more stars and forks...</summary>
 
-{{#each stargazers.hidden}}
-- **[@{{login}}]({{html_url}})** starred **[{{repoName}}]({{repoUrl}})** {{#if starredAt}}*({{starredAt}})*{{/if}}
+{{#each starsAndForks.hidden}}
+- **[@{{login}}]({{userUrl}})** {{action}} **[{{repoName}}]({{repoUrl}})**{{#if date}} *({{date}})*{{/if}}
 {{/each}}
 </details>
 {{/if}}

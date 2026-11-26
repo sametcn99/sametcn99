@@ -1,5 +1,6 @@
 import { Octokit } from "@octokit/rest";
 import { EventFetcher } from "./EventFetcher";
+import { ForkFetcher } from "./ForkFetcher";
 import { GitHubService } from "./GitHubService";
 import { OpenIssueFetcher } from "./OpenIssueFetcher";
 import { ProfileFetcher } from "./ProfileFetcher";
@@ -14,13 +15,17 @@ import { WorkflowFetcher } from "./WorkflowFetcher";
 export class GitHubDataProvider {
 	private readonly octokit: Octokit;
 	private readonly service: GitHubService;
+	private readonly stargazerClient: Octokit;
 
 	/**
 	 * Initializes the shared Octokit client and GitHub service helpers.
 	 */
-	constructor(username: string, token?: string) {
+	constructor(username: string, token?: string, stargazersToken?: string) {
 		this.service = new GitHubService(username, token);
 		this.octokit = new Octokit({ auth: token });
+		this.stargazerClient = stargazersToken
+			? new Octokit({ auth: stargazersToken })
+			: this.octokit;
 	}
 
 	/** Returns the owner's repositories sorted by stargazers+activity. */
@@ -63,12 +68,15 @@ export class GitHubDataProvider {
 		return fetcher.fetch();
 	}
 
-	/** Fetches unique stargazers across owned repos, sorted by most recent. */
-	async fetchStargazers(
+	/** Returns incoming stars and forks for the same set of public repositories. */
+	async fetchStarsAndForks(
 		reposData: Promise<Repository[]>,
-	): Promise<Stargazer[]> {
-		const fetcher = new StargazerFetcher(this.octokit, reposData);
-		return fetcher.fetch();
+	): Promise<StarOrFork[]> {
+		const [stars, forks] = await Promise.all([
+			new StargazerFetcher(this.stargazerClient, reposData).fetch(),
+			new ForkFetcher(this.octokit, reposData).fetch(),
+		]);
+		return [...stars, ...forks];
 	}
 
 	/** Fetches releases across owned repos, sorted by most recent. */

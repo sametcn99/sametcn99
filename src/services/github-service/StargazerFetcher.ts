@@ -1,24 +1,19 @@
 import type { Octokit } from "@octokit/rest";
 
-/** Retrieves unique stargazers across owned repositories, deduplicated and sorted by recency. */
-export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
+/** Retrieves unique stargazers across owned repositories, deduplicated by user and repository. */
+export class StargazerFetcher implements IDataFetcher<StarOrFork[]> {
 	constructor(
 		private readonly octokit: Octokit,
 		private readonly reposPromise: Promise<Repository[]>,
 	) {}
 
-	async fetch(): Promise<Stargazer[]> {
+	async fetch(): Promise<StarOrFork[]> {
 		const repos = await this.reposPromise;
 
-		const stargazersByCompositeKey = new Map<string, Stargazer>();
-		let hasStargazerAccess = true;
+		const stargazersByCompositeKey = new Map<string, StarOrFork>();
 
 		for (const repo of repos) {
-			if (!hasStargazerAccess) {
-				break;
-			}
-
-			if ((repo.stargazers_count ?? 0) === 0) {
+			if (repo.private || (repo.stargazers_count ?? 0) === 0) {
 				continue;
 			}
 
@@ -30,7 +25,7 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 						repo: repo.name,
 						per_page: 100,
 						headers: {
-							accept: "application/vnd.github.v3.star+json",
+							accept: "application/vnd.github.star+json",
 						},
 					},
 				);
@@ -48,8 +43,8 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 					const existing = stargazersByCompositeKey.get(compositeKey);
 
 					if (existing) {
-						const existingDate = existing.starred_at
-							? new Date(existing.starred_at).getTime()
+						const existingDate = existing.date
+							? new Date(existing.date).getTime()
 							: 0;
 						const newDate = starredAt ? new Date(starredAt).getTime() : 0;
 						if (newDate <= existingDate) {
@@ -58,48 +53,22 @@ export class StargazerFetcher implements IDataFetcher<Stargazer[]> {
 					}
 
 					stargazersByCompositeKey.set(compositeKey, {
+						action: "starred",
 						login: user.login,
-						avatar_url: user.avatar_url,
-						html_url: user.html_url,
-						starred_at: starredAt,
-						repo_name: repo.name,
-						repo_html_url: repo.html_url,
+						userUrl: user.html_url,
+						date: starredAt,
+						repoName: repo.name,
+						repoUrl: repo.html_url,
 					});
 				}
 			} catch (error) {
-				const status =
-					typeof error === "object" && error !== null && "status" in error
-						? Number((error as { status?: unknown }).status)
-						: null;
-				const message =
-					typeof error === "object" && error !== null && "message" in error
-						? String((error as { message?: unknown }).message)
-						: "";
-
-				if (
-					status === 403 &&
-					/message.*stargazers|resource not accessible/i.test(message)
-				) {
-					hasStargazerAccess = false;
-					console.warn(
-						"Skipping recent stargazers: token does not have permission to list stargazers for this integration.",
-					);
-					continue;
-				}
-
-				console.error(
-					`Failed to fetch stargazers for ${repo.full_name}:`,
-					error,
+				throw new Error(
+					`Could not read stargazers for ${repo.full_name}. Check STARGAZERS_TOKEN access to this repository.`,
+					{ cause: error },
 				);
 			}
 		}
 
-		return Array.from(stargazersByCompositeKey.values())
-			.sort((a, b) => {
-				const dateA = a.starred_at ? new Date(a.starred_at).getTime() : 0;
-				const dateB = b.starred_at ? new Date(b.starred_at).getTime() : 0;
-				return dateB - dateA;
-			})
-			.slice(0, 20);
+		return Array.from(stargazersByCompositeKey.values());
 	}
 }
