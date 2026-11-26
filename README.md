@@ -30,7 +30,7 @@
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
 | [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple…   | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
-| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 3 | Nov 25, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
+| [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 4 | Nov 25, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an…   | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific…   | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro…   | TypeScript |   ★ 3 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
@@ -110,10 +110,10 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 238                                     |
-| **Commits (7d)**          | 70+                                     |
-| **Total Repositories**    | 84                                      |
-| **Active Repositories**   | 74                                      |
+| **Total Stars Earned**    | 239                                     |
+| **Commits (7d)**          | 80+                                     |
+| **Total Repositories**    | 85                                      |
+| **Active Repositories**   | 75                                      |
 | **Forked Repositories**   | 10                                      |
 | **Archived Repositories** | 0                                       |
 | **Total Gists**           | [56](https://gist.github.com/sametcn99) |
@@ -389,7 +389,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [snap24/notification-vault](https://github.com/snap24/notification-vault)** _(Nov 25, 2026)_
 
 <details>
-  <summary>Show 53 more starred repositories...</summary>
+  <summary>Show 52 more starred repositories...</summary>
 
 - **Starred [konstaui/konsta](https://github.com/konstaui/konsta)** _(Nov 25, 2026)_
 - **Starred [omergulcicek/gitscout](https://github.com/omergulcicek/gitscout)** _(Nov 25, 2026)_
@@ -443,21 +443,21 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)** _(Oct 27, 2026)_
 - **Starred [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker)** _(Oct 27, 2026)_
 - **Starred [orkunisitmak/banana-studio](https://github.com/orkunisitmak/banana-studio)** _(Oct 27, 2026)_
-- **Starred [novuhq/novu](https://github.com/novuhq/novu)** _(Oct 26, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Public in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts)** _(Nov 26, 2026)_
 - **Opened issue [#64](https://github.com/mobilenetworkltd/openapk/issues/64) in [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
 - **Created branch &#x60;fix/acceptance-async-boundaries-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 - **Created branch &#x60;fix/complete-artifact-acceptance-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 - **Created branch &#x60;fix/cache-persistence-await-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Created branch &#x60;fix/issue-9-launcher-widget-removal&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 
 <details>
-  <summary>Show 24 more other activity...</summary>
+  <summary>Show 25 more other activity...</summary>
 
+- **Created branch &#x60;fix/issue-9-launcher-widget-removal&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/HTWind/issues/8) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#9](https://github.com/sametcn99/HTWind/issues/9) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Deleted branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
