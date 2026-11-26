@@ -159,15 +159,19 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(android): implement routing and privacy roadmap](https://github.com/sametcn99/libredirect-mobile/commit/6f9c60a80e1a1c042b77b6b70dd0fd868cda7f41)** _(Nov 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Capture complete extension flows and start the iOS simulator](https://github.com/sametcn99/ArcDrop/commit/bef5a6e1e046c1cd4ec639c6456175b46762d56a)** _(Nov 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Verify screenshot journeys and repair native startup and sessions](https://github.com/sametcn99/ArcDrop/commit/f0bffd2520b09fe0e9536ea86927dbf4cb5b8b99)** _(Nov 24, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Add on-demand cross-platform screenshot gallery](https://github.com/sametcn99/ArcDrop/commit/7a46b089ca35c9b0f946c83cc16d76bb0ac9cbf9)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ci: explicitly enable Android emulator software CPU mode](https://github.com/sametcn99/libredirect-mobile/commit/50e9cbc07c3d0e9ac68e0d6824a343bfcf74358b)** _(Nov 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ci: stabilize Android 17 emulator startup](https://github.com/sametcn99/libredirect-mobile/commit/a4df6741adbac1dd1b0a7c10b3db6dfd009a60d7)** _(Nov 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [release: support Android 17 in 1.3.16](https://github.com/sametcn99/libredirect-mobile/commit/e71a09300193c4bea59bdc7ab03da6cc7a672a7e)** _(Nov 25, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: release 1.3.14 (versionCode 23)](https://github.com/sametcn99/libredirect-mobile/commit/5e77b168138d14fbdb20ee5eddd61978bf58eebb)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge screenshot gallery into main](https://github.com/sametcn99/ArcDrop/commit/1127137f30bd425ef676338b2c5293bddc816b48)** _(Nov 24, 2026)_
 
 <details>
-  <summary>Show 154 more pushes...</summary>
+  <summary>Show 158 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [e71a093...a4df674](https://github.com/sametcn99/libredirect-mobile/compare/e71a09300193c4bea59bdc7ab03da6cc7a672a7e...a4df6741adbac1dd1b0a7c10b3db6dfd009a60d7)** _(Nov 25, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [20a0602...e71a093](https://github.com/sametcn99/libredirect-mobile/compare/20a0602dc1514d8288d3225652bca61b3df16e52...e71a09300193c4bea59bdc7ab03da6cc7a672a7e)** _(Nov 25, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [6f9c60a...5e77b16](https://github.com/sametcn99/libredirect-mobile/compare/6f9c60a80e1a1c042b77b6b70dd0fd868cda7f41...5e77b168138d14fbdb20ee5eddd61978bf58eebb)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [bef5a6e...1127137](https://github.com/sametcn99/ArcDrop/compare/bef5a6e1e046c1cd4ec639c6456175b46762d56a...1127137f30bd425ef676338b2c5293bddc816b48)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [10098b9...a0cc9dc](https://github.com/sametcn99/ArcDrop/compare/10098b9f4f8b5b352f825a4a374eb528855ba355...a0cc9dc091fb94fb7d6d940a2211d832fc639730)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [3f3c1f9...6fd271d](https://github.com/sametcn99/repotruck/compare/3f3c1f9bae2a487cf82e3804956da551a25e7451...6fd271dfa855aff00f013241da0da0292a0b73d3)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [bf58689...1798af7](https://github.com/sametcn99/HTWind/compare/bf5868916b110150df276654b6378432543492bc...1798af7cb3c49793603538d7a7cbeadd2a618918)** _(Nov 23, 2026)_
@@ -378,15 +382,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [buckket/twtxt](https://github.com/buckket/twtxt)** _(Nov 26, 2026)_
 - **Starred [lin-snow/Ech0](https://github.com/lin-snow/Ech0)** _(Nov 26, 2026)_
 - **Starred [Extenshi-io/extenshi-io](https://github.com/Extenshi-io/extenshi-io)** _(Nov 25, 2026)_
 - **Starred [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
 - **Starred [snap24/notification-vault](https://github.com/snap24/notification-vault)** _(Nov 25, 2026)_
-- **Starred [konstaui/konsta](https://github.com/konstaui/konsta)** _(Nov 25, 2026)_
 
 <details>
-  <summary>Show 52 more starred repositories...</summary>
+  <summary>Show 53 more starred repositories...</summary>
 
+- **Starred [konstaui/konsta](https://github.com/konstaui/konsta)** _(Nov 25, 2026)_
 - **Starred [omergulcicek/gitscout](https://github.com/omergulcicek/gitscout)** _(Nov 25, 2026)_
 - **Starred [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)** _(Nov 20, 2026)_
 - **Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)** _(Nov 19, 2026)_
