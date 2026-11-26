@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 238                                     |
-| **Commits (7d)**          | 80+                                     |
+| **Commits (7d)**          | 70+                                     |
 | **Total Repositories**    | 84                                      |
 | **Active Repositories**   | 74                                      |
 | **Forked Repositories**   | 10                                      |
@@ -126,15 +126,17 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------: | :----: |
+| [**v1.3.17**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.17) — LibRedirect Mobile v1.3.17 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
+| [**v1.3.16**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.16) — LibRedirect Mobile v1.3.16 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
 | [**v1.3.15**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.15) — LibRedirect Mobile v1.3.15 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
 | [**v1.3.14**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.14) — LibRedirect Mobile v1.3.14 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 24, 2026 | Stable |
 | [**v1.0.5**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.5) — v1.0.5                                | [repotruck](https://github.com/sametcn99/repotruck)                   | Nov 24, 2026 | Stable |
-| [**v0.3.2**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.2) — HTWind v0.3.2                            | [HTWind](https://github.com/sametcn99/HTWind)                         | Nov 23, 2026 | Stable |
-| [**v1.0.4**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.4) — v1.0.4                                | [repotruck](https://github.com/sametcn99/repotruck)                   | Nov 21, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.3.2**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.2) — HTWind v0.3.2 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 23, 2026)_
+- [**v1.0.4**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.4) — v1.0.4 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.3**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.3) — v1.0.3 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.2**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.2) — v1.0.2 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.1**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.1) — v1.0.1 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
@@ -148,8 +150,6 @@ Recent releases across my repositories:
 - [**v0.3.0**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.0) — HTWind v0.3.0 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 11, 2026)_
 - [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 - [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
-- [**v0.1.3**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.3) — v0.1.3 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
-- [**v0.1.2**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.2) — v0.1.2 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 
 </details>
 
@@ -159,15 +159,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ci: explicitly enable Android emulator software CPU mode](https://github.com/sametcn99/libredirect-mobile/commit/50e9cbc07c3d0e9ac68e0d6824a343bfcf74358b)** _(Nov 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ci: stabilize Android 17 emulator startup](https://github.com/sametcn99/libredirect-mobile/commit/a4df6741adbac1dd1b0a7c10b3db6dfd009a60d7)** _(Nov 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [release: support Android 17 in 1.3.16](https://github.com/sametcn99/libredirect-mobile/commit/e71a09300193c4bea59bdc7ab03da6cc7a672a7e)** _(Nov 25, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [chore: release 1.3.14 (versionCode 23)](https://github.com/sametcn99/libredirect-mobile/commit/5e77b168138d14fbdb20ee5eddd61978bf58eebb)** _(Nov 24, 2026)_
 - **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Merge screenshot gallery into main](https://github.com/sametcn99/ArcDrop/commit/1127137f30bd425ef676338b2c5293bddc816b48)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Keep the Compose web address outside the dynamic IP pool](https://github.com/sametcn99/ArcDrop/commit/a0cc9dc091fb94fb7d6d940a2211d832fc639730)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Merge pull request #21 from sametcn99/fix/acceptance-async-boundaries...](https://github.com/sametcn99/repotruck/commit/6fd271dfa855aff00f013241da0da0292a0b73d3)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [test: host Fluent dialogs on the application dispatcher with theme re...](https://github.com/sametcn99/HTWind/commit/1798af7cb3c49793603538d7a7cbeadd2a618918)** _(Nov 23, 2026)_
 
 <details>
-  <summary>Show 152 more pushes...</summary>
+  <summary>Show 154 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [10098b9...a0cc9dc](https://github.com/sametcn99/ArcDrop/compare/10098b9f4f8b5b352f825a4a374eb528855ba355...a0cc9dc091fb94fb7d6d940a2211d832fc639730)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [3f3c1f9...6fd271d](https://github.com/sametcn99/repotruck/compare/3f3c1f9bae2a487cf82e3804956da551a25e7451...6fd271dfa855aff00f013241da0da0292a0b73d3)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind): [bf58689...1798af7](https://github.com/sametcn99/HTWind/compare/bf5868916b110150df276654b6378432543492bc...1798af7cb3c49793603538d7a7cbeadd2a618918)** _(Nov 23, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [bf1baf5...3f3c1f9](https://github.com/sametcn99/repotruck/compare/bf1baf52ab3fda97671a8836fc0900230ff94c70...3f3c1f9bae2a487cf82e3804956da551a25e7451)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [55440f7...94bddd1](https://github.com/sametcn99/repotruck/compare/55440f70820c6a9a30bb2add8d34893df0ddfaa4...94bddd11df219b25fe787a4bd852409fdea567c3)** _(Nov 24, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [76ee57f...bf1baf5](https://github.com/sametcn99/repotruck/compare/76ee57fb219413e6263720053021e93725bbecfc...bf1baf52ab3fda97671a8836fc0900230ff94c70)** _(Nov 24, 2026)_
@@ -319,7 +322,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f11f2c0...dcea424](https://github.com/sametcn99/libredirect-mobile/compare/f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8...dcea4247ee3f517e06ef510b633420d4f3958692)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [dcea424...558d4b0](https://github.com/sametcn99/libredirect-mobile/compare/dcea4247ee3f517e06ef510b633420d4f3958692...558d4b05d34a25571303c327f255a8b456e3dbd0)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [6dcf028...dd72616](https://github.com/sametcn99/libredirect-mobile/compare/6dcf0286fcfb94d6d0c986de8facf06563d18430...dd7261690bb6516ec908ff1b05be56740cd19890)** _(Nov 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/personal-website-blazor](https://github.com/sametcn99/personal-website-blazor): [d30377a...f04d97d](https://github.com/sametcn99/personal-website-blazor/compare/d30377a820e41fd49ef3131ad0a9c7a7b24c1021...f04d97dbe4d6cdb6f561b1de81b7131c7149b9f2)** _(Oct 31, 2026)_
 
 </details>
 
@@ -376,15 +378,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [lin-snow/Ech0](https://github.com/lin-snow/Ech0)** _(Nov 26, 2026)_
+- **Starred [Extenshi-io/extenshi-io](https://github.com/Extenshi-io/extenshi-io)** _(Nov 25, 2026)_
+- **Starred [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
 - **Starred [snap24/notification-vault](https://github.com/snap24/notification-vault)** _(Nov 25, 2026)_
 - **Starred [konstaui/konsta](https://github.com/konstaui/konsta)** _(Nov 25, 2026)_
+
+<details>
+  <summary>Show 52 more starred repositories...</summary>
+
 - **Starred [omergulcicek/gitscout](https://github.com/omergulcicek/gitscout)** _(Nov 25, 2026)_
 - **Starred [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)** _(Nov 20, 2026)_
 - **Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)** _(Nov 19, 2026)_
-
-<details>
-  <summary>Show 49 more starred repositories...</summary>
-
 - **Starred [UCSLabs/mailcraft](https://github.com/UCSLabs/mailcraft)** _(Nov 19, 2026)_
 - **Starred [gotify/cli](https://github.com/gotify/cli)** _(Nov 19, 2026)_
 - **Starred [Status-Labs/boxcar](https://github.com/Status-Labs/boxcar)** _(Nov 19, 2026)_
@@ -439,15 +444,16 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Other Activity
 
+- **Opened issue [#64](https://github.com/mobilenetworkltd/openapk/issues/64) in [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
 - **Created branch &#x60;fix/acceptance-async-boundaries-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 - **Created branch &#x60;fix/complete-artifact-acceptance-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 - **Created branch &#x60;fix/cache-persistence-await-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 - **Created branch &#x60;fix/issue-9-launcher-widget-removal&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
-- **Closed issue [#8](https://github.com/sametcn99/HTWind/issues/8) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 
 <details>
-  <summary>Show 23 more other activity...</summary>
+  <summary>Show 24 more other activity...</summary>
 
+- **Closed issue [#8](https://github.com/sametcn99/HTWind/issues/8) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#9](https://github.com/sametcn99/HTWind/issues/9) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Deleted branch &#x60;probe/bisect-3bbf544&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Created branch &#x60;probe/bisect-41d0b91&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
