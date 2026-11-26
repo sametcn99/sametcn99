@@ -111,7 +111,7 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
 | **Total Stars Earned**    | 239                                     |
-| **Commits (7d)**          | 90+                                     |
+| **Commits (7d)**          | 100+                                    |
 | **Total Repositories**    | 85                                      |
 | **Active Repositories**   | 75                                      |
 | **Forked Repositories**   | 10                                      |
@@ -126,15 +126,16 @@ Recent releases across my repositories:
 
 | Release                                                                                                          | Repository                                                            |  Published   | Status |
 | :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------: | :----: |
+| [**v0.1.0**](https://github.com/sametcn99/th0ughts/releases/tag/v0.1.0) — v0.1.0                                 | [th0ughts](https://github.com/sametcn99/th0ughts)                     | Nov 26, 2026 | Stable |
 | [**v1.3.17**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.17) — LibRedirect Mobile v1.3.17 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
 | [**v1.3.16**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.16) — LibRedirect Mobile v1.3.16 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
 | [**v1.3.15**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.15) — LibRedirect Mobile v1.3.15 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
 | [**v1.3.14**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.14) — LibRedirect Mobile v1.3.14 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 24, 2026 | Stable |
-| [**v1.0.5**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.5) — v1.0.5                                | [repotruck](https://github.com/sametcn99/repotruck)                   | Nov 24, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v1.0.5**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.5) — v1.0.5 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 24, 2026)_
 - [**v0.3.2**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.2) — HTWind v0.3.2 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 23, 2026)_
 - [**v1.0.4**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.4) — v1.0.4 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.3**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.3) — v1.0.3 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
@@ -149,7 +150,6 @@ Recent releases across my repositories:
 - [**v1.3.11**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.11) — LibRedirect Mobile v1.3.11 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 13, 2026)_
 - [**v0.3.0**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.0) — HTWind v0.3.0 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 11, 2026)_
 - [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
-- [**v0.1.4**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.4) — v0.1.4 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 
 </details>
 
@@ -382,15 +382,18 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Starred Repositories
 
+- **Starred [cberner/redb](https://github.com/cberner/redb)** _(Nov 26, 2026)_
+- **Starred [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io)** _(Nov 26, 2026)_
+- **Starred [LMDB/lmdb](https://github.com/LMDB/lmdb)** _(Nov 26, 2026)_
 - **Starred [buckket/twtxt](https://github.com/buckket/twtxt)** _(Nov 26, 2026)_
 - **Starred [lin-snow/Ech0](https://github.com/lin-snow/Ech0)** _(Nov 26, 2026)_
+
+<details>
+  <summary>Show 55 more starred repositories...</summary>
+
 - **Starred [Extenshi-io/extenshi-io](https://github.com/Extenshi-io/extenshi-io)** _(Nov 25, 2026)_
 - **Starred [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
 - **Starred [snap24/notification-vault](https://github.com/snap24/notification-vault)** _(Nov 25, 2026)_
-
-<details>
-  <summary>Show 52 more starred repositories...</summary>
-
 - **Starred [konstaui/konsta](https://github.com/konstaui/konsta)** _(Nov 25, 2026)_
 - **Starred [omergulcicek/gitscout](https://github.com/omergulcicek/gitscout)** _(Nov 25, 2026)_
 - **Starred [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)** _(Nov 20, 2026)_
