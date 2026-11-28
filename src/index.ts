@@ -59,7 +59,7 @@ class Application {
       outputPath: config?.outputPath ?? "README.md",
     }
 
-    this.githubProvider = new GitHubDataProvider(this.config.username, token, process.env.STARGAZERS_TOKEN)
+    this.githubProvider = new GitHubDataProvider(this.config.username, token)
     this.feedService = new FeedService(this.config.feedUrl)
   }
 

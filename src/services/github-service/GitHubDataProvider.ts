@@ -15,17 +15,13 @@ import { WorkflowFetcher } from "./WorkflowFetcher";
 export class GitHubDataProvider {
 	private readonly octokit: Octokit;
 	private readonly service: GitHubService;
-	private readonly stargazerClient: Octokit;
 
 	/**
 	 * Initializes the shared Octokit client and GitHub service helpers.
 	 */
-	constructor(username: string, token?: string, stargazersToken?: string) {
+	constructor(username: string, token?: string) {
 		this.service = new GitHubService(username, token);
 		this.octokit = new Octokit({ auth: token });
-		this.stargazerClient = stargazersToken
-			? new Octokit({ auth: stargazersToken })
-			: this.octokit;
 	}
 
 	/** Returns the owner's repositories sorted by stargazers+activity. */
@@ -73,7 +69,7 @@ export class GitHubDataProvider {
 		reposData: Promise<Repository[]>,
 	): Promise<StarOrFork[]> {
 		const [stars, forks] = await Promise.all([
-			new StargazerFetcher(this.stargazerClient, reposData).fetch(),
+			new StargazerFetcher(this.octokit, reposData).fetch(),
 			new ForkFetcher(this.octokit, reposData).fetch(),
 		]);
 		return [...stars, ...forks];
