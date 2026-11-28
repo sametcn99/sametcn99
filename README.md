@@ -160,15 +160,20 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
-- **Pushed 1 commit to &#x60;feat/cross-platform&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [docs: align the website and README with platform support](https://github.com/sametcn99/tcptui/commit/dcd37f7ab7983d6ac3019ab6ae9ab5b7967f5a3a)** _(Nov 26, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Deliver signed webhooks for guest comments and moderation](https://github.com/sametcn99/th0ughts/commit/8ce9d628e1bc64ecb86dd195880a223cea523311)** _(Nov 26, 2026)_
-- **Pushed 1 commit to &#x60;feat/cross-platform&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [test(ci): keep the controlling PTY open through restoration checks](https://github.com/sametcn99/tcptui/commit/0b87ac95e258335632ae0a8cfe2c3e15aab9df58)** _(Nov 26, 2026)_
-- **Pushed 1 commit to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [Run native release checks under the repository Actions policy](https://github.com/sametcn99/golter/commit/33d2e2ca31a0aa7c7d0ae7d2604783163913d07b)** _(Nov 26, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [Merge pull request #13 from sametcn99/fix/calendar-tag-hit-area](https://github.com/sametcn99/booking-calendar/commit/dfc4fb9f426ae0b0ab8d6a011e6bb8b9577594e8)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Add verified guest comments with threaded replies and owner moderation](https://github.com/sametcn99/th0ughts/commit/e72f84f82befcaea09f40f94e3cd2887ac782591)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Verify iOS Simulator architecture with Xcode lipo](https://github.com/sametcn99/ArcDrop/commit/32a3d33a633d60156584615b2c767a414e14cc72)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Verify packaged servers and simulators on hosted runners](https://github.com/sametcn99/ArcDrop/commit/94847e3af5bf502c20cfd9d2bbadc01305ebeaa5)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Build the native archive in Alpine and track its digest in Go](https://github.com/sametcn99/th0ughts/commit/071d5ea0dee34555e7bacd078cfae731e85352c5)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Exercise all storage engines through publishing and recovery](https://github.com/sametcn99/th0ughts/commit/096566258d274db26afc019da2b3e5dd97f9b9e6)** _(Nov 26, 2026)_
 
 <details>
-  <summary>Show 178 more pushes...</summary>
+  <summary>Show 179 more pushes...</summary>
 
+- **Pushed to &#x60;feat/cross-platform&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [0b87ac9...dcd37f7](https://github.com/sametcn99/tcptui/compare/0b87ac95e258335632ae0a8cfe2c3e15aab9df58...dcd37f7ab7983d6ac3019ab6ae9ab5b7967f5a3a)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [e72f84f...8ce9d62](https://github.com/sametcn99/th0ughts/compare/e72f84f82befcaea09f40f94e3cd2887ac782591...8ce9d628e1bc64ecb86dd195880a223cea523311)** _(Nov 26, 2026)_
+- **Pushed to &#x60;feat/cross-platform&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui): [ff00fb5...0b87ac9](https://github.com/sametcn99/tcptui/compare/ff00fb53a5d29233a4e01a87432ecfd74908fd0f...0b87ac95e258335632ae0a8cfe2c3e15aab9df58)** _(Nov 26, 2026)_
+- **Pushed to &#x60;master&#x60; in [sametcn99/golter](https://github.com/sametcn99/golter): [bbe39fb...33d2e2c](https://github.com/sametcn99/golter/compare/bbe39fba371e018ebcabbf8f98e590af1a07a39b...33d2e2ca31a0aa7c7d0ae7d2604783163913d07b)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar): [ca164b2...dfc4fb9](https://github.com/sametcn99/booking-calendar/compare/ca164b24f48c4ef31668506d2fc5b312c8beb6e0...dfc4fb9f426ae0b0ab8d6a011e6bb8b9577594e8)** _(Nov 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [0965662...3240ba6](https://github.com/sametcn99/th0ughts/compare/096566258d274db26afc019da2b3e5dd97f9b9e6...3240ba6958266f31ca280aae8dcab02324c27af3)** _(Nov 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [860a313...9d87523](https://github.com/sametcn99/th0ughts/compare/860a3137baf2dd2a5b31c6a5ebf7badd28484269...9d87523d9d6eafa022a5f847d92b3ad0ee2a35fc)** _(Nov 26, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [82eb8a6...860a313](https://github.com/sametcn99/th0ughts/compare/82eb8a6a5511feaedf74d42f80e9a2c8ce83adf9...860a3137baf2dd2a5b31c6a5ebf7badd28484269)** _(Nov 26, 2026)_
@@ -343,10 +348,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f61c4e7...6dcf028](https://github.com/sametcn99/libredirect-mobile/compare/f61c4e7a80231de510159cb1038bba0958cc653b...6dcf0286fcfb94d6d0c986de8facf06563d18430)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [8a25925...df7e98d](https://github.com/sametcn99/libredirect-mobile/compare/8a25925f04082fd2fb339f03ae3a808b5781f81a...df7e98d56250478a8c74a6981f2e18730ab1bec8)** _(Nov 2, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [558d4b0...8a25925](https://github.com/sametcn99/libredirect-mobile/compare/558d4b05d34a25571303c327f255a8b456e3dbd0...8a25925f04082fd2fb339f03ae3a808b5781f81a)** _(Nov 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f7ef174...f11f2c0](https://github.com/sametcn99/libredirect-mobile/compare/f7ef174895e701d95c8c62c7460d462eb84fb12f...f11f2c0cd52f167dc69a5a728b9bf0bdd92bf9e8)** _(Nov 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [3f68897...d30e11e](https://github.com/sametcn99/libredirect-mobile/compare/3f688978fe37a871f1947f0b225881a29c7a6861...d30e11ee730d0828ffb36680f71665234a001766)** _(Nov 2, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [f796dc9...3f68897](https://github.com/sametcn99/libredirect-mobile/compare/f796dc9c5d6970ad79a69978c382e795d4fd539d...3f688978fe37a871f1947f0b225881a29c7a6861)** _(Nov 1, 2026)_
-- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [38c2275...f7ef174](https://github.com/sametcn99/libredirect-mobile/compare/38c2275e8c3b58773a1aa283fe5214e21ae1f0b9...f7ef174895e701d95c8c62c7460d462eb84fb12f)** _(Nov 2, 2026)_
 
 </details>
 
@@ -418,7 +419,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [lin-snow/Ech0](https://github.com/lin-snow/Ech0)** _(Nov 26, 2026)_
 
 <details>
-  <summary>Show 28 more starred repositories...</summary>
+  <summary>Show 27 more starred repositories...</summary>
 
 - **Starred [Extenshi-io/extenshi-io](https://github.com/Extenshi-io/extenshi-io)** _(Nov 25, 2026)_
 - **Starred [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
@@ -447,7 +448,6 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)** _(Nov 6, 2026)_
 - **Starred [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT)** _(Nov 6, 2026)_
 - **Starred [libracoder/kiri](https://github.com/libracoder/kiri)** _(Nov 6, 2026)_
-- **Starred [Milvasoft/kabuk](https://github.com/Milvasoft/kabuk)** _(Nov 3, 2026)_
 
 </details>
 
