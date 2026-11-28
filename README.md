@@ -21,21 +21,21 @@
 
 | Repository                                                                                | Description                                                                                            |  Language  | Stars |   Updated    | Links                                                                                                                                    |
 | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :--------: | ----: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…    | TypeScript |  ★ 70 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
+| [**vitepress-mermaid-renderer**](https://github.com/sametcn99/vitepress-mermaid-renderer) | Transform your static Mermaid diagrams into interactive, dynamic visualizations in VitePress! This…    | TypeScript |  ★ 71 | Oct 24, 2026 | [Repo](https://github.com/sametcn99/vitepress-mermaid-renderer) · [Demo](https://vitepress-mermaid-renderer.vercel.app)                  |
 | [**env-protector**](https://github.com/sametcn99/env-protector)                           | Protect your secrets from being exposed                                                                | TypeScript |  ★ 17 | Nov 14, 2026 | [Repo](https://github.com/sametcn99/env-protector) · [Demo](https://marketplace.visualstudio.com/items?itemName=sametcn99.env-protector) |
 | [**my-stars-atlas**](https://github.com/sametcn99/my-stars-atlas)                         | A generated catalog of starred GitHub repositories, grouped into stable categories.                    | TypeScript |   ★ 6 | Sep 19, 2026 | [Repo](https://github.com/sametcn99/my-stars-atlas) · [Demo](https://sametcn99.github.io/my-stars-atlas/)                                |
-| [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 12 | Apr 4, 2026  | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
+| [**booking-calendar**](https://github.com/sametcn99/booking-calendar)                     | Booking Calendar is a self-hosted PWA designed for single-admin appointment management. It runs on…    | TypeScript |  ★ 12 | Nov 26, 2026 | [Repo](https://github.com/sametcn99/booking-calendar) · [Demo](https://booking-calendar-docs.vercel.app)                                 |
 | [**HTWind**](https://github.com/sametcn99/HTWind)                                         | the missing html based widget manager created with .net                                                |     C#     |  ★ 11 | Nov 23, 2026 | [Repo](https://github.com/sametcn99/HTWind) · [Demo](https://htwind.vercel.app)                                                          |
-| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 5 | Nov 24, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
+| [**repotruck**](https://github.com/sametcn99/repotruck)                                   | Clone and mirror your GitHub repositories into organized local directory layouts, with an AGENTS.md…   | TypeScript |   ★ 5 | Nov 27, 2026 | [Repo](https://github.com/sametcn99/repotruck) · [Demo](https://sametcn99.github.io/repotruck/)                                          |
 | [**mermaid-viewer**](https://github.com/sametcn99/mermaid-viewer)                         | A powerful, modern web application that transforms your ideas into stunning diagrams with live prev…   | TypeScript |  ★ 10 | Mar 30, 2026 | [Repo](https://github.com/sametcn99/mermaid-viewer) · [Demo](https://mermaid.sametcc.me/home)                                            |
 | [**instaloader-api**](https://github.com/sametcn99/instaloader-api)                       | A FastAPI-based wrapper around Instaloader that downloads Instagram profile content                    |   Python   |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/instaloader-api)                                                                                     |
-| [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Apr 11, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
+| [**golter**](https://github.com/sametcn99/golter)                                         | TUI file converter built with Go                                                                       |     Go     |     — | Nov 26, 2026 | [Repo](https://github.com/sametcn99/golter) · [Demo](https://golter.vercel.app)                                                          |
 | [**catchapage**](https://github.com/sametcn99/catchapage)                                 | an automated page capture toolkit that crawls a curated list of URLs, renders each page in multiple…   | TypeScript |     — | Jun 18, 2026 | [Repo](https://github.com/sametcn99/catchapage)                                                                                          |
 | [**libredirect-mobile**](https://github.com/sametcn99/libredirect-mobile)                 | LibRedirect Mobile is an Android URL routing app. It intercepts links to services such as YouTube,…    |   Kotlin   |   ★ 4 | Nov 25, 2026 | [Repo](https://github.com/sametcn99/libredirect-mobile)                                                                                  |
 | [**computer-science-resources**](https://github.com/sametcn99/computer-science-resources) | Curated collection of computer science learning resources, coding exercises, practice platforms, an…   | JavaScript |   ★ 1 | Sep 1, 2026  | [Repo](https://github.com/sametcn99/computer-science-resources) · [Demo](https://computer-science-resources.vercel.app)                  |
 | [**gotify-web-extension**](https://github.com/sametcn99/gotify-web-extension)             | A browser extension for monitoring a self-hosted Gotify server and receiving native desktop notific…   | TypeScript |   ★ 2 | Oct 26, 2026 | [Repo](https://github.com/sametcn99/gotify-web-extension)                                                                                |
 | [**tg-bot-studio**](https://github.com/sametcn99/tg-bot-studio)                           | A self-hosted web application for managing multiple Telegram bots and Telegram Mini Apps (TMAs) fro…   | TypeScript |   ★ 3 | Oct 21, 2026 | [Repo](https://github.com/sametcn99/tg-bot-studio)                                                                                       |
-| [**tcptui**](https://github.com/sametcn99/tcptui)                                         | A terminal UI clone of Sysinternals TCPView for Windows, written in Rust with Ratatui.                 |    Rust    |   ★ 1 | Nov 10, 2026 | [Repo](https://github.com/sametcn99/tcptui) · [Demo](https://sametcn99.github.io/tcptui/)                                                |
+| [**tcptui**](https://github.com/sametcn99/tcptui)                                         | Terminal TCP and UDP monitor for Windows, Linux, and macOS. Built in Rust with Ratatui, with a scri…   |    Rust    |   ★ 1 | Nov 26, 2026 | [Repo](https://github.com/sametcn99/tcptui) · [Demo](https://sametcn99.github.io/tcptui/)                                                |
 | [**rcptx**](https://github.com/sametcn99/rcptx)                                           | Smart, asynchronous SMTP reconnaissance &amp; deliverability probing — without sending a single email. |    Rust    |   ★ 1 | Nov 12, 2026 | [Repo](https://github.com/sametcn99/rcptx) · [Demo](https://sametcn99.github.io/rcptx/)                                                  |
 
 ## Latest Writing
@@ -111,8 +111,8 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 | Metric                    | Value                                   |
 | :------------------------ | :-------------------------------------- |
-| **Total Stars Earned**    | 239                                     |
-| **Commits (7d)**          | 100+                                    |
+| **Total Stars Earned**    | 240                                     |
+| **Commits (7d)**          | 90+                                     |
 | **Total Repositories**    | 85                                      |
 | **Active Repositories**   | 75                                      |
 | **Forked Repositories**   | 10                                      |
@@ -125,17 +125,25 @@ I publish notes, guides, and project write-ups about software engineering, tooli
 
 Recent releases across my repositories:
 
-| Release                                                                                                          | Repository                                                            |  Published   | Status |
-| :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------: | :----: |
-| [**v0.1.0**](https://github.com/sametcn99/th0ughts/releases/tag/v0.1.0) — v0.1.0                                 | [th0ughts](https://github.com/sametcn99/th0ughts)                     | Nov 26, 2026 | Stable |
-| [**v1.3.17**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.17) — LibRedirect Mobile v1.3.17 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
-| [**v1.3.16**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.16) — LibRedirect Mobile v1.3.16 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
-| [**v1.3.15**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.15) — LibRedirect Mobile v1.3.15 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 25, 2026 | Stable |
-| [**v1.3.14**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.14) — LibRedirect Mobile v1.3.14 | [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) | Nov 24, 2026 | Stable |
+| Release                                                                                                                    | Repository                                                        |  Published   | Status |
+| :------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :----------: | :----: |
+| [**v1.0.7**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.7) — v1.0.7                                          | [repotruck](https://github.com/sametcn99/repotruck)               | Nov 27, 2026 | Stable |
+| [**v1.0.6**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.6) — v1.0.6                                          | [repotruck](https://github.com/sametcn99/repotruck)               | Nov 26, 2026 | Stable |
+| [**v1.4.0**](https://github.com/sametcn99/tcptui/releases/tag/v1.4.0) — tcptui v1.4.0                                      | [tcptui](https://github.com/sametcn99/tcptui)                     | Nov 26, 2026 | Stable |
+| [**v2026.11.26.195711**](https://github.com/sametcn99/golter/releases/tag/v2026.11.26.195711) — Release v2026.11.26.195711 | [golter](https://github.com/sametcn99/golter)                     | Nov 26, 2026 | Stable |
+| [**1.2.1**](https://github.com/sametcn99/booking-calendar/releases/tag/1.2.1) — Release 1.2.1                              | [booking-calendar](https://github.com/sametcn99/booking-calendar) | Nov 26, 2026 | Stable |
 
 <details>
   <summary>Show 15 more releases...</summary>
 
+- [**v0.2.1**](https://github.com/sametcn99/ArcDrop/releases/tag/v0.2.1) — ArcDrop v0.2.1 in [ArcDrop](https://github.com/sametcn99/ArcDrop) _(Nov 26, 2026)_
+- [**1.2.0**](https://github.com/sametcn99/booking-calendar/releases/tag/1.2.0) — Release 1.2.0 in [booking-calendar](https://github.com/sametcn99/booking-calendar) _(Nov 26, 2026)_
+- [**v0.1.1**](https://github.com/sametcn99/th0ughts/releases/tag/v0.1.1) — v0.1.1 in [th0ughts](https://github.com/sametcn99/th0ughts) _(Nov 26, 2026)_
+- [**v0.1.0**](https://github.com/sametcn99/th0ughts/releases/tag/v0.1.0) — v0.1.0 in [th0ughts](https://github.com/sametcn99/th0ughts) _(Nov 26, 2026)_
+- [**v1.3.17**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.17) — LibRedirect Mobile v1.3.17 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 25, 2026)_
+- [**v1.3.16**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.16) — LibRedirect Mobile v1.3.16 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 25, 2026)_
+- [**v1.3.15**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.15) — LibRedirect Mobile v1.3.15 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 25, 2026)_
+- [**v1.3.14**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.14) — LibRedirect Mobile v1.3.14 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 24, 2026)_
 - [**v1.0.5**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.5) — v1.0.5 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 24, 2026)_
 - [**v0.3.2**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.2) — HTWind v0.3.2 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 23, 2026)_
 - [**v1.0.4**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.4) — v1.0.4 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
@@ -143,14 +151,6 @@ Recent releases across my repositories:
 - [**v1.0.2**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.2) — v1.0.2 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.1**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.1) — v1.0.1 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 21, 2026)_
 - [**v1.0.0**](https://github.com/sametcn99/repotruck/releases/tag/v1.0.0) — v1.0.0 in [repotruck](https://github.com/sametcn99/repotruck) _(Nov 20, 2026)_
-- [**v0.3.1**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.1) — HTWind v0.3.1 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 19, 2026)_
-- [**extension-v0.2.0**](https://github.com/sametcn99/ArcDrop/releases/tag/extension-v0.2.0) — ArcDrop Browser Extension v0.2.0 in [ArcDrop](https://github.com/sametcn99/ArcDrop) _(Nov 18, 2026)_
-- [**v1.3.13**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.13) — LibRedirect Mobile v1.3.13 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 15, 2026)_
-- [**v1.3.12**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.12) — LibRedirect Mobile v1.3.12 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 14, 2026)_
-- [**1.0.13**](https://github.com/sametcn99/env-protector/releases/tag/1.0.13) — 1.0.13 in [env-protector](https://github.com/sametcn99/env-protector) _(Nov 14, 2026)_
-- [**v1.3.11**](https://github.com/sametcn99/libredirect-mobile/releases/tag/v1.3.11) — LibRedirect Mobile v1.3.11 in [libredirect-mobile](https://github.com/sametcn99/libredirect-mobile) _(Nov 13, 2026)_
-- [**v0.3.0**](https://github.com/sametcn99/HTWind/releases/tag/v0.3.0) — HTWind v0.3.0 in [HTWind](https://github.com/sametcn99/HTWind) _(Nov 11, 2026)_
-- [**v0.1.5**](https://github.com/sametcn99/rcptx/releases/tag/v0.1.5) — v0.1.5 in [rcptx](https://github.com/sametcn99/rcptx) _(Nov 10, 2026)_
 
 </details>
 
@@ -160,15 +160,31 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pushes
 
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [feat(android): implement routing and privacy roadmap](https://github.com/sametcn99/libredirect-mobile/commit/6f9c60a80e1a1c042b77b6b70dd0fd868cda7f41)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Capture complete extension flows and start the iOS simulator](https://github.com/sametcn99/ArcDrop/commit/bef5a6e1e046c1cd4ec639c6456175b46762d56a)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Verify screenshot journeys and repair native startup and sessions](https://github.com/sametcn99/ArcDrop/commit/f0bffd2520b09fe0e9536ea86927dbf4cb5b8b99)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [Add on-demand cross-platform screenshot gallery](https://github.com/sametcn99/ArcDrop/commit/7a46b089ca35c9b0f946c83cc16d76bb0ac9cbf9)** _(Nov 24, 2026)_
-- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [ci: explicitly enable Android emulator software CPU mode](https://github.com/sametcn99/libredirect-mobile/commit/50e9cbc07c3d0e9ac68e0d6824a343bfcf74358b)** _(Nov 25, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Publish themes atomically and extend single-file customization across...](https://github.com/sametcn99/th0ughts/commit/860a3137baf2dd2a5b31c6a5ebf7badd28484269)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;feat/standalone-distribution&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [Compare Windows PATH against the expanded temp directory](https://github.com/sametcn99/repotruck/commit/ab6bb38bbaec8919188d98af2914be3ec2326e73)** _(Nov 27, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Use a language dropdown in the application header](https://github.com/sametcn99/th0ughts/commit/9fed9cc1c5155e088d1e7961187aee88134beaa1)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Make the bilingual handbook readable directly on Pages](https://github.com/sametcn99/th0ughts/commit/75503bbf1918ab8f41b16a4a1da45a95e6ed1867)** _(Nov 26, 2026)_
+- **Pushed 1 commit to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [Center the timeline on short posts and inline article previews](https://github.com/sametcn99/th0ughts/commit/79709bc5fb1622b1d9143558a40fdb6d8f484642)** _(Nov 26, 2026)_
 
 <details>
-  <summary>Show 158 more pushes...</summary>
+  <summary>Show 174 more pushes...</summary>
 
+- **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [8ce9d62...cf6565e](https://github.com/sametcn99/th0ughts/compare/8ce9d628e1bc64ecb86dd195880a223cea523311...cf6565ecaeee6ece3d6cb681e41bb03d3648a8fd)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [9fed9cc...82eb8a6](https://github.com/sametcn99/th0ughts/compare/9fed9cc1c5155e088d1e7961187aee88134beaa1...82eb8a6a5511feaedf74d42f80e9a2c8ce83adf9)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [79709bc...31de824](https://github.com/sametcn99/th0ughts/compare/79709bc5fb1622b1d9143558a40fdb6d8f484642...31de82415a6c3ba63c4dc9a96a0d9f60d5645f51)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [75503bb...b52be4c](https://github.com/sametcn99/th0ughts/compare/75503bbf1918ab8f41b16a4a1da45a95e6ed1867...b52be4cdae5054e5971b3a43fc334e9e18d83166)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [d7e327e...b582b95](https://github.com/sametcn99/th0ughts/compare/d7e327eed7b857fd7052ee1a6202ed8782734e53...b582b95b16eb013c61678ac615357255d70cca0b)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [2447e48...8f4fa3c](https://github.com/sametcn99/libredirect-mobile/compare/2447e48a9ee9e4e68a0034125683a43a04c8f154...8f4fa3cc1217873de4f6608e80db96b957066ac1)** _(Nov 25, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [a4df674...9295231](https://github.com/sametcn99/libredirect-mobile/compare/a4df6741adbac1dd1b0a7c10b3db6dfd009a60d7...929523179fbb66dcafe5b3ecd20bc6f29c825479)** _(Nov 25, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [94bddd1...6332ddb](https://github.com/sametcn99/repotruck/compare/94bddd11df219b25fe787a4bd852409fdea567c3...6332ddbd4f36cac76a97d80d8d166f776c8f696d)** _(Nov 26, 2026)_
+- **Pushed to &#x60;feat/gist-support&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck): [236bf1f...aaf738b](https://github.com/sametcn99/repotruck/compare/236bf1f1878c50171ca636678eec8e884237fdc7...aaf738b31dafbdbc8911abca4ea003384ca9a4a3)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [faa7635...2447e48](https://github.com/sametcn99/libredirect-mobile/compare/faa7635a3f6a6d8a6cb45aaad29bc75f36e18e3d...2447e48a9ee9e4e68a0034125683a43a04c8f154)** _(Nov 25, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts): [cf6565e...c0cd7ba](https://github.com/sametcn99/th0ughts/compare/cf6565ecaeee6ece3d6cb681e41bb03d3648a8fd...c0cd7ba13031e05c193c24e96f0cf77de66e7d31)** _(Nov 26, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [7fe45a5...6f9c60a](https://github.com/sametcn99/libredirect-mobile/compare/7fe45a54b12af9041fe117db36f79ba1d8d57755...6f9c60a80e1a1c042b77b6b70dd0fd868cda7f41)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [f0bffd2...bef5a6e](https://github.com/sametcn99/ArcDrop/compare/f0bffd2520b09fe0e9536ea86927dbf4cb5b8b99...bef5a6e1e046c1cd4ec639c6456175b46762d56a)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [7a46b08...f0bffd2](https://github.com/sametcn99/ArcDrop/compare/7a46b089ca35c9b0f946c83cc16d76bb0ac9cbf9...f0bffd2520b09fe0e9536ea86927dbf4cb5b8b99)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/ArcDrop](https://github.com/sametcn99/ArcDrop): [a0cc9dc...7a46b08](https://github.com/sametcn99/ArcDrop/compare/a0cc9dc091fb94fb7d6d940a2211d832fc639730...7a46b089ca35c9b0f946c83cc16d76bb0ac9cbf9)** _(Nov 24, 2026)_
+- **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [9295231...50e9cbc](https://github.com/sametcn99/libredirect-mobile/compare/929523179fbb66dcafe5b3ecd20bc6f29c825479...50e9cbc07c3d0e9ac68e0d6824a343bfcf74358b)** _(Nov 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [e71a093...a4df674](https://github.com/sametcn99/libredirect-mobile/compare/e71a09300193c4bea59bdc7ab03da6cc7a672a7e...a4df6741adbac1dd1b0a7c10b3db6dfd009a60d7)** _(Nov 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [20a0602...e71a093](https://github.com/sametcn99/libredirect-mobile/compare/20a0602dc1514d8288d3225652bca61b3df16e52...e71a09300193c4bea59bdc7ab03da6cc7a672a7e)** _(Nov 25, 2026)_
 - **Pushed to &#x60;main&#x60; in [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile): [6f9c60a...5e77b16](https://github.com/sametcn99/libredirect-mobile/compare/6f9c60a80e1a1c042b77b6b70dd0fd868cda7f41...5e77b168138d14fbdb20ee5eddd61978bf58eebb)** _(Nov 24, 2026)_
@@ -332,20 +348,28 @@ Recent public activity across pull requests, discussions, releases, and other op
 
 ### Pull Requests
 
-- **Merged pull request [#22: test(cache): wait for the completed atomic cache replacement](https://github.com/sametcn99/repotruck/pull/22) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Opened pull request [#22: test(cache): wait for the completed atomic cache replacement](https://github.com/sametcn99/repotruck/pull/22) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Merged pull request [#21: test(tui): await page writes before cleaning acceptance fixtures](https://github.com/sametcn99/repotruck/pull/21) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Opened pull request [#21: test(tui): await page writes before cleaning acceptance fixtures](https://github.com/sametcn99/repotruck/pull/21) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Merged pull request [#19: Harden workspace workflows and deepen CLI/TUI acceptance coverage](https://github.com/sametcn99/repotruck/pull/19) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Merged pull request [#24: Ship standalone installers and release archives](https://github.com/sametcn99/repotruck/pull/24) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 27, 2026)_
+- **Opened pull request [#24: Ship standalone installers and release archives](https://github.com/sametcn99/repotruck/pull/24) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 27, 2026)_
+- **Merged pull request [#23: Add GitHub Gist management for v1.0.6](https://github.com/sametcn99/repotruck/pull/23) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 26, 2026)_
+- **Opened pull request [#23: Add GitHub Gist management for v1.0.6](https://github.com/sametcn99/repotruck/pull/23) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 26, 2026)_
+- **Merged pull request [#13: Keep tags tappable on short calendar events](https://github.com/sametcn99/booking-calendar/pull/13) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Nov 26, 2026)_
 
 <details>
-  <summary>Show 20 more pull requests...</summary>
+  <summary>Show 28 more pull requests...</summary>
 
-- **Opened pull request [#19: Harden workspace workflows and deepen CLI/TUI acceptance coverage](https://github.com/sametcn99/repotruck/pull/19) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Closed pull request [#1024: Improve responsive UI shell behavior](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
-- **Merged pull request [#15: feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log...](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Closed pull request [#18: probe: bisect 3bbf544](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
-- **Opened pull request [#18: probe: bisect 3bbf544](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Opened pull request [#13: Keep tags tappable on short calendar events](https://github.com/sametcn99/booking-calendar/pull/13) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Nov 26, 2026)_
+- **Merged pull request [#12: Add personal tags to Events, Planner, and Appointments](https://github.com/sametcn99/booking-calendar/pull/12) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Nov 26, 2026)_
+- **Opened pull request [#12: Add personal tags to Events, Planner, and Appointments](https://github.com/sametcn99/booking-calendar/pull/12) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Nov 26, 2026)_
+- **Merged pull request [#22: test(cache): wait for the completed atomic cache replacement](https://github.com/sametcn99/repotruck/pull/22) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Opened pull request [#22: test(cache): wait for the completed atomic cache replacement](https://github.com/sametcn99/repotruck/pull/22) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Merged pull request [#21](https://github.com/sametcn99/repotruck/pull/21) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Opened pull request [#21](https://github.com/sametcn99/repotruck/pull/21) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Merged pull request [#19](https://github.com/sametcn99/repotruck/pull/19) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Opened pull request [#19](https://github.com/sametcn99/repotruck/pull/19) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Closed pull request [#1024](https://github.com/gotify/server/pull/1024) in [gotify/server](https://github.com/gotify/server)** _(Sep 4, 2026)_
+- **Merged pull request [#15](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Closed pull request [#18](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
+- **Opened pull request [#18](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#17](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Opened pull request [#17](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
 - **Closed pull request [#16](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 20, 2026)_
@@ -390,7 +414,7 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [lin-snow/Ech0](https://github.com/lin-snow/Ech0)** _(Nov 26, 2026)_
 
 <details>
-  <summary>Show 55 more starred repositories...</summary>
+  <summary>Show 29 more starred repositories...</summary>
 
 - **Starred [Extenshi-io/extenshi-io](https://github.com/Extenshi-io/extenshi-io)** _(Nov 25, 2026)_
 - **Starred [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
@@ -421,46 +445,22 @@ Recent public activity across pull requests, discussions, releases, and other op
 - **Starred [libracoder/kiri](https://github.com/libracoder/kiri)** _(Nov 6, 2026)_
 - **Starred [Milvasoft/kabuk](https://github.com/Milvasoft/kabuk)** _(Nov 3, 2026)_
 - **Starred [php/php-src](https://github.com/php/php-src)** _(Nov 2, 2026)_
-- **Starred [sametcn99/ResumeBuilder](https://github.com/sametcn99/ResumeBuilder)** _(Oct 27, 2026)_
-- **Starred [sametcn99/markdown-file-renamer-web-app](https://github.com/sametcn99/markdown-file-renamer-web-app)** _(Oct 27, 2026)_
-- **Starred [sametcn99/clone-all-gists](https://github.com/sametcn99/clone-all-gists)** _(Oct 27, 2026)_
-- **Starred [sametcn99/env-protector](https://github.com/sametcn99/env-protector)** _(Oct 27, 2026)_
-- **Starred [sametcn99/nextui-blog-template](https://github.com/sametcn99/nextui-blog-template)** _(Oct 27, 2026)_
-- **Starred [sametcn99/github-profile-viewer](https://github.com/sametcn99/github-profile-viewer)** _(Oct 27, 2026)_
-- **Starred [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets)** _(Oct 27, 2026)_
-- **Starred [sametcn99/mermaid-viewer](https://github.com/sametcn99/mermaid-viewer)** _(Oct 27, 2026)_
-- **Starred [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Oct 27, 2026)_
-- **Starred [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Oct 27, 2026)_
-- **Starred [sametcn99/gh-block-spam-accounts](https://github.com/sametcn99/gh-block-spam-accounts)** _(Oct 27, 2026)_
-- **Starred [sametcn99/linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Oct 27, 2026)_
-- **Starred [sametcn99/playwright-artifact-explorer](https://github.com/sametcn99/playwright-artifact-explorer)** _(Oct 27, 2026)_
-- **Starred [sametcn99/html-to-visual](https://github.com/sametcn99/html-to-visual)** _(Oct 27, 2026)_
-- **Starred [sametcn99/gotify-web-extension](https://github.com/sametcn99/gotify-web-extension)** _(Oct 27, 2026)_
-- **Starred [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Oct 27, 2026)_
-- **Starred [sametcn99/vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Oct 27, 2026)_
-- **Starred [sametcn99/tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Oct 27, 2026)_
-- **Starred [sametcn99/my-stars-atlas](https://github.com/sametcn99/my-stars-atlas)** _(Oct 27, 2026)_
-- **Starred [sametcn99/computer-science-resources](https://github.com/sametcn99/computer-science-resources)** _(Oct 27, 2026)_
-- **Starred [sametcn99/libredirect-instances-list](https://github.com/sametcn99/libredirect-instances-list)** _(Oct 27, 2026)_
-- **Starred [sametcn99/libredirect-mobile](https://github.com/sametcn99/libredirect-mobile)** _(Oct 27, 2026)_
-- **Starred [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI)** _(Oct 27, 2026)_
-- **Starred [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)** _(Oct 27, 2026)_
-- **Starred [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker)** _(Oct 27, 2026)_
-- **Starred [orkunisitmak/banana-studio](https://github.com/orkunisitmak/banana-studio)** _(Oct 27, 2026)_
 
 </details>
 
 ### Other Activity
 
+- **Created branch &#x60;feat/cross-platform&#x60; in [sametcn99/tcptui](https://github.com/sametcn99/tcptui)** _(Nov 26, 2026)_
+- **Closed issue [#6](https://github.com/sametcn99/booking-calendar/issues/6) in [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar)** _(Nov 26, 2026)_
 - **Public in [sametcn99/th0ughts](https://github.com/sametcn99/th0ughts)** _(Nov 26, 2026)_
 - **Opened issue [#64](https://github.com/mobilenetworkltd/openapk/issues/64) in [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk)** _(Nov 25, 2026)_
 - **Created branch &#x60;fix/acceptance-async-boundaries-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Created branch &#x60;fix/complete-artifact-acceptance-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
-- **Created branch &#x60;fix/cache-persistence-await-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 
 <details>
-  <summary>Show 25 more other activity...</summary>
+  <summary>Show 27 more other activity...</summary>
 
+- **Created branch &#x60;fix/complete-artifact-acceptance-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
+- **Created branch &#x60;fix/cache-persistence-await-20261124&#x60; in [sametcn99/repotruck](https://github.com/sametcn99/repotruck)** _(Nov 24, 2026)_
 - **Created branch &#x60;fix/issue-9-launcher-widget-removal&#x60; in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#8](https://github.com/sametcn99/HTWind/issues/8) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
 - **Closed issue [#9](https://github.com/sametcn99/HTWind/issues/9) in [sametcn99/HTWind](https://github.com/sametcn99/HTWind)** _(Nov 23, 2026)_
@@ -497,22 +497,25 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 | Issue                                                                                                                        | Repository                                                                  |       Updated        |
 | :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------: |
-| [**add/remove tags on Events, Planner entries &amp; Appointments**](https://github.com/sametcn99/booking-calendar/issues/6)  | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | Updated Feb 22, 2026 |
 | [**bug: Widget position resets to (0,0) on Linux after drag/drop**](https://github.com/sametcn99/electron-widgets/issues/33) | [sametcn99/electron-widgets](https://github.com/sametcn99/electron-widgets) | Updated Oct 23, 2025 |
 
 ### Pull Requests
 
-| Pull Request                                                                                                                            | Repository                                                    | Status |       Updated        |
-| :-------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :----: | :------------------: |
-| [**test(cache): wait for the completed atomic cache replacement**](https://github.com/sametcn99/repotruck/pull/22)                      | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 24, 2026 |
-| [**test(tui): await page writes before cleaning acceptance fixtures**](https://github.com/sametcn99/repotruck/pull/21)                  | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 24, 2026 |
-| [**Harden workspace workflows and deepen CLI/TUI acceptance coverage**](https://github.com/sametcn99/repotruck/pull/19)                 | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 24, 2026 |
-| [**feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log view (1.0.0)**](https://github.com/sametcn99/repotruck/pull/15) | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | merged | Updated Nov 21, 2026 |
-| [**probe: bisect 3bbf544**](https://github.com/sametcn99/repotruck/pull/18)                                                             | [sametcn99/repotruck](https://github.com/sametcn99/repotruck) | closed | Updated Nov 20, 2026 |
+| Pull Request                                                                                                        | Repository                                                                  | Status |       Updated        |
+| :------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :----: | :------------------: |
+| [**Ship standalone installers and release archives**](https://github.com/sametcn99/repotruck/pull/24)               | [sametcn99/repotruck](https://github.com/sametcn99/repotruck)               | merged | Updated Nov 27, 2026 |
+| [**Add GitHub Gist management for v1.0.6**](https://github.com/sametcn99/repotruck/pull/23)                         | [sametcn99/repotruck](https://github.com/sametcn99/repotruck)               | merged | Updated Nov 26, 2026 |
+| [**Keep tags tappable on short calendar events**](https://github.com/sametcn99/booking-calendar/pull/13)            | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | merged | Updated Nov 26, 2026 |
+| [**Add personal tags to Events, Planner, and Appointments**](https://github.com/sametcn99/booking-calendar/pull/12) | [sametcn99/booking-calendar](https://github.com/sametcn99/booking-calendar) | merged | Updated Nov 26, 2026 |
+| [**test(cache): wait for the completed atomic cache replacement**](https://github.com/sametcn99/repotruck/pull/22)  | [sametcn99/repotruck](https://github.com/sametcn99/repotruck)               | merged | Updated Nov 24, 2026 |
 
 <details>
-  <summary>Show 34 more pull requests...</summary>
+  <summary>Show 38 more pull requests...</summary>
 
+- [**test(tui): await page writes before cleaning acceptance fixtures**](https://github.com/sametcn99/repotruck/pull/21) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(merged, Updated Nov 24, 2026)_
+- [**Harden workspace workflows and deepen CLI/TUI acceptance coverage**](https://github.com/sametcn99/repotruck/pull/19) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(merged, Updated Nov 24, 2026)_
+- [**feat(tui): TUI v2 — full CLI parity surface, toasts, diagnostics Log view (1.0.0)**](https://github.com/sametcn99/repotruck/pull/15) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(merged, Updated Nov 21, 2026)_
+- [**probe: bisect 3bbf544**](https://github.com/sametcn99/repotruck/pull/18) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(closed, Updated Nov 20, 2026)_
 - [**probe: bisect 41d0b91**](https://github.com/sametcn99/repotruck/pull/17) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(closed, Updated Nov 20, 2026)_
 - [**chore: CI health probe (no functional change)**](https://github.com/sametcn99/repotruck/pull/16) in [sametcn99/repotruck](https://github.com/sametcn99/repotruck) _(closed, Updated Nov 20, 2026)_
 - [**fix: preserve Source Control diff view for env files**](https://github.com/sametcn99/env-protector/pull/9) in [sametcn99/env-protector](https://github.com/sametcn99/env-protector) _(closed, Updated Nov 14, 2026)_
@@ -584,7 +587,7 @@ Open issues and pull requests that I am currently tracking or planning to work o
 
 - **[@shirokuma-xv](https://github.com/shirokuma-xv)** starred **[env-protector](https://github.com/sametcn99/env-protector)** _(Nov 17, 2026)_
 - **[@anvarmehrani](https://github.com/anvarmehrani)** starred **[linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Nov 15, 2026)_
-- **[@Hill-TreX](https://github.com/Hill-TreX)** starred **[tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Nov 15, 2026)_
+- **[@Hill-TreX](https://github.com/Hill-TreX)** starred **[tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Nov 14, 2026)_
 - **[@aviangray](https://github.com/aviangray)** starred **[linkedin-hide-viewed-jobs](https://github.com/sametcn99/linkedin-hide-viewed-jobs)** _(Nov 14, 2026)_
 - **[@The-LukeZ](https://github.com/The-LukeZ)** starred **[env-protector](https://github.com/sametcn99/env-protector)** _(Nov 14, 2026)_
 - **[@eleanorbowley3-art](https://github.com/eleanorbowley3-art)** starred **[reddit-rss-api](https://github.com/sametcn99/reddit-rss-api)** _(Nov 13, 2026)_
@@ -595,8 +598,8 @@ Open issues and pull requests that I am currently tracking or planning to work o
 - **[@rezamahrm100-ops](https://github.com/rezamahrm100-ops)** forked **[tg-bot-studio](https://github.com/sametcn99/tg-bot-studio)** _(Nov 9, 2026)_
 - **[@PawelBalcerek](https://github.com/PawelBalcerek)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 6, 2026)_
 - **[@nikescar](https://github.com/nikescar)** starred **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 4, 2026)_
-- **[@YarikMix](https://github.com/YarikMix)** forked **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 2, 2026)_
-- **[@Cringe-Driven-Development-Team](https://github.com/Cringe-Driven-Development-Team)** forked **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 2, 2026)_
+- **[@YarikMix](https://github.com/YarikMix)** forked **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 1, 2026)_
+- **[@Cringe-Driven-Development-Team](https://github.com/Cringe-Driven-Development-Team)** forked **[vitepress-mermaid-renderer](https://github.com/sametcn99/vitepress-mermaid-renderer)** _(Nov 1, 2026)_
 
 </details>
 
